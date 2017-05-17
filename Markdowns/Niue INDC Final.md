@@ -1,0 +1,707 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
+
+ 
+
+ 
+
+NIUE 
+
+Intended Nationally Determined Contributions 
+
+_______________________________________________________ 
+
+Key messages  
+
+Niue's future is imperilled by the effects of climate change for which it bears absolutely no responsibility. 
+Niue faces severe events and slow onset events from changes to the climate system caused by others.  
+
+Niue believes that loss and damage must be addressed in a sustainable and consistent manner to highlight 
+its  significance  and  relevance  in  climate  change,  especially  in  developing  countries.  It  is  beyond  Niue's 
+national measures to address loss and damage alone from climate change. Building on the Alliance of Small 
+Island States (AOSIS) position, Niue is calling for loss and damage to be included as a separate element of 
+the 2015 Paris Agreement, an element that should be distinct from adaptation. 
+
+Against a high climate risk backdrop, the objective of Niue's National Strategic Plan is to build a sustainable 
+future that meets our economic and social needs while preserving environmental integrity, social stability, 
+and  the  Niue  culture.  Much  of  the  time  and  capacity  of  our  small  public  service  is  put  to  devise  and 
+implement  plans  to  build  climate  resilience  and  enhance  our  disaster  preparedness.  Donor  support  is 
+critical to these efforts. 
+ 
+While Niue's contribution to global greenhouse gas emissions is negligible (less than 0.0001%), and Niue is 
+a net sink given the growth of our forests, nevertheless we are taking steps to reduce our emissions, in 
+particular in the energy sector. The Niue Strategic Energy Road Map (NiSERM) 2015-2025 outlines Niue's 
+aspiration to meet 80% of its electricity needs from renewable energy sources by 2025, which would in 
+turn reduce the country's high reliance on imported fossil fuel. Part of this goal can be achieved through 
+national resources and identified assistance, but achieving such high levels of electricity from renewables 
+(from around 2% today) is very ambitious and will need considerable contributions of financial and capacity 
+support from our partners. 
+ 
+
+Section 1: Introduction 
+Niue has the distinction of being among the world's least populated nation states and with a future that is 
+imperilled by the effects of climate change for which it bears absolutely no responsibility. In January 2004 
+the capital of Niue was destroyed by the category 5 Cyclone Heta. Niue knows the effects of severe events. 
+It is also seeing the impacts of slow onset events as its underground freshwater lens faces contamination 
+from rising sea levels. 
+ 
+Niue is a small Pacific Island Country (PIC) located partway between Tonga, Samoa and the Cook Islands. 
+The island is approximately 259 km² with an Exclusive Economic Zone (EEZ) of 300,000km² and is reputedly 
+one of the world's largest elevated coral atolls. The average height above sea-level is 23 metres and highest 
+point less than 70m.  
+Niue is vulnerable to climate risks such as tropical cyclones  (TCs) and droughts; geological risks such as 
+earthquakes and tsunami; and human-caused risks such as disease outbreaks and contamination of its only 
+fresh water supply. Niue's risk profile is also inherently linked to its isolation and limited capacity to manage 
+and respond to disasters and climate change impacts. Traditional coping strategies have tended to make 
+
+way for an increased reliance on external support, as New Zealand fulfils its obligations to provide support 
+to Niue in times of disaster.  
+ 
+Niue has no surface water and relies upon groundwater resources and rain catchments. Groundwater is 
+recharged  via  rainfall  infiltration  and  rainfall  currently  exceeds  the  rate  of  extraction.  However,  Niue's 
+porous soil renders its underground fresh water vulnerable to contamination, from both human causes 
+(e.g. agricultural chemicals) and natural sources (e.g. sea water). Agriculture is predominantly focused on 
+subsistence production, principally of root crops. The combination of relatively poor soils and dependence 
+on rainfall makes agricultural production highly sensitive to changes in rainfall frequency and amount. 
+ 
+Niue has a population of approximately 1500 (2013 census) spread across 14 villages. Large scale outward 
+migration, usually from younger age groups, has occurred since 1971, predominantly to New Zealand for 
+education,  employment  opportunities  and  family  ties,  as  well  as  perceived  higher  standards  of  living 
+abroad. As a result, there are over 20,000 people identifying themselves as Niuean that live in New Zealand. 
+ 
+Niue's economy is heavily dependent on support from New Zealand, which has a statutory obligation to 
+provide  economic  and administrative  assistance  to  Niue.  Aid  accounts  for  70%  of  Niue's GDP,  which  is 
+NZ$10,000 per capita. Other sources of financial resources include taxation, government trading activities, 
+sovereign assets and additional support from development partners. Low population, scarcity of natural 
+resources, isolation and high costs of transportation lead to Niue's economy being far from self-sufficient. 
+ 
+Climate change will exacerbate the already vulnerable situation in Niue outlined above. The most recent 
+report  from  the  Pacific-Australia  Climate  Change  Science  and  Adaptation  Planning  Program  (PACCSAP) 
+provides the following future projections to 2100 for Niue: 
+
+*  El Niño and La Niña events will continue to occur in the future (very high confidence), but there is 
+
+little consensus on whether these events will change in intensity or frequency; 
+
+*  Annual mean temperatures and extremely high daily temperatures will continue to rise (very high 
+
+confidence); 
+
+*  Mean annual rainfall could increase or decrease with the model average indicating little change 
+
+(low confidence in this model average), with more extreme rain events (high confidence); 
+
+*  The proportion of time in drought is projected to increase or decrease in line with average rainfall 
+
+(low confidence); 
+
+*  Ocean acidification is expected to continue (very high confidence);  
+
+*  The risk of coral bleaching will increase in the future (very high confidence); 
+
+* 
+
+Sea level will continue to rise (very high confidence); and  
+
+*  Wave  heights  may  decrease  in  December-March  (low  confidence),  with  no  significant  changes 
+
+projected in June-September waves (low confidence). 
+
+ 
+In  particular,  climate  change  impacts  are  likely  to  further  exasperate  both  freshwater  lens  and  coastal 
+water quality issues for Niue. For these reasons, protecting and enhancing natural resources, adequate 
+sanitation and wastewater treatment are among the government's main priorities. 
+The risks climate change poses to Niue are therefore highly significant, and the ability of Niue to effectively 
+respond  to  minimise  or  avoid  these  risks  is  minimal.    Niue  therefore  must  rely  on  the  international 
+community  to  avoid  the  dangers  of  climate  change.    This  requires  significant  reductions  in  global 
+greenhouse gas emissions so that climate is stabilised to allow Niue's natural and social systems to adapt, 
+and partnerships are developed between Niue and more developed nations to implement effective and 
+efficient adaptation responses.   
+ 
+
+Section 2: National Response 
+The draft Niue National Strategic Plan (2014-2019) has a vision of Niue ke Monuina - A Prosperous Niue. 
+The objective is to build a sustainable future that meets our economic and social needs while preserving 
+environmental integrity, social stability, and the Niue culture. 
+ 
+The  achievement  of  Niue  ke  Monuina is  supported by  seven  national  development  pillars  and  specific  
+strategies  under  each  of  those  pillars.  Progress of the journey to prosperity is measured by targets and 
+indicators corresponding to each of the pillars.  
+
+1.  Financial Stability - Ensure that sufficient financial resources are secured, and responsible fiscal 
+
+management is prudent, sustainable and supports healthy development strategies; 
+
+2.  Governance  -  Ensure  that  good  governance  reflects  the  principles  of  transparency  and 
+
+accountability and is practised at all levels; 
+
+3.  Economic Development and Maintain Crucial Infrastructure  - support families, public services, 
+and  the  private  sector  through  tourism  development  with  a    safe,  reliable,  affordable  healthy 
+infrastructure; 
+
+4.  Social - Enjoy a harmonious and healthy lifestyle in a thriving, educated and safe community that 
+
+has access to a wide range of quality social services and healthy development opportunities; 
+
+5.  Environment - Sustainable use and management of Niue's natural resources and environment for 
+
+present and future generations; 
+
+6.  Tāoga Niue - Promote, preserve and strengthen Niuean cultural heritage, language, values and 
+
+identity; 
+
+7.  Private Sector Development - Be a prosperous and skilled island nation underpinned by a thriving 
+
+and entrepreneurial private sector. 
+
+ 
+While building resilience to climate change is not explicitly mentioned it is an integral part of Pillar 5, and 
+is of fundamental importance to all seven national development pillars. 
+ 
+
+Section 3: Approach to Building Resilience to Climate Change 
+Within  the  context  of  the  draft  NNSP  2014-2019  the  key  guiding  documents  for  building  resilience  to 
+climate change in Niue are the National Climate Change Policy (2009) and Niue's Joint National Action Plan 
+(JNAP) for Disaster Risk Management and Climate Change Adaptation (2012). 
+
+The Vision of the National Climate Change Policy is for a "Safer, More Resilient Niue to Impacts of Climate 
+Change and Towards Achieving Sustainable Livelihood". The Policy Goal is "To promote understanding of 
+and formulate appropriate responses to the causes and effects of climate change in support of national 
+sustainable development objectives." 
+ 
+To attain this Policy Goal the following objectives have been identified along with associated Strategies: 
+
+1.  Awareness Raising - To promote public awareness and improve stakeholder understanding of the 
+causes  and  effects  of  climate  change  and  climate  variability  and  as  well  as  on  vulnerability, 
+adaptation and mitigation responses; 
+
+2.  Data  Collection,  Storage,  Sharing,  and  Application  -  To  improve  and  strengthen  the  collection, 
+storage, management and application of climate data, including greenhouse gases and emissions, 
+to monitor climate change patterns and its effects; 
+
+3.  Adaptation - To develop effective adaptation responses and enhance adaptive capacity in order 
+to protect livelihoods, natural resources and assets, and vulnerable areas to the impacts of climate 
+change to all sectors; 
+
+4.  Mitigation  -  To  mitigate  the  causes  of  climate  change  and  implement  effective  mitigation 
+
+measures to reduce greenhouse gas emissions; 
+
+5.  Governance  and  Mainstreaming  -  To  mainstream  climate  change 
+
+into  national 
+development; and ii) establish an effective regulatory and institutional framework to facilitate the 
+development and implementation of national responses to climate change; 
+
+issues 
+
+6.  Regional and International Cooperation - To ensure Niue obtains maximum benefits from relevant 
+international  and  regional  instruments  relating  to  climate  change  and  that  it  meets  its 
+commitments under them. 
+
+ 
+In its commitment to building resilience, Niue has developed the Niue Joint National Action Plan (JNAP). 
+The JNAP strongly recognises the links between disaster risk management and climate change action, and 
+thus  aims  to  operationalise the  Climate  Change  Policy  and  vulnerabilities  identified in  the  draft  Second 
+National  Communication  (SNC).  The  JNAP  also  fulfils  meeting  the  task  of  operationalising  the  Coastal 
+Development Policy. 
+ 
+The JNAP has the following goals: 
+
+Goal 1 - Strong and effective institutional basis for disaster risk reduction / climate change adaptation; 
+
+Goal 2 - Strong public awareness and improved understanding of the causes and effects of climate change, 
+climate variability and disasters; 
+
+Goal 3 - Strengthened livelihoods, community resilience, natural resources and assets; 
+
+Goal 4 - Strengthened capacity to adapt renewable energy technologies, improve energy efficiency and 
+energy security; 
+Goal 5 - Strengthened disaster preparedness for effective response. 
+ 
+Achievement of these Goals is through specific objectives and actions associated with these, which are fully 
+costed for donor support. 
+ 
+Revision of  the  Climate  Change  Policy  and  JNAP will  likely  be required  both before  and post 2020 with 
+costing of further identified activities for donor funding towards building a resilient Niue.  
+
+Section 4: Sector Policies and Plans 
+In addition to the NNSP and the Climate Change Policy there have been a number of recent policies which 
+have integrated climate change considerations into the decision making process.  These include the Forest 
+Policy,  the  Niue  National  Energy  Policy,  and  the  Ecosystems  Approach  to  Fisheries  Management. 
+Furthermore, a number of Government departments have incorporated climate change policies into their 
+corporate plans, for example the Agriculture Sector Plan. 
+
+ 
+
+Other priority sectors for integration of climate change considerations into policies and plans include: 
+
+*  Water Resource management 
+
+* 
+
+Food security 
+
+*  Climate Change Adaptation & Health Plan developed in 2013 by the Niue Health Department with 
+
+donor partners 
+
+*  Waste & sanitation management strategy for general, liquid and organic wastes 
+
+*  Building Code Review, update, including development of national standards 
+
+ 
+
+Donor funding will be required to support development of relevant sector policies and plans, all of which 
+will need to be developed, implemented & monitored to ensure full alignment with the goal of achieving 
+climate resilience. All sector plans will also need to incorporate measureable indicators to align with the 
+NNSP, and will need to be fully costed for donor funding.  
+ 
+By 2020, new sector plans will be required that are all fully costed for donor funding. 
+
+Section 5: Mitigation context 
+Niue is one of the world's least populated countries with low per capita emission of greenhouse gases. This 
+means that Niue's contribution to this global problem is small, accounting for less than 0.0001% of global 
+greenhouse gas emissions.  Removals from Niue's forests outweigh its emissions many times over. As such, 
+Niue is a net carbon sink, removing in the order of 139Gg CO2-e from the atmosphere each year.  
+
+However, Niue recognises there may be considerable scope through technological and behavioural means 
+to lower its emissions this further, congruent with Niue's ambition to be a globally responsible citizen. It is 
+anticipated  that  mitigating  greenhouse  gas  emissions  can have  substantial  collateral  benefits  including: 
+decreased  national  expenditure  associated  with  the  escalating  costs  of  importing  fossil  fuels;  improved 
+energy security; improved local air quality; support for Niue as an eco-tourism destination and encouraging 
+sustainable development in the Pacific region. 
+
+Efforts to reduce GHG emissions are complementary to Niue's focus on its vision to ‘build a sustainable 
+future that meets our economic and social needs while preserving environmental integrity, social stability, 
+and the Niue culture'. 
+
+The sectoral breakdown of Niue's GHG emissions from the forthcoming Second National Communication 
+(2009 data, excluding waste) shows that the vast majority of Niue's emissions come from the energy sector. 
+As  shown  in  Figure  1  below,  transport  contributes  the  bulk  of  energy  sector  emissions  at  57%,  and 
+electricity generation the remainder, at 42%. The focus of GHG mitigation efforts for Niue is thus firmly on 
+transport and electricity generation. 
+
+Figure 1: Breakdown of Niue energy sector GHG emissions (2009, Second National Communication) 
+
+Residential
+
+1%
+
+Transport
+
+57%
+
+Electricity 
+generation
+
+42%
+
+ 
+
+ 
+
+ 
+
+In 2015, Niue has a 100% electricity penetration rate and total electricity demand is fairly stable, having 
+recorded only 3% growth from 2008 to 2012.  However Niue is 96% dependent on imported fuel for power 
+generation and 100% dependent on imported fuel for land, sea and air transportation.  
+
+Electricity generation  
+
+Reliable, affordable, secure and sustainable energy supply is key to achieving prosperity for all Niueans.  In 
+light of Niue's vulnerability on imported oil, the Niue Strategic Energy Road Map (NiSERM) 2015 - 2025 
+was developed, with the goal of "a sustainable energy sector for a Prosperous Niue". The NiSERM builds 
+on the 2005 Niue Energy Policy (NEP) and the Niue National Strategic Plan (NNSP) 2014 - 2019, to pursue 
+five key motivations identified by stakeholders: 
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Reduced dependence on fossil fuels 
+Improved energy efficiency 
+More sustainable, cleaner energy 
+Improved cost-effectiveness of energy services 
+Attract funding for energy sector development 
+
+Niue is committed to transitioning the electricity sector from fossil fuel to renewable energy.  The NiSERM 
+outlines Niue's aspiration to meet 80% of its electricity needs from renewable energy sources by 2025, 
+which would in turn reduce the country's high reliance on imported fossil fuel. This aspiration underpins 
+Niue's contribution in this INDC, outlined in Section 6. 
+
+The period 2000-2009 saw progress on greenhouse gas emission mitigation in the form of the installation 
+of solar hot water heating, public education campaigns, increased grid penetration and distributed use of 
+renewable technologies, and the promotion of using low emission fuel sources and financial support for 
+the uptake of more efficient appliances. 
+
+However,  Niue  faces  difficulties  in  mitigating  climate  change  for  two  primary  reasons.  First,  Niue  lacks 
+environmental base data which would be able to support climate related decision-making.  Second, Niue 
+lacks the capacity to monitor and evaluate energy supply initiatives.  Without this support there is no way 
+to evaluate the cost or emission reduction effectiveness of programmes and take an adaptive management 
+approach. 
+
+Recent installations of solar PV, identified as the most feasible renewable energy source for Niue, have 
+seen grid stability issues arising that is inhibiting additional solar grid connections. The power sector in Niue 
+urgently requires technical assistance to address this issue.  
+
+There  are  further  issues  in  establishing  a  renewable  industry  in  Niue.  These  are  the  high  degree  of 
+subsidisation of electricity prices, a small market, high capital costs and lack of technological knowledge 
+within the utility.  
+
+Transport 
+
+The  majority  of  fuel  use  is  for  land  transport  and  the  other  major  fuel  user  is  the  airline  industry.    As 
+international regulations limit scope for national interventions, Niue is focusing mitigation efforts on land 
+transport.   
+
+There  is  no  public  transport  system  in  Niue  and  therefore  private  vehicles  are  the  primary  mode  of 
+transport.  There  is  currently  no  regulation  that  restricts  the  type  of  vehicles  allowed  into  the  country, 
+however in 2011 Customs regulations were amended to encourage the import of fuel-efficient vehicles 
+into Niue, and targets have been set under the NiSERM to deploy more fuel efficient vehicles. 
+
+Efforts  are  hampered  by  the  limited  availability  of  technological  solutions  for  the  transport  sector. 
+However, this may be changing with the emergence of electrical vehicles, that could serve to be a resource 
+for electricity grid stability and a means of reducing oil dependence, providing solar charging as part of the 
+path  to  a  100%  renewable  electricity  grid.  The  Government  welcomes  international  assistance  in  the 
+development of opportunities for deep emissions cuts in the transport sector.  
+
+Land Use Change and Forestry  
+
+As  mentioned, Niue  is  a  net  sink  of  greenhouse  gases.  It  is  important  that  the  capacity  of  removals  of 
+greenhouse  gases  by  AFOLU  be  maintained,  if  not  enhanced.    Currently,  forestry  activity  is  low  and 
+population decline has resulted in significant conversion of cropland to secondary rainforest.  Removals 
+can  be  assumed  to  be  highly  sensitive  to  future  population  increases,  residential  infrastructure 
+replacement after cyclones or commercial forestry resumption.  The Government of Niue is concluding a 
+National Forest Policy to provide strategic direction for the island's forest areas. 
+
+Section 6: Mitigation contribution 
+COUNTRY: Niue 
+
+DATE: November 2015 
+
+Parameter 
+
+Period for defining 
+contribution (outcomes) 
+
+Information 
+
+2020, 2025 
+
+Type and level of 
+contribution 
+
+Estimated quantified 
+emissions impact 
+
+Coverage 
+
+Sectors 
+
+In line with Niue's resilience approach to reduce dependence on imported fossil 
+fuels,  Niue  will  achieve  a  38%  share  of  renewable  energy  of  total  electricity 
+generation  by  2020.  (In  2014  the  renewable  energy  share  was  2%  and  this 
+contribution assumes assistance to address critical grid stability issues). This will 
+in  part  be  delivered  by  a  10%  reduction  in  residential,  commercial  and 
+government electricity demand by 2020. This contribution will be maintained out 
+to  2025  and  will  be  delivered  using  national  resources  and  international 
+assistance being identified to achieve the goals of the NiSERM.  
+
+Conditional  upon  additional  international  assistance,  Niue  could  increase  its 
+contribution to an 80% share of renewable energy of total electricity generation, 
+or  to  even  higher  levels,  by  2025.  This  would  require  additional  support  for 
+energy storage and renewable energy generation, and strengthened frameworks 
+for project delivery.  
+
+Specific actions to deliver the above contributions are outlined in Annex 1. While 
+required investment to achieve the contributions has not been fully quantified, 
+investments  required  are  far  smaller  than  those  needed  to  deliver  a  resilient 
+future for Niue in the face of climate change. 
+
+In 2009 electricity generation contributed 2.1 Gg CO2e as an emissions source.  
+ 
+The  NiSERM  Business  as  Usual  forecast  predicts  a  33%  increase  in  diesel 
+consumption  for  electricity  generation  from  2009-2020  and  75%  increase  by 
+2025,  assuming  economic  and  population  growth  and  no  GHG  abatement 
+measures. 
+ 
+A  38%  renewable  energy  contribution  in  2020  would  equate  to  a  reduction  of 
+364,000 litres of diesel per annum, or approximately 1.2 Gg CO2e per annum. 
+ 
+An 80% renewable energy contribution in 2020 would equate to a reduction of 
+977,000 litres of diesel per annum, or approximately 3.1 Gg CO2e per annum. 
+Electricity (42% of reported 2009 energy sector emissions)*  
+
+Gases 
+
+Carbon dioxide (CO2); Methane (CH4); Nitrous oxide (N2O) 
+
+Geography  Whole country 
+
+Planning Processes 
+
+This INDC was prepared primarily using pre-existing national policy documents, 
+and  sector  policies  and  plans  to  ensure  accurate  reflection  of  national 
+development  priorities,  with  pre-existing  stakeholder  support.  The  INDC  was 
+reviewed by key ministry representatives and formally approved by Cabinet. 
+
+* note that waste and agriculture sectors were not reported in 2009 GHG inventory. 
+
+Section 7: Statement on "Fair and Ambitious" 
+While Niue's contribution to global greenhouse gas emissions is negligible (less than 0.0001%), and Niue is 
+a net sink given the growth of our forests, nevertheless we are taking steps to reduce our emissions, in 
+particular in the energy sector. The Niue Strategic Energy Road Map (NiSERM) 2015-2025 outlines Niue's 
+aspiration to meet 80% of its electricity needs from renewable energy sources by 2025, which would in 
+turn reduce the country's high reliance on imported fossil fuel. Part of this goal can be achieved through 
+national resources and identified assistance, but achieving such high levels of electricity from renewables 
+(from around 2% today) is very ambitious and will need considerable contributions of financial and capacity 
+support from our partners.  
+
+Section 8: General caveats statement 
+The preparing of this INDC came during Niue's development of its Second National Communication. As 
+such,  data  on  GHG  emissions  are  provisional  and  therefore  subject  to  revision.  The  Second  National 
+Communication, once completed, will provide a more comprehensive presentation of Niue's circumstance, 
+plans and needs. 
+
+While  there  is  a  relatively  high  confidence  regarding  data  on  fuel  importation  and  consumption,  data 
+collection  on  other  emissions  sources  is  not  yet  developed  sufficiently  to  make  higher  tier  inventories 
+possible. 
+
+To obtain a better picture of the AFOLU sector will require an accurate, quality controlled survey of land 
+use status using up-to-date satellite imagery and GIS mapping. Waste surveys currently lack the sample 
+size and coverage to be statistically meaningful.   
+
+ 
+
+ 
+
+ 
+
+Annex 1  
+Specific strategies, policies, plans and actions, including timing and support needs  
+
+The table below provides a summary of current priority items that Niue wishes to highlight as needing support or that are significant initiatives that the government will 
+take from its own budget resources. Available information dictates that these relate narrowly to mitigation actions; however, the list will be expanded in future to include 
+a more holistic set of priorities compatible with Niue's resilience building development strategy. The investments required to achieve Niue's mitigation contribution, while 
+not fully quantified, are far smaller than those needed to deliver a resilient future for Niue in the face of climate change. 
+
+Item 
+
+Priority enabling activities: 
+
+Planned  period  of 
+implementation 
+
+Conditional 
+additional support? 
+
+on 
+
+Support  partner(s) 
+identified? 
+
+Notes 
+
+Resolve grid stability issues  
+
+2016 
+
+Yes 
+
+Develop  national  capacity  to  monitor  and 
+evaluate  energy 
+supply  and  efficiency 
+initiatives 
+
+2016-2020 
+
+Yes 
+
+Advance  land use  change accounting  through 
+acquisition  of  recent,  multi-spectral  satellite 
+imagery 
+and 
+verification 
+
+relevant  processing 
+
+and 
+
+2016-2020 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+Priority near-term activities: 
+
+and 
+energy 
+
+of 
+Investigation 
+renewable 
+including 
+additional solar PV, wind and assessing biofuel, 
+biogas potentials 
+
+implementation 
+resources 
+
+2015-2020 
+
+No 
+
+Partial 
+
+to 
+
+integrate  existing 
+
+Crucial 
+installed  PV 
+generation  before  increasing  solar  installations. 
+Est. investment: $5.4m USD 
+
+ 
+
+ 
+
+to  support 
+
+Funding 
+secured.  Requires 
+implementation. 
+
+resource 
+investment 
+
+identification 
+for  project 
+
+in-country  capacity  to  operate  and 
+
+Build 
+maintain renewable energy 
+
+2015-2020 
+
+No 
+
+Partial 
+
+Partial  SPC  funding  identified,  additional  $0.07m 
+USD investment required. 
+
+Item 
+
+Planned  period  of 
+implementation 
+
+Conditional 
+additional support? 
+
+on 
+
+Support  partner(s) 
+identified? 
+
+Notes 
+
+2015-2020 
+
+No 
+
+Partial 
+
+to  support 
+
+Funding 
+secured.  Requires 
+investment. 
+
+resource 
+
+identification 
+additional  $0.6m  USD 
+
+2015-2020 
+
+Yes 
+
+Partial 
+
+SPC technical support identified. Additional $4.4m 
+USD investment required. 
+
+2020-2025 
+
+Yes 
+
+2020-2025 
+
+2020-2030 
+
+Yes 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+If achieved through solar PV 1.8MW of additional 
+capacity would be required by 2025. 
+
+ 
+
+Requires pre-feasibility work on electric vehicles, 
+before  broader 
+implementation  strategy  as 
+options become more commercially viable 
+
+Implement  energy  efficiency  through  supply 
+side  loss  reduction,  develop  energy  auditing, 
+equipment standards and labelling, regulatory 
+reform and fuel substitution for transport and 
+cooking. 
+
+Efficient supply and storage for fuels and LPG 
+and economics assessments on fuel supply and 
+storage 
+
+Priority longer-term activities: 
+
+Implement  additional 
+renewable  energy 
+generation capacity to increase RE share from 
+35% to 80% 
+
+Matching energy storage capacity 
+
+Transport  sector  transition  away  from  fossil 
+fuels 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+

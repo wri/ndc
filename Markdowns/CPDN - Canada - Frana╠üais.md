@@ -1,0 +1,264 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>PRÉSENTATION DE LA CPDN DU CANADA DEVANT LA CCNUCC 
+
+ 
+Le Canada est heureux de communiquer sa contribution prévue déterminée au niveau national 
+(CPDN) ainsi que de l'information pour rendre sa contribution plus claire et transparente et en 
+faciliter la compréhension. 
+ 
+En tant que vaste nation nordique, le Canada fait face à des défis uniques pour contrer les 
+changements climatiques : une population croissante, des températures extrêmes, une grande 
+masse terrestre, une économie diversifiée en croissance et des ressources naturelles abondantes 
+sont tous des éléments qui influent sur les émissions de gaz à effet de serre du Canada. Malgré 
+ces défis, le Canada dispose d'un des réseaux d'électricité les plus propres des pays du G7 et du 
+G20, et même du monde, avec près de 80 % de son électricité déjà produite sans émettre de gaz à 
+effet de serre. Depuis 2011, les émissions de gaz à effet de serre par habitant au Canada sont à 
+leur plus bas niveau depuis le début de la surveillance, en 1990, alors que l'économie canadienne 
+continue de croître. 
+
+ 
+
+Bien que le Canada ne soit responsable que de 1,6 % des émissions mondiales de gaz à effet de 
+serre, il demeure engagé à faire sa part pour contrer les changements climatiques. Dans le cadre 
+de sa contribution à une nouvelle entente mondiale sur les changements climatiques, le Canada 
+s'est fixé comme cible globale une réduction de 30 % d'ici 2030 de ses émissions de gaz à effet 
+de serre par rapport aux niveaux de 2005. 
+ 
+Cette cible est équitable et ambitieuse. Le Canada a déjà mis en œuvre des mesures décisives sur 
+son territoire pour réduire ses émissions, et il compte en faire plus de concert avec tous les 
+grands émetteurs. L'atteinte de cet ambitieux objectif nécessitera l'adoption de nouvelles 
+politiques par tous les ordres de gouvernement et des actions continentales coordonnées au 
+niveau des secteurs intégrés. Le Canada pourrait aussi devoir utiliser des mécanismes 
+internationaux pour atteindre sa cible, sous un système robuste qui permettra l'atteinte de 
+réductions réelles et vérifiées. 
+
+Émissions canadiennes selon les cibles de 2030 
+
+ 
+Le Canada fait des progrès dans la réduction de ses émissions de gaz à effet de serre : entre 2005 
+
+et 2013, ses émissions ont baissé de 3,1 %, alors que son économie a crû de 12,9 %. Le 
+gouvernement du Canada s'affaire à mettre en œuvre une approche réglementaire sectorielle 
+responsable pour réduire ses émissions, une approche harmonisée avec celle des principaux 
+partenaires économiques du pays, comme les États-Unis, reconnaissant ainsi l'importance de 
+mesures concertées dans un marché nord-américain intégré. Au moyen de cette approche, le 
+Canada a déjà pris des mesures pour réduire les émissions de deux des principaux secteurs de 
+l'économie canadienne responsables des émissions : le transport et l'électricité.  
+ 
+Tablant sur sa forte capacité à produire de l'électricité propre, le Canada a établi des normes 
+rigoureuses concernant l'électricité produite à partir du charbon, normes qui interdisent la 
+construction de centrales au charbon classiques et qui accéléreront l'abandon graduel des 
+centrales existantes. Le Canada a aussi pris des mesures dans le secteur des transports, qui est à 
+l'origine d'environ 25 % des émissions canadiennes, en collaborant étroitement avec les 
+États-Unis à l'élaboration de normes nord-américaines concernant les émissions de gaz à effet de 
+serre des véhicules. Le gouvernement du Canada a adopté des normes d'émission de gaz à effet 
+de serre qui seront de plus en plus rigoureuses pour les véhicules à passagers et les camions 
+légers, ainsi que les véhicules lourds. Grâce à ces normes et règlements, les émissions de gaz à 
+effet de serre des nouveaux véhicules à passagers, camions légers et véhicules lourds déclinent 
+de façon soutenue. Par exemple, les modèles 2025 des véhicules à passagers et des camions 
+légers émettront environ la moitié moins de gaz à effet de serre que les modèles 2008.  
+ 
+Le Canada continue d'élaborer et de mettre en œuvre des mesures pour réduire les émissions 
+d'autres sources importantes de gaz à effet de serre. Par exemple, en décembre 2014, le 
+gouvernement du Canada a annoncé son intention de réglementer les hydrofluorocarbures 
+(HFC), le gaz à effet de serre qui connaît la plus forte croissance dans le monde. Le Canada 
+entend développer des règlements afin de réduire les émissions de méthane dans le secteur 
+pétrolier et gazier ainsi que les émissions de gaz à effet de serre issus de la production 
+d'électricité à partir de gaz naturel ainsi que des produits chimiques et  des engrais azotés à 
+travers son approche réglementaire sectorielle responsable qui garantit la protection de la 
+compétitivité économique du pays. Le Canada continuera de travailler de concert avec ses 
+partenaires commerciaux, en particulier les États-Unis, et s'efforcera de prendre d'autres 
+mesures dans des secteurs intégrés de l'économie, dont l'énergie et le transport. 
+ 
+L'approche réglementaire du Canada s'accompagne d'investissements importants dans les 
+technologies énergétiques propres afin d'assurer une transition soutenue vers une économie à 
+faible utilisation de carbone. Depuis 2006, le gouvernement du Canada a investi plus de 
+10 milliards de dollars dans les infrastructures vertes, l'efficacité énergétique, les technologies 
+énergétiques propres, les carburants plus propres et les réseaux intelligents. Ces projets incluent : 
+ 
+
+ 
+Canada est un chef de file dans les technologies énergétiques propres et a dirigés de multiples 
+investissements vers ces technologies afin de promouvoir une innovation soutenue. Le premier 
+projet au monde de captage et stockage du carbone à grande échelle dans le secteur de 
+l'électricité en Saskatchewan, ainsi que le premier projet de captage et stockage du carbone dans 
+une installation d'exploitation des sables bitumineux, en sont des exemples. Le Canada fait donc 
+des progrès significatifs pour restreindre et réduire les émissions de gaz à effet de serre dans des 
+secteurs clés. Par exemple, les technologies émergentes et les mesures de réglementation du 
+gouvernement fédéral ont limité les émissions dans le secteur des transports, malgré la croissance 
+du parc automobile, et les émissions diminuent dans le secteur de l'électricité en raison de 
+l'élimination progressive du charbon, de la transition au gaz naturel et de la croissance des 
+sources d'énergie non émettrices. Afin de tirer parti de cette réussite, le Canada orientera les 
+investissements liés au climat dans les technologies innovatrices de production énergétique, pour 
+que le rendement environnemental des sables bitumineux et d'autres secteurs en croissance 
+continue de s'améliorer. 
+ 
+Au Canada, les changements climatiques sont une responsabilité partagée qui nécessite des 
+
+•  Des investissements favorisant le développement et la démonstration de produits de 
+technologies propres tels que les stations de recharge pour véhicule électriques et les 
+centrales électriques hybrides utilisant l'énergie éolienne. 
+
+•  Des investissements pour encourager la production électrique à partir de ressources 
+renouvelables telles que le vent, l'hydroélectricité à faible impact ainsi que l'énergie 
+photovoltaïque et géothermale. 
+
+mesures de la part de tous les ordres de gouvernement. Les domaines des ressources naturelles, 
+de l'énergie et de nombreux autres aspects de l'environnement sont des sphères de compétence 
+provincales et territoiriales. Chaque province et territoire dispose de son propre cadre juridique et 
+a élaboré ses propres cadres, politiques et mesures pour réduire les émissions de gaz à effet de 
+serre. Le Conseil canadien des ministres de l'environnement, un forum intergouvernemental 
+réunissant les administrations fédérales, provinciales et territoriales, a convenu que les 
+changements climatiques seraient à l'ordre du jour de leurs rencontres de façon continue. 
+ 
+Le Canada croit que chaque pays doit faire sa part pour contrer les changements climatiques. Le 
+Canada travaillera avec ses partenaires étrangers afin de faire progresser les efforts collectifs. Le 
+but du Canada est d'en arriver à une entente mondiale durable et inclusive qui permettra de 
+mettre en place un cadre à long terme pour une action concertée. Par sa contribution, le Canada 
+affirme son engagement soutenu à l'élaboration d'une entente internationale sur les changements 
+climatiques qui soit équitable et efficace et qui inclue un engagement significatif et transparent 
+de la part de tous les principaux émetteurs. 
+ 
+Contribution prévue déterminée au niveau national 
+Le Canada s'est fixé comme cible globale une réduction de 30 % d'ici 2030 de ses émissions de 
+gaz à effet de serre par rapport aux niveaux de 2005. 
+ 
+ 
+Précisions 
+Année de référence 
+Année de fin 
+Type 
+Champ d'application 
+Portée 
+
+trifluorure d'azote (NF3) 
+ 
+
+2005 
+2030 
+Réduction absolue par rapport aux émissions de l'année de référence 
+Ensemble de l'économie - 100 % de l'inventaire des GES du Canada 
+o  dioxyde de carbone (CO2) 
+o  méthane (CH4) 
+o  oxyde de diazote (N2O) 
+o  hexafluorure de soufre (SF6) 
+o 
+tétrafluorométhanes (PFC) 
+o  hydrofluorocarbones (HFC) 
+o 
+Tous les secteurs du GIEC 
+Le gouvernement du Canada dispose d'instruments législatifs qui lui 
+permettent de lutter contre les changements climatiques. Plus 
+précisément, la principale loi du gouvernement fédéral est la Loi 
+canadienne sur la protection de l'environnement (1999), qui confère 
+des pouvoirs de réglementer les émissions GES. Il est également 
+possible de réduire ces émissions grâce à la mise en œuvre de mesures 
+stratégiques. 
+ 
+Depuis 2006, le gouvernement fédéral a pris les mesures 
+réglementaires suivantes dans le cadre de son approche réglementaire 
+sectorielle responsable : 
+
+•  règlements dans le secteur des transports visant à établir des 
+
+normes de plus en plus rigoureuses en ce qui concerne l'émission 
+de GES pour les véhicules utilitaires lourds (modèles des années 
+2014 à 2018) ainsi que les automobiles à passagers et les camions 
+légers (2011-2025); 
+
+Secteurs  
+Mise en œuvre 
+
+•  règlements dans le secteur de l'électricité, grâce auxquels le 
+
+Canada est devenu le premier grand consommateur de charbon à 
+bannir la construction de centrales électriques au charbon 
+traditionnelles. La promulgation de ces règlements conduira 
+également à l'élimination graduelle des centrales au charbon non 
+munies d'un système de captage et de stockage du carbone; 
+
+•  règlements sur les carburants renouvelables qui exigent que le 
+
+carburant contienne en moyenne 5 % de carburant renouvelable et 
+que la plupart des carburants diesel contiennent en moyenne 2 % 
+
+de carburant renouvelable. 
+
+ 
+Le gouvernement fédéral prend également des mesures pour réduire les 
+émissions liées aux transports dans les sous-secteurs des transports 
+ferroviaire, maritime et aérien. 
+ 
+Le gouvernement fédéral travaille actuellement à l'élaboration d'autres 
+mesures réglementaires qui contribueront à : 
+
+•  établir des normes plus rigoureuses pour le secteur des transports, 
+
+plus particulièrement pour les modèles de véhicules utilitaires 
+lourds conçus après 2018; 
+
+•  réduire graduellement l'utilisation des HFC et ainsi limiter des 
+
+émissions de GES puissants, qui devraient augmenter 
+considérablement au cours des 10 à 15 prochaines années; 
+
+•  réduire les émissions de GES associées à la production 
+
+d'électricité au gaz naturel et provenant des produits chimiques et 
+des engrais azotés; 
+
+•  réduire les émissions de méthane provenant du secteur pétrolier et 
+
+gazier. 
+
+ 
+L'approche réglementaire du Canada est alignée avec celle des 
+États-Unis, lorsqu'approprié, et reconnaît l'importance d'une action 
+concertée dans le contexte d'un marché nord-américain intégré. Le 
+Canada continuera de travailler de concert avec ses partenaires 
+commerciaux sur le continent, en particulier les États-Unis, et 
+s'affairera à prendre d'autres mesures dans des secteurs intégrés de 
+l'économie, dont l'énergie et le transport. 
+ 
+Les provinces et les territoires canadiens ont d'importants pouvoirs 
+dans les domaines des ressources naturelles, de l'énergie et de 
+l'environnement. Chaque province et territorie possède son propre 
+cadre juridique et ses propres politiques et mesures qui lui permettent 
+de réduire les émissions de gaz à effet de serre. Le gouvernement 
+fédéral dispose de mécanismes grâce auxquels il peut collaborer avec 
+les provinces et les territoires canadiens, ainsi qu'avec d'autres 
+partenaires et intervenants clés, afin de lutter contre les changements 
+climatiques. Plus particulièrement, le Conseil canadien des ministres 
+de l'environnement, un forum intergouvernemental dirigé par les 
+ministres, abordera de façon continue les questions liées aux 
+changements climatiques. 
+
+Valeurs potentielles du réchauffement climatique sur cent ans, tirées du 
+quatrième rapport d'évaluation du GIEC 
+Lignes directrices 2006 du GIEC 
+
+Le Canada prévoit procéder à la comptabilisation des émissions 
+relatives au secteur terrestre en se basant sur une approche fondée sur 
+les chiffres nets, et à utiliser une « approche axée sur la production » 
+pour comptabiliser les émissions liées aux produits ligneux récoltés. Le 
+Canada exclura les émissions résultant des perturbations naturelles. 
+Le Canada pourrait utiliser des mécanismes internationaux pour 
+atteindre la cible visée pour 2030, pourvu qu'il s'agisse de systèmes 
+solides permettant des réductions réelles et vérifiées des émissions. 
+
+Principales hypothèses 
+Paramètres appliqués 
+
+Méthode d'estimation 
+des émissions 
+Approche de 
+comptabilisation pour 
+l'agriculture, la 
+foresterie et les autres 
+affections des terres 
+Contribution des 
+mécanismes 
+internationaux 
+ 
+ 
+ 
+

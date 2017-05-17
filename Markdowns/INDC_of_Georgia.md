@@ -1,0 +1,444 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
+
+ 
+
+GEORGIA'S INTENDED NATIONALLY DETERMINED CONTRIBUTION  
+
+SUBMISSION TO THE UNFCCC 
+
+  
+
+Georgia is pleased to communicate its intended nationally determined contribution (INDC), 
+elaborated by the Ministry of Environment and Natural Resources Protection of Georgia in 
+close  cooperation  with  the  key ministries  and other  relevant  stakeholders  involved  in  the 
+consultations process.  
+
+Introduction 
+
+Georgia  is  fully  committed  to  the  UNFCCC  negotiation  process  with  a  view  to  adopting  a 
+global legally binding agreement at the Paris Conference in December 2015 applicable to all 
+Parties in line with the below 2°C objective. 
+
+The dissolution of Soviet Union and the collapse of centrally planned economy in early 90s 
+caused  significant  reduction  in  national  greenhouse  gases  (GHG)  emissions  (lowest  value 
+8,799 KtCO2eq in 1995). According to the Third National Communication of Georgia to the 
+UNFCCC, GHG emissions from Georgia in 2011 constituted 16,036 KtCO2eq which is 34% of 
+1990 emissions level (47,975 KtCO2eq). 
+
+Economic growth will be accompanied by increase in GHG emissions (if no efforts are made 
+to  reduce  GHG  emissions  associated).  Therefore,  it  is  important  to  undertake  efforts  to 
+substantially  limit  this  increase  by  boosting  investments  in  low  carbon  technologies 
+throughout the country. 
+
+In  2010  Georgia  acceded  to  the  Copenhagen  Accord  and  declared  that  "Georgia  will  take 
+steps to achieve a measurable, reportable and verifiable deviation from the baseline scenario 
+(below "business as usual" levels) supported and enabled by finance, technology and capacity-
+building".  
+
+The Government of Georgia acknowledges and appreciates the role of international support 
+in Georgia's efforts to mitigate climate change, namely the support of the US Government in 
+the  development  of  a  Low  Emission  Development  Strategy  (LEDS)  and  the  support  of  the 
+European  Union  and  the  Government  of  Germany  in  preparation  of  the  INDC.  The 
+preparation of LEDS was launched in 2013 and is expected to be finalized in 2016. Georgia's 
+INDC is largely based on currently available results achieved during the LEDS preparation 
+process.  The  final  LEDS  and  the  mitigation  actions  specified  therein  will  become  key 
+instrument in achieving Georgia's GHG emission reduction target. 
+
+Intended nationally determined contribution (INDC) of Georgia 
+
+The  Lima  Conference  invited  all  Parties  "to  communicate  their  intended  nationally 
+determined contributions well in advance of the twenty-first session of the Conference of the 
+Parties  in  a  manner  that  facilitates  the  clarity,  transparency  and  understanding  of  the 
+intended nationally determined contributions." 
+
+Georgia  plans to  unconditionally reduce  its GHG  emissions by  15%  below  the  Business  as 
+usual scenario (BAU) for the year 2030. This is equal to reduction in emission intensity per 
+unit  of  GDP  by  approximately  34%  from  2013  to  2030.  The  15%  reduction  target  will  be 
+increased up to 25% in a conditional manner, subject to a global agreement addressing the 
+importance of technical cooperation, access to low-cost financial resources and technology 
+transfer. This is equal to reduction of emission intensity per unit of GDP by approximately 
+43%  from  2013  to  2030.  The  25%  reduction  below  BAU  scenario  would  also  ensure  that 
+Georgian GHG emissions by 2030 will stay by 40% below the 1990 levels.  
+ 
+
+In  line  with  the  Lima  Call  for  Climate  Action,  in  particular  its  paragraph  13,  the  following 
+quantifiable information is hereby submitted: 
+
+ 
+
+Intended Nationally Determined Contribution of Georgia 
+Party 
+Type 
+Coverage 
+Sectors 
+
+Georgia 
+Deviation from baseline, business as usual scenario 
+All sectors excluding LULUCF 
+
+Energy  
+Industrial processes 
+
+* 
+* 
+*  Agriculture  
+*  Waste 
+
+Scope 
+
+ 
+
+Information on GHG emissions reduction targets for the forestry 
+sector of Georgia is given in Annex 1. 
+All greenhouse gases not controlled by the Montreal Protocol:  
+
+Carbon Dioxide (CO2) 
+
+* 
+*  Methane (CH4) 
+
+2 
+
+Base Year 
+Period 
+Reduction level 
+
+Pre-2020 mitigation 
+actions  
+
+% of Emissions 
+Covered 
+Planning Process 
+
+Perfluorocarbons (PFCs) 
+Sulphur hexafluoride (SF6)  
+
+*  Nitrous Oxide (N2O) 
+*  Hydrofluorocarbons (HFCs) 
+* 
+* 
+2013 
+1 January 2021- 31 December 2030 
+Georgia  plans  to  unconditionally  reduce  its  GHG  emissions  by 
+15%  below  the  Business  as  usual  scenario  (BAU)  for  the  year 
+2030. This is equal to reduction in emission intensity per unit of 
+GDP  by  approximately  34%  from  2013  to  2030.  The  15% 
+reduction  target  will  be  increased  up  to  25%  in  a  conditional 
+manner,  subject 
+the 
+importance of technical cooperation, access to low-cost financial 
+resources and technology transfer. This is equal to reduction of 
+emission  intensity  per  unit  of  GDP  by  approximately  43%  from 
+2013  to  2030.  The  25%  reduction  below  BAU  scenario  would 
+also  ensure  that  Georgian  GHG  emissions  by  2030  will  stay  by 
+40% below the 1990 levels.  
+Georgia plans to finalize its Low Emission Development Strategy 
+in 2016, which will detail pre-2020 mitigation actions.  In 
+addition, Government of Georgia is in process of drafting its first 
+National Energy Efficiency Action Plan (NEEAP) that will be 
+finalized by the end of spring 2016. The NEEAP will document 
+the plans for implementation of energy efficiency measures 
+which have significant mitigation potential for the period before 
+2020 and beyond. 
+
+to  a  global  agreement  addressing 
+
+It  is  envisaged  that  the  most  intensive  pre-2020  mitigation 
+action  in  Georgia  should  be  the  voluntary  reduction  of  GHG 
+emissions  committed  by  thirteen  self-governing  cities  and 
+municipalities  joining  the  EU  initiative  "Covenant  of  Mayors" 
+(CoM).  Further  facilitation  of  this  initiative  will  significantly 
+contribute to post -2020 implementation processes. 
+
+Three Nationally Appropriate Mitigation Actions (NAMA) are 
+under preparation and, in case of international support, are 
+expected to be implemented prior to 2020. They are expected to 
+be a basis for subsequent larger-scale mitigation actions for the 
+post-2020 period. These NAMA activities include: 
+
+*  Gender-sensitive NAMA for sustainable energy in rural 
+
+areas;  
+
+*  NAMA for Low Carbon Buildings in Georgia;  
+
+*  Vertically Integrated NAMA (V-NAMA) for the Urban 
+
+Transport Sector. 
+
+All above mentioned pre-2020 mitigation actions have been 
+taken into account while calculating the BAU scenario. 
+100% 
+
+Georgia will support its mitigation target with comprehensive 
+national climate change policy.  The first step will be the 
+finalization of the LEDS.  In addition, Georgia plans to develop an 
+action plan "climate 2021-2030" (intended to be finalized in 
+2018) which will define the legal instruments, activities, 
+methods and other relevant issues. 
+
+ 
+
+3 
+
+The legislative proposals, national programs and domestic 
+legally-binding acts to implement 2030 climate target will be 
+influenced by Georgia-EU association process and the planned 
+membership in the European Energy Community. 
+Georgia's INDC is fair  and ambitious because despite the fact 
+that national GHG emissions of Georgia represents only 
+approximately  0.03% of global emissions, Georgia is committed 
+to contribute in joint efforts to combat climate change by 
+transforming its economy to low carbon and climate resilient 
+pathway The INDC  is  Georgia's first quantified international  
+commitment to mitigate climate change. The main share of 
+mitigation actions will be implemented with national resources, 
+in an unconditional manner. Only conditional measures will 
+require international support. 
+GWP 100y values published in IPCC SAR (CO2e):  
+
+*  CO2=1 
+*  CH4 = 21  
+*  N2O = 310 
+*  Revised 1996 IPCC Guidelines for National Greenhouse 
+
+Gas Inventories. 
+
+*  2006 IPCC Guidelines for National Greenhouse Gas 
+
+Inventories 
+
+*  Good Practice Guidance and Uncertainty Management in 
+
+National Greenhouse Gas Inventories 
+
+Fair and ambitious 
+
+Metric Applied  
+ 
+
+Methodologies for 
+Estimating 
+Emissions 
+
+ 
+
+Adaptation 
+
+Climate change and its adverse impacts on ecosystems and economy pose severe threats 
+to  Georgia's  sustainable  development.  Unique  geographical  location,  complex  dissected 
+relief,  land  cover  diversity  and specific  climate, containing  almost  every  type  of  climatic 
+zones,  set  conditions  for  wide  variety  of  negative  consequences  of  climate  change  in 
+Georgia: (a) due to sea level rise and other factors Black Sea has affected certain areas of 
+land,  destroyed  and/or  damaged  houses  and  infrastructure  along  the  coast;    (b)  in 
+highlands,  growing  frequency  and  intensity  of  floods,  flashfloods,  landslides  and 
+mudflows  have  caused  a  huge  amount  of  damage  in  the  economy;  (c)  due  to  decreased 
+rainfall  and  enhanced  evaporation  semi-arid  regions  in  Eastern  Georgia  are  under  the 
+threat of desertification; (d) more frequent and intensive heat waves have affected human 
+health;  (e)  rising  temperatures,  changes  in  precipitation  patterns,  reduced  water 
+availability,  forest  fires,  pests  and  diseases  have  worsen  the  growth  and  productivity  of 
+forests.  (f)  Rising  temperatures,  increased  winds  and  reduced  water  availability  have 
+significantly declined agricultural productivity.  
+
+In case of a 20C or higher increase in global warming, effects will become more severe in 
+the  future.  This will  create  an  extra  burden  on the  development  of  society.  Accordingly, 
+adaptation to the adverse impacts of climate change is one of the main priorities for the 
+Government of Georgia. The National Adaptation Plan will be prepared in order to further 
+advance the implementation of adaptation actions.  The main objective of the Government 
+of  Georgia  is  to  improve  country's  preparedness  and  adaptive  capacity  by  developing 
+
+ 
+
+4 
+
+climate resilient practices that reduce vulnerability of highly exposed communities. In this 
+regard, Georgia takes steps to integrate climate risk and resilience into core development 
+planning and implementation. 
+
+Georgia's  agricultural  sector  plays  a  key  role  in  the  country's  economy.  Georgian  farmers 
+are going to fulfill a principal role in providing one of the fundamental needs of society: a 
+safe, secure, and affordable food supply. This underlines the importance of the relationship 
+between  climate  change  impacts  on  agriculture  and  food  security.  During  last  decades 
+negative consequences of climate change have drastically reduced agricultural productivity. 
+For  example,  severe  drought  in  2000  has  reduced  the  production  of  cereals  close  to  zero; 
+due  to  the  prolonged  drought  almost  400,000  hectares  of  agricultural  lands  have  been 
+damaged. Within the last decade the occurrence of droughts in Eastern Georgia increased, 
+the  severe  droughts have  been  observed  every  year  accompanied  with high  temperatures 
+(40-42⁰) doubling the frequency of the occurrence of the intense droughts in the region.   
+
+For  the  adaptation  of  agricultural  sector  to  the  expected  climate  change,  wide  range  of 
+measures is planned. Those include, but are not limited to the following: (a) research and 
+development of emergency response plans for agriculture dealing with droughts, floods, etc; 
+(b) Introduction of innovative irrigation management and water application techniques; (c) 
+implementation  of  various  site  specific  anti-erosion  measures;  (d)  establishment  of 
+information  centers  for  farmers  that  provides  guidance  on  adaptive  management  of 
+agriculture; etc. 
+
+A complex mountainous topography makes the country more prone to the climate extremes 
+and  related  events.  Georgia  is  vulnerable  to  natural  hazards  including  floods,  flash  floods, 
+droughts, landslides, avalanches, and mud flows. Many of these extreme events have been 
+recorded in the last two-three decades, the most recent one happening on the 13th of June 
+2015 in Tbilisi. The flash-flood was distinctive not only due to the high casualty (19 people 
+dead and huge economic loss (around 100 million USD) but reconnecting to the fact that it 
+was  characterized  by  9  different  types  of  hydro-meteorological  and  geological  extremes, 
+occurring simultaneously within  a very limited area. These weather extremes additionally 
+result in changing of the hydrology of rivers, posing a serious impact on continuous water 
+availability for drinking, irrigation and energy. Establishment of Early warning systems for 
+climate  related  extreme  events  is  considered  as  priority  measure  by  the  Government  of 
+Georgia. 
+
+Sea  level  rise  impacts  are  projected  to  induce  multiple  negative  consequences  in  coastal 
+zone of Georgia. It is imperative to assess and implement adaptation measures in order to 
+minimize economic losses. Combination of various coastal zone protection technologies are 
+recommended by the second "Technology Needs Assessment" report of Georgia to prevent 
+the  significant  damage  caused  by  the  Black  Sea  level  rise.  According  to  the  National 
+communications  of  Georgia  to  the  UNFCCC  costs  of  the  coastline  adaptation  program  is 
+estimated about 600 million USD. In absence of adaptation measures the estimated losses 
+only in the tourism sector will reach about 2 billion USD by 2030. Due to very high social 
+costs  involved,  priority  will  be  given  to  the  integrated  coastal  planning  and  management 
+instruments, rather than investments in coastal erosion abatement only.  
+
+ 
+
+5 
+
+Without  international  support  Georgia  is  unable  to  cope  with  adverse  effects  of  climate 
+change. "Lima Call for Climate Action" (Decision 1/CP.20) "Urges developed country Parties 
+to  provide  and  mobilize  enhanced  financial  support  to  developing  country  Parties  for 
+ambitious mitigation and adaptation actions". 
+
+According to the expert judgment estimated economic losses without adaptation measures 
+during  2021-2030  will  be  about  10-12  billion  USD,  while  adaptation  measures  will  cost 
+within  1.5-2  billion  USD.  Accessing  finance  that  allows  Georgia  to  adapt  to  the  impacts  of 
+climate  change  is  crucial.  To  estimate  required  financial  support  the  following  pre-2020 
+activities  are  planned:  (a)  prioritize  selected  adaptation  policies  and  measures  based  on 
+national  circumstances  and  identify  associated  financial  needs;  (b)  evaluate  domestic 
+sources of finances; and (c) determine need and sources for external financial support. 
+
+Georgia  needs  international  support  for  the  development  and  transfer  of  technologies  to 
+increase  its  adaptive  capacity.    In  this  regard  technologies  for  the  protection  of  coastal 
+infrastructure;  technologies  for  sustainable  water  management;  sustainable  agricultural 
+technologies; and technologies for sustainable forest management are prioritized. 
+
+The  implementation  of  adaptation  actions  for  the  period  2021  -  2030  requires  the 
+continuous  development  and  strengthening  of  Georgia's  capacities,  in  particular:  (a) 
+national  capacity  to  develop  adaptation  strategies;  (b)  policy  makers  capacity  for  climate 
+change  adaptation  planning;  (c)  capacity  of  communities  to  reduce  their  vulnerability  to 
+adverse  impacts  of  future  climate  hazards;  (d)  capacity  of  national  health  system 
+institutions, to respond to and manage long-term climate change-sensitive health risks.  
+
+It  is  fundamental  to  incorporate  a  gender-  and  human  rights-sensitive  approach  in 
+adaptation planning capacity building, prioritizing the most vulnerable sectors and regions 
+in order to reduce social inequality and the gap between women and men rights.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+Annex 1 
+
+Forests 
+
+Climate  change  adverse  impacts  pose  severe  threats  to  Georgia's  forests.  Rising 
+temperatures,  changes  in  precipitation  patterns,  reduced  water  availability,  increased 
+frequency  of  forest  fires,  as  well  as  pests  and  disease  outbreaks  have  reduced  carbon 
+sequestration ability of forests.  
+
+There  is  no  reliable  inventory  data  on  most  forest  resources  of  Georgia.  The  last  nation-
+wide forest inventory was conducted in early 1990s. According to the expert judgment, on 
+600,000  ha,  which  are  declared  for  timber  production  forests  (about  22%  of  Georgia's 
+forest  area),  timber  and  fuel-wood  extraction  has  significantly  exceeded  the  respective 
+annual allowable cut over the last two decades. In 2014, the forest resources assessment of 
+the pilot area - Borjomi-Bakuriani Forest District shows the reduction in forest biomass by 
+almost  20%  over  the  past  15  years.  However,  it  is  premature  to  draw  conclusions  on  the 
+state of Georgia's forests based on the results obtained for one forest district covering only 
+45,000 hectares.  
+The Georgian Government prioritizes three options for climate change mitigation activities 
+in  forestry  sector:  (a)  establish  Sustainable  Forest  Management  (SFM)  practices;  (b) 
+conduct  afforestation/reforestation  and  assist  natural  regeneration;  and  (c)  expand  the 
+protected area. 
+
+Unconditional commitment  
+
+Georgia is committed to:   
+
+*  Strongly  support  CO2  reduction  in  one  pilot  area,  the  Borjomi-Bakuriani  Forest  district 
+(currently  the  only  forest  district  where  carbon  emissions  have  been  quantified)  by  at 
+least  70%  between  2020 and 2030,  by  strengthening  law enforcement  and introducing 
+SFM practices. It is estimated that this measure will lead to an overall emission reduction 
+of  at  least  1  million  tonnes  of  CO2  over  a  period  of  10  years  in  this  district  covering 
+45,000 hectares;  
+
+*  Implement  afforestation/reforestation  activities  on  already  identified  1,500  ha  of 
+
+degraded lands by 2030;    
+
+*  Assist natural regeneration of forests through different silvicultural methods on 7,500 ha 
+
+by 2030 in order to restore natural forest cover.       
+
+Conditional commitment    
+
+*  In  case  of  external  financial  and  technical  support,  the  country  commits  itself  to 
+afforest/reforest up to a total of 35,000 hectares, as well as supporting relevant activities 
+to  assist  natural  regeneration  in  identified  areas  needing  afforestation  /  reforestation 
+until 2030;  
+
+*  If  Georgia  receives  substantial  financial  and  technical  support  for  the  development  of 
+forest  inventories  and  remote  sensing,  as  well  as  the  development  of  internationally 
+recognized  practices  for  SFM  and  carbon  monitoring  for  the  identified  forest  districts 
+
+ 
+
+7 
+
+(covering  up  to  250,000  ha  of  forest  lands)  the  country  commits  itself  to  support  the 
+sustainable  management  of  forests  with  estimating  measures  leading  to  an  overall 
+carbon sequestration up to 6 million tons of CO2 on these lands over a period 2020-2030. 
+These  forest  lands  include  the  forest  district  of  Akhmeta  (covering  up  to  70,000  ha) 
+where  the  first  set  of  locality/site-specific  criteria  and indicators  (C&I)  for  SFM  will  be 
+selected/tested and implemented. The objective is to gain relevant expertise for further 
+development  of  the  C&I  for  SFM  in  the  rest  of  identified  forest  lands  to  achieve  the 
+nation-wide development of SFM practices, thereby support the carbon sequestration; 
+
+*  With  financial  support  from  international  sources  to  set  up  an  adequate  infrastructure 
+and  assure  effective  planning  for  management  of  the  additional  protected  areas  during 
+2020-2030, country commits itself to expand the protected area from 0.52 million ha to 
+1.3  million  ha  (about  20%  of  Georgia's  territory)  comprising  at  least  1  million  ha  of 
+forests. 
+
+ 
+
+8 
+
+ 
+

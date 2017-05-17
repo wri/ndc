@@ -1,0 +1,1131 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
+
+REPUBLIC OF SUDAN 
+
+ 
+
+ 
+
+INTENDED NATIONALLY DETERMINED 
+
+CONTRIBUTIONS (INDCs) 
+
+ 
+
+ 
+
+    
+
+ 
+ 
+
+ 
+
+REPUBLIC OF SUDAN 
+
+ 
+
+INTENDED NATIONALLY DETERMINED CONTRIBUTIONS (INDCs) 
+
+Introduction 
+The  Government  of  the  Republic  of  Sudan  (hereafter  referred  to  as  Sudan)  hereby  submits  its 
+Intended  Nationally  Determined  Contributions  (INDCs)  in  line  with  Decisions  1/CP.19  and 
+1/CP.20  of  the  Conference  of  the  Parties  (COP)  to  the  United  Nations  Framework  on  Climate 
+Change (UNFCCC) to communicate INDCs "towards achieving the objective of the Convention 
+as  set  out  in  its  Article  2"  (Decision  1/CP.20),  i.e.,  "to  achieve  stabilization  of  greenhouse  gas 
+concentrations  in  the  atmosphere  at  a  level  that  would  prevent  dangerous  anthropogenic 
+interference  with  the  climate  system.  Such  a  level  should  be  achieved  within  a  time  frame 
+sufficient  to  allow  ecosystems  to  adapt  naturally  to  climate  change,  to  ensure  that  food 
+production  is  not  threatened  and  to  enable  economic  development  to  proceed  in  a  sustainable 
+manner" (UNFCCC, 1992, Article 2). 
+
+Sudan's  INDC  is  also  based  on  its  commitments  under  Article  4.1  and  Article  12  of  the 
+Convention  which  requires  all  Parties,  taking  into  account  their  common  but  differentiated 
+responsibilities  and  their  specific  national  and  regional  development  priorities,  objectives  and 
+circumstances,  to  formulate,  implement,  publish  and  regularly  update  national  and,  where 
+appropriate, regional programmes containing measures to mitigate climate change by addressing 
+anthropogenic  emissions  by  sources  and  removals  by  sinks  of  all  greenhouse  gases  (GHG)  not 
+controlled  by  the  Montreal  Protocol,  and  measures  to  facilitate  adequate  adaptation  to  climate 
+change. As such, Sudan's INDC contains both mitigation and adaptation aspects that Sudan aims 
+to  undertake  towards  achieving  the  objective  of  the  Convention  and  its  national  development 
+priorities.  
+
+Being  classified  as  a  least  developed  country  (LDC)  Sudan  is  not  obliged  to  pursue  a  GHG 
+emission  reduction  target.  Nevertheless,  Sudan  views  the  planning  process  to  reduce  GHG 
+emissions,  or  rather  pursue  low-carbon  development,  as  an  opportunity  to  strengthen  national 
+capacity,  promote  sustainable  resource  management,  facilitate  technology  transfer,  and  identify 
+synergies between national economic objectives and sustainable development.  
+
+National Circumstances 
+Sudan is  highly  vulnerable to  climate change and climate variability, predominantly a result of 
+
+ 
+climatic  and  non-climatic  factors  (NAPA,  2007)  (see  table  1).  These  factors  in  addition  to  the 
+interaction  of  other  multiple  stresses  such  as  ecosystem  degradation,  complex  disasters  and 
+conflicts, and limited access to capital, markets, infrastructure and technology have all weakened 
+people's ability to adapt to changes in climate (AIACC WP No. 42, 2005; Zakieldeen, 2009).   
+
+Climatic factors constitute, above all, temperature increases and infrequent precipitation. Sudan's 
+Second  National  Communication  (SNC,  2013)  illustrated  that  air  temperatures  have  been 
+steadily increasing over the period 1960 - 2009, with temperature increases between 0.2°C and 
+0.4°C per decade for the periods March - June and June - September. When averaged across all 
+seasons,  temperatures  in  the  2000-2009  periods  are  roughly  between  0.8°C  and  1.6°C  warmer 
+than  they  were  in  the  1960  -  1969  period.  Rainfall  is  also  very  variable,  and  is  becoming 
+increasingly unpredictable. During the period 1981 - 2012 the rainfall in the whole country was 
+significantly decreased compared to 1971 - 2000.  
+
+Both  the  SNC  (2013)  and  the  National  Adaptation  Plan  (NAP,  2014)  illustrated  that  the 
+frequency  of  extreme  climatic  shocks  is  increasing,  particularly  drought  and  floods.  Frequent 
+drought threatens about 19 million hectares of rain-fed mechanized and traditional farms, as well 
+as the livelihoods of many pastoral and nomadic groups; more than 70% of Sudan's population's 
+livelihood  depends  on  this  sectors.  Floods  in  Sudan  can  either  be  localized  caused  by 
+exceptionally heavy rainfall or more widespread, caused by the overflow of the River Nile and 
+its tributaries (NAPA, 2007).  
+
+Non-climatic  factors  that  contribute  to  the  vulnerability  of  communities  in  different  parts  of 
+Sudan include unsustainable management of natural resources, and socio-economic factors such 
+as  poverty,  lack  of  income  diversity,  unequal  distribution  of  income,  urbanization,  population 
+growth, and lack of adequate infrastructure, and lack of international support and investments. 
+
+ 
+
+Assumptions 
+Sudan submits its  INDC under the assumption that the Paris outcome to  be agreed  at  COP  21, 
+December 2015. 
+
+* 
+Is comprehensive, ambitious, fair, effective and binding for all Parties to the Convention; 
+*  Strengthens  the  multilateral  rules-based  regime  to  enhance  international  and  regional 
+
+cooperation; 
+
+* 
+
+Is  under  the  Convention  and  hence  guided  by  its  principles  and  provisions  including 
+common but differentiated responsibilities and respective capabilities and equity; 
+
+*  Covers  all  elements  including  mitigation,  adaptation,  finance,  technology,  capacity-
+
+building and transparency in a balanced manner; 
+
+Is consistent with science reflecting the short, medium and long term; 
+
+* 
+* 
+*  Funding is available from different sources, particularly through the finance mechanism 
+
+Includes effective arrangements for transparency of action and support; and 
+
+under the UNFCCC. 
+
+ 
+Being  one  of  the  most  vulnerable  countries  to  the  adverse  effects  of  climate  change  and  given 
+Sudan's  status  as  LDC,  the  implementation  of  the  envisaged  undertakings  communicated  in 
+Sudan's INDCs is depended on various conditions, including  
+
+*  The full implementation by developed countries of their commitments relating to finance, 
+technology  development  and  transfer  and  capacity-building  pursuant  to  Article  4  of  the 
+Convention; 
+
+*  Reaching the long-term temperature goal that is currently set at below 2°C and subject to 
+
+be revised at COP 21; and 
+
+*  Sudan's  access  to  adequate,  predictable  and  sustainable  financial  resources,  including 
+
+technology transfer and capacity-building. 
+
+Mitigation Contribution 
+ 
+
+Sudan intends to pursue implementing low carbon development interventions in three sectors of 
+energy,  forestry  and  waste  inline  with  Sudan's  national  development  priorities,  objectives  and 
+circumstances.  Sudan's  intended  nationally  determined  contribution  on  mitigation  as  shown  in 
+Table  (2)  below  aims  at  contribution  to  the  global  mitigation  efforts  in  the  post-2020  period, 
+these contributions are planned to ensure deviation from the current development trajectory to a 
+low  carbon  development.  Sudan's  communication  of  a  mitigation  component  within  its  INDC 
+(M-INDC)  is  informed  by  and  premised  on  the  current  commitments  under  Article  4  and 
+particularly Articles 4.1, 4.3, 4.5, 4.7 and 4.9 of the Convention.  
+
+Sudan intended mitigation INDC contributions towards the 2015 Agreement are considered fair 
+and  ambition  given  its  current  national  circumstances,  development  objectives  and  priorities.  
+These intended contributions are also in line with Sudan's strategy to integrate climate mitigation 
+and  adaptation  into  its  national  sustainable  development  process  (INC  2003)  to  achieve  low-
+carbon and resilience development objectives. 
+
+Intended Contributions  
+ 
+
+Table 1: Sudan's Intended mitigation Contributions: 
+
+Sector  
+
+Program of 
+Action 
+
+Description  
+
+Objectives of Actions 
+
+Objective: Integration of renewable 
+energy in the power system of the 
+Sudan, target of 20% by 2030 
+1.Wind energy: 1000 MW (grid 
+connected) will be applicable in strong 
+wind regime areas.  
+
+2.Solar PV energy: 1000 MW (on - 
+and off - grid) will be applicable in 
+different states within Sudan. 
+
+1. Utilization of the different 
+renewable  energy  resources 
+potential  in  Sudan  to  avail 
+the  electric  energy  all  over 
+the 
+country; 
+2.  To  achieve  a  competitive 
+energy 
+price 
+from 
+of 
+renewable 
+sources  which 
+will  lead  to  fuel  saving; 
+3.  Diversify 
+the  energy 
+Energy  
+
+Integration of  
+renewable 
+energy  in the 
+power system 
+
+ 
+
+Cost, 
+million 
+USD 
+
+4,300 
+
+3.Solar CSP technology: 100 MW 
+(grid connected) will be applicable, 
+especially in the northern part of 
+Sudan 
+4.Waste to Energy: 80 MW (grid 
+connected) will be applicable in 
+several intended sites 
+5.Biomass Potential: 80 MW (grid 
+connected); e.g. the sugar industry. 
+6.Geothermal Potential:  300 MW in 
+different states of Sudan. 
+7.Small Hydro Plants: 50 MW (grid 
+connected)/ especially in combination 
+with irrigation-sites, small hydro plant 
+projects; 
+8.  Solar  rural  electrification  through 
+installation of  1.1  million  Solar  Home 
+Systems  (SHSs) up to 2030. 
+
+GHG mitigation is achieved through 
+energy efficiency according to: 
+1. Reduction of loss in transmission 
+and distribution networks; 
+2. Rehabilitation of the cooling system 
+in Hydroelectric stations; 
+3.Increase the readiness of the power 
+station - matrix turbines.  
+4. Reduction of the costs of producing 
+electricity and auxiliary consumption 
+from thermal power plants; 
+5. Improvement of specific fuel 
+consumption in thermal power plants; 
+6. Replacement of incandescent lamps 
+by CFL and LED lamps in residential 
+sector; 
+7. Establishment of the labeling system 
+for electrical appliances. 
+
+Production  of  2300  MW  using  natural 
+gas in different areas in the country 
+
+Afforestation/reforestation 
+through 
+official  planting.  Community  planting 
+and  Planting  in  irrigated  agricultural 
+areas.  
+To  meet  the  main  goal  of  25%  forest 
+coverage  from  the  total  area  of  the 
+Sudan  by  2030  an  area  of  790795 
+hectares needs to be planted annually if 
+Energy 
+efficiency  
+
+Electricity 
+thermal 
+generation 
+using Natural 
+Gas 
+
+Forestry  
+
+Afforestation 
+and 
+reforestation 
+
+ 
+
+transfer 
+building 
+
+supply  sources  and  ensuring 
+the  energy 
+security  and 
+saving 
+environment; 
+the 
+4.  To  be  part  of  the  global 
+energy  development  which 
+is  expected  to  lower  the 
+prices in the future; 
+5.  Supporting  the  national 
+economy  by  technology  and 
+knowledge 
+and 
+capacities 
+and 
+promoting  local  Renewable 
+industry; 
+energy 
+5.  Contribute 
+to 
+the 
+development of the different 
+regions 
+the  Sudan; 
+6. Provides access to electric 
+energy  supply  to  rural  areas 
+far  from  the  national  or  the 
+isolated  grids  for  which  the 
+grid  extension 
+is  not  a 
+feasible solution. 
+
+of 
+
+The  indicative  target  of  the 
+energy  efficiency  reflecting 
+the  rate  or  the  value  of 
+savings  in  electrical  energy 
+consumed  in  2016  up  to 
+2030,  which  resulted  from 
+measures to improve electric 
+power  efficiency  and 
+the 
+rationalization  of  electricity 
+consumption. 
+These 
+contributions  are  estimated 
+to  result  in  energy  saving  in 
+the order of 6500 GWh. 
+
+350 
+
+reduction, 
+GHG  emission 
+reduction  and 
+fuel  cost 
+enhancement  of  social  and 
+economic  development 
+in 
+the country. 
+
+2900 
+
+Afforestation/reforestation 
+supports  climate  mitigation 
+(emission reduction - carbon 
+sequestration)  by  increasing 
+the 
+the 
+country. 
+
+forest  cover 
+
+in 
+
+1500 
+
+international 
+provided. 
+
+financial 
+
+support 
+
+is 
+
+of 
+
+substitution 
+for  using 
+firewood 
+
+1.The  carbon  balance  and  incentives 
+to  LPG; 
+for  energy 
+2.Incentives 
+sustainable 
+charcoal, 
+efficiency, 
+increased  gum  Arabic  production, 
+forest  conservation  and  sustainable 
+forest  management,  Reforestation, 
+Forest  Plantations  and  more  balanced 
+livestock 
+production; 
+3.  
+conflicting 
+4.  Reconciliation 
+policies  of  rival  economic  sectors  and 
+streamlining of activities of supporting 
+sectors such as education and research. 
+Collection  is  the  major  problem  for 
+solid  waste  management  in  Sudan. 
+More  than  83%  of  waste,  i.e.6  million 
+tons of municipal waste is left without 
+collection,  which  is  five  times  the 
+estimated impact as set out in Sudan's 
+Second  National  Communication 
+report  (1.3  million  tons).            Proper 
+waste 
+to 
+eliminate  the  hazard  of  this  huge 
+amount. 
+Landfills  are  also  a  real  challenge  to 
+the  environment.  Adoption  of  sanitary 
+landfill  with  treatment  facilities,  gas 
+collection and capture system will lead 
+to  mitigate  GHG  as  such  sanitary 
+landfill  is  an  essential  and  important 
+solution for the land fill gas. 
+This is most recent and efficient 
+system for GHG mitigation method. It 
+includes: 
+1. Composting of organic component 
+in municipal waste; 
+2. Sorting and recycling of recyclable 
+items such as plastic and paper; 
+3.  Use of non-recyclable items as a 
+fuel for cement factories; 
+4. Energy Recovery by generation of 
+electricity or gas from waste. 
+
+collection 
+
+expected 
+
+is 
+
+National 
+REDD+ 
+strategy  
+
+Collection 
+
+Waste 
+
+Sanitary 
+landfill:  
+
+Zero  waste 
+concept 
+
+ 
+and 
+
+Reducing  emissions 
+from 
+deforestation 
+forest 
+degradation  enhance  carbon 
+sequestration 
+and 
+livelihoods. 
+Decreasing  the  high  rate  of 
+deforestation 
+forest 
+degradation 
+for  biomass 
+energy,  crop  cultivation  and 
+other 
+livelihood 
+needs. 
+
+important 
+
+and 
+
+GHGs 
+
+The  objective  is  to  treat  the 
+whole  generated  waste  and 
+ensure  that  no  waste  is  sent 
+to the landfill. This will lead 
+to 
+emission 
+reduction,  pollution  control; 
+land used saving and income 
+generation. 
+It  could  be 
+achieved  through  recycling, 
+composting 
+energy 
+recovery. 
+
+and 
+
+1,700 
+
+                          
+930  
+
+ 
+Table2: Information to Facilitate Clarity, Transparency and Understanding 
+
+Time frame 
+Gases Covered 
+Sectors Covered 
+  
+  
+
+BAU Scenario 
+
+ 
+
+The timeframe for implementing Sudan's INDC is 2025-2030 
+
+Carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) 
+
+1-  Energy (Electrical power) 
+2-  Forestry sector  
+3-  Waste sector 
+Geographic coverage for energy and forest sectors include 
+contributions to be implemented in most of the (18) states of 
+Sudan, however, for the waste sector it includes only Khartoum 
+state  
+
+forest 
+
+reference 
+
+levels 
+
+/ 
+
+the 
+
+implementation  of 
+
+the  effect  of 
+
+reference  emissions 
+
+ 
+Currently, Sudan has neither an overall baseline emission scenario for 
+all  sources  of  emissions  and  removals  in  the  three  sectors  covered  in 
+this  contribution,  nor  sectoral  baselines  that  can  be  used  to  define 
+quantitative mitigation actions and assess their overall effects. As such, 
+Sudan  is  planning  to  establish  a  baseline  as  part  of  its  proposal  for  a 
+low-carbon  development  strategy,  of  which  its  preparation  is  still 
+pending  availability  of  financial  and  technical  support.  Sudan  is 
+currently  embarking  on 
+its  Readiness 
+Preparation  Proposal  for  REDD+,  which  will  also  enable  Sudan  to 
+establish 
+levels 
+(ERL/FRL)  for  the  forestry  sector.  For  the  implementation  of  the 
+intended  contribution  included  in  this  INDC,  Sudan  foresees  that 
+sectoral  or  project  level  specific  baselines  should  be  established  to 
+enable  a  robust  assessment  of 
+these  mitigation 
+contributions.  
+The  trend  in  Sudan's  total  GHG  emissions  indicates  an  increase  by 
+about  8%;  from  72,014  Gg  of  carbon  dioxide-equivalent  (CO2e)  in 
+1995 to 77,650 Gg CO2e in 2000. In 2000, the total GHG emissions in 
+the  three  sectors  that  are  covered  in  Sudan's  INDC  are  estimated  at 
+8,539Gg  from  energy,  9,392  Gg  from  LUCF1  and  2,015  Gg  from 
+waste. The major drivers for these changes in GHG emission levels are 
+attributed  to,  among  others,  changes  in  emissions  from  the  energy 
+sector, which increased by roughly 10%, mainly due to increased fossil 
+fuel consumption.  
+Regarding  the  waste  sector,  emissions  from  waste  management  have 
+more than  doubled,  mainly  due  to greater  amounts  of  municipal  solid 
+waste  sent  to  landfill  sites.  There  are  a  number  of  limitations  and 
+shortcomings  affecting  the  GHG  estimations  in  the  three  sectors, 
+mainly related to serious problems of data availability and quality, and 
+partly related to technical capacity and application of methods. 
+Energy consumption in Sudan is expected to reach over 13 million tons 
+of oil-equivalent (TOE) by 2030. Diesel and gasoline, used primarily in 
+the transport sector, dominate future growth in fossil fuels and account 
+for  over  70%  of  energy  use  by  2030.  GHG  emissions  associated  with 
+this  energy  use  trajectory  are  expected  to  reach  just  over  24  million 
+tons  of  CO2-equivalent  by  2030,  a  6-fold  increase  from  year  2000 
+levels  (see  Figure  4-2).  The  transport  and  electricity  sectors  together 
+account for most of the growth in GHG emissions in Sudan, with these 
+two  sectors  responsible  for  around  70%  of  projected  GHG  emissions 
+
+                                                           
+1 Land Use, Land-Use Change and Forestry 
+
+ 
+by 2030 (SNC 2013). The current source of electrical power in Sudan 
+is  a  mix  of  hydropower  and  thermal  power  generation  plants.  The 
+thermal power generation is composed of steam turbines, diesel engine, 
+and  steam  turbines  which  have  lower-efficiency  of  about  14% 
+compared with gas high efficiency diesel-fired combined cycle unit up 
+to 45 %. Therefore, there is a need to shift to the high efficiency diesel-
+fired combined cycle unit but the initial cost is high, predominantly due 
+to the lack of available infrastructure for LNG importation and  as well 
+as  the necessary high and long-term investments.  
+Sustainable  land  use  management  faces  great  challenges  in  Sudan 
+mainly  due  to  poor  policy  coordination  across  sectors  (i.e.,  forestry, 
+agriculture,  range  and  protected  lands).  Additional  factors  include  the 
+absence  of  unified  legislation,  absence  of  high-resolution  land  use 
+maps,  inadequate  consideration  of  the  socio-economic  factors,  and 
+weak  implementation  of  the  existing  legislation  and  policies  by  the 
+sectors.  This  land  use  context  has  led  to  serious  environmental 
+problems  such  as  overgrazing,  over  cultivation  and  reduced  land 
+productivity  which  in  turn  have  led  to  rural  poverty,  and  rural-urban 
+migration  patterns  that  cannot  be  sustained  in  the  long-term.  In  the 
+absence of concerted efforts to address these issues, land degradation is 
+expected  to  worsen  over  the  next  30  years.  Factors  such  as 
+unsustainable  wood  fuel  use,  increasing  demand  for  agriculture  and 
+grazing  resources,  and  mismanaged  of  forests  and  land  use  has  led  to 
+the current deforestation rate, which is estimated at 2.2 of the total land 
+area.  
+The  methodology  used  is  the  Revised  1996  IPCC  Guidelines  for 
+National  Greenhouse  Gas  Inventories  (IPCC,  1996).  In  addition,  the 
+Good  Practice  Guidance  2000  (IPCC,  2000)  and  the  Good  Practice 
+Guidance for Land Use, Land-Use Change and Forestry (IPCC, 2003). 
+The GWP values of the IPCC Second Assessment Report. 
+Sudan  does  not  exclude  using  market-based-mechanisms 
+in 
+implementing  its  contributions  if  access  to  market  mechanism  is 
+granted. 
+
+ 
+
+Methodology for 
+Estimating Emissions 
+
+Contribution of 
+International Market 
+Based Mechanisms 
+ 
+
+ 
+Adaptation 
+
+Introduction 
+Sudan's communication of an adaptation component within its INDC (A-INDC) is based on 
+Decision  1/CP.20  of  the  "Lima  Call  for  Climate  Action"  which  "Invites  all  Parties  to 
+consider communicating their undertakings in adaptation planning or consider including an 
+adaptation component in their intended nationally determined contributions" (Lima Call for 
+Climate Action, Decision 1/CP.20, paragraph 12). As an LDC and African country, Sudan is 
+amongst  the  most  vulnerable  countries  to  the  adverse  effects  of  climate  change.  As  such, 
+adaptation is the first and overriding priority of Sudan's climate actions and hence constitutes 
+a  major  part  of  Sudan's  INDC.  Sudan's  A-INDC  is  informed  by  and  builds  on  its  current 
+commitments  under  Article  4.1  of  the  Convention,  with  the  understanding  that  provisions, 
+particularly  Articles  4.3,  4.4  and  4.7  are  being  applied,  i.e.  full  incremental  costs  being 
+provided by Annex II Parties, as well as provisions under Article 12 in relation to adaptation. 
+It  also  builds  on  the  various  adaptation-related  mechanisms  and  processes  under  the 
+Convention,  including,  above  all,  Sudan's  NAPA  (2007),  Sudan's  INC  and  SNC  (2003; 
+2012), TNA (2013), and particularly Sudan's NAP. 
+ 
+
+Aim/Objective 
+The overall aim of Sudan's INDC is based on the objective of Sudan's NAP, i.e. to contribute 
+to sustainable development and reduce poverty by reducing the long-term negative impacts of 
+climate  change.  Having  recognized  the  implications  climate  change  can  have  on  national 
+development the need for climate change adaptation in the context of sustainabledevelopment 
+was identified as an area of major concern. As such Sudan's A-INDC is being prepared with 
+the view and in the context of achieving economic and sustainable development and poverty 
+reduction  in  line  with  Sudan's  25-year  development  strategy,  the  Millennium  Development 
+Goals  (MDGs)  and  the  Sustainable  Development  Goals  (SDGs).  It,  thereby,  comprises  of 
+Sudan's  assessment  of  needs,  priorities,  capabilities  and  benefits  to  develop  nationally-
+determined priorities and plans for adaptation. 
+
+Scope 
+The  scope  of  Sudan's  A-INDC  is  focused  on  a  sector  -  and  state  -level  based  approach  to 
+reduce  vulnerability.  The  sectors  include  water,  agriculture  (both  livestock  and  crop 
+production systems), coastal zone and human health. With the development of Sudan's NAP 
+each of Sudan's 18 states undertook vulnerability assessments of these sectors and identified 
+adaptation priorities that are informed by and build upon state-level development. These will 
+serve the basis of information for Sudan's A-INDC. 
+
+In addition, Sudan's A-INDC will entail intended contributions around  
+
+1.  Adaptation  policies  and  measures,  and  planning  (e.g.  NAPA,  NAP),  including 
+into 
+
+integrating  adaptation 
+
+prioritizing 
+development planning; 
+
+interventions  for 
+
+implementation  and 
+
+2.  Strengthening institutional capacity at the state and federal level; 
+3.  Implementation of adaptation initiatives  
+
+ 
+•  Continued  implementation  of  urgent  and  immediate  needs  as  identified  in 
+
+• 
+
+Sudan's NAPA; 
+Implementation of adaptation programmes and projects in the most vulnerable 
+sectors and states as identified in the NAP; 
+
+4.  Enhancing  research,  observation  systems  and  climate  modeling  to  better  focus 
+
+targeted A-action across sectors and state level; and 
+
+5.  Increasing public awareness. 
+
+ 
+
+Baseline 
+The baseline serving the development of Sudan's A-INDC is based on assumptions as well as 
+sector- and state-based vulnerability assessments undertaken in Sudan's NAP, NAPA as well 
+as national communications and other national studies and research. Sudan's NAP undertook 
+state-level vulnerability assessments to 1) characterize vulnerability to climate change in the 
+sectors of agriculture, water  and health and 2) identify  adaptation  strategies to  reduce these 
+vulnerabilities (NAP, 2014). 
+
+The  approach  for  conducting  the  vulnerability  and  adaptation  assessments  is  based  on  a 
+bottom-up approach and consists of four main steps: 
+
+1.  Capacity  Building  of  actors  and  institutions  at  the  state  level  including  training 
+
+programmes on vulnerability assessments; 
+
+2.  Vulnerability assessments in each state, including taking stock of all relevant research 
+and studies, and stakeholder consultations taking into account both climatic and non-
+climatic factors determining vulnerability of the key vulnerable sectors; 
+
+3.  Adaptation  assessments, 
+
+including 
+
+reduce 
+vulnerabilities  at  the  state  and  sectorial  level,  predominantly  through  stakeholder 
+consultations; 
+
+identifying  adaptation  needs 
+
+to 
+
+4.  Public  awareness  through  regional  and  state  level  workshops  to  1)  validate  the 
+vulnerability and adaptation assessments, 2) identify areas of synergies with national 
+and  state-level  development  planning,  and  3)  develop  implementation  strategies  and 
+discuss ways forward. 
+
+The impacts of climate change for Sudan's most vulnerable sectors are as follows: 
+
+Agriculture:Traditional  subsistence  agriculture  dominates  the  Sudanese  economy  with  over 
+70% of the population dependent upon crop production and/or livestock husbandry to support 
+their livelihoods.Combined with growing socioeconomic pressures, the imposition of climate 
+variability and climate change is intensifying the ongoing process of desertification of arable 
+areas.  Humid  agro  climatic  zones  areshifting  southward,  rendering  vast  arable  lands 
+increasingly unsuitable for agriculture production. Crop production is declining and predicted 
+to decline substantially for millet and sorghum as well as other cash crops. The area of arable 
+land  as  well  as  the  Gum  Arabic  belt  and  its  traditional  livelihoods  production  and  pastoral 
+systems  are  all  degrading  and  decreasing  in  ability  to  support  livelihoods  of  dependent 
+communities,  with  attendant  impacts  on  both  local  incomes  and  food  security,  which  is 
+further expected to drop; 
+ 
+Water Resources:Reduced groundwater recharge - either through decreased precipitation or 
+increased temperature and evaporation - has grave repercussions for Sudan. National studies 
+have  shown  that  soil  moisture  would  further  decline  under  future  climate  change.  When 
+
+ 
+
+ 
+coupled with increased water consumption, population growth, high variation in rainfall and 
+the high rate of evaporation, a looming water crisis appears likely. Regarding the river Nile 
+there is a clear finding that under many climatic scenarios, water flow in the Nile River will 
+decrease considerably, between 20% and 30% over the next 40 years. 
+ 
+CoastalZone 
+Sudan's  coastal  zone  faces  several  major  climate-related  hazards,  namely  sea  level  rise, 
+increase  of 
+storm 
+surgeintensification.  Evidence  shows  that  these  climatic  changes  might  resulted  in  more 
+frequent coral bleachingevents and widespread mortality decline in mangroves, remobilizing 
+the  fine  sediments  of  salt  marshes,  increasing  coastal  turbidity  which  in  turn  affecting  sea 
+grasses, coral reefs and other marine biota. 
+ 
+Public Health: Communities in Sudan are exposed to significantly increased risk of malaria 
+under  climate  change.  Studies  in  Kordofan  State,  for  example,  have  shown  that  the  risk  of 
+transmission  potential  could  increase  substantially  by  2060.  This  is  already  being  realized, 
+and  further  expected  not  only  to  overburdened  health  care  systems,which  is  under  extreme 
+stress, but the disease would exact a heavy toll on local communities. 
+ 
+Table 3: Sudan's Vulnerability to Climate Change 
+Climate Change Impacts and Variability 
+
+Key vulnerabilities 
+
+in  addition 
+
+to 
+
+seawater 
+
+temperature  and 
+
+salinity  changes 
+
+ 
+
+Variable Rains(INC 2003, Sudan NAPA, 2007): 
+
+*  A decrease of annual rainfall of about 
+
+0.5% per year.  
+
+*  Co efficient of variability increased by 2.0 
+
+% per year 
+
+*  More frequent and intense drought trend 
+*  Changes in precipitation are more 
+
+uncertain results showing both wetter 
+and drier conditions (NAP 2013) 
+
+*  Shifting agro-climatic zones southwards   
+*  Water deficit 
+*  Declining, and failure of, crop production 
+*  Loss of range resources and livestock 
+*  Desertification 
+*  Poverty 
+*  Food insecurity and famines  
+*  Loss of livelihoods 
+*  Competition over resources and conflicts  
+*  Human displacement and suffering  
+
+Temperature ( Sudan INC, 2003): 
+*  By 2060, projected warming ranges from 
+
+1.5 - 3.1 C0 during August to between 
+1.1o - 2.1 C0 during January. 
+
+*  Climate scenario for Kordofan indicates 
+
+an increase in average temperature 
+
+*  Temperature clearly show substantial 
+
+warming (climate scenarios, NAP 2013) 
+
+*  Increased water loss 
+*  Negative impact on the winter season crops 
+*  Decline wheat production   
+*  Increases weeds, pests and diseases (e.g. white fly, 
+root rottenness) 
+*  increase risk of malaria and diseases 
+
+Floods (Sudan NAPA, 2007): 
+*  Floods caused by torrential rains with 
+overflow of the Nile River and its tributaries 
+*  Flash flooding due to heavy localized 
+
+*  Damage crops production systems  
+*  Damage human settlements and properties 
+*  Increase risk of malaria and other diseases 
+*  Loss of livelihoods  
+
+ 
+rainfall 
+
+River Flow (SNC, 2013): 
+
+*  Peak River Nile and Blue Nile flow is 20% 
+and 30% respectively less than usual in 
+2090. 
+
+Coastal Zone (SNC 2013): 
+
+*  Sudan sea-level is already rising in the Red 
+Sea about 10-20 cm during the past century 
+*  Warmer sea surface temperatures and  
+*  increasing water salinity 
+
+*  Exacerbate water management challenges  
+*  Declined production in irrigated sector  
+*  Decrease water availability and quality  
+
+*  Coral reef bleaching 
+*  Loss of mangrove areas 
+*  Decline fish production 
+*  Loss of other marine resources 
+*  Inundation of coastal resources and infrastructure 
+
+ 
+Table 4: Sudan's Intended Adaptation Contributions 
+
+Sector 
+
+Intended Contributions 
+
+Agriculture  Crop Production 
+
+*  Crop diversification and introduction of improved drought-resistant varieties/early maturing varieties (both field and 
+
+horticultural crops) in areas affected by rainfall decease/ variability 
+
+*  Rehabilitation of the meteorological networks to enhance early warning system activities  
+*  Diversification  of  income  generating  activities  in  order  to  increase  adaptive  capacity  of  vulnerable  farmers' 
+
+communities in order to achieve food security/reduce poverty 
+
+in  vulnerable  areas,  awareness  and  access 
+
+to 
+
+* 
+
+*  Strengthening  of  enabling  environment/activities  to  empower  vulnerable  communities  including  through: 
+information  by  vulnerable 
+
+establishment  of  markets 
+groups/communities etc. 
+Introduction  of  agroforestry  in  areas  vulnerable  to  climate  change  to  enhance  agriculture  production  as  well  as 
+empower vulnerable communities through their involvement in community forests activities/products. 
+*  Establishment of women cooperative societies in order to empower them and increase their resilience  
+*  Enhancing the participation of women and youth in activities related to adaptation and environmental conservation 
+in  order  to  empower  them  and  enhance  their  adaptive  capacity  including  through  establishment  rural  women 
+development programme 
+
+*  Climate-proofing  of  some  of  the  existing  developmental  project  to  increase  their  resilience  for  current  and  future 
+
+climatic changes 
+
+*  Planting  shelterbelts,  introduction  of  high  economic  value  trees  and  rehabilitation  of  the  Gum  Arabic  gardens  to 
+
+increase the resilience of vulnerable communities through engagement in a range of forestry activities 
+
+ 
+Rangeland and livestock 
+
+*  Regular surveillance of animal diseases through improved monitoring 
+*  Establishment of range's enclosures/ranches to increase resilience of vulnerable communities 
+*  Advance research on various areas related to climate change impacts on rangelands (e.g. plants and animals species, 
+
+communities etc.) and measures to address that 
+Joint management of the natural resources for comprehensive consideration of climate change impacts  
+
+* 
+*  Management of the grazing areas and rangelands in a sustainable manner 
+*  Enhancement of enabling environment in order to empower vulnerable communities including through: Improving  
+marketing/markets,  supplementary  feeding,  increase  awareness  and  access  to  information  by  vulnerable 
+groups/communities, etc. 
+
+ 
+Water 
+
+Coastal 
+Zone 
+
+Health 
+
+Improving animal productivity and animal breeds to increase resilience to climate change 
+
+*  Restocking animal herds in areas affected by climate change 
+* 
+*  Replanting and rehabilitating of vulnerable areas with palatable range species and management of animal routes  
+* 
+
+Improving veterinary services (including, mobile clinics provision of vaccines etc.) to enhance the adaptive capacity 
+in vulnerable areas 
+ 
+Integrated Management of the water resources to meet the current and future challenges/needs 
+
+* 
+*  Water  harvesting  (dams,  hafirs,  terraces,  etc.)  to  assist  vulnerable  communities  to  adapt  and  build  their  resilience 
+
+facing increasing vulnerability of water sources/resources 
+
+*  Establishment and rehabilitation of hand pumps and construction of water-networks in  rural areas for provisions of 
+
+drinking-water and achieving water security in order to discourage communities' migration from vulnerable areas  
+
+*  Advance  research  related  to  climate  change  impacts  on  water  sector  e.g.  Undertaking  geophysical  studies  of  the 
+
+aquifers for sustainable ground water utilization 
+
+*  Establishment of rain gauge stations to monitor and provide hydrological information 
+* 
+*  New  information  systems:  Enhancing  monitoring  programs  in  natural  and  urban  settings  to  detect  biological, 
+
+Introduction of a revolving micro-credit fund to support implementation of small water harvesting projects 
+
+* 
+
+physical, and chemical changes and responses due to direct and indirect effects of climate change 
+Implement integrated coastal zone management: an integrated approach to land use planning, creation of ecological 
+buffer zones, establishing protected inland zones to accommodate salt marsh, mangrove and sea grass 
+
+*  Building awareness: This involves enhancing the awareness of coastal developers through national and international 
+
+activities, technical assistance, and capacity-building 
+Introduction of early disease diagnosis and treatment programmes for malaria, meningitis, and leishmaniasis 
+
+* 
+*  Raising  the  health  awareness  of  communities  in  vulnerable  areas  to  climate  change  related  diseases  in  order  to 
+
+increase their adaptive capacities 
+
+*  Building the capacities of the health cadres and improvement of health services to meet the evolving and increasing 
+
+* 
+
+challenges of climate change 
+Increasing health resilience to climate change related diseases and reducing the associated mortality by Supporting 
+family's and school's health programmes 
+
+*  Control  of  Endemic  and  epidemic  diseases  induced  by  Climate  Change  through  Combating  vectors  and  insects 
+
+borne diseases 
+
+*  Controlling of diseases shared between humans and animals 
+* 
+
+Improve community sanitation and medical services, including capacities for diagnosis and treatment 
+
+ 
+Planning Process 
+Mitigation and adaptation actions are implemented across the various sectors at both the national 
+and states administrative levels. The Framework of National Appropriate Mitigation Actions and 
+the National Adaptation Planning process being undertaken by Government provides a good basis 
+for  long-  term  adaptation  and  mitigation  programming  and  mainstreaming  of  climate  change 
+adaptation/mitigation into the existing national planning processes. 
+Sudan  has  taken  concrete  actions  and  showed  political  will  to  address  and  minimize  the  risks 
+posed  by  climate  change  to  its  communities,  natural  resources  and  economy  by  identifying  and 
+implementing  adaptation  measures  while  pursing  low-carbon  development  strategies  to  spur  its 
+local  and  national  economy  in  a  sustainable  manner.  Sudan's  Initial  National  Communication 
+(INC)  to  the  UNFCCC  identified  agriculture,  water  resources  and  public  health  as  most 
+vulnerable  sectors  to  climate  change  and  climate  variability.  SSNC  (2012)  further  identified 
+coastal zones as an increasingly vulnerable sector that needs to be considered in  climate change 
+adaptation actions. 
+With the National Adaptation Programme of Action (NAPA) Sudan's adaptation engagement was 
+brought  to  a  different  level  (2007)  as  it  initiated  building  a  solid  base  to  take  systematic 
+adaptation  planning  and  implementation,  including  through  stakeholder  engagement,  raising 
+public awareness, and building individual and institutional capacities in the Sudanese context that 
+set the basis for further adaptation action. Sudan's NAPA is the first adaptation plan prepared to 
+enable  Sudan  to  access  funds  made  available  through  the  Least  Developed  Countries  Fund 
+(LDCF)  to  implement  real  adaptation  actions  on  ground.  The  overall  goal  of  the  NAPA 
+preparation process was to identify urgent and immediate activities to address climate variability 
+and climate change within the context of the country's economic development priorities. Sudan's 
+NAPA  identified  32  urgent  and  immediate  adaptation  initiatives  in  the  four  states  River  Nile, 
+Gedarif, South Darfur and North Kordofan, representing five different ecological zones.  
+ 
+In  addition,  in  response  to  the  Cancun  Adaptation  Framework  (CAF,  2010),  Sudan  launched  a 
+process  for  a  NAP  in  line  with  its  National  Implementation  Strategy  (INC,  2003).  Sudan  is 
+currently  in  the  final  stage  of  developing  its  NAP  which  is  currently  subject  to  Ministerial 
+endorsement. Sudan's NAP aims to integrate climate risks into all national development planning 
+processes and reduce vulnerability to the impacts of climate change, by building adaptive capacity 
+and resilience. As such, Sudan's NAP process includes assessment of vulnerability and adaptation 
+in  all  Sudan's  States,  covering  the  main  development  sectors,  such  as  water,  agriculture,  health 
+and coastal zone.  
+
+ 
+
+Sudan  has  conducted  its  Technology  Needs  Assessment  (TNA)  for  adaption  and  mitigation  in 
+2013.  For  mitigation  the  TNAs  covers  energy,  industry  and  forestry  sectors  while  two  priority 
+sectors have been covered with regard to technology for adaptation, namely agriculture and water 
+sectors. The TNAs resulted in  a Technology Action Plan (TAP), which includes some priorities 
+with regard to technology transfer for enhancing national actions on adaptation and mitigation  
+ 
+At national level line ministries developed climate change related polices such as the Agricultural 
+Revival  Program  (ARP)  of  2008  -2011  and  the  five  year  economic  reform  programme  2015- 
+2019.  The  Forest  Policy,  (2006)  supports  climate  resilient  livelihoods  via  encouraging  income 
+diversification,  facilitating  microfinance  and  providing  access  to  land  (Ministry  of  Agriculture 
+and Irrigation, 2012). The Natural Resource Management policy is part of the development plan 
+
+ 
+
+ 
+
+of the state, which is in line with Sudan's national policy. The policy provides clear guidelines for 
+local  rehabilitation.  This  made  local  communities  becoming  more  aware  of  the  importance  of 
+sustainable  resources  management.  Mainstreaming  adaptation  and  enhancing  adaptive  capacity 
+could  be  increased  by  encouraging  partnerships  between  informal  processes  and  formal 
+interventions to facilitate adaptation.  
+
+In  terms  of  mitigation,  Sudan  aims  towards  achieving  quicker  economic  growth  rates  in  a 
+sustainable  manner.  In  line  with  this  Sudan  intends  to  undertake  measures  across  a  number  of 
+sectors  of  its  economy  to  pursue  low-carbon  development,  guided  by  the  long-term  national 
+development  policies,  plans  and  strategies,  which  are  clearly  stated  in  different  national 
+development planning documents such as the Strategic Plan document 2007-2033. In addition, it 
+incorporates the outcome of further analysis and consultation to enhance Sudan's existing plans, 
+in  particular  the  assessment  of  the  potential  economic  sectors  that  lead  towards  a  low  carbon 
+development strategy. Sudan has also prepared a proposal for a low-carbon development strategy, 
+how its implementation still pending access to international climate funding. 
+ 
+Means of Implementation 
+ 
+Despite  being  committed  to  and  meeting  its  obligations  under  the  Convention,  however  due  to 
+some political and unilateral sanctions by some developed countries Sudan was not successful in 
+accessing  bilateral  sources  of  climate  finance,  which  is  currently  the  major  source  for  funding 
+climate action in  developing  countries. This  situation leaves Sudan even more vulnerable to  the 
+devastating  consequences  of  climate  change  impacts  on  its  people  and  natural  systems  upon 
+which their livelihoods depend. Sudan is currently implementing some key urgent and immediate 
+adaptation initiatives as identified based on the NAPA only in six states out 18 vulnerable states, 
+based  on  resources  from  the  LDCF  and  substantial  local  contributions  from  the  participating 
+states and the national government. However, these are far from match the magnitude of Sudan's 
+vulnerability  to  the  impacts  of  climate  change.  Sudan  also  implementing  some  mitigation 
+priorities on renewable energy (solar, wind) as will as forestry mitigation projects using its STAR 
+GEF  allocation,  which  is  limited  funding  to  create  an  ambition  contribution  to  required  global 
+climate mitigation efforts.  
+ 
+Implementing the communicated intended contributions requires an overall investment estimated 
+up  to  2025  for  adaptation  and  up  to  2030  for  mitigation  based  on  current  sectoral  plans.  The 
+required resources to be mobilized through climate finance mechanisms under the UNFCCC such 
+as  the  Green  Climate  Fund  (GCF),  GEF  and  other  climate  related  bilateral,  multilateral  and 
+domestic financing including the private sector investment.  
+ 
+The  international  support  required  to  implement  the  intended  contribution  in  terms  of  finance, 
+technology and capacity building, over a cycle of contributions of 5-10 years, amount to a total of 
+12.88 USD billions, of which 1.2 billions USD$ for adaptation and 11.68 billions for mitigation. 
+This  amount is  required to  be met from  all possible and accessible  international  climate finance 
+sources.   In addition  the national  and states'  government  will provide local  contributions  within 
+their  regular  and  development  budgets,  national  resources  and  priorities  permitting  as 
+demonstrated  in  the  case  of  the  current  GEF  (LDCF/STAR)  funded  adaptation  and  mitigation 
+projects.  Further  development  and  elaboration  of  contributions  and  assessment  of  costs  will  be 
+necessary to refine the required investment for implementing such programmes and actions. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+

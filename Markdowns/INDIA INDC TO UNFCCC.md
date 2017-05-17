@@ -1,0 +1,2564 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>INDIA'S INTENDED NATIONALLY DETERMINED CONTRIBUTION: 
+
+WORKING TOWARDS CLIMATE JUSTICE 
+
+"Om dyauh śāntir antariksam śāntih prithvi śāntih āpah śāntih osadhayah śāntih" 
+
+  
+
+{{Unto Heaven be Peace, Unto the Sky and the Earth be Peace, Peace be unto the 
+
+-- Yajur Veda 36.17 
+
+Water, Unto the Herbs and Trees be Peace}} 
+
+ 
+
+INTRODUCTION 
+
+India  has  a  long  history  and  tradition  of  harmonious  co-existence  between  man  and 
+
+nature. Human beings here have regarded fauna and flora as part of their family. This is part 
+
+of our heritage and manifest in our lifestyle and traditional practices. We represent a culture 
+
+that calls our planet Mother Earth. As our ancient text says; "Keep pure! For the Earth is our 
+
+mother!  And  we  are  her  children!"  The  ancient  Indian  practice  of  Yoga,  for  example,  is  a 
+
+system that is aimed at balancing contentment and worldly desires, that helps pursue a path of 
+
+moderation  and  a  sustainable  lifestyle.  Environmental  sustainability,  which  involves  both 
+
+intra-generational  and  inter-generational  equity,  has  been  the  approach  of  Indians  for  very 
+
+long.  Much before the climate change debate began, Mahatma Gandhi, regarded as the father 
+
+of our nation had said that we should act as ‘trustees' and use natural resources wisely as it is 
+
+our moral responsibility to ensure that we bequeath to the future generations a healthy planet.  
+
+The  desire  to  improve  one's  lot  has  been  the  primary  driving  force  behind  human  progress. 
+
+While a few fortunate fellow beings have moved far ahead in this journey of progress, there 
+
+are many in the world who have been left behind. Nations that are now striving to fulfill this 
+
+'right  to  grow' of their teeming millions  cannot  be made to  feel  guilty  of  their development 
+
+agenda  as  they  attempt  to  fulfill  this  legitimate  aspiration.  Just  because  economic 
+
+development of many countries in the past has come at the cost of environment, it should not 
+
+be presumed that a reconciliation of the two is not possible.  
+
+ 
+
+ 
+
+Page 1 of 38  
+
+ 
+
+It  is  possible  for  people  to  live  in  harmony  with  nature  by  harnessing  its  potential  for  the 
+
+benefit  of  mankind  without  undue  exploitation  leading  to  irretrievable  damage  and 
+
+consequences that block the progress of others. There is a need to evolve a set of precepts, a 
+
+kind  of  commandments,  especially  for  the  youth  of  the  world,  that  help  in  developing  a 
+
+unified  global  perspective  to  economic  growth  so  that  the  disparity  in  the  thinking  of  the 
+
+'developed'  and  'developing'  countries  could  be  bridged.  The  removal  of  such  barriers  of 
+
+thought  and  the  creation  of  a  regime  where  facilitative  technology  transfer  replaces  an 
+
+exploitative  market  driven  mechanism  could  pave  the  way  for  a  common  understanding  of 
+
+universal  progress.  If climate change is  a calamity that  mankind must adapt  to  while taking 
+
+mitigation action withal, it should not be used as a commercial opportunity. It is time that a 
+
+mechanism is set up which will turn technology and innovation into an effective instrument 
+
+for global public good, not just private returns. 
+
+The  challenge  of  climate  change  calls  for  extraordinary  vision,  leadership,  compassion  and 
+
+wisdom.  Human  ingenuity  and  intellect  will  also  play  an  important  role  in  addressing  this 
+
+challenge.    The  cumulative  accumulation  of  greenhouse  gases  (GHGs)  historically  since 
+
+industrial  revolution  has  resulted  in  the  current  problem  of  global  warming.  This  is  further 
+
+compounded by the tepid and inadequate response of the developed countries even after the 
+
+adoption of the United Nations Framework Convention on Climate Change (UNFCCC) and 
+
+delineation  of  obligations  and  responsibilities.  As  a  result,  an  ‘emission'  ambition  gap  has 
+
+been created calling for enhanced global actions to address it. India, even though not a part of 
+
+the problem, has been an active and constructive participant in the search for solutions. Even 
+
+now, when the per capita emissions of many developed countries vary between 7 to15 metric 
+
+tonnes, the per capita emissions in India were only about 1.56 metric tonnes in 2010. This is 
+
+because  Indians believe in nature friendly lifestyle and practices rather than its exploitation. 
+
+By  enhancing  their  efforts  in  keeping  with  historical  responsibility,  the  developed  and 
+
+resource  rich  countries  could  reduce  the  burden  of  their  action  from  being  borne  by 
+
+developing countries that carry the additional responsibility of finding resources to meet their 
+
+development needs and strive to improve their Human Development Index (HDI). 
+
+With  the  responsibility  of  ensuring  a  reasonable  HDI  for  the  country  and  the  economic 
+
+progress  of  its  vast  population,  India  has  attempted  to  follow  a  path  'cleaner'  than  the  one 
+
+followed  by  many  countries  in  the  past.    Today  these  countries  may  be  in  the  forefront  of 
+
+ 
+
+ 
+
+Page 2 of 38  
+
+ 
+
+development,  even providing a model  of  growth  to  other developing countries. However, if 
+
+India  compares  the  emission  intensity  of  its  GDP  (Gross  Domestic  Product)  in  PPP 
+
+(Purchasing  Power  Parity)  terms  at  present  with  those  countries  at  a  similar  level  of 
+
+development, it is seen that their emissions then were far more than India's at present. This is 
+
+as much on account of India being open and innovative in embracing new technology and a 
+
+cleaner way of doing things, as it is from the inherent principles of sustainability ingrained in 
+
+its thought process.  
+
+If  the  world  indeed  is  concerned  about  its  new  investments  to  be  climate  friendly,  it  must 
+
+consider the opportunity provided by a  country like  India  where economic growth could  be 
+
+achieved with minimum levels of emissions by employing new technologies and finance for 
+
+achieving  low  carbon  growth.  Developed  countries  can  certainly  bring  down  their  emission 
+
+intensity  by  moderating  their  consumption,  and  substantially  utilize  their  investments  by 
+
+employing  them  for  development  activities  in  countries  housing  a  vast  majority  of  people 
+
+barely  living  at  subsistence  level.    The  ratio  of  emission  avoided  per  dollar  invested  and 
+
+economic growth attained would be relatively more favourable in case of investments made 
+
+in India. 
+
+Mahatma Gandhi had once said,  "One must care about the world one will not see". Indeed, 
+
+humanity  has  progressed  when  it  has  collectively  risen  to  its  obligation  to  the  world  and 
+
+responsibility to the future. 
+
+2015 Agreement 
+
+India is committed to engaging actively in multilateral negotiations under the UNFCCC in a 
+
+positive,  creative  and  forward-looking  manner.  Our  objective  is  to  establish  an  effective, 
+
+cooperative  and  equitable  global  architecture  based  on  climate  justice  and  the  principles  of 
+
+Equity  and  Common  But  Differentiated  Responsibilities  and  Respective  Capabilities,  under 
+
+the  UNFCCC.  Such  an  approach  should  be  anchored  in  the  vision  inspired  by  Mahatma 
+
+Gandhi's famous exhortation; "Earth has enough resources to meet people's needs, but will 
+
+never  have  enough  to  satisfy  people's  greed".  We  must  promote  sustainable  production 
+
+processes  and  also  sustainable  lifestyles  across  the  globe.  Habit  and  attitude  are  as  much  a 
+
+part of the solution  as Technology  and Finance.  It  must be understood that  poverty is  a big 
+
+ 
+
+ 
+
+Page 3 of 38  
+
+ 
+
+polluter;  so  is  the  extravagant  way  of  life  and  a  profligate  pattern  of  consumerism  a  grave 
+
+threat to environment. 
+
+As we put together the new global compact for enhanced actions, it is critical to ensure that it 
+
+is  comprehensive,  balanced,  equitable,  and  pragmatic.  It  should  address  all  the  elements 
+
+including  Adaptation,  Mitigation,  Finance,  Technology  Transfer,  Capacity  Building  and 
+
+Transparency  of  Action  and  Support.  At  the  same  time,  the  genuine  requirements  of 
+
+developing  countries  like  India  for  an  equitable  carbon  and  development  space  to  achieve 
+
+sustainable development and eradication of poverty needs to be safeguarded. Achievement of 
+
+these goals requires adherence to the principles and provisions of the UNFCCC. As the Prime 
+
+Minister  of  India,  while  addressing  the  United  Nations  on  25th  September  2015,  has  said; 
+
+"We all believe that international partnership must be at the centre of our efforts, whether it is 
+
+development or combating climate change. And, the principle of common but differentiated 
+
+responsibilities  is  the  bedrock  of  our  collective  enterprise.  When  we  speak  only  of  climate 
+
+change, there is a perception of our desire to secure the comforts of our lifestyle. When we 
+
+speak of climate justice, we demonstrate our sensitivity and resolve to secure the future of the 
+
+poor from the perils of natural disasters". 
+
+India's  contribution  takes  into  account  its  commitment  to  conservation  of  nature  as  well  as 
+
+the imperatives of meeting the competing demand of resources for addressing the challenges 
+
+of poverty eradication, food security and nutrition, universal access to education and health, 
+
+gender  equality  and  women  empowerment,  water  and  sanitation,  energy,  employment, 
+
+sustainable  urbanisation  and  new  human  settlements  and  the  means  of  implementation  for 
+
+enhanced  action  for  achieving  among  others,  the  sustainable  development  goals  for  its  1.2 
+
+billion people.  
+
+ 
+
+I. NATIONAL CIRCUMSTANCES 
+
+Climate change is a major challenge for developing countries like India that face large scale 
+
+climate variability and are exposed to enhanced risks from climate change. Few countries in 
+
+the world are as vulnerable to the effects of climate change as India is with its vast population 
+
+that is dependent on the growth of its agrarian economy, its expansive coastal  areas and the 
+
+Himalayan  region  and  islands.  It  also  entails  tradeoffs  with  economic  growth  and  social 
+
+ 
+
+ 
+
+Page 4 of 38  
+
+ 
+
+development in the shortrun that needs to be factored in the policy matrix, where eradication 
+
+of poverty is one of the foremost priorities. 
+
+India  accounts  for  2.4%  of  the  world  surface  area,  but  supports  around  17.5%  of  the  world 
+
+population.  It houses the largest proportion of global poor (30%),  around 24% of the global 
+
+population  without  access  to  electricity  (304  million),  about  30%  of  the  global  population 
+
+relying  on  solid  biomass  for  cooking  and  92  million  without  access  to  safe  drinking  water. 
+
+The  average  annual  energy  consumption  in  India  in  2011  was  only  0.6  tonnes  of  oil 
+
+equivalent (toe) per capita as compared to global average of 1.88 toe per capita. It may also 
+
+be noted that no country in the world has been able to achieve a Human Development 
+
+Index of 0.9 or more without an annual energy  availability of at least 4 toe per capita. 
+
+With a HDI of 0.586 and global rank of 135, India has a lot to do to provide a dignified life to 
+
+its population and meet their rightful aspirations. 
+
+India  is  a  developing  country  with  a  per  capita  GDP  (nominal)  of  around  USD  1408  per 
+
+annum.  However,  this  doesn't  reflect  the  wide  disparities  amongst  its  people  and  regions. 
+
+Around 363 million people (30% of the population) live in poverty, about 1.77 million people 
+
+are houseless and 4.9% of the population (aged 15 years and above) are unemployed. The per 
+
+capita  electricity  consumption  stands  low  at  917  kWh,  which  is  barely  one  third  of  the 
+
+world's average consumption.  
+
+A recent national socio-economic census indicates that economic and social deprivations are 
+
+much higher in terms of availability of proper houses, access to education, lifeline availability 
+
+of  energy,  and  stable  sources  of  income.  This  is  more  so  in  rural  India  where  48%  of  the 
+
+households lack basic socio economic services and were categorized as deprived.  India also 
+
+has the largest  cattle and buffalo  population  in  the world  of about  300 million,  which faces 
+
+multiple  challenges  including  diseases,  inadequate  supply  of  fodder  etc.  as  a  result  of 
+
+changing climate. 
+
+Given  the  development  agenda  in  a  democratic  polity,  the  infrastructure  deficit 
+
+represented by different indicators, the pressures of urbanization and industrialization 
+
+and  the  imperative  of  sustainable  growth,  India  faces  a  formidable  and  complex 
+
+challenge in working for economic progress towards a secure future for its citizens. 
+
+ 
+
+ 
+
+Page 5 of 38  
+
+ 
+
+The following projected  key macro indicators are a reflection of  India's future needs as the 
+
+economy grows in the coming years: 
+
+ 
+
+Indicator 
+Population (billion) a 
+Urban population (million)b 
+
+GDP at 2011-12 prices (in trillion)c 
+
+Per capita GDP in USD (nominal)c 
+Electricity demand (TWh)c 
+
+India in 2014 
+
+India in 2030 
+
+1.2  
+377 (2011) 
+ INR 106.44 
+(USD 1.69) 
+
+1408 
+
+776(2012) 
+
+1.5 
+609 
+INR 397.35 (USD 
+6.31) 
+
+4205 
+
+2499 
+
+Source:  a:  Population  Foundation  of  India;  b:  UN  World  Urbanization  Prospects,  2014;  c: 
+
+Government of India. 
+
+Almost  all  the  macroeconomic  models  predict  that  anticipated  needs  in  the  future  will  be 
+
+large.  Rapid  urbanization  in  the  country  will  be  one  of  the  most  dominant  trends  in  the 
+
+coming  years.  It  is  expected  that  about  40%  of  the  population  in  2030  would  be  urban  as 
+
+against  30%  currently.  As  population  expands  and  incomes  grow,  this  shift  will  likely  be 
+
+realized  alongside  demographic  changes  that  will  exponentially  increase  the  demand  for 
+
+urban  amenities  like  housing,  energy,  transport,  water,  waste  disposal.  It  is  estimated  that 
+
+more than half of India of 2030 is yet to be built.  In a way, India's development process is 
+
+doubly challenging. It not only has to complete the current unfinished development agenda, it 
+
+has  to  strategise  for  future  pressures  that  may  increase  the  magnitude  of  this  development 
+
+gap.  India  realises  that  economic  growth  and  development  have  to  be  guided  by  the  key 
+
+concerns  of  sustainability,  because  none  of  us  have  the  luxury,  any  longer,  of  ignoring  the 
+
+economic as well as the environmental threat that a fast-deteriorating ecosystem poses to our 
+
+fragile  planet.  India  believes  that  development  and  environment  are  not  adversaries  but  can 
+
+go  hand  in  hand,  if  environmental  sensibilities  can  be  imbibed.    Equitable,  inclusive  and 
+
+sustainable development would be the key to a new model of growth that India is committed 
+
+to  pursue,  which  can  be  fostered  and  facilitated  by  a  collaborative  approach  among  the 
+
+Developing and the Developed countries. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 6 of 38  
+
+ 
+
+II. POLICY FRAMEWORK 
+
+India's  environment  policy  is  anchored  in  the  Constitution  of  India,  Article  48-A  of  the 
+
+Constitution states that "The State shall endeavour to protect and improve the environment 
+
+and to safeguard the forests and wildlife of the country". 
+
+The Indian development process is guided by the aspiration of making India prosperous and 
+
+progress on the path of "Development without Destruction". 
+
+The  broad  policy  framework  on  environment  and  climate  change  is  laid  down  by  the 
+
+National Environment Policy (NEP) 2006, which promotes sustainable development along 
+
+with  respect  for  ecological  constraints  and  the  imperatives  of  social  justice.  The  current 
+
+development paradigm reiterates the focus on sustainable growth and aims to exploit the co-
+
+benefits of addressing climate change along with promoting economic growth. The National 
+
+Action  Plan  on  Climate  Change  (NAPCC)  provides  a  sharper  focus  on  required 
+
+interventions. Currently, NAPCC is implemented through eight National Missions, outlining 
+
+priorities for mitigation and adaptation to combat climate change. The broad policy initiatives 
+
+of the government are supplemented by actions of the State Governments, Non-governmental 
+
+Organizations (NGOs), initiatives of the private sector and other stakeholders. 32 States and 
+
+Union  Territories  have  put  in  place  the  State  Action  Plan  on  Climate  Change  (SAPCC) 
+
+attempting to mainstream climate change concerns in their planning process.  
+
+Many  other  national  strategies  and  policies  supplement  the  above  efforts.  The  Energy 
+
+Conservation Act has been enacted to encourage efficient use of energy and its conservation. 
+
+The  National  Policy  for  Farmers  focuses  on  sustainable  development  of  agriculture.  The 
+
+National  Electricity  Policy  (NEP)  underscores  the  focus  on  universalizing  access  to 
+
+electricity  and  promoting  renewable  sources  of  energy,  as  does  the  Integrated  Energy 
+
+Policy (IEP). 
+
+Policies to promote actions that address climate concerns also include fiscal instruments 
+
+like  coal  cess,  cuts  in  subsidies,  increase  in  taxes  on  petrol  and  diesel,  market 
+
+mechanisms 
+
+including  Perform  Achieve  and  Trade  (PAT),  Renewable  Energy 
+
+Certificates  (REC) and a regulatory regime of Renewable Purchase Obligation (RPO). 
+
+The  institutional  arrangement  for  offtake  of  renewable  power  will  be  further 
+
+strengthened. 
+
+ 
+
+ 
+
+Page 7 of 38  
+
+ 
+
+III. INDIA'S PROGRESS IN COMBATING CLIMATE CHANGE  
+
+In recognition of the growing problem of Climate Change, India declared a voluntary goal of 
+
+reducing the emissions intensity of its GDP by 20-25%, over 2005 levels,  by 2020, despite 
+
+having no binding mitigation obligations as per the Convention. A slew  of policy measures 
+
+were  launched  to  achieve  this  goal.  As  a  result,  the  emission  intensity  of  our  GDP  has 
+
+decreased  by  12%  between  2005  and  2010.  It  is  a  matter  of  satisfaction  that  United 
+
+Nations  Environment  Programme  (UNEP)  in  its  Emission  Gap  Report  2014  has 
+
+recognized India as one of the countries on course to achieving its voluntary goal. 
+
+India  has  a  definite  plan  of  action  for  clean  energy,  energy  efficiency  in  various  sectors  of 
+
+industries, steps to achieve lower emission intensity in the automobile and transport sector, a 
+
+major thrust to non-fossil based electricity generation and a building sector based on energy 
+
+conservation. 
+
+India's on-going mitigation and adaptation strategies and actions are detailed in the following 
+
+sections, along with the expected direction of activities in the near future.  
+
+1. MITIGATION STRATEGIES  
+
+ 
+
+1.1 CLEAN AND EFFICIENT ENERGY SYSTEM 
+
+Energy is  a  vital  input for production and  growth. Considering universal  energy access  and 
+
+energy security as one of the fundamental development goals for the country, Government of 
+
+India  (GoI)  has  undertaken  a  two  pronged  approach  to  cater  to  the  energy  demand  of  its 
+
+citizens  while  ensuring  minimum  growth  in  carbon  emissions.  On  the  generation  side,  the 
+
+Government is promoting greater use of renewables in the energy mix mainly through solar 
+
+and wind power and shifting towards supercritical technologies for coal based power plants. 
+
+On  the  demand  side,  efforts  are  being  made  to  efficiently  use  energy  through  various 
+
+innovative policy measures under the overall ambit of Energy Conservation Act. 
+
+The energy intensity of the economy has decreased from 18.16 goe (grams of oil equivalent) 
+
+per Rupee of GDP in 2005 to 15.02 goe per Rupee GDP in 2012, a decline of over 2.5% per 
+
+annum. 
+
+ 
+
+ 
+
+ 
+
+Page 8 of 38  
+
+ 
+
+1.1.1 Promotion of Clean Energy 
+
+India is running one of the largest renewable capacity expansion programs in the world. 
+
+Between  2002  and  2015,  the  share  of  renewable  grid  capacity  has  increased  over  6  times, 
+
+from  2%  (3.9  GW)  to  around  13%  (36  GW).  This  momentum  of  a  tenfold  increase  in  the 
+
+previous decade is to be significantly scaled up with the  aim to achieve 175 GW renewable 
+
+energy capacity in the next few years. India has also decided to anchor a global solar alliance, 
+
+InSPA  (International  Agency  for  Solar  Policy  &  Application),  of  all  countries  located 
+
+between the Tropic of Cancer and the Tropic of Capricorn. 
+
+1)  Wind  energy  has  been  the  predominant  contributor  to  the  renewable  energy  growth  in 
+
+India accounting for 23.76 GW (65.2%) of the renewable installed capacity, making India 
+
+the 5th largest wind power producer in the world. With a potential of more than 100 GW, 
+
+the aim is to achieve a target of 60 GW of wind power installed capacity by 2022.  
+
+2)  Solar  power  in  India  is  poised  to  grow  significantly  with  Solar  Mission  as  a  major 
+
+initiative of the Government of India. Solar power installed capacity has  increased from 
+
+only 3.7 MW in 2005 to about 4060 MW in 2015, with a CAGR of more than 100% over 
+
+the  decade.  The  ambitious  solar  expansion  programme  seeks  to  enhance  the  capacity  to 
+
+100  GW  by  2022,  which  is  expected  to  be  scaled  up  further  thereafter.  A  scheme  for 
+
+development  of  25  Solar  Parks,  Ultra  Mega  Solar  Power  Projects,  canal  top  solar 
+
+projects  and  one  hundred  thousand  solar  pumps  for  farmers  is  at  different  stages  of 
+
+implementation.    Government  of  India  is  also  promoting  solarization  of  all  the  55,000 
+
+petrol pumps across the country out of which about 3,135 petrol pumps have already been 
+
+solarized. 
+
+3)  Biomass  energy  constitutes  about  18%  of  total  primary  energy  use  in  the  country  and 
+
+more than 70% of the country's population depends on it.  However, it is currently used 
+
+in  an inefficient  manner  with  high levels  of indoor pollution. A number  of programmes 
+
+have  been  initiated  for  promotion  of  cleaner  and  more  efficient  use,  including  biomass 
+
+based  electricity  generation.  It  is  envisaged  to  increase  biomass  installed  capacity  to  10 
+
+GW by 2022 from current capacity of 4.4 GW. 
+
+4)  Hydropower  contributes  about  46.1  GW  to  current  portfolio  of  installed  capacity,  of 
+
+which 4.1 GW is small hydro (upto 25 MW) and 41.99 GW is large hydro (more than 25 
+
+MW). Special programmes to  promote small  and mini  hydel projects, new and  efficient 
+
+ 
+
+ 
+
+Page 9 of 38  
+
+ 
+
+designs of water mills have been introduced for electrification of remote villages. With a 
+
+vast potential of more than 100 GW, a number of policy initiatives and actions are being 
+
+undertaken to aggressively pursue development of country's vast hydro potential. 
+
+5)  India  is  promoting  Nuclear  Power  as  a  safe,  environmentally  benign  and  economically 
+
+viable source to meet the increasing electricity needs of the country. With a 2.2% share in 
+
+current  installed  capacity,  total  installed  capacity  of  nuclear  power  in  operation  is  5780 
+
+MW.  Additionally  six  reactors  with  an  installed  capacity  of  4300  MW  are  at  different 
+
+stages  of  commissioning  and  construction.  Efforts  are  being  made  to  achieve  63  GW 
+
+installed capacity by the year 2032, if supply of fuel is ensured. 
+
+6)  Clean Coal policies: Coal based power as of now accounts for about 60.8% (167.2 GW) 
+
+of India's installed capacity. In order to secure reliable, adequate and affordable supply of 
+
+electricity,  coal  will  continue  to  dominate  power  generation  in  future.  Government  of 
+
+India has already taken several initiatives to improve the efficiency of coal based power 
+
+plants  and  to  reduce  its  carbon  footprint.  All  new,  large  coal-based  generating  stations 
+
+have been mandated to use the highly efficient supercritical technology. Renovation and 
+
+Modernisation  (R&M)  and  Life  Extension  (LE)  of  existing  old  power  stations  is  being 
+
+undertaken  in  a  phased  manner.  About  144  old  thermal  stations  have  been  assigned 
+
+mandatory targets for improving energy efficiency. Coal beneficiation has been made 
+
+mandatory.  Introduction  of  ultra-supercritical  technology,  as  and  when  commercially 
+
+available  is  part  of  future  policy.  Besides,  stringent  emission  standards  being 
+
+contemplated for thermal plants would significantly reduce emissions. 
+
+7)  National  Smart  Grid  Mission  has  been  launched  to  bring  efficiency  in  power  supply 
+
+network and facilitate reduction in losses and outages. Green Energy Corridor projects 
+
+worth INR (Indian National Rupee) 380 billion (USD 6 billion) are also being rolled out 
+
+to ensure evacuation of renewable energy. 
+
+ 
+
+The Government's goal of Electricity for All is sought to be achieved by the above programs 
+
+that would require huge investments, infusion of new technology, availability of nuclear fuel 
+
+and international support. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 10 of 38  
+
+ 
+
+1.1.2 Enhancing Energy Efficiency 
+
+With the goal of reducing energy intensity of the Indian economy, Ministry of Power through 
+
+Bureau  of  Energy  Efficiency  (BEE)  has  initiated  a  number  of  energy  efficiency  initiatives. 
+
+The  National Mission for Enhanced Energy Efficiency (NMEEE) aims to  strengthen the 
+
+market for energy efficiency by creating a conducive regulatory and policy regime. It seeks to 
+
+upscale the efforts to unlock the market for energy efficiency and help achieve total avoided 
+
+capacity addition of 19,598 MW and fuel savings of around 23 million tonnes per year at its 
+
+full  implementation  stage.  The  programmes  under  this  mission  have  resulted  in  an  avoided 
+
+generation capacity addition of about 10,000 MW between 2005 and 2012 with government 
+
+targeting  to  save  10%  of  current  energy  consumption  by  the  year  2018-19.  Demand  Side 
+
+Management programmes have been launched to replace existing low-efficiency appliances: 
+
+1)  During the last decade, there has been rapid transformation of efficient lighting in India. 
+
+The  sales  of  Compact  fluorescent  lamps  (CFLs)  have  risen  to  about  37%  of  the  total 
+
+lighting  requirements in  2014 from  7.8% in  2005.  India has  also  launched an ambitious 
+
+plan to replace all incandescent lamps with Light-emitting diode (LED) bulbs in the next 
+
+few years leading to energy savings of upto 100 billion kilowatt hours (kWh) annually. 
+
+2)  Standards  and  Labeling  Programme  launched  by  the  Government  of  India  enables 
+
+consumers  to  make  informed  decision  by  providing  information  about  the  energy 
+
+consumption  of  an  appliance.  Currently,  21  equipment  and  appliances  are  labeled.  The 
+
+programme has contributed to an increase of 25% to 30% in the energy efficiency of an 
+
+average  refrigerator  or  air-conditioner  in  2014  compared  to  those  sold  in  2007.  Super-
+
+Efficient  Fan  (that  uses  half  as  much  energy  as  the  average  fan)  programme  has  been 
+
+launched.  Further,  two  sets  of  Corporate  Average  Fuel  Consumption  standards  for 
+
+cars have been notified, with one coming into force in 2017 and the second set in 2022.   
+
+3)  Partial  Risk  Guarantee  Fund  for  Energy  Efficiency  (PRGFEE),  a  risk  sharing 
+
+mechanism  to  provide  financial  institutions  with  a  partial  coverage  of  risk  involved  in 
+
+extending  loans  for  energy  efficiency  projects,  and  Venture  Capital  Fund  for  Energy 
+
+Efficiency  (VCFEE),  a  trust  fund  to  provide  "last  mile"  equity  capital  to  energy 
+
+efficiency companies, have been established.  
+
+4)  The Energy Conservation Building Code (ECBC) sets minimum energy standards for 
+
+new commercial buildings. Eight states have already adopted and notified the ECBC, and 
+
+ 
+
+ 
+
+Page 11 of 38  
+
+ 
+
+over  300  new  commercial  buildings  have  become  compliant.  The  Code  would  be  made 
+
+more  stringent  to  promote  construction  of  even  more  (Near-Zero)  energy-efficient 
+
+buildings.  "Design  Guidelines  for  Energy  Efficient  Multi-storey  Residential 
+
+buildings" have also been launched.  
+
+5)  In  order  to  both  recognize  energy-efficient  buildings,  as  well  as  to  stimulate  their  large 
+
+scale  replication,  India  has  developed  its  own  building-  energy  rating  system  GRIHA 
+
+(Green  Rating  for  Integrated  Habitat  Assessment),  based  on  34  criteria  like site 
+
+planning,  conservation  and  efficient  utilization  of  resources  etc.  A  number  of  buildings 
+
+including  Commonwealth  Games  Village  have  been  rated  using  GRIHA  system.  Indira 
+
+Paryavaran Bhawan, the headquarters of Central Government's Ministry of Environment, 
+
+Forest  & Climate Change is  a model building of Government  of  India  and has received 
+
+LEED India Platinum and a 5 Star GRIHA rating. It is a ‘Net Zero Energy' building with 
+
+100% onsite power generation. 
+
+ 
+
+1.2 ENHANCING ENERGY EFFICIENCY IN INDUSTRIES 
+
+Infrastructure sectors, viz. electricity, coal and cement have seen a growth rate of 4.5% in the 
+
+year  2013-14.  The  recent  initiatives  like  Make  in  India,  Digital  India,  creating  National 
+
+Industrial  Corridors,  streamlining  environment  and  forest  approvals,  labour  reforms  and 
+
+undertaking other measures for the ease of doing business have also fuelled the spurt in their 
+
+growth  rates.  Amidst  all  this,  policies  to  enable  industries  reduce  their  energy  consumption 
+
+play a critical role as an instrument for sustainable environment through various interventions 
+
+like: 
+
+1)  Perform,  Achieve  and  Trade  (PAT),  as  a  market  based  energy  efficiency  trading 
+
+mechanism, at present covers 478 plants (designated consumers) in eight energy-intensive 
+
+industrial  sectors  accounting  for  one-third  of  total  energy  consumption  in  the  country. 
+
+The  mandated  decrease  in  the  specific  energy  consumption  under  PAT  programme  has 
+
+led to a decline of 4 to 5% in their specific energy consumption in 2015 as compared to 
+
+that  in  2012.    Energy  Saving  Certificates  (ESCerts)  are  issued  to  consumers  who  over-
+
+achieve  the  target.  The  scheme  is  to  be  widened  and  deepened  to  include  additional 
+
+sectors  like  railways,  electricity  distribution  and  refineries  in  the  next  cycle  and  would 
+
+cover more than half the commercial energy consumed in India.   
+
+ 
+
+ 
+
+Page 12 of 38  
+
+ 
+
+2)  Zero Effect, Zero  Defect (ZED):  The Make in India  campaign  with  ZED is  a policy 
+
+initiative  to  rate  Medium  &  Small  Industries  on  quality  control  and  certification  for 
+
+energy  efficiency,  enhanced  resources  efficiency,  pollution  control,  use  of  renewable 
+
+energy,  waste  management  etc.  using  ZED  Maturity  Assessment  Model.  The  scheme 
+
+launched  in  2015,  envisages  coverage  of  about  1  million  medium  and  small 
+
+enterprises. 
+
+ 
+
+1.3 DEVELOPING CLIMATE RESILIENT URBAN CENTERS 
+
+Government  of  India  in  recent  times  has  launched  a  number  of  schemes  for  transformation 
+
+and  rejuvenation  of  urban  areas  including  Smart  Cities  Mission,  Atal  Mission  for 
+
+Rejuvenation  and  Urban  Transformation  (AMRUT)  and  National  Heritage  City 
+
+Development and Augmentation Yojana (HRIDAY): 
+
+ 
+
+1)  Under  the  Smart  Cities  Mission,  100  smart  cities  are  planned  with  the  objective  to 
+
+develop new generation cities, which will provide core infrastructure and a decent quality 
+
+of life to its citizens by building a clean and sustainable environment. Smart solutions like 
+
+recycling  and  reuse  of  waste,  use  of  renewables,  protection  of  sensitive  natural 
+
+environment will be incorporated to make these cities climate resilient.  
+
+2)  Atal  Mission  for  Rejuvenation  and  Urban  Transformation  (AMRUT),  a  new  urban 
+
+renewal mission has been launched by Government of India for 500 cities with  focus on 
+
+ensuring basic infrastructure services such as water supply, sewerage, storm water drains, 
+
+transport  and  development  of  green  spaces  and  parks  by  adopting  climate  resilient  and 
+
+energy efficient policies and regulations.  
+
+ 
+
+1.4 PROMOTING WASTE TO WEALTH CONVERSION 
+
+India  recognizes  the  dual  benefits  that  can  arise  from  efficient  waste  disposal  leading  to 
+
+enhanced  environmental  benefits  along  with  conversion  to  energy.  Incentives  are  being 
+
+granted to cities to take up waste to energy conversion projects.  
+
+1)  The Waste to Energy capacity is sought to be enhanced. Government is also encouraging 
+
+conversion of waste to compost by linking it with sale of fertilizers and providing market 
+
+development assistance. 
+
+ 
+
+ 
+
+Page 13 of 38  
+
+ 
+
+2)  Government  has  invested  significantly  in  Solid  Waste  Management  (SWM)  projects 
+
+over the years and has provided INR 25 billion (USD 397 million) as grant in aid to states 
+
+and Urban Local Bodies specifically for SWM through public-private partnerships.  
+
+3)  Similarly, initiatives on waste water management would cover an additional population of 
+
+41 million and enhance recycling and reuse of treated water. There are about 816 Sewage 
+
+Treatment  Plants  (522  operational  and  rest  at  different  stages  of  construction  and 
+
+planning) having a combined capacity of 23,277 million of liters per day across 28 States 
+
+and Union Territories. 
+
+4)  Government of India has recently launched  a one-of-its kind ‘Swachh Bharat Mission' 
+
+(Clean India Mission) with the objective of making the country clean and litter free with 
+
+scientific  solid  waste  management  in  about  4041  towns  covering  a  population  of  306 
+
+million.  It  aims  to  construct  10.4  million  individual  household  toilets  and  0.5  million 
+
+Community and Public Toilets. 
+
+ 
+
+1.5 SAFE, SMART AND SUSTAINABLE GREEN TRANSPORTATION NETWORK 
+
+In  the  endeavor  towards  a  low  carbon  economy,  India  is  focusing  on  low  carbon 
+
+infrastructure  and  public  transport  systems  like  Dedicated  Freight  Corridors  and  energy 
+
+efficient railways to reduce their environmental impact. 
+
+1)  Indian Railways handles 3 million tonnes of freight and 23 million passengers daily and is 
+
+the  world's  third  largest  network.  The  endeavor  is  to  increase  the  share  of  Railways  in 
+
+total land transportation from 36% to 45 %, thereby decreasing the load on less efficient 
+
+diesel operated road traffic. 
+
+2)  Dedicated  Freight  Corridors  (DFCs)  have  been  introduced  across  the  country.  In  the 
+
+first  phase,  two  corridors  viz.  1520  km  Mumbai-Delhi  (Western  Dedicated  Freight 
+
+Corridor)  and  1856  km  Ludhiana-Dankuni  (Eastern  Dedicated  Freight  Corridor)  are 
+
+being constructed. The project is expected to reduce emissions by about 457 million ton 
+
+CO2  over  a  30  year  period.  With  a  number  of  energy  efficiency  measures  undertaken, 
+
+Indian  Railways  has  achieved  19.7%  improvement  in  Specific  Fuel  Consumption  for 
+
+Freight Service Locomotives and 21.2% improvement for Coaching Service Locomotives 
+
+during  the  last  10  years.    Indian  Railways  is  also  installing  solar  power  on  its  land  and 
+
+roof tops of coaches. 
+
+ 
+
+ 
+
+Page 14 of 38  
+
+ 
+
+3)  Recognizing  its  fuel  efficiency,  environmental  friendliness  and  cost  effectiveness,  the 
+
+Government  is  promoting  growth  of  Coastal  Shipping  and  Inland  Water  Transport.  To 
+
+enhance the inland waterways transport, Government has announced the implementation 
+
+of  Jal  Marg  Vikas  for  capacity  augmentation  of  National  Water  Way  -1.  It  is  also 
+
+proposed to establish integrated Waterways transportation grid with a view to connecting 
+
+all  existing  and  proposed  National  waterways  with  road,  rail  and  ports  connectivity. 
+
+Another  initiative  in  this  direction  is  the  Sagarmala  Project  with  the  objective  to 
+
+augment  port-led  development  and  promote  efficient 
+
+transportation  of  goods. 
+
+Bharatmala  Project  which  envisions  constructing  about  5,000  km  of  road  network  all 
+
+along the coastal areas will further provide connectivity to these ports. 
+
+4)  The  vision  of  Urban  Transport  policies  is  to  focus  on  moving  ‘people'  rather  than 
+
+‘vehicles',  in  which  Mass  Rapid  Transit  System  (MRTS)  would  play  an  important 
+
+role.  
+
+5)  Around 236 km of metro rail have been made operational  in the country. Further, 
+
+about 550 km are under construction and 600 km under consideration for different 
+
+cities  across  the  country  including  Ahmedabad,  Pune,  and  Lucknow.  Delhi  Metro, 
+
+which  has  become  India's  first  MRTS  project  to  earn  carbon  credits,  has  the 
+
+potential to reduce about 0.57 million tonnes of CO2e annually. Delhi Metro has also 
+
+initiated  installation  of  9  solar  power  generation  facilities  and  plans  to  increase  their 
+
+number.  
+
+6)  The mass-transit and urban transport projects initiated under the National Urban Renewal 
+
+Mission  also  have  positive  climate  change  impacts  in  the  long-run.  About  39  urban 
+
+transport  and  mass  rapid  transport  projects  have  been  approved  and  about  19  projects 
+
+have been completed so far.  
+
+7)  Solar  powered  toll  plazas  have  been  envisaged  as  a  mandatory  requirement  for  toll 
+
+collection across the country. 
+
+8)  India has recently formulated  Green Highways  (Plantation & Maintenance) Policy to 
+
+develop  140,000  km  long  "tree-line"  with  plantation  along  both  sides  of  national 
+
+highways. 1% of total civil cost of projects is to be set aside to implement the policy. 
+
+9)  With  a  view  to  facilitating  international  commuting  by  highways,  Government  of  India 
+
+has  approved  signing  of  the  Bangladesh,  Bhutan,  India  and  Nepal  (BBIN)  Motor 
+
+ 
+
+ 
+
+Page 15 of 38  
+
+ 
+
+Vehicle  Agreement  to  promote  safe,  economical  efficient  and  environmentally  sound 
+
+road transport in the sub-region and support regional integration. 
+
+10) Faster Adoption and Manufacturing of Hybrid & Electric Vehicles in  India (FAME 
+
+India)  is  a  scheme  formulated  as  part  of  the  National  Electric  Mobility  Mission  Plan 
+
+2020  (NEMMP)  to  promote  faster  adoption  and  manufacturing  of  hybrid  and  electric 
+
+vehicles in the country by providing incentives. 
+
+11) Under  the  Vehicle  Fuel  Efficiency  Program,  Government  of  India  in  2014  finalized 
+
+country's first passenger vehicle fuel-efficiency standards. They will take effect beginning 
+
+in  April  2016,  and  set  the  efficiency  targets  for  new  cars.  The  standards  will  keep  50 
+
+million  tons  of  CO2 out  of  the  atmosphere.  India  aims  to  improve  fuel  standards  by 
+
+switching  from  Bharat  Stage  IV  (BS  IV)  fuels  to  Bharat  Stage  V  (BS  V)/  Bharat 
+
+Stage VI (BS VI) across the country in the near future. 
+
+12) National  Policy  on  Biofuels  has  adopted  an  aspirational  target  of  20%  blending  of 
+
+biofuels, both for bio-diesel and bio-ethanol. The government also launched the National 
+
+Bio-diesel  Mission  identifying  Jatropha  curcas  as  the  most  suitable  tree-borne  oilseed 
+
+for  bio-diesel  production.  With  the  intention  of  further  promoting  biofuels,  India  has 
+
+begun  consultations  on  allowing  5%  blending  of  biofuels  in  diesel  that  would  be 
+
+consumed by bulk users such as the railways and defence establishments. 
+
+ 
+
+1.6 PLANNED AFFORESTATION 
+
+India  is  one  of  the  few  countries  where  forest  and  tree  cover  has  increased  in  recent  years 
+
+transforming  country's  forests  into  a  net  sink  owing  to  national  policies  aimed  at 
+
+conservation and sustainable management of forests. As per the latest assessment, forests and 
+
+tree  cover  has  increased  from  23.4%  in  2005  to  24%  of  the  geographical  area  in2013. 
+
+Government  of  India's long term  goal  is  to  bring 33% of  its  geographical  area under forest 
+
+cover eventually. 
+
+1)  With its focus on sustainable forest management, afforestation and regulating diversion of 
+
+forest land for non-forest purpose, India has been successful in improving carbon stock in 
+
+its forest by about 5%, from 6,621.5 million tons in 2005 to 6,941 million tonnes in 2013.  
+
+2)  Initiatives like Green India Mission (GIM) aim to further increase the forest/tree cover 
+
+to  the  extent  of  5  million  hectares  (mha)  and  improve  quality  of  forest/tree  cover  on 
+
+ 
+
+ 
+
+Page 16 of 38  
+
+ 
+
+another  5  mha  of  forest/non-forest  lands  along  with  providing  livelihood  support.  It  is 
+
+expected  to  enhance  carbon  sequestration  by  about  100  million  tonnes  CO2  equivalent 
+
+annually. 
+
+3)  These efforts have been further augmented by policies like National Agro-forestry Policy 
+
+(NAP), REDD-Plus policy, Joint Forest Management; National Afforestation Programme 
+
+and  proposed  devolution  of  about  USD  6  billion  under  Compensatory  Afforestation  to 
+
+states. 
+
+ 
+
+1.7 ABATEMENT OF POLLUTION 
+
+India  has  recently  launched  many  programmes  and  schemes  to  address  the  problem  of 
+
+pollution: 
+
+1)  Continuous  Emission  Monitoring  System  (CEMS)  mandates  the  highly  polluting 
+
+industries to install 24X7 real time monitoring of emission and effluent discharge points. 
+
+2)  Common  Effluent  Treatment  Plants  (CETPs)  are  being  set  up  to  treat  the  effluent 
+
+emanating from the clusters of compatible small - scale industries.  
+
+3)  The  Fly  Ash  Utilisation  Policy  makes  it  mandatory  to  use  only  fly  ash/  fly  ash  based 
+
+products in construction of buildings, roads and reclamation / compaction of land within a 
+
+radius  of  100  km  from  a  coal  or  lignite  based  thermal  power  plant,  thus  displacing  the 
+
+cement  use.  It  also  mandates  utilisation  of  Fly  Ash  for  backfilling  or  stowing  of  the 
+
+mines.   
+
+4)  Standards  related  to  effluent  discharge  have  been  modified  for  over  2000  industries 
+
+focusing on reducing quantity of waste water generation, conservation of water, promote 
+
+Zero Liquid Discharge (ZLD) and use of treated effluent for irrigation. 
+
+5)  In  2014,  a  National  Air  Quality  Index  (AQI)  was  launched  for  Indian  cities.  AQI  is 
+
+based  on  six  pollutants  and  is  notified  every  day  serving  as  public  information  tool  to 
+
+disseminate information on air quality in qualitative terms.  
+
+6)  Amendment  of  Municipal  Solid  Waste  Management  (Management  and  Handling) 
+
+Rules  is  underway  which  will  emphasize  on  proper  segregation  of  waste  at  source; 
+
+enhance  waste  processing  and  implementation  of  scientific  landfills.  Similarly,  Bio-
+
+Medical  Waste  (Management  &  Handling)  Rules,  Plastic  Waste  Management  Rules,  e-
+
+waste  (Management)  Rules  and  Hazardous  and  Other  Wastes  (Management  and 
+
+ 
+
+ 
+
+Page 17 of 38  
+
+ 
+
+Transboundary  Movement)  Rules  are  being  amended  for  a  more  scientific,  technology 
+
+driven, regulated and participative environment management. 
+
+ 
+
+1.8 CITIZENS  AND  PRIVATE  SECTOR  CONTRIBUTION  TO  COMBATING 
+
+CLIMATE CHANGE 
+
+Citizens  of  India  are  an  integral  part  of  country's  strategies  to  combat  climate  change.  The 
+
+Constitution  of  India  vide  Article  51-A  lays  down  that  it  as  a  fundamental  duty  of  every 
+
+citizen to "protect and improve the natural environment including forests, lakes, rivers and 
+
+wildlife and to have compassion for living creatures". 
+
+ 
+
+Policies  like  Swachh  Bharat  Mission  (Clean  India  Mission),  cleaning  of  our  rivers, 
+
+achieving  energy  efficiency  are  all  examples  of  policies  which  are  contingent  upon  full 
+
+participations of India's citizens for their successful implementation.  
+
+ 
+
+In  addition  to  being  involved  in  Government  initiatives  related  to  climate  change  and 
+
+resource  efficiency,  private  sector  has  also  embarked  on  a  number  of  voluntary  actions.  It 
+
+plays  a  key  role  in  sustainable  development  efforts  in  the  country,  some  of  which  are 
+
+enumerated below: 
+
+ 
+
+1)  Companies Act 2013 directs companies having a certain level of profits, to spend 2% of 
+
+their  annual  profit  on  Corporate  Social  Responsibility  (CSR)  activities.  Estimates 
+
+indicate that a fair share of the available CSR funding of about INR 220 billion (USD 3.5 
+
+billion) annually will be invested in environment initiatives from this window.  
+
+2)  The  Indian  industry  has  also  participated  in  voluntary  carbon  disclosure  programmes 
+
+whereby they report their carbon management strategy and GHG emissions. Latest Report 
+
+by Carbon Disclosure Project, India indicates a reduction of 165 million metric tonnes 
+
+of CO2 equivalent by  Indian industries. "India  GHG Programme" is  another voluntary 
+
+programme to support development of India-specific emission factors and for corporates 
+
+to measure their carbon footprints. 
+
+3)  Indian  industry  has  undertaken  many  initiatives  to  reduce  their  water  consumption.  A 
+
+study of 100 companies over a 5 year period covering 12 sectors indicate that the Indian 
+
+companies on an average have been reducing their specific water consumption by 2.8 to 3 
+
+% per year. A few companies have achieved ‘water positive' status. 
+
+ 
+
+ 
+
+Page 18 of 38  
+
+ 
+
+4)  Smart  Power  for  Environmentally-sound  Economic  Development  (SPEED)  is  a 
+
+program  that  aims  at  electrification  of  rural  areas  based  on  a  decentralized  renewable 
+
+energy system.  
+
+5)  India  currently  has  about  2.68  billion  sq.  ft.  of  registered  green  building  space  across 
+
+3,000  projects  (second  largest  in  the  world),  of  which  600  are  certified  and  fully 
+
+functional.  
+
+6)  GreenCo  Rating  System  is  first  of  its  kind  in  the  world  which  assesses  companies  on 
+
+their  environmental  performance  across  10  different  parameters  to  help  them  develop  a 
+
+roadmap to improve further.  
+
+7)  New  Ventures  India  (NVI)  is  an  initiative  to  support  cleantech  entrepreneurs  in 
+
+developing their business plans and access finance and markets. 
+
+8)  The  Small  and  medium-sized  enterprises  (SME)  Cluster  Programs  for  Energy 
+
+Efficiency  covers  more  than  150  clusters  all  over  the  country  and  has  resulted  in 
+
+substantial energy saving, quality improvement and improved competitiveness.  Another 
+
+initiative  by  SIDBI  (Small  Industry  Development  Bank  of  India)  in  500  SMEs  spread 
+
+over 40 industrial clusters is expected to save annually 30,000 tonnes of GHG emissions. 
+
+ 
+
+ 
+ADAPTATION STRATEGIES 
+
+2. 
+
+The  adverse  impacts  of  climate  change  on  the  developmental  prospects  of  the  country  are 
+
+amplified  enormously  by  the  existence  of  widespread  poverty  and  dependence  of  a  large 
+
+proportion  of  the  population  on  climate  sensitive  sectors  for  livelihood.  Hence  for  India 
+
+adaptation  is  inevitable  and  an  imperative  for  the  development  process.  It  is  of  immediate 
+
+importance and requires action now. 
+
+Vulnerabilities  in  India  differ  among  states,  among  regions  and  among  different  groups  of 
+
+people  within  the  same  region  due  to  substantial  variations  in  topography,  climatic 
+
+conditions,  ecosystems  as well as diversity in  its social  structures, economic conditions  and 
+
+needs of different communities.  
+
+A range of actions have been introduced to address it. Out of the eight National Missions on 
+
+Climate  Change  five  mission  focus  on  adaptation  in  sectors  like  agriculture,  water, 
+
+ 
+
+ 
+
+Page 19 of 38  
+
+ 
+
+Himalayan  ecosystems,  forestry,  Capacity  building  and  Knowledge  management.  Climate 
+
+plans at the sub national level also focus significantly on adaptation.  
+
+Besides  these  targeted  programmes,  India  has  also  implemented  a  series  of  schemes  which 
+
+strengthen  adaptive  capacities  of  the  vulnerable  communities.  India's  expenditure  on 
+
+programmes with critical adaptation components has increased from 1.45% of GDP in 2000-
+
+01 to 2.82% during 2009-10. Expenditure on human capabilities and livelihoods viz. poverty 
+
+alleviation,  health  improvement  and  disease  control  and  risk  management,  constitutes  more 
+
+than 80% of the total expenditure on adaptation in India. 
+
+India's adaptation policies in some of the crucial sectors are outlined below: 
+
+2.1 AGRICULTURE 
+
+Agriculture is  the source of livelihood for nearly two-thirds of the population in  India.  It is 
+
+predominantly  rainfed covering about  60% of the country's net  sown  area and  accounts  for 
+
+40% of the total food production. Droughts and floods are frequent and the sector is already 
+
+facing high degree of climate variability. The performance of agriculture sector has a direct 
+
+bearing on food supplies and food security. India is projected to become the most populated 
+
+country by 2030 and will need to produce an additional 100 million tonnes of food grains to 
+
+feed  the  large  population.  In  the  agriculture  sector,  the  need  for  comprehensive  risk 
+
+management and insurance is further enhanced due to these reasons. 
+
+Keeping 
+
+in  view 
+
+the  above  challenges,  Government  of 
+
+India 
+
+is 
+
+implementing 
+
+policies/missions targeting various threats facing agriculture. Some of the important ones are 
+
+National  Food  Security  Mission,  Mission  for  Integrated  Development  of  Horticulture, 
+
+National  Mission  for  Sustainable  Agriculture,  Paramparagat  Krishi  Vikas  Yojana  to 
+
+promote organic farming practices,  Pradhan Mantri Krishi Sinchayee Yojana to promote 
+
+efficient  irrigation  practices  and  National  Mission  on  Agricultural  Extension  & 
+
+Technology.  
+
+1)  The  National  Mission  on  Sustainable  Agriculture  (NMSA)  aims  at  enhancing  food 
+
+security  and  protection  of  resources  such  as  land,  water,  biodiversity  and  genetics.  The 
+
+mission focuses on new technologies and practices in cultivation, genotypes of crops that 
+
+have enhanced CO2 fixation potential, which are less water consuming and more climate 
+
+ 
+
+ 
+
+Page 20 of 38  
+
+ 
+
+resilient. India has developed 580 district level (covering many states) contingency plans 
+
+based on early warning systems and other weather forecasting systems. 
+
+2)  Government  of  India  adopted a mega project  called the  National  Initiative on Climate 
+
+Resilient  Agriculture  (NICRA).    Its  four  main  modules  include  Natural  Resource 
+
+Management,  improving  crop  production,  livestock  and  fisheries  and  institutional 
+
+interventions. 
+
+3)  A  Scheme  has  been  launched  to  provide  in  mission  mode  Soil  Health  Card  to  every 
+
+farmer.  Additionally,  100  mobile  soil-testing  laboratories  have  been  setup  across  the 
+
+country. 
+
+4)  National  Agroforestry  Policy  (NAP)  of  India  aims  at  encouraging  and  expanding  tree 
+
+plantation  in  complementarity  and  integrated  manner  with  crops  and  livestock.  It  will 
+
+help  protect  and  stabilize  ecosystems,  and  promote  resilient  cropping  and  farming 
+
+systems  to  minimize  the  risk  during  extreme  climatic  events.  It  will  also  complement 
+
+achieving the target of increasing forest/ tree cover. 
+
+ 
+
+2.2 WATER 
+
+India  identifies  water  as  the  most  critical  component  of  life  support  system.  The  total 
+
+catchment  area is  252.8 million  hectare (mha), covering more  than 75%  of the total  area of 
+
+the country. The adaptation strategies for the water sector focus on enhancing efficient use of 
+
+water,  ensuring  access  and  tackling  the  adverse  impact  of  Climate  Change.  The  trans-
+
+boundary and regional issues also need to be factored in. 
+
+1)  The  main  objective  of  India's  National  Water  Mission  (NWM)  is  "conservation  of 
+
+water,  minimizing  wastage  and  ensuring  its  more  equitable  distribution  both  across  and 
+
+within States through integrated water resources development and management". One of 
+
+the key goals of the mission is to enhance water use efficiency by 20%.  
+
+2)  Groundwater  is  the  major  component  of  the  total  available  water  resources.  Rapid 
+
+expansion  of  groundwater  use  in  India  in  the  last  three  decades  has  resulted  in  a  steep 
+
+decline  in  the  groundwater  table  in  vast  areas  of  the  country.  Rainwater  harvesting, 
+
+which  offers  a  promising  solution  to  replenish  and  recharge  the  groundwater  is  a 
+
+significant  component  of  Watershed  Development  Programme,  taken  up  under  different 
+
+schemes  of  the  central  and  state  governments.  Several  municipal  authorities,  including 
+
+ 
+
+ 
+
+Page 21 of 38  
+
+ 
+
+Delhi  have  amended  their  existing  building  bye-laws,  making  it  compulsory  for  every 
+
+large house or hotel (200 yards or more in area) to undertake rainwater harvesting.  
+
+3)  Neeranchal  is  a  recent  programme  by  Government  to  give  additional  impetus  to 
+
+watershed development in the country. 
+
+4)  Another important initiative relating to rivers is the National Mission for Clean Ganga 
+
+which  seeks  to  rejuvenate  the  river  along  its  length  of  more  than  2,500  km  through 
+
+multifarious activities such as pollution inventorization, assessment and surveillance and 
+
+laying of sewage networks, treatment plants etc.  
+
+5)  The  total  flood  prone  area  in  the  country  is  about  45.64  million  ha.  Existing  flood 
+
+management mechanisms involve both Central and State Government. 
+
+6)  Government  of  India has also  set  up the  National  River Conservation  Directorate for 
+
+conservation of rivers, lakes and wetlands in the country and improving the water quality 
+
+which covers stretches of 40 rivers in 190 towns spread over 20 States.  
+
+ 
+
+2.3 HEALTH 
+
+Climate  change  will  increase  health  related  stress  from  extreme  weather-related  disasters 
+
+such  as  wider  spread  of  vector-borne  diseases  as  malaria  and  dengue  and  increasing 
+
+frequency of heat and cold waves.  
+
+India is now formulating a ‘Health Mission' under the ambit of NAPCC to evolve strategies 
+
+for  mitigating,  containing  and  managing  the  adverse  impact  of  Climate  Change  on  health. 
+
+The  mission  aims  at  analysing  epidemiological  data,  identify  vulnerable  population  and 
+
+regions,  build  knowledge  base  and  expertise, 
+
+increase  awareness  and  community 
+
+participation. 
+
+Apart from the overall public heath infrastructure at the national and sub national levels, the 
+
+Government  of  India  has  launched  programmes  like  Integrated  Disease  Surveillance 
+
+Programme (IDSP), National Vector Borne Disease Control Programme (NVBDCP) to 
+
+deal  with  vector  borne  diseases  like  malaria,  dengue  etc.  As  part  of  this  programme  India 
+
+aims to eliminate malaria by 2030. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 22 of 38  
+
+ 
+
+2.4 COASTAL REGIONS & ISLANDS 
+
+India has a long coastline of  7517 km including island territories, and encompasses total 73 
+
+districts in the 9 maritime states and 2 Union Territories. The coastal districts house 14.2% of 
+
+India's  total  population.  India  has  been  identified  as  one  of  the  countries  which  are  most 
+
+vulnerable to the impact of accelerated sea level rise due to global warming: 
+
+1)  India  has  demarcated  vulnerable  areas  on  the  coasts  and  declared  them  as  Coastal 
+
+Regulation  Zone  (CRZ)  with  restrictions  imposed  on  setting  up  and  expansion  of 
+
+industries, operations and processes in these areas.  
+
+2)  India  is  also  implementing  programmes  for  Integrated  Coastal  Zone  Management 
+
+(ICZM).  The  vision  of  the  project  is  to  build  national  capacity  for  implementation  of 
+
+comprehensive  coastal  management  through  ecological  management,  conservation  and 
+
+protection of critical habitats, coastal geomorphology and geology of coastal and marine 
+
+areas,  coastal  engineering,  socio-economic  aspects,  policy  and  legal  issues  and  other 
+
+related fields in the area of coastal governance. 
+
+3)  Mapping and demarcation of coastal hazard lines for development of emergency response 
+
+plans is being carried out in all the coastal states and union territories. 
+
+4)  Another  initiative  to  protect  coastal  livelihood  is  ‘Mangroves  for  the  Future  (MFF)' 
+
+coordinated by International Union for Conservation of Nature (IUCN) in India.  
+
+5)  Similar to Small Island Developing States, the 1,238 Indian islands are vulnerable to loss 
+
+of coastal wetlands including mangroves and salt water intrusion in fresh water aquifers.  
+
+With  changing  climate,  islands  are  highly  susceptible  to  frequent  and  more  intense 
+
+tropical cyclones and associated storm surge, droughts, tsunamis and volcanic eruptions, 
+
+which  will  have  adverse  impact  on  economy  of  these  islands  and  health  of  their 
+
+inhabitants.  
+
+6)  The Government notified the Island Protection Zone (IPZ) in 2011 with the objective of 
+
+ensuring livelihood security to  the local  communities, conserving and protecting  coastal 
+
+stretches,  and  promoting  development  in  a  sustainable  manner.  The  IPZ  focuses  on 
+
+disaster  risk  reduction  through  bioshields  with  local  vegetation  (mangroves)  and  other 
+
+soft protection measures, and the conservation of beaches and sand dunes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 23 of 38  
+
+ 
+
+2.5 DISASTER MANAGEMENT 
+
+The  Indian  subcontinent  is  among  the  world's  most  disaster  prone  areas.  Almost  85%  of 
+
+India's area is vulnerable to one or multiple hazard. 23 States and Union Territories covering 
+
+45.64 million hectares of land are subject to floods, and are prone to flood disasters. India's 
+
+annual  average  flood  damage  during  the  period  1996-2005  was  INR  47.45  billion  (USD 
+
+753.2 Million) 
+
+India  has  been  able  to  establish  a  holistic  disaster  risk  reduction  and  response  apparatus  at 
+
+national,  state  and  district  levels  with  the  aim  of  reducing  existing  levels  of  vulnerability, 
+
+prevention,  and  mitigation  of  disasters  and  also 
+
+to  provide  appropriate  response, 
+
+rehabilitation  and  reconstruction.  Strategies  include  early  warnings  and  communications, 
+
+construction and sustainable maintenance of multi-purpose cyclone shelter, improved access 
+
+and evacuation, enhanced capacity and capability of local communities to respond to disaster 
+
+and strengthening disaster risk mitigation capacity at central, state and local levels  
+
+The link between Adaptation, Disaster Risk Reduction and Loss and Damage is important. It 
+
+has been witnessed that the occurrence of flash floods, extreme weather events, droughts etc. 
+
+has  increased  in  frequency  and  become  more  unpredictable.  The  Sendai  Framework  for 
+
+Disaster Risk Reduction has laid down a road map for required response. There is an urgent 
+
+need for finance to undertake activities for early warning system, disaster risk reduction, loss 
+
+and  damage  and  Capacity  building  at  all  levels.  The  indigenous  locally  appropriate 
+
+knowledge and technology may also be used for the purpose. 
+
+In  order  to  achieve  these  goals,  India  has  set  up  Disaster  Relief  Funds  at  all  levels  and 
+
+launched the National Disaster Relief Fund, which is financed through the levy of a cess. 
+
+ 
+
+2.6 PROTECTING BIODIVERSITY & HIMALAYAN ECOSYSTEM 
+
+Biodiversity:  India,  a  mega  diverse  country  with  only  2.4%  of  the  world's  land  areas, 
+
+harbours 7-8% of all recorded species, and 4 out of 34 global biodiversity hotspots. In order 
+
+to  protect  the  biodiversity  from  changing  climate,  India  has  developed  a  biogeographic 
+
+classification  for  conservation  planning,  and  has  mapped  biodiversity  rich  areas  in  the 
+
+country.  The  protected  area  network  has  increased  from  427  (3.34%  of  total  geographical 
+
+area) in 1988 to 690 (5.07% of total geographical area) in 2014.  
+
+ 
+
+ 
+
+Page 24 of 38  
+
+ 
+
+ 
+
+Himalayan  Ecosystem:  The  Himalayas  form  the  most  important  concentration  of  snow 
+
+covered region outside the polar region. It is highly sensitive to global warming. The detailed 
+
+glacier inventory of Indian Himalayas indicates presence of 9579 glaciers in the Himalayas, 
+
+some of which form the perennial source of major rivers. 
+
+The  National  Mission  for  Sustaining  the  Himalayan  Ecosystem  (NMSHE)  addresses 
+
+important 
+
+issues  concerning  Himalayan  Glaciers  and 
+
+the  associated  hydrological 
+
+consequences,  biodiversity  and  wildlife  conservation  and  protection,  traditional  knowledge 
+
+societies  and  their  livelihood  and  planning  for  sustaining  of  the  Himalayan  Ecosystem. 
+
+Government  has  also  launched  National  Mission  on  Himalayan  Studies  to  complement 
+
+NMSHE with the objective of building a body of scientific and traditional knowledge along 
+
+with  demonstrating  replicable  solutions  to  the  problems  in  thematic  areas  including  natural 
+
+resource management, capacity building, long-term ecological monitoring etc. 
+
+2.7 RURAL LIVELIHOODS SECURITY 
+
+The rural areas are highly prone to stress and pressures from natural resource exploitation. In 
+
+this  context,  schemes  for  rural  development  and  livelihood  programmes  are  very  relevant. 
+
+The  Mahatma  Gandhi  National  Rural  Employment  Guarantee  Scheme  in  India 
+
+(MGNREGS), with a budgetary annual allocation of about INR 347 billion (USD 5.5 billion) 
+
+in 2015-16, aims at enhancing livelihood in the rural areas.  A vast majority of works under 
+
+this  programme  aim  at  strengthening  natural  resource  base  of  the  rural  economy  and  are 
+
+linked to land, soil, and water. 
+
+Another  important  programme  of  the  Government  is  the  National  Rural  Livelihoods 
+
+Mission  which  has  the  objective  to  cover  70  million  rural  poor  households,  across  600,000 
+
+villages  in  the  country  through  self-managed  self  help  groups  and  federated  institutions  to 
+
+support the rural communities in strengthening their livelihood. 
+
+2.8 ADAPTATION  ACTIONS  UNDER  STATE  ACTION  PLANS  ON  CLIMATE 
+
+CHANGE 
+
+All  the  29  states  and  7  Union  Territories  in  India  are  preparing  a  State  level  action  plan  to 
+
+deal with the challenges of climate change incorporating local needs and priorities. SAPCCs 
+
+are  envisioned  to  encompass  the  vision  of  the  NAPCC  and  aligned  with  the  8  National 
+
+ 
+
+ 
+
+Page 25 of 38  
+
+ 
+
+Missions.  SAPCCs  describe  in  detail  the  impact  of  climate  and  vulnerability  assessment, 
+
+adaptation,  mitigation  options  and  financing  and  capacity  building  needs  to  implement  the 
+
+identified interventions. Key sectors covered by SAPCCs include agriculture, water, habitat, 
+
+forestry, health and disaster management among others. 
+
+2.9 KNOWLEDGE MANAGEMENT & CAPACITY BUILDING 
+
+India  attaches  great  significance  to  knowledge  creation  and  capacity  building  for  climate 
+
+change.   
+
+1.  A  network  of  127  institutions  called  "INCCA"  (Indian  Network  on  Climate  Change 
+
+Assessment) has been set up to share knowledge and work in a collaborative manner on 
+
+climate change issues.   
+
+2.  The Department of Science & Technology has also initiated creation of Climate Change 
+
+Centers at  the state level  especially  in  the Himalayan region.  All  the state governments 
+
+have established links with local research institutions to ensure a continuous updating of 
+
+their SAPCCs. 
+
+3.  As  a  move  towards  competency  based  system,  Government  of  India  has  also 
+
+implemented  National  Training  Policy,  through  which  each  Ministry  and  Department 
+
+earmarks  about  2.5%  of  its  salary  budget  for  training.  A  part  of  this  budget  is  used  for 
+
+training in climate change and sustainable development issues as well. 
+
+4.  Government has recently launched "Skill India" with the target to provide skill training 
+
+in  various  sectors  including  sustainable  development  to  about  400  million  people  by 
+
+2022.  
+
+ 
+
+3. 
+
+India's Climate Change Finance Instruments  
+
+Maximum share of India's current climate finance comes from budgetary sources, as most of 
+
+the  resources  for  adaptation  and  mitigation  are  built  into  the  ongoing  sectoral  programmes. 
+
+The  availability  of  funds  for  such  purposes  is  largely  guided  by  the  overall  resources  and 
+
+requirement of different sectors.  
+
+At the same time India is not relying solely on budgetary resources and is experimenting with 
+
+a  careful  mix  of  market  mechanisms  together  with  fiscal  instruments  and  regulatory 
+
+interventions to mobilize finance for climate change.  
+
+ 
+
+ 
+
+Page 26 of 38  
+
+ 
+
+3.1 National Funds 
+
+To  augment  the  availability  of  assured  targeted  resources,  Government  of  India  has  set  up 
+
+two  dedicated  funds  at  the  national  level  for  mobilizing  financing  for  mitigation  and 
+
+adaptation respectively. 
+
+1)  Cess on Coal:  India imposed a cess on coal in 2010 @ INR 50 (USD 0.8)  per tonne of 
+
+coal. Recently it has been quadrupled to INR 200 (USD 3.2) per tonne of coal. The coal 
+
+cess translates into a carbon tax equivalent, using the emission factor for coal, of around 
+
+USD  2  per  tonne.  This  forms  the  corpus  for  the  National  Clean  Environment  Fund, 
+
+used  for  financing  clean  energy,  technologies,  and  projects  related  to  it.  The  total 
+
+collection of INR 170.84 billion (USD 2.7 billion) till 2014-15 is being used for 46 clean 
+
+energy projects worth INR 165.11 billion (USD 2.6 billion). 
+
+2)  India  has  set  up  a  National  Adaptation  Fund  with  an  initial  allocation  of  INR  3,500 
+
+million  (USD  55.6  million)  to  combat  the  adaptation  needs  in  sectors  like  agriculture, 
+
+water, forestry etc. in addition to sectoral spending by the respective ministries.  
+
+ 
+
+3.2 Other Fiscal Instruments and Incentives for Low Carbon Growth 
+
+ 
+
+Some of the other fiscal measures incentivizing green actions in India are as follows: 
+
+1)  With  a  series  of  steps  taken  recently,  India  has  cut  subsidies  and  increased  taxes  on 
+
+fossil  fuels  (petrol  and  diesel)  turning  a  carbon  subsidy  regime  into  one  of  carbon 
+
+taxation.  Further,  in  its  effort  to  rationalize  and  target  subsidies,  India  has  launched 
+
+‘Direct  Benefit  Transfer  Scheme'  for  cooking  gas,  where  subsidy  will  be  transferred 
+
+directly into the bank accounts of the targeted beneficiaries. In fact, over the past one year 
+
+India has almost cut its petroleum subsidy by about 26%.  
+
+2)  Recent  actions  have  led  to  an  implicit  carbon  tax  (USD  140  for  petrol  and  USD  64  for 
+
+diesel) in absolute terms. This is substantially above what is now considered a reasonable 
+
+initial tax on CO2 emissions of USD 25- USD 35 per tonne. Estimates suggest that these 
+
+measures will help India achieve a net reduction of 11 million tonnes of CO2 emissions in 
+
+less than a year.  
+
+3)  Tax  Free  Infrastructure  Bonds  of  INR  50  billion  (USD  794  million)  are  being 
+
+introduced for funding of renewable energy projects during the year 2015-16. 
+
+4)  Finance  Commission  (FC)  Incentive  for  creation  of  carbon  sink:  Another  important 
+
+initiative  has  been  the  14th  FC  recommendation  on  incentives  for  forestry  sector.  The 
+
+ 
+
+ 
+
+Page 27 of 38  
+
+ 
+
+devolution  of  funds  to  states  from  the  federal  pool  would  be  based  on  a  formula  that 
+
+attaches 7.5 % weight to the area under forest. According to the estimations based on 14th 
+
+FC data, this initiative has effectively given afforestation a massive boost by conditioning 
+
+about  USD  6.9  billion  of  transfers  to  the  states  based  on  their  forest  cover,  which  is 
+
+projected  to  increase  up  to  USD  12  billion  by  2019-20.  Implicitly,  India  is  going  to 
+
+transfer to states roughly about USD 174 per hectare of forest per  year which compares 
+
+very favorably with other afforested countries. 
+
+ 
+
+4. 
+
+External Cooperation: A Critical Enabler 
+
+Over the years, the carbon intensity of the Indian economy has decreased, in large part, due to 
+
+the  adoption  of  new  and  innovative  technologies  which  address  climate  mitigation  and 
+
+climate  adaptation.  The  development,  adoption  and  dissemination  of  these  technologies  has 
+
+been  an  ongoing  process  which  has  led  to,  inter-alia,  increased  energy  efficiency  and  an 
+
+increasing  share  of  renewables  in  the  electricity  grid.  This  has  been  facilitated  by  several 
+
+bilateral and multilateral collaborative efforts both in the public and private sector. 
+
+At the same time, climate friendly technologies, adapted and deployed in India are also being 
+
+utilized in other countries, particularly in developing countries, through bilateral cooperation. 
+
+This  development  and  transfer  of  technologies,  both  into  the  Indian  market  and  from  India 
+
+into  other  markets,  will  continue  to  sustain  future  decreases  in  the  carbon  intensity  of  the 
+
+Indian economy and increases in the share of renewables in the electricity-mix. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 28 of 38  
+
+ 
+
+IV INDIA'S INDC 
+
+Keeping in view its development agenda, particularly the eradication of poverty coupled with 
+
+its  commitment  to  following  the  low  carbon  path  to  progress  and  being  sanguine  about  the 
+
+unencumbered  availability  of  clean  technologies  and  financial  resource  from  around  the 
+
+world,  India  hereby  communicates  its  Intended  Nationally  Determined  Contribution 
+
+(INDC) in response to COP decisions 1/CP.19 and 1/CP.20 for the period 2021 to 2030: 
+
+ 
+
+1.  To put forward and further propagate a healthy and sustainable way of living  based on 
+
+traditions and values of conservation and moderation. 
+
+2.  To adopt a climate friendly and a cleaner path than the one followed hitherto by others 
+
+at corresponding level of economic development. 
+
+3.  To reduce the emissions intensity of its GDP by 33 to 35 percent by 2030 from 2005 
+
+level.  
+
+4.  To  achieve  about  40  percent  cumulative  electric  power  installed  capacity  from  non-
+
+fossil fuel based energy resources by 2030 with the help of transfer of technology and 
+
+low cost international finance including from Green Climate Fund (GCF). 
+
+5.  To  create  an  additional  carbon  sink  of  2.5  to  3  billion  tonnes  of  CO2  equivalent 
+
+through additional forest and tree cover by 2030. 
+
+6.  To  better  adapt  to  climate  change  by  enhancing  investments  in  development 
+
+programmes  in  sectors  vulnerable  to  climate  change,  particularly  agriculture,  water 
+
+resources, Himalayan region, coastal regions, health and disaster management. 
+
+7.  To  mobilize  domestic  and  new  &  additional  funds  from  developed  countries  to 
+
+implement  the  above  mitigation  and  adaptation  actions  in  view  of  the  resource  required 
+
+and the resource gap. 
+
+8.  To  build capacities, create domestic framework and international  architecture for quick 
+
+diffusion of cutting edge climate technology in India and for joint collaborative R&D for 
+
+such future technologies. 
+
+ 
+
+ 
+
+Page 29 of 38  
+
+ 
+
+To  achieve  the  above  contributions,  India  is  determined  to  continue  with  its  on-going 
+
+interventions,  enhance  the  existing  policies  as  detailed  in  previous  sections  and  launch  new 
+
+initiatives in the following priority areas: 
+
+ 
+
+1)  Introducing new, more efficient and cleaner technologies in thermal power generation. 
+
+2)  Promoting  renewable  energy  generation  and  increasing  the  share  of  alternative  fuels  in 
+
+overall fuel mix. 
+
+3)  Reducing emissions from transportation sector. 
+
+4)  Promoting  energy  efficiency  in  the  economy,  notably  in  industry,  transportation, 
+
+buildings and appliances. 
+
+5)  Reducing emissions from waste. 
+
+6)  Developing climate resilient infrastructure. 
+
+7)  Full implementation of Green India Mission and other programmes of afforestation. 
+
+8)  Planning  and  implementation  of  actions  to  enhance  climate  resilience  and  reduce 
+
+vulnerability to climate change. 
+
+India has also revisited the National Missions under the NAPCC in the light of new scientific 
+
+information  and  technological  advances  and  identified  new  missions  or  programs  on  wind 
+
+energy, health, waste to  energy, and  coastal areas.  It  is  also  redesigning the National Water 
+
+Mission and National Mission on Sustainable Agriculture. 
+
+It is clarified that India's INDC do not bind it to any sector specific mitigation obligation or 
+
+action, including in agriculture sector. India's goal is to reduce overall emission intensity and 
+
+improve  energy  efficiency  of  its  economy  over  time  and  at  the  same  time  protecting  the 
+
+vulnerable sectors of economy and segments of our society. 
+
+The  successful  implementation  of  INDC  is  contingent  upon  an  ambitious  global  agreement 
+
+including  additional  means  of  implementation  to be  provided  by  developed  country  parties, 
+
+technology transfer and capacity building following Article 3.1 and 4.7 of the Convention. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 30 of 38  
+
+ 
+
+5. 
+
+MEANS OF IMPLEMENTATION 
+
+ 
+
+5.1 CLIMATE CHANGE FINANCE REQUIREMENT 
+
+Finance  is  a  critical  enabler  of  climate  change  action.  However,  an  overall  assessment  and 
+
+quantification  of  finance  requirements  for  adaptation  and  mitigation  for  a  country  with  so 
+
+much diversity and demand is a difficult task given the rapid pace of changing technologies 
+
+and  innovation.  Estimates  by  various  studies  vary  in  projecting  precise  requirements  but 
+
+converge on the enormity of funds that would be needed.   
+
+Preliminary  estimates  indicate  that  India  would  need  around  USD  206  billion  (at  2014-15 
+
+prices) between 2015 and 2030 for implementing adaptation actions in agriculture, forestry, 
+
+fisheries  infrastructure,  water  resources  and  ecosystems.  Apart  from  this  there  will  be 
+
+additional  investments  needed  for  strengthening  resilience  and  disaster  management.  An 
+
+Asian Development Bank Study on assessing the costs of climate change adaptation in South 
+
+Asia  indicates  that  approximate  adaptation  cost  for  India  in  energy  sector  alone  would 
+
+roughly  be  about  USD  7.7  billion  in  2030s.  The  report  also  projects  the  economic  damage 
+
+and  losses  in  India  from  climate  change  to  be  around  1.8%  of  its  GDP  annually  by  2050. 
+
+Mitigation  requirements  are  even  more  enormous.    Estimates  by  NITI  Aayog  (National 
+
+Institution  for  Transforming  India)  indicate  that  the  mitigation  activities  for  moderate  low 
+
+carbon development would cost around USD 834 billion till 2030 at 2011 prices.  
+
+India's  climate  actions  have  so  far  been  largely  financed  from  domestic  resources.  A 
+
+substantial scaling up of the climate action plans would require greater resources. A detailed 
+
+and  full  scale  assessment  of  international  climate  finance  needs  will  be  finalized  at  a  later 
+
+stage  and  would  depend  on  the  gap  between  actual  cost  of  implementation  of  India's  plans 
+
+and what can be made available from domestic sources. While this would evolve over time, a 
+
+preliminary  estimate  suggests  that  at  least  USD  2.5  trillion  (at  2014-15  prices)  will  be 
+
+required for meeting India's climate change actions between now and 2030.  
+
+5.2 REQUIREMENT FOR TECHNOLOGY TRANSFER & SUPPORT 
+
+In  the  rapidly  and  ever  evolving  realm  of  technology  development,  it  is  difficult  to  project 
+
+future  requirement  of  technologies.  Transfer  and  grounding  of  technologies  and  their 
+
+knowhow  would  be  key  to  enhancing  adaptation  and  mitigation  measures  in  developing 
+
+countries.  It  also  calls  for  meaningful  and  adequate  financing  for  the  required  cutting  edge 
+
+ 
+
+ 
+
+Page 31 of 38  
+
+ 
+
+technologies. It is in this context that India has advocated global collaboration in Research & 
+
+Development  (R&D),  particularly  in  clean  technologies  and  enabling  their  transfer,  free  of 
+
+Intellectual Property Rights (IPR) costs, to developing countries. IPR costs can also be borne 
+
+from the GCF through a separate window. 
+
+It  is  also  to  be  appreciated  that  every  country  has  different  requirements  of  technology  and 
+
+different  capabilities  of  handling  technologies  depending  on  trained  and  skilled  manpower, 
+
+supporting  infrastructure,  intellectual  environment  etc.  Knowledge  creation,  eco-system 
+
+design  for  innovation  and  development,  and  technology  deployment  would  be  a  continuous 
+
+requirement in this process.  
+
+In its pursuit of low carbon growth, India would be focusing on technologies that need to be 
+
+moved from lab to field and those that require targeted global research along with those that 
+
+are  still  in  the  realm  of  imagination.  One  of  the  important  areas  of  global  collaborative 
+
+research  should  be  clean  coal  and  fossil  fuel,  energy  management  and  storage  systems  for 
+
+renewable energy. Given the current stage of dependence of many economies on coal, such 
+
+an effort is an urgent necessity. A preliminary and illustrative list of some of the technologies 
+
+(which will evolve over time) is at Annexure A. 
+
+ 
+
+5.3 CAPACITY BUILDING NEEDS 
+
+India's  efforts  will  require  proper  training  and  upgrading  of  skills  across  sectors.  While  no 
+
+firm assessments have been made, it is  evident that substantial resources will be required to 
+
+implement  capacity  building  programmes  both  nationally  and  across  the  states  to  address 
+
+climate change challenges. It is expected that the international mechanism will support such 
+
+initiatives  including  formation  of  Thematic  Knowledge  Networks,  further  expand  activities 
+
+under Global Technology Watch Group, establishing more intensive state centric knowledge 
+
+and  awareness  creating  activities  and  training  of  professionals  in  different  aspects  of 
+
+renewable  energy  and  supporting  research  and  development  institutions  for  pre-competitive 
+
+research. 
+
+Though  a  firm  projection  is  difficult,  rough  estimates  indicate  that  around  2.5%  of 
+
+Government's salary budget  would be required for capacity building initiatives, while some 
+
+part of it would need to be financed internationally. 
+
+ 
+
+ 
+
+ 
+
+Page 32 of 38  
+
+ 
+
+V. CONSIDERATION ON FAIRNESS AND AMBITION 
+
+India's INDC is based on the 1992 convention. In terms of the provision on Article 3.1 and 
+
+4.7,  this  submission  by  India  represents  the  utmost  ambitious  action  in  the  current  state  of 
+
+development.  Both  in  terms  of  cumulative  global  emissions  (only  3%)  and  per  capita 
+
+emission  (1.56  tCO2e  in  2010),  India's  contribution  to  the  problem  of  climate  change  is 
+
+limited but its actions are fair and ambitious. 
+
+ 
+
+The  recent  decisions  of  the  Government  represent  a  quantum  jump  in  our  aspirations  in 
+
+climate change actions starting with the manifold scaling up of our renewable energy targets 
+
+to  the  programme  on  Smart  Cities,  cleaning  of  rivers  and  Swachh  Bharat  Mission  (Clean 
+
+India  Mission).  The  initiatives  have  demonstrated  unparalleled  vision  and  strong  political 
+
+initiatives  of  the  Government.  It  is  expected  that  developed  countries  will  re-examine  their 
+
+pre 2020 actions in the light of substantial action taken by developing countries like India to 
+
+ensure that the ambition gap is substantially bridged.  
+
+Through  this  INDC,  India  has  shown  its  commitment  to  combat  climate  change  and  these 
+
+actions are indeed important contributions to the global effort. However, our efforts to avoid 
+
+emissions  during  our  development  process  are  also  tied  to  the  availability  and  level  of 
+
+international financing and technology transfer since India still faces complex developmental 
+
+challenges. The critical issue for developing nations is the gap between their equitable share 
+
+of  the  global  carbon  space  and  the  actual  share  of  carbon  space  that  will  be  accessible  to 
+
+them. The transfer of appropriate technologies and provision of adequate finance will have to 
+
+be  a  determined  contribution  of  the  developed  countries,  which  will  further  enable  the 
+
+developing  countries  to  accomplish  and  even  enhance  their  efforts.  It  is  expected  that 
+
+developed  countries  would  recognize  that  without  means  of  implementation  and  adequate 
+
+resources, the global vision is but a vacant dream. Addressing the United Nations Summit for 
+
+the  adoption  of  Post-2015  Development  Agenda  in  September  2015,  the  Prime  Minister  of 
+
+India,  Shri  Narendra  Modi  said;  "We  should  forge  a  global  public  partnership  to  harness 
+
+technology, innovation and finance to put affordable clean and renewable energy within the 
+
+reach  of  all.  Equally,  we  must  look  for  changes  in  our  lifestyles  that  would  make  us  less 
+
+dependent on energy and more sustainable in our consumption. It is equally critical to launch 
+
+a  global  education  programme  that  prepares  our  next  generation  to  protect  and  conserve 
+
+ 
+
+ 
+
+Page 33 of 38  
+
+ 
+
+Nature.  I  hope  that  the  Developed  World  will  fulfil  its  financing  commitments  for 
+
+development and climate change, without in any way putting both under the same head". 
+
+India's  INDC  is  fair  and  ambitious  considering  the  fact  that  India  is  attempting  to  work 
+
+towards  low  carbon  emission  pathway  while  endeavoring  to  meet  all  the  developmental 
+
+challenges  the  country  faces  today.  Through  this  submission,  India  intends  to  reduce  the 
+
+emissions intensity of its GDP by 33 to 35 % by 2030 from 2005 level. This commitment is 
+
+further  echoed  in  India's  actions  in  climate  change  adaptation  with  setting  up  its  own 
+
+‘National Adaptation Fund'.  
+
+The current policy  framework also includes a favorable environment  for a rapid  increase in 
+
+renewable energy, move towards low carbon sustainable development pathway and adapting 
+
+to the impacts of climate change. It represents the highest possible efforts as evident from the 
+
+multiple initiatives of the Government of India. 
+
+Accordingly,  India's  development  plans  will  continue  to  lay  a  balanced  emphasis  on 
+
+economic development and environment. 
+
+India reserves the right to  make additional submissions  on Intended Nationally Determined 
+
+Contribution (INDC) as and when required. 
+
+ 
+
+ 
+
+Page 34 of 38  
+
+ 
+
+Recent Initiatives of the Government of India 
+
+Under the leadership and vision of Hon'ble Prime Minister Shri Narendra Modi, Government of 
+India has taken a number of measures to promote sustainable development and address the threat 
+of climate change at national and sub-national level. 
+ 
+The  first  step  was  revisiting  the  National  Missions  under  the  National  Action  Plan  on Climate 
+Change  (NAPCC).  Government  is  proposing  to  set  up  new  missions  on  Wind  Energy,  Health, 
+Waste  to  Energy,  Coastal  Areas  and  redesigning  the  National  Water  Mission  &  National 
+Mission on Sustainable Agriculture. Other initiatives include: 
+
+MITIGATION STRATEGIES 
+
+  Green Generation for Clean & Energy Secure India: more than 5 times increase in 
+
+Renewable Capacity from 35 GW (upto March 2015) to 175 GW by 2022.  
+
+  National Solar Mission scaled up five-fold from 20 GW to 100 GW by 2022. Kochi Airport 
+
+is the World's first airport to fully run on solar power. 
+
+  Solar powered toll plazas envisaged for all toll collection booths across the country. 
+
+  National Smart Grid Mission launched for efficient transmission & distribution network. 
+
+  Green Energy Corridor projects being rolled out to ensure evacuation from renewable 
+
+energy plants. 
+
+  Nationwide Campaign for Energy Conservation launched with the target to save 10% of 
+
+current energy consumption by the year 2018-19.  
+
+  Launched  Smart  Cities  Mission  to  develop  new  generation  cities  by  building  a  clean  and 
+
+sustainable environment.  
+
+  National  Heritage  City  Development  and  Augmentation  Yojana  (HRIDAY)  launched  to 
+
+bring  together  urban  planning,  economic  growth  and  heritage  conservation  in  an  inclusive 
+
+manner.  
+
+  Atal  Mission  for  Rejuvenation  and  Urban  Transformation  (AMRUT)  is  a  new  urban 
+
+renewal mission for 500 cities across India. 
+
+  Launched  one-of-its  kind  ‘Swachh  Bharat  Mission'  (Clean  India  Mission)  to  make  country 
+
+clean and litter free by 2019. 
+
+ 
+
+ 
+
+Page 35 of 38  
+
+ 
+
+  Zero  Effect,  Zero  Defect  (ZED)  with  Make  in  India  campaign  to  enhance  energy&  resource 
+
+efficiency, pollution control, use of renewable energy, waste management etc. 
+
+  Formulated Green Highways (Plantation & Maintenance) Policy to develop 140,000 km long 
+
+"tree-line" along both sides of national highways. 
+
+  Faster Adoption and Manufacturing of Hybrid & Electric Vehicles (FAME India) to promote faster 
+
+adoption and manufacturing of hybrid and electric vehicles. 
+
+  Country's first passenger vehicle fuel-efficiency standards finalized. 
+
+  Policies to increase production of energy efficient 3 phase locomotives and switchover to 100% of 
+
+these locos from 2016-17 onwards. 
+
+  Policy directive issued to use 5% bio-diesel in traction fuel in diesel locomotives. 
+
+  National  Air  Quality  Index  launched  with  One  Number,  One  Color  and  One  Description  to  give 
+
+the status of air pollution in a particular city. 
+
+ADAPTATION STRATEGIES 
+
+  Launched Soil Health Card Scheme. Additionally, 100 mobile soil-testing laboratories setup 
+
+across the country. 
+
+  Paramparagat Krishi Vikas Yojana launched to promote organic farming practices. 
+
+  The  Pradhan  Mantri  Krishi  Sinchayee  Yojana  launched  to  promote  efficient  irrigation 
+
+practices. 
+
+  Neeranchal is  a new programme to  give additional impetus  to  watershed development in  the 
+
+country. 
+
+  Launched National Mission for Clean Ganga  (Namami Gange) which seeks to rejuvenate the 
+
+river. 
+
+  National Bureau of Water Use Efficiency  (NBWUE) proposed for promotion, regulation and 
+
+control efficient use of water. 
+
+  ‘Give  It  Up'  Campaign  launched  to  encourage  citizens  to  give  up  subsidy  on  cooking  gas  to 
+
+meet  the  needs  of  the  truly  needy  citizens,  thereby  promote  shift  away  from  inefficient  use  of 
+
+biomass in rural areas.  
+
+ 
+
+ 
+
+Page 36 of 38  
+
+ 
+
+CLIMATE FINANCE POLICIES 
+
+  Setting up of INR 3,500 million (USD 55.6 million)  National Adaptation Fund.  
+
+ 
+
+  Reduction in subsidies on fossil fuels including diesel, kerosene and domestic LPG.   
+
+ 
+
+  Coal cess quadrupled from INR 50 to INR 200 per tonne to help finance clean energy projects and 
+
+Ganga rejuvenation. 
+
+ 
+
+  Introduction of Tax Free Infrastructure Bonds for funding of renewable energy projects. 
+
+ 
+
+ 
+
+Page 37 of 38  
+
+ 
+
+Illustrative list of some of the Technologies (Mitigation perspective) 
+ 
+Clean Coal Technologies (CCT) 
+
+*  Pulverized Combustion Ultra Super Critical (PC USC) 
+*  Pressurised  Circulating  Fluidised  Bed  Combustion,  Super  Critical,  Combine  Cycle 
+
+Annexure A 
+
+(PCFBC SC CC) 
+
+Integrated Gasifier Combined Cycle (IGCC) 
+
+* 
+*  Solid Oxide Fuel Cell (SOFC), Integrated Gasifier Fuel Cell (IGFC) 
+*  Underground Coal gasification (UCG) 
+
+Nuclear Power 
+
+*  Pressurized  water  reactor,  Integral  pressurized  water  reactor,  Advanced  Heavy  Water 
+
+Reactor (AHWR)  
+
+*  Fast breeder reactor (FBR)  
+*  Accelerated-driven systems in advanced nuclear fuel cycles 
+
+Renewable Energy 
+
+*  Yeast /enzyme based conversion to high quality hydrocarbon fuels 
+*  Conversion of pre-treated biomass to fuels and chemicals 
+*  Gasification technologies like fluidised bed, plasma induced etc. for power generation 
+*  Wind Energy technologies: 
+
+o  Development of smaller and efficient turbines 
+o  Wind turbines for low wind regime 
+o  Designs of offshore wind power plants 
+
+*  Solar PV technologies: 
+
+o  Based on p-type silicon wafers and n-type silicon wafers 
+o  Hetero junction with Thin Interfacial (HIT) Module, Back Contact Back Junction 
+
+(BCBJ) Modules 
+
+o  Crystalline silicon photovoltaic cells of > 24 % cell efficiency 
+o  High efficiency Concentrating PV (CPV) 
+o  Non-silicon based solar PV technologies 
+
+*  Composite cylinders for on-board hydrogen storage 
+*  Advanced biomass gasification technologies 
+*  Low  temperature  Polymer  Electrolyte  Membrane  Fuel  Cell  (PEMFC)  for  stationary 
+
+power generation and for vehicular applications 
+
+*  Energy storage technologies for bulk storage and Renewable Energy integration, 
+
+frequency regulation, utility Transmission & Distribution applications and for community 
+scale projects. 
+
+ 
+
+ 
+
+Page 38 of 38  
+
+ 
+

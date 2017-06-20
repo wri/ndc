@@ -135,7 +135,7 @@ Nepal's Pilot Program for Climate Resilience (PPCR) compromises four components 
  
 #### 4. Knowledge Management
 
-Nepal has initiated knowledge generation and dissemination by establishing a Climate Change Knowledge Management Centre. Several governmental, non-governmental and community-based organizations, academic and research institutions are invovled in generating and disseminating data and information on climate change and its impacts in the recent years. 
+Nepal has initiated knowledge generation and dissemination by establishing a Climate Change Knowledge Management Centre. Several governmental, non-governmental and community-based organizations, academic and research institutions are involved in generating and disseminating data and information on climate change and its impacts in the recent years. 
 
 #### 5. Mitigation Actions 
 

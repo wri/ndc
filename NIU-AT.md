@@ -20,7 +20,8 @@ While Niue's contribution to global greenhouse gas emissions is negligible (less
 
 Niue has the distinction of being among the world's least populated nation states and with a future that is imperilled by the effects of climate change for which it bears absolutely no responsibility. In January 2004 the capital of Niue was destroyed by the category 5 Cyclone Heta. Niue knows the effects of severe events. It is also seeing the impacts of slow onset events as its underground freshwater lens faces contamination from rising sea levels. 
  
-Niue is a small Pacific Island Country (PIC) located partway between Tonga, Samoa and the Cook Islands. The island is approximately 259 km² with an Exclusive Economic Zone (EEZ) of 300,000km² and is reputedly one of the world's largest elevated coral atolls. The average height above sea-level is 23 metres and highest point less than 70m.  Niue is vulnerable to climate risks such as tropical cyclones  (TCs) and droughts; geological risks such as earthquakes and tsunami; and human-caused risks such as disease outbreaks and contamination of its only fresh water supply. Niue's risk profile is also inherently linked to its isolation and limited capacity to manage and respond to disasters and climate change impacts. Traditional coping strategies have tended to make way for an increased reliance on external support, as New Zealand fulfils its obligations to provide support to Niue in times of disaster.  
+Niue is a small Pacific Island Country (PIC) located partway between Tonga, Samoa and the Cook Islands. The island is approximately 259 km² with an Exclusive Economic Zone (EEZ) of 300,000km² and is reputedly one of the world's largest elevated coral atolls. The average height above sea-level is 23 metres and highest point less than 70m.  
+Niue is vulnerable to climate risks such as tropical cyclones  (TCs) and droughts; geological risks such as earthquakes and tsunami; and human-caused risks such as disease outbreaks and contamination of its only fresh water supply. Niue's risk profile is also inherently linked to its isolation and limited capacity to manage and respond to disasters and climate change impacts. Traditional coping strategies have tended to make way for an increased reliance on external support, as New Zealand fulfils its obligations to provide support to Niue in times of disaster.  
  
 Niue has no surface water and relies upon groundwater resources and rain catchments. Groundwater is recharged  via  rainfall  infiltration  and  rainfall  currently  exceeds  the  rate  of  extraction.  However,  Niue's porous soil renders its underground fresh water vulnerable to contamination, from both human causes (e.g. agricultural chemicals) and natural sources (e.g. sea water). Agriculture is predominantly focused on subsistence production, principally of root crops. The combination of relatively poor soils and dependence on rainfall makes agricultural production highly sensitive to changes in rainfall frequency and amount. 
  
@@ -31,19 +32,12 @@ Niue's economy is heavily dependent on support from New Zealand, which has a sta
 Climate change will exacerbate the already vulnerable situation in Niue outlined above. The most recent report  from  the  Pacific-Australia  Climate  Change  Science  and  Adaptation  Planning  Program  (PACCSAP) provides the following future projections to 2100 for Niue: 
 
 *  El Niño and La Niña events will continue to occur in the future (very high confidence), but there is little consensus on whether these events will change in intensity or frequency; 
-
 *  Annual mean temperatures and extremely high daily temperatures will continue to rise (very high confidence); 
-
 *  Mean annual rainfall could increase or decrease with the model average indicating little change (low confidence in this model average), with more extreme rain events (high confidence); 
-
 *  The proportion of time in drought is projected to increase or decrease in line with average rainfall (low confidence); 
-
 *  Ocean acidification is expected to continue (very high confidence);  
-
 *  The risk of coral bleaching will increase in the future (very high confidence); 
-
 * Sea level will continue to rise (very high confidence); and  
-
 *  Wave  heights  may  decrease  in  December-March  (low  confidence),  with  no  significant  changes projected in June-September waves (low confidence). 
 
  
@@ -57,17 +51,11 @@ The draft Niue National Strategic Plan (2014-2019) has a vision of Niue ke Monui
  The achievement of Niue ke Monuina is supported by seven national development pillars and specific strategies under each of those pillars. Progress of the journey to prosperity is measured by targets and indicators corresponding to each of the pillars.
 
 1.  Financial Stability - Ensure that sufficient financial resources are secured, and responsible fiscal management is prudent, sustainable and supports healthy development strategies; 
-
 2.  Governance  -  Ensure  that  good  governance  reflects  the  principles  of  transparency  and accountability and is practised at all levels; 
-
 3.  Economic Development and Maintain Crucial Infrastructure  - support families, public services, and  the  private  sector  through  tourism  development  with  a    safe,  reliable,  affordable  healthy infrastructure; 
-
 4.  Social - Enjoy a harmonious and healthy lifestyle in a thriving, educated and safe community that has access to a wide range of quality social services and healthy development opportunities; 
-
 5.  Environment - Sustainable use and management of Niue's natural resources and environment for present and future generations; 
-
 6.  Tāoga Niue - Promote, preserve and strengthen Niuean cultural heritage, language, values and identity; 
-
 7.  Private Sector Development - Be a prosperous and skilled island nation underpinned by a thriving and entrepreneurial private sector. 
 
  
@@ -83,15 +71,10 @@ The Vision of the National Climate Change Policy is for a "Safer, More Resilient
 To attain this Policy Goal the following objectives have been identified along with associated Strategies: 
 
 1.  Awareness Raising - To promote public awareness and improve stakeholder understanding of the causes  and  effects  of  climate  change  and  climate  variability  and  as  well  as  on  vulnerability, adaptation and mitigation responses; 
-
 2.  Data  Collection,  Storage,  Sharing,  and  Application  - To  improve  and  strengthen  the  collection, storage, management and application of climate data, including greenhouse gases and emissions, to monitor climate change patterns and its effects; 
-
 3.  Adaptation - To develop effective adaptation responses and enhance adaptive capacity in order to protect livelihoods, natural resources and assets, and vulnerable areas to the impacts of climate change to all sectors; 
-
 4.  Mitigation  -  To  mitigate  the  causes  of  climate  change  and  implement  effective  mitigation measures to reduce greenhouse gas emissions; 
-
 5.  Governance  and  Mainstreaming  -  To  mainstream  climate  change issues into  national development; and ii) establish an effective regulatory and institutional framework to facilitate the development and implementation of national responses to climate change;
-
 6.  Regional and International Cooperation - To ensure Niue obtains maximum benefits from relevant international  and regional  instruments  relating  to  climate  change  and  that  it  meets  its commitments under them. 
 
  
@@ -129,13 +112,12 @@ Niue is one of the world's least populated countries with low per capita emissio
 
 However, Niue recognises there may be considerable scope through technological and behavioural means to lower its emissions this further, congruent with Niue's ambition to be a globally responsible citizen. It is  anticipated  that  mitigating  greenhouse  gas  emissions  can have  substantial  collateral  benefits  including: decreased  national  expenditure  associated  with  the  escalating  costs  of  importing  fossil  fuels;  improved  energy security; improved local air quality; support for Niue as an eco-tourism destination and encouraging  sustainable development in the Pacific region. 
 
-Efforts to reduce GHG emissions are complementary to Niue's focus on its vision to ‘build a sustainable  future that meets our economic and social needs while preserving environmental integrity, social stability, 
-and the Niue culture'. 
+Efforts to reduce GHG emissions are complementary to Niue's focus on its vision to ‘build a sustainable  future that meets our economic and social needs while preserving environmental integrity, social stability, and the Niue culture'. 
 
 The sectoral breakdown of Niue's GHG emissions from the forthcoming Second National Communication  (2009 data, excluding waste) shows that the vast majority of Niue's emissions come from the energy sector. 
 
 As  shown  in  Figure  1  below,  transport  contributes  the  bulk  of  energy  sector  emissions  at  57%,  and  electricity generation the remainder, at 42%. The focus of GHG mitigation efforts for Niue is thus firmly on  transport and electricity generation. 
-
+**Figure 1: Breakdown of Niue energy sector GHG emissions (2009, Second National Communication**
 ![Figure 1: Breakdown of Niue energy sector GHG emissions (2009, Second National Communication](NIU.PNG) 
 
 In 2015, Niue has a 100% electricity penetration rate and total electricity demand is fairly stable, having recorded only 3% growth from 2008 to 2012. However Niue is 96% dependent on imported fuel for power generation and 100% dependent on imported fuel for land, sea and air transportation. 

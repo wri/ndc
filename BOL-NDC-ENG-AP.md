@@ -48,13 +48,13 @@ Country contributions should be consistent with the recognition of historical re
  
 Bolivia has proposed a fair and equitable sharing of atmospheric space, taking into account the capacity for regeneration and protection of the integrity of Mother Earth. To not exceed 1.5 degree temperature by 2050, the budget set by the Intergovernmental Panel on Climate Change (IPCC) is 650 GtCO2. In order to implement the distribution of remaining carbon budget that would ensure the stabilization of concentrations of greenhouse gases in the atmosphere, Bolivia has proposed a Climate Justice Index for the fair and equitable sharing of the global emissions budget; moreover this means of distribution would impart the carbon budget based on the following indicators: 
 
-a)  Historical  responsibility.  Includes  responsibility  for  the  cumulative  emissions  since  the pre-industrial era (1750-2010). 
+a)  *Historical  responsibility*.  Includes  responsibility  for  the  cumulative  emissions  since  the pre-industrial era (1750-2010). 
 
-b)  Ecological Footprint. A calculation based on the amount of land, water and forest people of the countries need to satisfy all the goods consumed and to assimilate the waste they generate. 
+b) *Ecological Footprint*. A calculation based on the amount of land, water and forest people of the countries need to satisfy all the goods consumed and to assimilate the waste they generate. 
 
-c)  Capacity development. Represents the conditions of economic and social development oeach country. 
+c)  *Capacity development*. Represents the conditions of economic and social development oeach country. 
 
-d)  Technological capacity. Measures the ability of countries considering their technological development based on expenditures on Research & Development and industrial performance of each of them, considering their capacity to produce and export goods with high technology. 
+d)  *Technological capacity*. Measures the ability of countries considering their technological development based on expenditures on Research & Development and industrial performance of each of them, considering their capacity to produce and export goods with high technology. 
 
  
 This index fairly determines the effort required by each country to stay within the budget of remaining emissions that corresponds to them. This implies that countries with high historical responsibility, high ecological footprints, greater development and greater technological capabilities, have a smaller share of the budget. 
@@ -101,22 +101,14 @@ To contribute in solving the climate crisis based on the alternative vision of l
  
 ### Structural solutions to the climate crisis   
 1.  Adoption of a new model of civilization in the world without consumerism, war-mongering, and mercantilism, a world without capitalism; build and consolidate a world order of Living Well that defends and promotes the integral rights of our peoples, undertaking the path of harmony with nature and respect for life. 
-
 2.  Construction of a climate system based on responsibility to Mother Earth, the culture of life and the full realization of humanity in their holistic development, humanizing the economy, surpassing the simplistic approach to decarbonization of the economy. 
-
 3.  Protection of the Rights of Mother Earth in an articulated and complementary manner to the rights of peoples to their development. 
-
 4.  Defense of universal common goods such as the seas and oceans, water, atmospheric space, as well as the technological monopoly, promoting people's access to the common heritage. 
-
 5.  Elimination of patents on technologies and recognition of the human right to science and technology of life. 
-
 6.  Effective implementation by governments of the human right to water. 
 7.  Establishment of the International Court of Justice Climate and Mother Earth to enable countries to fulfill their international commitments to climate change in a context of respect for the rights of peoples and of Mother Earth. 
-
 8.  Allocate the resources of the military machinery of the imperial powers and the war-mongers to finance the activities of the peoples against climate change. 
-
 9.  Eradication of commodification of nature and carbon markets promoting business climate millionaires, which do not solve the problem of the climate crisis. 
-
 10. Decolonize natural resources environmental colonial biased views that see the peoples of the South as forest rangers of Northern countries and communities as enemies of nature. 
 
  
@@ -128,33 +120,29 @@ Bolivia considers its nationally determined contributions as an ambitious and ju
  
 The contribution seeks in a integrated and complementary manner different intended results linked to the achievement of living well in the context of climate change with regards to water, energy, forest and agriculture and livestock, in the following manner: 
  
-1.  **2015-2030 Period with National Efforts.** The Plurinational State of Bolivia estimates 
-reaching  the  following  objectives  and  results  in  mitigation  and  adaptation  in  the 
-framework on holistic development by 2030, with a 2010 reference year:     
+1.  **2015-2030 Period with National Efforts.** The Plurinational State of Bolivia estimates reaching  the  following  objectives  and  results  in  mitigation  and  adaptation  in  the framework on holistic development by 2030, with a 2010 reference year:     
+    * Water. Increase in a holistic manner the adaptation capacity and systematically reduce the hydric vulnerability in the country. 
+    * Energy. Increase the electric generation capacity through renewable energies for local and regional development. 
+    * Forest and agriculture. Increase the capacity of joint adaptation and mitigation through the comprehensive and sustainable management of forests. 
 
-    •  Water. Increase in a holistic manner the adaptation capacity and systematically reduce the hydric vulnerability in the country. 
-    •  Energy. Increase the electric generation capacity through renewable energies for local and regional development. 
-    •  Forest and agriculture. Increase the capacity of joint adaptation and mitigation through the comprehensive and sustainable management of forests. 
-
- 
-
-i)  **With  regards  to  water,** actions will be promoted with a focus on adaptation to climate change and risk management, aiming for the following results:   
+i)  **With  regards  to  water,** actions will be promoted with a focus on adaptation to climate change and risk management, aiming for the following results: 
 - Triplicate    (3.779  million  m3)  water  storage  capacity  by  2030,  in  relation  to 596 million m3 in 2010.   
 -  Achieve 100% drinking water coverage by 2025, with resilient delivery services. 100%  coverage  of  drinking  water  achieved  by  2025,  with  resilient  delivery systems and services. 
 -  Reduction of the water component of the Unsatisfied Basic Needs    (NBI, for its name in Spanish) to 0.02% by 2030.   
 -  Triplicate irrigation surface to over 1 million hectares by 2030 with regards to 296.368 hectares in 2010, duplicate food production under irrigation by 2020 and triplicate by 2030, with regards to 1,69 million metric tonnes of 2010. In this manner, resilient agriculture and livestock systems will be achieved. 
 -  Significant improvement of social participation for local water management, increasing to 80% the number social organizations with resilient systems with respect to 35% of 2010. 
--  Increase food production under irrigation, to more than 6 millions metric tonnes by 2020 with regards to 2010.   
+-  Increase food production under irrigation, to more than 6 millions metric tonnes by 2020 with regards to 2010. 
 -  Increase the Gross Domestic Product (GDP) to 5,37% by 2030, with the contribution of resilient water and irrigation systems. 
 -  Reduction of water vulnerability from 0,51 to 0,30 units by 2030 with regards to 2010, which is measured with the National Index of Hydrid Vulnerability in the country, considering aspects related to exposures (treats), hydric sensitivity (hydric scarcity) and adaptation capacity.  
 -  Increase adaptation capacity from 0,23 units of 2010 to 0,69 units by 2030, which is measured through the National Index of Adaptation Capacity of Water 
 
-[//]: # (page 7)
 
 The following measures and actions will be developed for the achievement of results linked with water: 
--  Development of resilient infrastructure for the production and service sector. 
+ 
+
+- Development of resilient infrastructure for the production and service sector. 
 -  Construction of coverage networks of drinking water and sewage. 
--  Reuse of water for productive purposes to increase food production. 
+-  Reuse of water for productive purposes to increase food production.
 -  Restoration of vegetation cover (trees, grasslands, wetlands and others) to prevent erosion and reduce damage due to adverse climatic events. Increase in irrigated area through revitalized irrigation systems, irrigation technology, irrigation dams, water harvesting, and multipurpose water reuse projects. 
 -  Construction  of  multipurpose  hydropower  to  expand  the  water  storage capacity.
 -  Treatment  plants  for  domestic  and  industrial  wastewater  including  from mining and other activities. 
@@ -165,7 +153,7 @@ The following measures and actions will be developed for the achievement of resu
 -  Management of water quality service and loss reduction, including promoting the use of artefacts in low water consumption, efficient health systems and alternative technologies. 
 -  Rainwater harvest for various domestic uses, as well as the re-use of gray water from showers, sinks, laundries and downspouts, for various domestic purposes, except for human consumption. 
 -  Broader use of water harvesting technologies, conservation of soil moisture and water more efficiently (irrigation and livestock) (such as when there are shortages and stock up as store when there are plenty).
--  Implementation of treatment systems and water purification to improve water quality for human consumption. 
+-  Implementation of treatment systems and water purification to improve water quality for human consumption.
 
 ii) **With regard to energy,** actions are promoted with a focus on mitigation and adaptation to climate change and holistic development, achieving the following results: 
 - Increased  participation  of  renewable  energy  to  79%  by  2030  from  39%  in 2010. 
@@ -186,18 +174,17 @@ To achieve results related to energy the following measures and actions will be 
 - Promotion of energy surplus export from renewables sources, positioning Bolivia as a regional powerhouse with clean energy. 
 
 iii) **In relation to forests and agriculture,** actions will be promoted with a focus on joint mitigation and adaptation to climate change and holistic development, achieving the following results: 
-
-• Zero illegal deforestation by 2020 
-• Increased the surface of forested and reforested areas to 4.5 million hectares by 2030. 
-•  Increased forest areas with integrated and sustainable community management approaches with 16.9 million hectares in 2030, in reference to 3.1 million hectares by 2010. 
-•  Strengthened environmental functions (carbon capture and storage, organic matter and soil fertility, biodiversity conservation and water availability) in about 29 million hectares by 2030. 
-•  Contribution to Gross Domestic Product (GDP) growth of 5.4% in 2030, boosted by agricultural and forestry production complementary to conservation. 
-•  Reducing extreme poverty to zero in the population dependent on forests by 2030, based on approximately 350 thousand people by 2010. 
-• Increase net forest cover more than 54 million hectares by 2030, compared to the 52.5 million of 2010. 
-• Contributing to an increase in Gross Domestic Product (GDP) of 5.4 % in 2030, furthered by agricultural and forestry production, complementing conservation efforts. 
-• Extreme poverty has been reduced to zero within the population that depends on forests by 2030 from approximately 350 thousand people in 2010. 
-•  Net forest coverage has increased in 2030 to more than 54 million hectares compared to the 52.5 million in 2010. 
-• Joint mitigation and adaptation capacity has increased in areas covered by forests, agricultural and forestry systems from 0.35 units in 2010 to 0.78 in 2030, as measured by the *Index of Sustainable Forest Life*, achieving productivity and conservation systems that are both complementary and resilient.
+* Zero illegal deforestation by 2020 
+* Increased the surface of forested and reforested areas to 4.5 million hectares by 2030. 
+* Increased forest areas with integrated and sustainable community management approaches with 16.9 million hectares in 2030, in reference to 3.1 million hectares by 2010. 
+* Strengthened environmental functions (carbon capture and storage, organic matter and soil fertility, biodiversity conservation and water availability) in about 29 million hectares by 2030. 
+* Contribution to Gross Domestic Product (GDP) growth of 5.4% in 2030, boosted by agricultural and forestry production complementary to conservation. 
+* Reducing extreme poverty to zero in the population dependent on forests by 2030, based on approximately 350 thousand people by 2010. 
+* Increase net forest cover more than 54 million hectares by 2030, compared to the 52.5 million of 2010. 
+* Contributing to an increase in Gross Domestic Product (GDP) of 5.4 % in 2030, furthered by agricultural and forestry production, complementing conservation efforts. 
+* Extreme poverty has been reduced to zero within the population that depends on forests by 2030 from approximately 350 thousand people in 2010. 
+* Net forest coverage has increased in 2030 to more than 54 million hectares compared to the 52.5 million in 2010. 
+* Joint mitigation and adaptation capacity has increased in areas covered by forests, agricultural and forestry systems from 0.35 units in 2010 to 0.78 in 2030, as measured by the *Index of Sustainable Forest Life*, achieving productivity and conservation systems that are both complementary and resilient.
 
 [//]: # (page 9)
 
@@ -227,18 +214,20 @@ To  achieve  the  results  mentioned  beforehand  in  forests  and  in  agricult
 - Forestation and reforestation, forest plantations, parks and urban forests. 
 
 2.  **Period  2015-2030  with  International  Cooperation.**  In the framework of international cooperation and with the support of the financial mechanism of the United Nations Framework Convention on Climate Change estimates that Bolivia could increase their results as detailed below: 
-i)  In regards to water, the following results is estimated:   
 
 [//]: # (page 10)
 
+i)  In regards to water, the following results is estimated:  
 -  Water storage capacity has quadrupled in 2030 (3.779 million m3) compared to 2010 (596 million m3). 
 -  Agricultural irrigation has increased to 1.5 million hectares by 2030, compared to 2010 with 296,000 hectares. 
 -  Agricultural production under irrigation has quadrupled by 2030 (9.49 million tons) compared to 2010 (1.69 million MT). 
 -  Local  water  management  by  social  organizations  has  increased  to  90  %  by 2030. 
+
 ii)  In regards to energy, the following results is estimated: 
 - Increased participation of renewable energy to 81% by 2030, compared to 39 % in 2010. 
 -  We have consolidated the participation of alternative energy and other energy (steam combined cycle) to 9 % of the total electrical system with an installed capacity of 1,378 MW by 2030. 
 -  Bolivia's energy export potential has increased, generated mainly from renewable energy to power 10,489 MW by 2030. 
+
 iii) In regards to forests and agriculture, the following results is estimated: 
 -  Community  forest  management  has  increased  sevenfold  in  the  area  of  forest management in 2030.
 -  Timber  and  non-timber  production  has  increased  by  40%,  doubling  food production from the integrated management of forest and agricultural systems in 2030. 
@@ -366,9 +355,7 @@ The main variables analysed are results and impacts in relation to forests and a
  
 In the graph above the relationship between variables related to the integrated and sustainable management of forests and agricultural systems of life are displayed, highlighting the importance of community management of forests, with impacts on the growth of food production and timber forest products. The importance of reforestation, reduction of illegal deforestation and increased forest cover in a scenario maintaining environmental functions is also displayed. As a result the increase of agricultural and forestry GDP impacts the reduction of national extreme poverty. 
 
- [^1]:  Informal translation. For the authoritative version, please refer to the Spanish version published on the UNFCCC website.  
- 
- 
- [^2]:  For further reference, visit: www.osemosys.org 
+ [^1]: Informal translation. For the authoritative version, please refer to the Spanish version published on the UNFCCC website.  
+ [^2]: For further reference, visit: www.osemosys.org 
  
  

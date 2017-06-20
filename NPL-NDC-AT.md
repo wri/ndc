@@ -8,7 +8,7 @@ October 2016
 
 ### A. BACKGROUND 
 
-Nepal, a least developed mountainous and land-locked country, is one of the least contributors to the emissions of greenhouse gases (GHGs). With aspirations of development and is constrained given that it is one of the most vulnerable countries to the adverse impacts of climate change improving the country's economy; its development agenda is constrained given that it is one of the most vulnerable countries to the adverse impact of climate change.
+Nepal, a least developed mountainous and land-locked country, is one of the least contributors to the emissions of greenhouse gases (GHGs). With aspirations of development and improving the country's economy; its development agenda is constrained given that it is one of the most vulnerable countries to the adverse impact of climate change.
 
 #### 1. Nepal's vulnerability to climate change 
 
@@ -22,7 +22,7 @@ The 2013 study on Economic Assessment of Climate Change in Key Sectors (agricult
 
 In a nutshell, Nepal is one of the most vulnerable countries to climate change, water- induced disasters and hydro-meteorological extreme events such as droughts, storms, floods, inundation, landslides, debris flow, soil erosion and avalanches. Based on National Adaptation Programme of Action (NAPA) 2010, out of 75 districts, 29 districts are highly vulnerable to natural hazard such as landslides, 22 districts to drought, 12 districts to GLOFs, and 9 districts to flooding.
  
- Nepal is ranked the eleventh most earthquake-prone country in the world. It experienced a devastating earthquake of 7.6 magnitud e on 25 April 2015 with around 9,000 casualties and over 22,000 injuries. The destruction was widespread as it ruined houses, heritage sites, schools, health posts, and infrastructures (roads, bridges and hydro-electricity plants) and social systems (water supply, agricultural land, trekking routes, and sports facilities). Lives of about 8 million people have been severely impacted by this earthquake demanding unbelievably high cost of reconstruction. 
+ Nepal is ranked the eleventh most earthquake-prone country in the world. It experienced a devastating earthquake of 7.6 magnitude on 25 April 2015 with around 9,000 casualties and over 22,000 injuries. The destruction was widespread as it ruined houses, heritage sites, schools, health posts, and infrastructures (roads, bridges and hydro-electricity plants) and social systems (water supply, agricultural land, trekking routes, and sports facilities). Lives of about 8 million people have been severely impacted by this earthquake demanding unbelievably high cost of reconstruction. 
 
 Earthquake and climate-induced disasters have accelerated vulnerabilities and risks to water and sanitation security, food insecurity and further made the country highly vulnerable to climatic hazards. 
 
@@ -132,7 +132,7 @@ Nepal's PPCR compromises four components i) Building Climate Resilience of Water
  
 #### 4. Knowledge Management
 
-Nepal has initiated knowledge generation and dissemination by establishing a Climate Change Knowledge Management Centre. Several governmental, non-governmental and community-based organizations, academe and research in generating and disseminating data and information on climate change and its impacts in the recent years. 
+Nepal has initiated knowledge generation and dissemination by establishing a Climate Change Knowledge Management Centre. Several governmental, non-governmental and community-based organizations, academe and research institutions are invovled in generating and disseminating data and information on climate change and its impacts in the recent years. 
 
 #### 5. Mitigation Actions 
 
@@ -140,9 +140,9 @@ Nepal has initiated knowledge generation and dissemination by establishing a Cli
 
 Nepal's energy use is primarily dominated by traditional sources energy, mainly biomass for domestic purposes. Renewable energy contributes to only 1 percent of the total energy use. Currently, 56 % of the population has regular access to electricity for lightning. Despite a huge potential for renewable energies such as hydropower, solar power and wind energy, these resources have not been sustainably captured due to geographical, technical, political and economical reasons. As a result the country is facing acute power shortage of electricity and load shedding may stretch up to 15 hours per day in winter season.
 
-Regardless of these difficulties, Nepal has continued to prioritize the generation and utilization of clean energy, particularly through hydro-electricity at a larger scale. For the last two decades, micro- hydro, solar, biogas and improved cook stoves at the rural scale and in line with the National Rural and Renewable Energy Programme in the recent years. 
+Regardless of these difficulties, Nepal has continued to prioritize the generation and utilization of clean energy, particularly through hydro-electricity at a larger scale. For the last two decades, micro-hydro, solar, biogas and improved cook stoves at the rural scale and in line with the National Rural and Renewable Energy Programme in the recent years. 
 
-The Subsidy Delivery Mechanism for renewable energy was promoted since 2006 to ensure disbursement of subsidy in a cost effective and easy access manner in rural areas. Recently,the Government of Nepal has launched an initiative to promote solar energy, renewable energy technologies and energy-efficient technology in urban areas. 
+The Subsidy Delivery Mechanism for renewable energy was promoted since 2006 to ensure disbursement of subsidy in a cost effective and easy access manner in rural areas. Recently, the Government of Nepal has launched an initiative to promote solar energy, renewable energy technologies and energy-efficient technology in urban areas. 
 
 Moreover, the recent fuel crisis that sparked from September 2015 has accorded high priority to scale-up production of renewable energy technologies in order to meet the energy demands of urban, peri-urban and rural areas. Nepal is planning to generate clean energy as follows: 
 
@@ -175,7 +175,7 @@ Nepal promotes the generation of energy from waste converting, managing waste be
 
 Nepal in its drive for reconstruction in the post-earthquake situation will strive to promote greener, smarter and better homes as guided by the National Reconstruction Authority. The building code has provisioned for at least two trees in home garden, and rainwater harvesting and solar light in urban homes. 
 
-#### C. NEPAL's NDC
+### C. NEPAL's NDC
 
 Nepal, a land-locked mountainous country, has challenges of reducing poverty and addressing people's basic needs. With the increasing adverse visible impacts of climate change and recent earthquake, Nepal is continuously facing additional burden from climate change and urgently requires huge investments in adapting and building resilience to climate change in order to protect her people, property and natural resources. It is, therefore, imperative for Nepal to tackle the impact of poverty and climate change simultaneously to achieve Sustainable Development Goals. 
 
@@ -187,7 +187,7 @@ Nepal hereby communicates its NDC in response to the decisions of the Conference
 
 1. Nepal has initiated the process for the formulation of National Adaptation Plans (NAPs). Therefore, Nepal's adaptation needs for future, and in the context of post- 2020 will be envisioned through the NAPs. 
 
-2. Nepal places climate change adaptation at the centre of its development plans and policies. It aims to strengthen implementation of Environment-Friendly Local in Village Development Committees and Governance (EFLG) Framework municipalities to complement climate change adaptation, promote renewable energy technologies, water conservation and greenery development. 
+2. Nepal places climate change adaptation at the centre of its development plans and policies. It aims to strengthen implementation of Environment-Friendly Local Governance (EFLG) Framework in Village Development Committees and municipalities to complement climate change adaptation, promote renewable energy technologies, water conservation and greenery development. 
 
 3. Nepal will undertake scientific (physical and social sciences) approaches to understand and deal with the impacts of climate change in mountains, hills and low- land ecosystems and landscapes. It will develop and implement adaptation strategies for climate change affected sectors. 
 
@@ -228,7 +228,8 @@ Nepal will make efforts to implement its NDC and contribute to the global effort
 - a. Formulate and implement NAP and implementation of NAPA and LAPAs; 
 - b. Conduct research and studies on loss and damage associated with climate change impacts, and develop and implement measures to reduce climate vulnerabilities; 
 - c. Create an enabling environment to promote private sector investments and foreign direct investment in low carbon (energy efficiency and renewable energy) technologies; 
-- d. Develop electrical rail network in the low lands of Nepal; - e. Address drivers of deforestation and forest degradation to enhance carbon sequestration; 
+- d. Develop electrical rail network in the low lands of Nepal; 
+- e. Address drivers of deforestation and forest degradation to enhance carbon sequestration; 
 - f. Provide better price from carbon markets to ensure an equitable benefiting mechanism and maximize benefits at the local level to help sustainable management of forests; 
 - g. Sell carbon credits at a better price from its renewable energy and REDD+ programmes; 
 - h. Convert waste to energy; 

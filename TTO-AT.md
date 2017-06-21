@@ -3,7 +3,7 @@
 
 ## INTENDED NATIONALLY DETERMINED CONTRIBUTION (iNDC) UNDER THE UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE  
 
-### Executive Summary 
+#### Executive Summary 
  
 Trinidad and Tobago's intended nationally determined contribution (iNDC) is based on its Carbon Reduction Strategy developed for its power generation, transportation and industrial sectors, these being the major emitting sectors of the economy, and consistent with implementing the provisions of the National Climate Change Policy. The process of developing the Strategy and hence the iNDC involved wide stakeholder consultation and participation, including through its Climate Change Focal Point Network consisting of over 175 representatives of government ministries, agencies and institutions, academia, the private and industrial sectors, non-governmental organisations, civil society organisations, and fiduciary organisations. This process was finalised in 2014 and lasted for three (3) years during which business-as-usual scenarios were developed for each sector to the year 2040 although the iNDC presented goes to the year 2030, involving a conservative (lower economic growth) and optimistic (higher economic growth). 
  
@@ -11,7 +11,7 @@ Trinidad and Tobago's intended nationally determined contribution (iNDC) is base
  
   Trinidad and Tobago's aim is to achieve a reduction objective in overall emissions from the three sectors by 15% by 2030 from BAU, which in absolute terms is an equivalent of one hundred and three million tonnes (103,000,000) of CO2e. The estimated cost of meeting this objective is USD 2 billion, which is expected to be met partly through domestic funding and conditional on international financing including through the Green Climate Fund. In this regard, Trinidad and Tobago will commit to unconditionally reduce its public transportation emissions by 30% or one million, seven hundred thousand tonnes (1,700,000) CO2e compared to 2013 levels by December 31, 2030.
   
-### Trinidad and Tobago's National   Circumstances   
+#### Trinidad and Tobago's National   Circumstances   
  
 Trinidad and Tobago is the most industrialized economy in the English-speaking Caribbean. It is the leading Caribbean producer of oil and gas, and its economy is mainly based upon these resources. Trinidad and Tobago also supplies manufactured goods, mainly food products and beverages, as well as cement, to the Caribbean region. Even though other products are also manufactured, oil and gas is the leading economic sector and accounts for 40% of Gross Domestic Product (GDP) and 80% of exports. Trinidad and Tobago does not contribute largely to the total worldwide GHG emissions. In fact, as of 2013, Trinidad and Tobago was ranked 62nd of all the countries if they were classified by total national GHG emissions. 
  
@@ -31,12 +31,12 @@ Accordingly the Government has defined the policy framework for a low carbon dev
 The following sections provide further details.  
 
 ### Trinidad and Tobago's Mitigation Contribution          
-### Mitigation Objectives 
+#### Mitigation Objectives 
  
  
 | Unconditional:             	| 30%  reduction  in  GHG  emissions  by December 31, 2030 in the public transportation sector compared  to a business as usual (BAU)scenario (reference year 2013).[^1]                                                                                                                	|
 |----------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Conditional:               	| "Additional reduction   achievable    under certain conditionswhich would bring the total GHG reduction to 15% below BAU emission levels by December 31, 2030."                                                                                                                    	|
+| Conditional:               	| Additional reduction   achievable    under certain conditionswhich would bring the total GHG reduction to 15% below BAU emission levels by December 31, 2030.                                                                                                                    	|
 | Financial Requirements:    	| The estimated cost of achieving the reduction objectives is USD 2 billion, which is expected to be met partly through domestic funding and conditional on international climate financing including through the Green Climate Fund.                                                	|
 | Methodological Approaches: 	| The BAU baseline was developed using an ad hoc model based on the BIOS tool, rather than the wholesale application of prefabricated models. This decision was taken as a result of various criteria applied to the Trinidad and Tobago situation as summarised in the table below. 	|
 
@@ -56,15 +56,14 @@ Therefore, the model could be described as a simulation model, designed to devel
 2.  The sectoral submodels, which develop the technical specificities of every sector,  according to the forecasts of the economic module.  
 
                                                            
-[^1]: Trinidad and Tobago will continue to revise the BAU projections as more data becomes available to better track 
-emission reduction efforts. 
+[^1]: Trinidad and Tobago will continue to revise the BAU projections as more data becomes available to better track emission reduction efforts. 
  
 
 3.  The emissions module, which converts the activity data into GHG emissions, according   to the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories.  
 
  The development of the future scenarios is based on projections of the World Bank for Trinidad and Tobago and the Caribbean[^2]. The scenario developed shows a lower economic growth and is therefore defined as the conservative scenario, while the growth expected for the Caribbean is higher, so it was used as the baseline for the optimistic scenario. The scenarios have an important influence on the GHG emissions. Firstly, it is due to the relationship between the demand growth and the GHG emissions. And secondly, because in a long term projection, structural transformations of the economy take place, reflecting the differences between the relative weights of the economic sectors, and affecting the GHG emissions. 
  
- | Type of Emissions Reductions: 	| "Emission  reduction  from  projected  emissions  based  a business as usual scenario to the year 2030."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+ | Type of Emissions Reductions: 	| Emission  reduction  from  projected  emissions  based  a business as usual scenario to the year 2030.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
 |-------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Sectors:                      	| Transportation, power generation and industry.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
 | Gases:                        	| Carbon dioxide, methane, nitrous oxide                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	|
@@ -106,26 +105,18 @@ emission reduction efforts.
 
  
 
-**BAU  Scenario**:  The  estimated  emissions  to  2030  are  based  on  the  Business-As-Usual  (BAU) 
-projections modeled, and ***calculated as the average*** of the emissions projected of both the optimistic 
-scenario and the conservative scenarios.  
+**BAU  Scenario**:  The  estimated  emissions  to  2030  are  based  on  the  Business-As-Usual  (BAU) projections modeled, and ***calculated as the average*** of the emissions projected of both the optimistic scenario and the conservative scenarios.  
 
  
 
-1.  **Emissions Reduction by 2030:** The emissions reduction objective is intended to be a reduction 
-of the cumulative emissions  of the  three  sectors (power  generation, industry  and transport) 
-between 2013 and 2030, and aimed to be achieved by 31 December 2030. These cumulative 
-emissions are referenced against a 2013 baseline in which the total emissions from these sectors 
-amounted to an estimated 34,234,032 tCO2-e. 
+1.  **Emissions Reduction by 2030:** The emissions reduction objective is intended to be a reduction of the cumulative emissions  of the  three  sectors (power  generation, industry  and transport) between 2013 and 2030, and aimed to be achieved by 31 December 2030. These cumulative emissions are referenced against a 2013 baseline in which the total emissions from these sectors amounted to an estimated 34,234,032 tCO2-e. 
  
 
-2.  **Sectors**: The sectors covered are the three major emitting sectors (power generation, industry 
-and transportation) as the emissions from the other sectors are considered relatively negligible. 
-For example, in 2010, the land use and agriculture sector accounted for 2% of total economy-
+2.  **Sectors**: The sectors covered are the three major emitting sectors (power generation, industry and transportation) as the emissions from the other sectors are considered relatively negligible. For example, in 2010, the land use and agriculture sector accounted for 2% of total economy-
 wide emissions, while the waste sector accounted for 7% of the total economy-wide emissions.  
  
 
-3.  ***Global  Warming  Potential  (GWP)***:  GWP  used  were  consistent  with  the  1996  IPCC Guidelines and applied in estimating projected emissions.   
+3.  **Global  Warming  Potential  (GWP)**:  GWP  used  were  consistent  with  the  1996  IPCC Guidelines and applied in estimating projected emissions.   
  
 
  

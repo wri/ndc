@@ -6,7 +6,7 @@
 
  
 
-## I. Background 
+### I. Background 
 
  
 
@@ -128,7 +128,7 @@ With this background information, Ecuador hereby presents its Intended Nationall
 
  
 
-## II. Enhanced Climate Chance Actions 
+### II. Enhanced Climate Chance Actions 
 
  
 
@@ -162,7 +162,7 @@ These results will be derived from a series of policies, including:
 
 *  The electric generation from the gas associated to oil exploitation at different capacity levels by optimizing its use. With the use of these gases, electricity will be generated and transmitted to the Amazon region for the use in oil industry, water pumping and camps and communities in the covered areas, replacing the traditional use of diesel for these ends. A second phase of this program focuses on linking this energy to the national interconnected system. 
 
-*  The introduction of an installed capacity of electric generation from hydroelectric plants of *2,828 MW* additional to the BAU in the first scenario and an extra *4,382 MW* in the second, dependent upon international circumstances. Adaptation measures in the energy sector will contribute to the implementation of electric infrastructure strategies that address extreme climate change events attributed to climate variability. Analysis will be made for hydroelectric projects related to the vulnerability of their water systems. 
+*  The introduction of an installed capacity of electric generation from hydroelectric plants of **2,828 MW** additional to the BAU in the first scenario and an extra **4,382 MW** in the second, dependent upon international circumstances. Adaptation measures in the energy sector will contribute to the implementation of electric infrastructure strategies that address extreme climate change events attributed to climate variability. Analysis will be made for hydroelectric projects related to the vulnerability of their water systems. 
 
  
 
@@ -194,11 +194,8 @@ This emission reduction in comparison to the BAU scenario would have a national 
 In addition to these actions, Ecuador has implemented and plans to continue implementing important projects and programs with sustainable development and climate change benefits, including the following: 
 
 *  The Trans-amazon Electric Train (El Tren Eléctrico Transamazónico) 
-
 *  Eolic proyects in San Cristobal and Villonaco 
-
 *  The Project for the massive replacement of incandescent light bulbs for CFL light bulbs 
-
 *  The Change of the Energy Matrix of Ecuador 
 
  
@@ -208,16 +205,10 @@ Ecuador has also implemented and will continue to implement several measures to 
  
 
 *  Measures for the effective management of water in communities where the availability or quality of this resource has been affected by climate change.  
-
 *  The establishment of weather stations in high-altitude mountain locations. 
-
 *  Conservation  of  protected  areas,  management  of  carbon  stocks  and establishment of water recollection systems. 
-
 *  Strengthening  the  resiliency  of  vulnerable  communities  with  a  focus  on food security.  
-
 * Identification of areas vulnerable to draught and land degradation in order to promote sustainable land management practices and water catchment systems. 
-
-
 *  Analysis  of  the  vulnerability  of  infrastructure  and  water  availability  in hydroelectric plants with respect to the effects of climate change.  
 
  

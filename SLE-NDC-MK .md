@@ -35,7 +35,7 @@ Table 2 below shows the projections of greenhouse emissions developed for Sierra
 | Sierra Leone                                                                            | 2015  | 2020  | 2025  | 2030  |
 | All Sources, Gases, Sectors                                                             | 4.765 | 5.239 | 5.851 | 6.551 |
 | CH4                                                                                     | 3.670 | 4.029 | 4.458 | 4.970 |
-| N20                                                                                     | 0.997 | 1.069 | 1.156 | 1.271 |
+| N2O                                                                                     | 0.997 | 1.069 | 1.156 | 1.271 |
 | Agriculture                                                                             | 2.107 | 2.224 | 2.374 | 2.575 |
 | Energy                                                                                  | 0.001 | 0.001 | 0.001 | 0.001 |
 | Industrial Processes                                                                    | 0.097 | 0.142 | 0.238 | 0.311 |
@@ -75,21 +75,16 @@ The IPCC Revised 1996 Guidelines for National Greenhouse Gas Inventories and the
 
 ##### Information to Facilitate Clarity, Transparency and Understanding
 
-###### *Geographic coverage*: 
-The geographic coverage is complete. No region in Sierra Leone has been left uncovered by the inventory.
+***Geographic coverage***: The geographic coverage is complete. No region in Sierra Leone has been left uncovered by the inventory.
 
-###### *Sectors (sources and sinks)*: 
-All sources or removals of direct GHG gases included in the IPCC Guidelines (Energy, Industrial Processes, Agriculture, Forestry and other Land Use (AFOLU) and waste sector). In particular, Sierra Leone target covers all greenhouse gases included in the 1990 and 2000 inventories under INC and SNC. The general gaps in the completeness are mainly due to lack of activity data and the non-occurrence of the activity in Sierra Leone.
+***Sectors (sources and sinks)***: All sources or removals of direct GHG gases included in the IPCC Guidelines (Energy, Industrial Processes, Agriculture, Forestry and other Land Use (AFOLU) and waste sector). In particular, Sierra Leone target covers all greenhouse gases included in the 1990 and 2000 inventories under INC and SNC. The general gaps in the completeness are mainly due to lack of activity data and the non-occurrence of the activity in Sierra Leone.
 
-###### *Gases covered*: 
-Carbon dioxide (CO2), Methane (CH4) and Nitrous Oxide (N2O) are prioritized.
+***Gases covered***: Carbon dioxide (CO2), Methane (CH4) and Nitrous Oxide (N2O) are prioritized.
 
-###### *Base year for gases covered*: 
-all 2000/1990(not relevant where reference level is applied) 
-###### *Time frames/period for implementation*: 
-2030-2050
+***Base year for gases covered***: all 2000/1990(not relevant where reference level is applied) 
+***Time frames/period for implementation***: 2030-2050
 
-###### *Fairness and ambition* 
+***Fairness and ambition*** 
 Sierra Leone is of the view that the key factors in determining the fairness of a contribution should include historical responsibility and respective capability to address climate change. In light of this the country considers the following points:
 
 1. The country's capability to implement this contribution is subject to limitations. 
@@ -136,22 +131,22 @@ These strategies include:
 **Strategy 6:** Diversification of economic growth through strengthened transport sub-sector, particularly the infrastructure to contribute to the reduction of regional and gobal emissions of greenhouses and build a stable economy. 
 **Strategy 7:** Adoption and application of climate-smart and conservation agriculture through best agricultural practicies that enhance soil fertility and improve crop yield. 
 
-##### Contribution by land sector emissions
+##### *Contribution by land sector emissions*
 This includes emissions from the land use, land use change and forestry (LULUCF) sector. Relevant national policy documents and the FAO's Global Forest Resource Assessment 2010 for Agency Sierra Leone were used. A global land-use data approach was used, as described in the 2003 IPCC Good Practice Guidance for LULUCF. A state and transition model consistent with the 1996 Revised IPCC Guidelines was used to calculate fluxes of CO2 to (or from) the atmosphere and biomass carbon pools is the same as outlined in the 1996 Revised IPCC Guidelines. There is significant uncertainty in the BAU emission and mitigation potential estimates for this sector and work is underway to update and improve these estimates. 
 
-##### Contribution of international market based mechanisms
+##### *Contribution of international market based mechanisms*
 Sierra Leone supports the inclusion of the international Carbon Markets such as CDM in a post 2020 agreement on climate change and proposes that such instrument be tied to an appropriate MRV system to be used to help finance low carbon climate resilient infrastructure investments. 
 
 Sierra Leone considers that certain low emission development options mentioned in the INDC or additional actions could be entirely or partially be funded by the transfer of internaitonal carbon assests while taking into account environmental integrity and transparency. 
 
-##### Avoidance of double counting
+##### *Avoidance of double counting*
 Sierra Leone intends to include the above mentioned carbon assets in accounting for its emission reduction commitment. For the CDM under its current use and operation it is assumed that only the acquiring Party will account for the emission reductions covered by the credits acquired from the host Party. For new market mechanisms, Sierra Leone supports the elaboration of UNFCCC rules for avoiding double counting of emission reductions, or otherwise appropriate. 
 
-##### Reference Point
-##### BAU emissions in the target year
+##### *Reference Point*
+***BAU emissions in the target year***
 Business as usual (BAU) emissions is estimated to by 6.6 **MtCO2e** by 2030. This excludes downstream exploitation in the mining/extractive sector. 
 
-##### BAU projection methodology
+***BAU projection methodology***
 The BAU projection methodology is detailed within the NCCS&AP and the Second National Communication (SNC), including key assumptions, drivers and methodologies for each sector. The base year is 1990. 
 
 Sierra Leone has over 20 hydro potential sites of which the Bumbuna Dam is the only one that has been tapped. This dam, which has been completed, has a capacity of 50MW. This was considered as the most **viable mitigation option** for the electricity sector. If five of these hydro potentials including Bumbuna are utilized, it may result in almost zero emission for the electricity sector. 

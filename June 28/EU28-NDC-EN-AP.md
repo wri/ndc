@@ -18,7 +18,7 @@ Riga, 6 March 2015
 
  3. The EU and its Member States wish to communicate the following INDC. The EU and its Member States are committed to a **binding target of an at least 40% domestic reduction in greenhouse gas emissions by 2030 compared to 1990**, to be fulfilled jointly, as set out in the conclusions by the European Council of October 2014. In line with the Lima Call for Climate Action, in particular its paragraph 14, the following *quantifiable information* is hereby submitted: 
 
-# ANNEX 
+### ANNEX 
 #### Intended Nationally Determined Contribution of the EU and its Member States 
 ##### Parties 
 EU and its Member States (Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden, United Kingdom) acting jointly 
@@ -57,7 +57,8 @@ Global Warming Potential on a 100 year timescale in accordance with the IPCC's 4
 IPCC Guidelines 2006 and IPCC 2013 KP Supplement. 
 ##### Approach to accounting for agriculture, forestry and other land uses 
 Comprehensive accounting framework, activity or land- based approach, for emissions and removals from land use, land-use change and forestry. 
-##### Coverage Sectors/Source Categories 
+#### Coverage 
+##### Sectors/Source Categories 
 - Energy 
     - Fuel Combustion
         - Energy industries

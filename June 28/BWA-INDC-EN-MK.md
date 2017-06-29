@@ -1,6 +1,5 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 
-# BOTSWANA INTENDED NATIONALLY DETERMINED CONTRIBUTION 
+## BOTSWANA INTENDED NATIONALLY DETERMINED CONTRIBUTION 
 
 BOTSWANA is pleased to communicate its intended nationally determined contribution, as per decisions 1/CP.19 and 1/CP.20. 
 
@@ -8,12 +7,12 @@ Botswana intends to achieve an overall emissions reduction of 15% by 2030, takin
 
 Botswana is developing a Climate Change Policy and Institutional Framework which will be supported by a Strategy and Action Plan to operationalize the Policy. The Policy will be approved by Parliament in 2016. In addition to the national policy, the development of a strategy will involve development of a long term low carbon strategy, a national adaptation plan, nationally appropriate mitigation actions, identification of technologies, plan for knowledge management capacity development, education and public awareness and a financial mechanism. This total package will ensure that the policy is implementable. 
 
- | Mitigation Contribution   | The country intends,to achieve an overall emissions reduction of 15% by 2030, taking 2010 as the,base year. The emission reduction target was estimated based on the baseline,inventory for the three GHGs being carbon dioxide (CO2), methane (CH4) and,nitrous oxide (N2O). The reductions will be realised from the energy sources,which is categorised as the stationary and mobile sources. The country will,also continuously implement mitigation measures for the livestock sector to,reduce CH4 emissions mainly from enteric fermentation though these,initiatives are not estimated in the 15%. Initiatives for emission reductions,will be developed from long term low carbon strategy |
+ | Mitigation Contribution   | The country intends,to achieve an overall emissions reduction of 15% by 2030, taking 2010 as the base year. The emission reduction target was estimated based on the baseline inventory for the three GHGs being carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O). The reductions will be realised from the energy sources which is categorised as the stationary and mobile sources. The country will also continuously implement mitigation measures for the livestock sector to reduce CH4 emissions mainly from enteric fermentation though these initiatives are not estimated in the 15%. Initiatives for emission reductions will be developed from long term low carbon strategy |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Scope and Coverage        | Gases: This emissions reduction target was 2 estimated based on baseline GHGs inventory for the three GHGs being CO2, CH4 and N2O.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                           | Sectors: Energy sector (mobile and stationary sources), Waste, and the Agriculture                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Scope and Coverage        | Gases: This emissions reduction target was estimated based on baseline GHGs inventory for the three GHGs being CO2, CH4 and N2O.  |
+|                           | Sectors: Energy sector (mobile and stationary sources), Waste, and the Agriculture  |
 | Methodological Approaches | The methodological approaches for estimating national GHGs emissions inventory involved standard IPCC approved methods. Consequently, calculations of GHGs emissions were based on the IPCC Guidelines. For other non-energy sectors such as waste and agriculture, IPCC spreadsheets were adopted and data was input to generate emissions statistics. The country used 100-year global warming potential (GWP) values to estimate the CO2 equivalent totals.                                                                                                                                                                                                                                      |
-| Market Mechanisms         | Botswana will use market mechanisms under the convention                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Market Mechanisms         | Botswana will use market mechanisms under the convention            |
 
 
 **Adaptation** 
@@ -28,7 +27,7 @@ The Government of Botswana has been spending a significant portion of its nation
 
 **Mitigation for GHG emission reductions** 
 
-It is estimated that to achieve the set target of 15% GHG emission reduction by 2030, the country would require approximately USD18.4 billion. These funds will be allocated to energy and transport sector infrastructural developments which will contribute to emission reductions. 
+It is estimated that to achieve the set target of 15% GHG emission reduction by 2030, the country would require approximately USD 18.4 billion. These funds will be allocated to energy and transport sector infrastructural developments which will contribute to emission reductions. 
 
 Therefore, future activities need to be conducted on the following key issues: 
 
@@ -52,7 +51,7 @@ Climate change adaptation framework in the country is guided and informed by the
 
 In order to ensure that climate change adaptation measures are mainstreamed into national development planning and sectoral planning, the current environmental programmes and projects strategically entail climate change adaptation. For instance, planning within the water sector takes into cognisance the impacts of climate change. Other national initiatives exist such as the on-going Sustainable Land Management in Ngamiland and Central Districts which is aimed at enhancing resilience and reducing the vulnerability of communities to climate change. 
 
- The following adaptations actions are currently being implemented by the government nationally to help communities adapt to the impacts for climate change: 
+The following adaptations actions are currently being implemented by the government nationally to help communities adapt to the impacts for climate change: 
  
  **Water Sector** 
 * Construction of pipelines and connection to existing ones to transmit water to demand centres 

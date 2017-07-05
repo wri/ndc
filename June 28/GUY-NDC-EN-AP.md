@@ -1,9 +1,5 @@
  
- [//]: # (<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>GUYANA‟S REVISED) 
- 
-# GUYANA'S REVISED
- 
-## INTENDED NATIONALLY DETERMINED CONTRIBUTION 
+# GUYANA'S REVISED INTENDED NATIONALLY DETERMINED CONTRIBUTION 
 
   
 
@@ -34,7 +30,7 @@ The essential question in 2015 is the same as it was in 1987: Will nations conti
 
  
 
-It is in this context, and in accordance with the Warsaw COP Decision 1/CP.19 and Lima 1/CP.20 and the Guyana Constitution that Guyana submits this revised Intended Nationally Determined Contribution to the UNFCCC as our contribution to the global effort to combat climate change. 
+It is in this context, and in accordance with the Warsaw COP Decision 1/CP.19 and Lima 1/CP.20 and the Guyana Constitution that Guyana submits this *revised* Intended Nationally Determined Contribution to the UNFCCC as our contribution to the global effort to combat climate change. 
 
 
 ### Country profile 
@@ -43,19 +39,19 @@ Guyana has a long, proud history of forest conservation, with our indigenous peo
 
 [//]: #page2
 
- With the world‟s second highest percentage of rainforest cover (85%), Guyana commands globally important carbon stocks (19.5 GtCO2eq). As one of only a handful of countries that are net carbon sinks, Guyana‟s forests sequester more carbon than the nation‟s human activities generate. Guyana‟s 18.48 million forested hectares in total hold carbon in unusually high density (up to 350 tons/hectare), and store some 5.31 gigatons of carbon. That amounts to approximately 6,638 tons/person, the second highest forest carbon stock per capita of any country on Earth. 
+ With the world's second highest percentage of rainforest cover (85%), Guyana commands globally important carbon stocks (19.5 GtCO2eq). As one of only a handful of countries that are net carbon sinks, Guyana's forests sequester more carbon than the nation's human activities generate. Guyana's 18.48 million forested hectares in total hold carbon in unusually high density (up to 350 tons/hectare), and store some 5.31 gigatons of carbon. That amounts to approximately 6,638 tons/person, the second highest forest carbon stock per capita of any country on Earth. 
 
-Between 2009 and 2015, with our partner the Kingdom of Norway, Guyana embarked on the world‟s first national-scale, payment-for-performance forest conservation agreement which provided financing for Guyana‟s innovative and pioneering Low Carbon Development Strategy (LCDS). This ground-breaking agreement established a model for the important contribution of high forest cover/low deforestation rate (HFLD) countries to the international fight to mitigate climate change. The viability of this REDD+ model relies on Guyana‟s highly-regarded national forest Measurement, Reporting and Verification System (MRVS). 
+Between 2009 and 2015, with our partner the Kingdom of Norway, Guyana embarked on the world's first national-scale, payment-for-performance forest conservation agreement which provided financing for Guyana's innovative and pioneering Low Carbon Development Strategy (LCDS). This ground-breaking agreement established a model for the important contribution of high forest cover/low deforestation rate (HFLD) countries to the international fight to mitigate climate change. The viability of this REDD+ model relies on Guyana's highly-regarded national forest Measurement, Reporting and Verification System (MRVS). 
 
-Guyana has led in the development of a nationwide MRVS and integrated Community MRV (CMRV) models. Through the Opt-in Mechanism, currently being developed, indigenous communities will have the opportunity to „Opt-in‟ to Guyana‟s REDD+ programme through a consultative process that ensures community consensus based on FPIC principles and a benefit-sharing and governance framework,. 
+Guyana has led in the development of a nationwide MRVS and integrated Community MRV (CMRV) models. Through the Opt-in Mechanism, currently being developed, indigenous communities will have the opportunity to 'Opt-in' to Guyana's REDD+ programme through a consultative process that ensures community consensus based on FPIC principles and a benefit-sharing and governance framework,. 
 
 Although rich in natural resources - including gold, diamonds, bauxite and timber - and with a population of less than 800,000, Guyana is classified as a lower-middle income developing country, and remains one of the poorest countries in South America and the Caribbean. 
 
  
 
-Consequently, Guyana‟s enormous forest carbon stocks, together with other significant ecosystems services - including abundant fresh water and biodiversity- make it the ideal country to continue to test and refine the economic viability of REDD+ payment schemes. Guyana is prepared to continue to sustainably manage, conserve, and protect this patrimony for the benefit of ourselves and all humanity. In return, we must obtain benefits to improve the wellbeing and quality of life of Guyanese. The economic and other benefits that can accrue from REDD+ and the Green Economy it supports need to be comparable with or superior to those obtainable from current extractive economic activities including artisanal gold mining, recognizing that this activity supports the livelihoods of many thousands of Guyanese. 
+Consequently, Guyana's enormous forest carbon stocks, together with other significant ecosystems services - including abundant fresh water and biodiversity- make it the ideal country to continue to test and refine the economic viability of REDD+ payment schemes. Guyana is prepared to continue to sustainably manage, conserve, and protect this patrimony for the benefit of ourselves and all humanity. In return, we must obtain benefits to improve the wellbeing and quality of life of Guyanese. The economic and other benefits that can accrue from REDD+ and the Green Economy it supports need to be comparable with or superior to those obtainable from current extractive economic activities including artisanal gold mining, recognizing that this activity supports the livelihoods of many thousands of Guyanese. 
 
-Recalling Principal Seven of the Rio Declaration and UNFCCC‟s commitment to "common but differentiated responsibility", Guyana is offering to defer the pursuit of our historic natural resource exploitation-based economy, and offer our huge carbon stocks to the world if, in return, our sustainable human development needs and the cost of deferring business as usual are met by financial support from the international community in a predictable, just and equitable manner. 
+Recalling Principal Seven of the Rio Declaration and UNFCCC's commitment to "common but differentiated responsibility", Guyana is offering to defer the pursuit of our historic natural resource exploitation-based economy, and offer our huge carbon stocks to the world if, in return, our sustainable human development needs and the cost of deferring business as usual are met by financial support from the international community in a predictable, just and equitable manner. 
 
 [//]: #page3
   
@@ -70,21 +66,21 @@ Guyana remains committed to the fight against global climate change and the succ
 
   
 
-## PLANNING PROCESS  
+### PLANNING PROCESS  
 
-Guyana has employed a broadly consultative process to develop its intended nationally determined contributions through an Inter-Agency Task Force established by Cabinet. This Task Force oversaw the process of developing the submission. A small technical team, led by Guyana‟s lead negotiator, prepared the first draft, which was reviewed by the Task Force to produce a second draft. The second draft was presented at two public meetings in September 2015 - one for civil society in general and the second targeting representatives of indigenous organizations and communities. The third draft was approved by Cabinet and was submitted to the UNFCCC prior to October 1. 
+Guyana has employed a broadly consultative process to develop its intended nationally determined contributions through an Inter-Agency Task Force established by Cabinet. This Task Force oversaw the process of developing the submission. A small technical team, led by Guyana's lead negotiator, prepared the first draft, which was reviewed by the Task Force to produce a second draft. The second draft was presented at two public meetings in September 2015 - one for civil society in general and the second targeting representatives of indigenous organizations and communities. The third draft was approved by Cabinet and was submitted to the UNFCCC prior to October 1. 
 
 Based on a second round of civil society review and inputs, an amended document was produced and presented at a national consultative conference, jointly coordinated by Government and Civil Society, at which a finalized consensus document was agreed. This revised INDC was approved by Cabinet and submitted to the UNFCCC as Guyana‟s revised INDC. 
 
  [//]: #page4
  
-### Type of commitment 
+#### Type of commitment 
 
 While we look forward to broad-based and economically holistic emission reduction commitments from developed countries, the contribution of Guyana and other developing countries will in the main be policy-based including measures to reduce the normative "business as usual" growth in emissions. As a developing country, a coastal low-lying SIDS state, and one of few net carbon sink countries, Guyana proposes the following policies, measures and actions, both conditional and unconditional. 
 
   
 
-### Coverage 
+#### Coverage 
 
  Coverage is at the national level for the sectors covered in this INDC. 
 
@@ -94,7 +90,7 @@ The greenhouse gas taken into account in this INDC is carbon dioxide.
 
 #### Sectors covered 
 
-Guyana‟s intended contributions will focus on the forest and energy sectors, where the majority of our current and historic emissions are produced. 
+Guyana's intended contributions will focus on the forest and energy sectors, where the majority of our current and historic emissions are produced. 
 
 While it is true that agriculture is a considerable source of other greenhouse gas (methane and nitrous oxide) emissions, and should be part of the general global mitigation agenda, for SIDS, LDCs and the African Group, domestic agriculture is critical to our food security and rural livelihoods. Agriculture in Guyana, as elsewhere, is under threat from the adverse effects of climate change, including floods and droughts. Given its small scale, and concentrated as it is along the narrow coastal strip where Guyana‟s most productive soils are found, our agriculture is particularly vulnerable to sea level rise and other adverse effects of climate change. Our contributions are therefore focused entirely on CO2 emissions and Guyana's agriculture is treated purely as an adaptation issue in this INDC. 
 
@@ -124,30 +120,31 @@ Outside our bilateral agreement with Norway, Guyana does not currently see viabl
 
   
 
-## CONTRIBUTIONS 
+### CONTRIBUTIONS 
 
-Guyana‟s overarching contribution goal is to achieve a Green Economy via a low- emission economic-development pathway. We intend to continue the transition of our economy to realize improved human well-being and social equity, while significantly reducing environmental risks and ecological scarcities. This includes the pursuit of a resilient, low-carbon, socially-inclusive economy that provides a better quality of life for all within the ecological limits of our planet, particularly as it pertains to our common global climate. 
+Guyana's overarching contribution goal is to achieve a Green Economy via a low- emission economic-development pathway. We intend to continue the transition of our economy to realize improved human well-being and social equity, while significantly reducing environmental risks and ecological scarcities. This includes the pursuit of a resilient, low-carbon, socially-inclusive economy that provides a better quality of life for all within the ecological limits of our planet, particularly as it pertains to our common global climate. 
 
-Guyana‟s Low Carbon Development Strategy (LCDS) was first formulated in 2008. Implementation of the LCDS has been financed primarily with Guyana REDD+ Investment Fund (GRIF) resources earned under the Guyana Norway Agreement (GNA). With additional, timely, adequate and accessible resources, Guyana can build on this achievement and the lessons learned over the past five years to embark on a more inclusive and comprehensive path to a low-emission Green Economy. More specifically, with the provision of adequate resources, Guyana can increase its share of renewable energy by 100% by the year 2025. Our intended contributions are presented below. 
+Guyana's Low Carbon Development Strategy (LCDS) was first formulated in 2008. Implementation of the LCDS has been financed primarily with Guyana REDD+ Investment Fund (GRIF) resources earned under the Guyana Norway Agreement (GNA). With additional, timely, adequate and accessible resources, Guyana can build on this achievement and the lessons learned over the past five years to embark on a more inclusive and comprehensive path to a low-emission Green Economy. More specifically, with the provision of adequate resources, Guyana can increase its share of renewable energy by 100% by the year 2025. Our intended contributions are presented below. 
 
 
-### Forestry i)  Unconditional contributions 
+#### Forestry 
+##### i)  Unconditional contributions 
 Guyana is willing to continue making the following contributions unconditionally: 
 
  [//]: #page6 
 
-Continue and improve ongoing work to realize sustainable forest management. GFC will ensure compliance with the various Codes of Practice that govern the timber industry using local resources. Forest monitoring will maintain a high level of timber legality, with the GFC committing 50% of its staff to field monitoring from its 54 forest monitoring stations countrywide. These efforts will maintain a low rate of illegal logging (at less than 2% of production). 
+Continue and improve ongoing work to realize sustainable forest management. GFC will ensure compliance with the various Codes of Practice that govern the timber industry using local resources. 
+Forest monitoring will maintain a high level of timber legality, with the GFC committing 50% of its staff to field monitoring from its 54 forest monitoring stations countrywide. These efforts will maintain a low rate of illegal logging (at less than 2% of production). 
 
-Guyana is also prepared to finalize and implement the Voluntary Partnership Agreement (VPA) under EU- FLEGT. The VPA is expected to be finalized in 2016 and to provide independent accreditation of forest legality and management practices throughout Guyana‟s timber industry. 
+Guyana is also prepared to finalize and implement the Voluntary Partnership Agreement (VPA) under EU- FLEGT. The VPA is expected to be finalized in 2016 and to provide independent accreditation of forest legality and management practices throughout Guyana's timber industry. 
 
- We are prepared to improve added- value activities locally to assist in creating a higher potential for carbon storage in long-use wood products. This could also potentially reduce the pressure on forest resources as derivation of a higher value may result in reduced harvest levels. Indigenous people own and manage some 14% of Guyana‟s lands. The culture and traditions of Guyana‟s indigenous peoples are rooted in sustainable use of nature, evident in the forests and other natural ecosystems maintained through centuries on the lands they have customarily occupied and used. Guyana will strengthen its support for indigenous communities as they continue the stewardship of their lands and inter alia the benefits that accrue from any REDD+ activities from these lands. If they choose to, communities will be supported to better manage their transition to more market-based means of provisioning for their social and cultural well-being in ways that continue the tradition of wise use. Indigenous peoples themselves, through the full application of the FPIC process, in keeping with the stated policy in the LCDS, will decide whether or not to include their titled lands as part of Guyana‟s REDD+ programme. Policies will also be implemented to reflect equity between the extractive sector and indigenous peoples as the nation moves to genuinely ensure that the fight against climate change continues. 
+ We are prepared to improve added- value activities locally to assist in creating a higher potential for carbon storage in long-use wood products. This could also potentially reduce the pressure on forest resources as derivation of a higher value may result in reduced harvest levels. Indigenous people own and manage some 14% of Guyana's lands. The culture and traditions of Guyana's indigenous peoples are rooted in sustainable use of nature, evident in the forests and other natural ecosystems maintained through centuries on the lands they have customarily occupied and used. Guyana will strengthen its support for indigenous communities as they continue the stewardship of their lands and inter alia the benefits that accrue from any REDD+ activities from these lands. If they choose to, communities will be supported to better manage their transition to more market-based means of provisioning for their social and cultural well-being in ways that continue the tradition of wise use. Indigenous peoples themselves, through the full application of the FPIC process, in keeping with the stated policy in the LCDS, will decide whether or not to include their titled lands as part of Guyana's REDD+ programme. Policies will also be implemented to reflect equity between the extractive sector and indigenous peoples as the nation moves to genuinely ensure that the fight against climate change continues. 
 
 
-### ii)       Conditional Contributions 
-  
-#### Avoided Deforestation 
+##### ii)       Conditional Contributions 
+##### Avoided Deforestation 
 
-Guyana‟s proposal for a Reference Level for REDD+ is based on the Combined Reference Level approach, in which a global forest carbon emissions loss of 0.44%, as concluded by Baccini et. al. 2012 is used, along with Guyana‟s historic emissions level for the period 2000 to 2009 (0.06%) as established in the GNA. Using a total carbon stock of forests in aboveground and belowground biomass of 19,197,411,268 tCO2e, Guyana‟s Proposed Reference Level for its REDD+ Programme is 48.7 MtCO2e. Through this approach, Guyana can continue to avoid emissions in the amount of 48.7 MtCO2e annually if adequate incentives are provided. 
+Guyana's proposal for a Reference Level for REDD+ is based on the Combined Reference Level approach, in which a global forest carbon emissions loss of 0.44%, as concluded by Baccini et. al. 2012 is used, along with Guyana's historic emissions level for the period 2000 to 2009 (0.06%) as established in the GNA. Using a total carbon stock of forests in aboveground and belowground biomass of 19,197,411,268 tCO2e, Guyana's Proposed Reference Level for its REDD+ Programme is 48.7 MtCO2e. Through this approach, Guyana can continue to avoid emissions in the amount of 48.7 MtCO2e annually if adequate incentives are provided. 
 
  [//]: #page7 
  
@@ -161,9 +158,9 @@ In summary, avoided emissions contributions resulting from reforms in the timber
 
 ##### Emission Reduction Programme for Forests
 
-Given that the bulk of Guyana‟s emissions emanate from mining and logging activities, our Emissions Reductions Programme (ERP) will therefore focus on making these industries more efficient and compliant with our targets. With adequate resources, Guyana will develop a suite of ERP measures that will include: 
+Given that the bulk of Guyana's emissions emanate from mining and logging activities, our Emissions Reductions Programme (ERP) will therefore focus on making these industries more efficient and compliant with our targets. With adequate resources, Guyana will develop a suite of ERP measures that will include: 
 
-• the conservation of an additional 2 million hectares through Guyana‟s National Protected Area System and other effective area -based conservation measures as per Guyana‟s commitment under the UNCBD, including the protection of conservancies and reservoirs and their watersheds and the watersheds upstream of new hydro -power sites. Existing mangrove forests will be counted in this target and the mangrove restoration programme along the vulnerable coast will be expanded. 
+\- the conservation of an additional 2 million hectares through Guyana's National Protected Area System and other effective area -based conservation measures as per Guyana's commitment under the UNCBD, including the protection of conservancies and reservoirs and their watersheds and the watersheds upstream of new hydro -power sites. Existing mangrove forests will be counted in this target and the mangrove restoration programme along the vulnerable coast will be expanded. 
 
 Timber harvesting contributed 40% of Guyana‟s emissions from land use between 2001 and 2012. In the timber industry the ERP will: 
 
@@ -196,17 +193,17 @@ A comprehensive and robust MRV system, one of the most advanced of its kind, has
  
 emissions. Guyana is willing to build on the lessons learnt thus far to complete and maintain its MRVS if adequate financial resources are provided to do so. 
 
- #### Implementation cost 
+##### Implementation cost 
 
 The cost of implementation of these forest-conservation initiatives in total is estimated to be determined annually. 
 
  
-### Energy 
+#### Energy 
   
 
-### Unconditional Contributions 
+##### Unconditional Contributions 
 
-Guyana is in the process of reviewing our options toward the rapid expansion of a renewable energy supply. Our goal is to develop a mix of wind, solar, biomass and hydropower to supply both the demand of the national grid and the energy requirements for towns and villages in Guyana‟s hinterland. 
+Guyana is in the process of reviewing our options toward the rapid expansion of a renewable energy supply. Our goal is to develop a mix of wind, solar, biomass and hydropower to supply both the demand of the national grid and the energy requirements for towns and villages in Guyana's hinterland. 
 
 Guyana will seek to construct and/or promote the construction of small hydro systems at suitable locations such as Moco Moco, Kato and Tumatumari. Guyana will power all of the six newly established townships, starting with Bartica, using renewable energy sources. Currently, Guyana has installed cogeneration from bagasse to power sugar mills. Independent power producers and suppliers are being encouraged to construct energy farms and sell energy to the national grid. Preliminary approvals have been given for a 26MW wind farm. 
 
@@ -214,15 +211,15 @@ The Government of Guyana will continue to work closely with farmers in agricultu
 
 Legislation has been enacted to remove import duty and tax barriers for the importation of renewable energy equipment, compact fluorescent lamps and LED lamps to incentivize and motivate energy efficient behavior. Guyana will continue to conduct energy audits and replace inefficient lighting at public, residential and commercial buildings to reduce energy consumption. Public education and awareness programmes will continue to play a major role in providing consumers with information and tools to reduce energy consumption and expenditure. Guyana will implement other policies to encourage energy efficiency and the use of renewable energy, including building codes and net-metering of residential renewable power. 
 
-We expect that these unconditional contributions will significantly reduce Guyana‟s energy consumption. 
+We expect that these unconditional contributions will significantly reduce Guyana's energy consumption. 
 
-###  Conditional Contributions 
+#####  Conditional Contributions 
 Guyana is committed to eliminating our near complete dependence on fossil fuels. Given our solar, wind and hydropower potential and relatively small national demand, we believe that with adequate and timely financial support, Guyana can develop a 100% renewable power supply by 2025. Assessment of the potential of the renewable power sources will be undertaken to determine the most cost effective and efficient means of developing this potential; to this end an independent review of the Amaila Falls Project is to be undertaken with the assistance of the Kingdom of Norway. 
 
 [//]: #page10
  
 
-#### Assumptions and Risks 
+### Assumptions and Risks 
  It is assumed that Guyana and Norway will agree to renew and extend our bilateral agreement. 
 
  It is further assumed the Green Climate Fund will be fully operationalized and begin disbursing from 2016. 
@@ -233,18 +230,18 @@ Guyana is committed to eliminating our near complete dependence on fossil fuels.
 
   
 
-#### Fairness, Equity and Ambition 
+### Fairness, Equity and Ambition 
 Guyana is a highly vulnerable developing country within SIDS. Guyana‟s aggregate emissions in 2004 [^1] were 0.004617GtCO2eq, representing one hundredth of one per cent of the world total emissions for that year. This, paired with the carbon sequestration of our 18.48 million hectares of natural forests and our extremely low historic deforestation rates (0.06%) makes Guyana one of the world‟s few net carbon sink countries. Given our status as a net carbon sink, and a lower-middle-income developing state our proposed contributions to the fight against climate change is fair, equitable, and ambitious. 
   
 
-#### Adaptation 
+### Adaptation 
 
 See Annex 1 
 
   
 
-#### Means of Implementation 
- Implementation of Guyana‟s iNDC is estimated at US$ (to be determined) divided between the forestry, energy, and adaptation activities (shown in the Annex). 
+### Means of Implementation 
+ Implementation of Guyana's iNDC is estimated at US$ (to be determined) divided between the forestry, energy, and adaptation activities (shown in the Annex). 
 
   
  
@@ -260,10 +257,10 @@ See Annex 1
 
 # ANNEX 1 - ADAPTATION 
 
-## Contributions 
+### Contributions 
   
 
-### Unconditional contributions 
+#### Unconditional contributions 
 
 With its limited resources, Guyana will continue basic work on integrated water management infrastructure, which includes the construction, rehabilitation and maintenance of conservancies and canals, and sea defenses, water supply and sanitation, as well as the introduction of new agricultural techniques such as hydroponics and fertigation. Climate change considerations will be mainstreamed in all sectors of national development. 
 
@@ -271,50 +268,35 @@ The GoG is currently in the process of preparing a Climate Resilience Strategy a
 
   
 
-### Conditional contributions 
+#### Conditional contributions 
 
   
 
 Given the requisite support, Guyana will undertake actions in the following areas: 
 
-•       Implementation of the CRSAP. 
-
-•       Upgrading infrastructure and other assets to protect against flooding. 
-
-•       Mangrove restoration. 
-
-•       Hinterland Adaptation Measures. 
-
-•       Development and implementation of Early Warning Systems. 
-
-•       Enhanced  weather  forecasting  including  microclimate studies  and  localized forecasting. 
-
-•       Development and introduction of crop varieties which are: 
-
-
--   Flood resistant, 
-
-  [//]: #page12
-  
--   Drought tolerant, 
-
--   Disease resistant. 
-
-•       Develop  environmental  and  climate  change  awareness  programmes  at  all levels. 
-
-•       Developing innovative financial risk management and insurance measures. 
+* Implementation of the CRSAP. 
+*  Upgrading infrastructure and other assets to protect against flooding. 
+*  Mangrove restoration. 
+*  Hinterland Adaptation Measures. 
+*  Development and implementation of Early Warning Systems. 
+*  Enhanced  weather  forecasting  including  microclimate studies  and  localized forecasting. 
+*  Development and introduction of crop varieties which are: 
+    *  Flood resistant, 
+    *  Drought tolerant, 
+    *  Disease resistant. 
+*  Develop  environmental  and  climate  change  awareness  programmes  at  all levels. 
+*  Developing innovative financial risk management and insurance measures. 
 
   
 
-#### Means of Implementation  
+### Means of Implementation  
 
 In order to implement its conditional adaptation actions, including infrastructural development works, Guyana will require an estimated US$ 1.6 Billion in the period to 2025. 
 
  
  
 
-[^1]:  Guyana‟s most recent GHG inventory was completed for this year and is contained in 
-our second national communication to the UNFCCC. 
+[^1]:  Guyana's most recent GHG inventory was completed for this year and is contained in our second national communication to the UNFCCC. 
 
  
  [//]: #page13

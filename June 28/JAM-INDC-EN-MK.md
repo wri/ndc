@@ -1,4 +1,3 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 
 # Intended Nationally Determined Contribution of Jamaica 
 
@@ -21,7 +20,7 @@ Jamaica's intended nationally determined contribution covers actions in the ener
 #### 2.2 Policy Actions 
 As Jamaica develops economically, it is expected that there will be some continued growth in emissions. However, Jamaica has undertaken a programme of modernization of energy infrastructure, diversification of energy sources towards cleaner and renewable fuels, and incentivising efficiency that is expected to significantly reduce emissions growth over time. 
 
-Jamaica will contribute to the global GHG emissions reduction by fully implementing energy policies that will ensure, inter alia, that: 
+Jamaica will contribute to the global GHG emissions reduction by fully implementing energy policies that will ensure, *inter alia*, that: 
 
 * Jamaicans use energy wisely and aggressively pursue opportunities for conservation and efficiency 
 * Jamaica has a modernized and expanded energy infrastructure that enhances energy generation capacity and ensures that energy supplies are safely, reliably, and affordably transported to homes, communities and the productive sectors on a sustainable basis 
@@ -43,7 +42,7 @@ Jamaica will conditionally increase its ambition to a reduction of GHG emissions
 
 ### 3. Information to Facilitate Clarity, Transparency and Understanding
 
-#### Table 3.1: Technical Information on Jamaica's INDC
+**Table 3.1: Technical Information on Jamaica's INDC**
 | Parameter | Information |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Timeframe and/or period of implementation | 2005-2030 (with an interim target in 2025) |
@@ -95,8 +94,7 @@ The Climate Change Policy Framework outlines the objectives, principles and stra
 The objectives of the Policy Framework are: 
 
 1. To mainstream climate change considerations into national policies and all types and levels of development planning and to build the country's capacity to develop and implement climate change adaptation and mitigation activities. 
-2. To support the institutions responsible for research, data collection, analysis and projections at the national level on climate change, its impacts, and appropriate 
-adaptation and mitigation measures, to facilitate informed decision-making and strategic actions at all levels. 
+2. To support the institutions responsible for research, data collection, analysis and projections at the national level on climate change, its impacts, and appropriate adaptation and mitigation measures, to facilitate informed decision-making and strategic actions at all levels. 
 3. To facilitate and coordinate the national response to the impacts of climate change and promote low carbon development. 
 4. To improve communication at all levels on climate change impacts and also adaptation and mitigation related opportunities so that decision makers and the general public will be better informed; and 
 5. To mobilize climate financing for adaptation and mitigation initiatives 

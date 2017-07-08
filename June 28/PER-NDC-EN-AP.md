@@ -1,55 +1,10 @@
-
-
 # INTENDED NATIONALLY DETERMINED CONTRIBUTION (iNDC) FROM THE REPUBLIC OF PERU 
-
- 
-
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
-
 September, 2015 
 
- 
 
  
+### I.INTRODUCTION 
 
- 
-## I.INTRODUCTION 
-
- 
- 
 Since the ratification of Peru as a Party of the United Nations Framework Convention on Climate Change (UNFCCC), the country has maintained a position which is cautious of the national interests, collaborative in front of peer countries (in the context of the Latin America and the Caribbean region), and proactive in the pursuit of international synergies and convergence of decisions oriented to the ultimate goal of the UNFCCC. 
  
 Peru makes its best efforts regarding its commitment to the ongoing UNFCCC negotiating process for the approval of the new global climate agreement that will allow for the fulfillment of the objective described in Article 2 of the Convention. 
@@ -98,21 +53,21 @@ Pursuant to decision 1 / CP.19 and 1 / CP.20, the Peruvian State formally commun
 
 
 
-## II. INDC IN MITIGATION 
+### II. INDC IN MITIGATION 
 
  
 
-### 2.1. Proposal of iNDC in Mitigation 
+#### 2.1. Proposal of iNDC in Mitigation 
 
 > The Peruvian iNDC envisages a reduction of emissions equivalent to 30% in relation to the Greenhouse Gas (GHG) emissions of the projected Business as Usual scenario (BaU) in 2030. 
  
 > The Peruvian State considers that a 20% reduction will be implemented through domestic investment and expenses, from public and private resources (non-conditional proposal), and the remaining 10% is subject to the availability of international financing[^1] and the existence of favorable conditions (conditional proposal). 
 
  
-### 2.2. Complementary information 
+#### 2.2. Complementary information 
  
 
-#### i) Type and reference point. 
+##### i) Type and reference point. 
 
 The Peruvian proposal is an emissions reduction compared to a Business as Usual (BaU) baseline scenario starting in 2010, as reference year, and ending in 2030. The projection considers the total emissions and removals of the LULUCF sector. For transparency and a better understanding of the national effort, the document contains the emissions of the reference and target year, with and without the emissions from this sector: 
  
@@ -131,17 +86,15 @@ The Peruvian proposal is an emissions reduction compared to a Business as Usual 
 The Peruvian State reserves the right to update the BaU scenario, based on new information available before 2020. 
  
  
-#### ii) Scope and coverage 
+##### ii) Scope and coverage 
 
-•   **Scope:** National 
+*   **Scope:** National 
 
- 
 
-•   **Considered GHG emissions:** the main GHG considered in the iNDC are carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O). 
+*  **Considered GHG emissions:** the main GHG considered in the iNDC are carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O). 
 
- 
 
-•  **Sectors:** The categories considered in the 2010 National GHG Inventory are similar to those considered in the projections of the BaU scenario. In the BaU scenario projections, the emissions from international aviation and freight were not considered due to lack of an agreed accounting framework; nor were considered emissions from rail or sea national transport, since they have marginal percentage participation in the subcategory "Transport" and detailed information is not available. The "Solvent and product use" category has zero emissions. 
+*  **Sectors:** The categories considered in the 2010 National GHG Inventory are similar to those considered in the projections of the BaU scenario. In the BaU scenario projections, the emissions from international aviation and freight were not considered due to lack of an agreed accounting framework; nor were considered emissions from rail or sea national transport, since they have marginal percentage participation in the subcategory "Transport" and detailed information is not available. The "Solvent and product use" category has zero emissions. 
 
  
 The period for implementation covers January 1st, 2021 to December 31st, 2030. 
@@ -175,15 +128,16 @@ In addition to governmental efforts, the participation of the national and inter
  
  
 
-#### iii) Assumptions and methodological approaches. 
+##### iii) Assumptions and methodological approaches. 
 
  
 
 To calculate the 2010 National GHG Inventory and national BaU projections (based on the estimation of sectoral BaU scenarios according to its own dynamics) the 1996 and 2006 Intergovernmental Panel on Climate Change (IPCC) guidelines and the 2003 Good Practice guidelines, national statistics and projections of population and Gross Domestic Product (GDP) were used. National experts, that coordinated with the relevant government sectors, developed the sectoral projections. The base year of the BaU projections were aligned with the 2010 National GHG Inventory. 
  
-We used the values of Global Warming Potential published in the Second Report of the IPCC, in accordance with the National GHG Inventories submitted to the UNFCCC (CH4 : 21 and N2O : 310 ). BaU projections consider the removals of the LULUCF sector. 
+We used the values of Global Warming Potential published in the Second Report of the IPCC, in accordance with the National GHG Inventories submitted to the UNFCCC (CH4 : 21 and N2O : 310 ). 
+BaU projections consider the removals of the LULUCF sector. 
 
-#### iv) Ambition, fairness and contribution to achieve the objective of the UNFCCC (Article 2). 
+##### iv) Ambition, fairness and contribution to achieve the objective of the UNFCCC (Article 2). 
 
 Based on the evaluation process, we can infer that there is sufficient room for upgrading the iNDC on subsequent review phases that are necessary in light of the decisions of the UNFCCC. 
 
@@ -193,7 +147,7 @@ For the country, it is also ambitious to work actively in strengthening mechanis
 
 Peru's proposal is - in short - in line with the ultimate objective of the UNFCCC by formulating emission reductions in the different activities at the national level. 
  
-#### v) International Market Mechanisms  
+##### v) International Market Mechanisms  
 
 At the time of submitting the iNDC proposal, the acquisition of emission reductions through existing or new international market mechanisms is not considered for its compliance. This is in order to avoid adjustments or duplications for ownership or accounting reasons. However, Peru is considering selling emission reductions provided this is not an obstacle for the compliance with the national commitment. 
 
@@ -204,11 +158,11 @@ At the time of submitting the iNDC proposal, the acquisition of emission reducti
 
  
 
-## III. INDC IN ADAPTATION 
+### III. INDC IN ADAPTATION 
 
  
 
-### 3.1. Precedents 
+#### 3.1. Precedents 
 
 After the results of the COP20 in Lima, the determination of the Parties to strengthen their adaptation actions was affirmed, and the Parties were invited to consider communicating their efforts in adaptation or the inclusion of a component referring to adaptation in their intended nationally determined contributions (INDC). Therefore, in line with decision 1 / CP.20 and within the framework of its national circumstances and development priorities, Peru assumes the challenge of submitting an iNDC in adaptation. 
  
@@ -217,7 +171,7 @@ The proposal is based on information from previous years, but with greater empha
 
 Through  the  consultation  process,  the  proposal  has  been  enhanced  by  sectoral  and stakeholders contributions working on different levels of government. 
 
-### 3.2. Vulnerability and impacts of climate change in Peru 
+#### 3.2. Vulnerability and impacts of climate change in Peru 
 
 Peru has seven of the nine characteristics recognized by the UNFCCC to describe a country as "particularly vulnerable": low-lying coastal area, arid and semi-arid lands, areas liable to flood, drought and desertification, fragile mountain ecosystems, disaster-prone areas, areas with high urban atmospheric pollution and economies highly dependent on income generated from the production and use of fossil fuels[^4]. The processes of ecosystem degradation and environmental pollution from anthropogenic origin exacerbate these conditions. 
 
@@ -242,7 +196,7 @@ Studies that quantify the impact of climate change on national economic growth s
 
  
 
-### 3.3.  Priorities in adaptation 
+#### 3.3.  Priorities in adaptation 
 
 The sectors and systems that the country needs to address on a priority basis have been identified based on available scientific information, processes of formulation of management and planning tools and consultations with relevant sectors, regions and civil society. In addition, it has been taken into account that these sectors / systems meet the defined prioritization criteria. These sectors / systems are: 
 
@@ -259,7 +213,7 @@ v) Health
 
 In accordance with the determined sectors and systems that are vulnerable to climate change - and focusing on people and their livelihoods - the vulnerable populations that need to be addressed on a priority basis has been determined. These are: rural populations related to subsistence family farming and/or weak market linkages, many of them grouped in peasant and indigenous communities; small farmers; artisanal fishermen; native communities; small forest producers; and, from a health perspective, infants, women and seniors. 
 
-### 3.4. iNDC Proposal in adaptation 
+#### 3.4. iNDC Proposal in adaptation 
 
 After a review of the vulnerabilities and adaptation priorities of the country, and based on the study of the national goals established by the current national planning documents (Bicentennial Plan, National Plan for Disaster Risk Management - PLANAGERD, Environmental Action Plan - PLANAA, Environment Agenda 2014) and sectoral planning documents (PLANGRACC-A[^11]:, Budget Programs, Integral Plan of mitigation and adaptation to the effects of climate change on public health, among others), the adaptation component is formulated for different sectors and prioritized systems. 
 
@@ -270,31 +224,24 @@ The objectives and goals are formulated in consultation with the relevant sector
 It is worth mentioning that the instrument for complying with the goals established in the INDC in adaptation will be the National Adaptation Plan, whose formulation process begins in the last quarter of 2015. 
 
 
-1. WATER 
-
-2. AGRICULTURE13 
-
-3. FISHERY 
-
-4. FORESTRY 
-
-5. HEALTH14 
-
-Table 2:   Summary of the iNDC in adaptation 
 
 
-|                  | 1. WATER                                                                                                                                                                                                                                                                                                                                                                    | 2. AGRICULTURE (Measures applied to all kinds of agriculture.)                                                                                          | 3. FISHERY                                                                                                                                    | 4. FORESTRY                                                                                                                                                  | 5. HEALTH (The National Health System officially recognizes five functions: disease prevention, health promotion, health protection, health restoration and rehabilitation.) |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Scope                    | Includes supply (resources) and demand (use): direct human consumption, agriculture and livestock, energy, mining and industry. It includes physical and eco-systemic infrastructure.                                                                                                                                                                                       | Considers protecting the sector and its contribution to the economy, and includes attending the most vulnerable groups (small and subsistence farmers). | Considers protecting the sector and its contribution to the economy, and includes attending the most vulnerable groups (artisanal fishermen). | Considers protecting ecosystem services that forests provide, and attend the most vulnerable groups (indigenous communities and small forest producers).     | Considers increasing theadaptive capacity of healthservices in order to face CC, and the resilience ofvulnerable populations to itseffects                                   |
-| Intermediate objectives  | Encourage and promote actions and projects that increase the availability of water in the context of CC.                                                                                                                                                                                                                                                                    | Reduce the negative impact ofclimate change on the agrarianactivity (agriculture, livestock andforestry).                                               | Reduce the vulnerabilityof the fishery andaquaculture sector toClimate Change                                                                 | Promote comprehensive landmanagement with a landscapeapproach, oriented to increaseforests resilience to CC, andreduce the vulnerability of localpopulations | Reduce vulnerability andincrease the populationresilience to the healtheffects of climate change.                                                                            |
-| Crosscutting areas/Goals | 1. Disaster Risk Management (Goals consistent with the 0068 Budget Program)   • Increase the number of prioritized districts, due to hydro-meteorological and climate events, that are monitored.• Increase the number of people with education and knowledge in disaster risk management and adaptation to climate change.                                                 |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
-|                          | 2. Resilient Public Infrastructure - Climate Shield of the National Public Investment System (SNIP in Spanish) • Incorporate guiding elements in the methodological guidelines for the development of public investment projects of the National Public Investment System(SNIP), that allow, for relevant sectors, performing these activities in a climate change context. |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
-|                          | 3. Poverty and Vulnerable Populations Approach – adjustments to the design of programs and regulatory frameworks with adaptation criteria • Increase the number of programs and instruments against poverty that incorporate adaptation to climate change.                                                                                                                  |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
-|                          | 4. Gender and Intercultural Approach • Formulation and approval of the Action Plan on Gender and Climate Change • Encourage the participation of indigenous organizations in actions on climate change.                                                                                                                                                                     |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
-|                          | 5. Promotion of private investment in adaptation - evaluate the introduction of innovative mechanisms to encourage private investment that increase the resilience ofvulnerable systems. (Goals conditioned to international funding)                                                                                                                                                                                    |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
+**Table 2:   Summary of the iNDC in adaptation** 
  
 
-### 3.5. Resources  required  for  the  development  and  communication  of  the  iNDC  in adaptation 
+|                  | 1. WATER                                                                                                                                                                                                                                                                                                                                                                    | 2. AGRICULTURE[^13]                                                                                          | 3. FISHERY                                                                                                                                    | 4. FORESTRY                                                                                                                                                  | 5. HEALTH [^14]  |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Scope                    | Includes supply (resources) and demand (use): direct human consumption, agriculture and livestock, energy, mining and industry. It includes physical and eco-systemic infrastructure.                                                                                                                                                                                       | Considers protecting the sector and its contribution to the economy, and includes attending the most vulnerable groups (small and subsistence farmers). | Considers protecting the sector and its contribution to the economy, and includes attending the most vulnerable groups (artisanal fishermen). | Considers protecting ecosystem services that forests provide, and attend the most vulnerable groups (indigenous communities and small forest producers).     | Considers increasing theadaptive capacity of healthservices in order to face CC, and the resilience of vulnerable populations to its effects                                   |
+| Intermediate objectives  | Encourage and promote actions and projects that increase the availability of water in the context of CC.                                                                                                                                                                                                                                                                    | Reduce the negative impact ofclimate change on the agrarian activity (agriculture, livestock and forestry).                                               | Reduce the vulnerability of the fishery andaquaculture sector to Climate Change                                                                 | Promote comprehensive land management with a landscape approach, oriented to increase forests resilience to CC, and reduce the vulnerability of local populations | Reduce vulnerability and increase the population resilience to the health effects of climate change.                                                                            |
+| Crosscutting areas/Goals | 1. **Disaster Risk Management**[^15]  • Increase the number of prioritized districts, due to hydro-meteorological and climate events, that are monitored.• Increase the number of people with education and knowledge in disaster risk management and adaptation to climate change.                                                 |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
+|                          | 2. **Resilient Public Infrastructure** - Climate Shield of the National Public Investment System (SNIP in Spanish) • Incorporate guiding elements in the methodological guidelines for the development of public investment projects of the National Public Investment System(SNIP), that allow, for relevant sectors, performing these activities in a climate change context. |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
+|                          | 3. **Poverty and Vulnerable Populations Approach** – adjustments to the design of programs and regulatory frameworks with adaptation criteria • Increase the number of programs and instruments against poverty that incorporate adaptation to climate change.                                                                                                                  |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
+|                          | 4. **Gender and Intercultural Approach** • Formulation and approval of the Action Plan on Gender and Climate Change • Encourage the participation of indigenous organizations in actions on climate change.                                                                                                                                                                     |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
+|                          | 5. **Promotion of private investment in adaptation** - evaluate the introduction of innovative mechanisms to encourage private investment that increase the resilience ofvulnerable systems. (Goals conditioned to international funding)  [Goals conditioned to international funding]                                                                                                                                                                                   |                                                                                                                                                         |                                                                                                                                               |                                                                                                                                                              |                                                                                                                                                                              |
+[^13]: Measures applied to all kinds of agriculture.
+[^14]: The National Health System officially recognizes five functions: disease prevention, health promotion, health protection, health restoration and rehabilitation.
+[^15]:  Goals consistent with the 0068 Budget Program
+#### 3.5. Resources  required  for  the  development  and  communication  of  the  iNDC  in adaptation 
 
 Peru is making a substantial effort to adapt to the combined effects of variability and climate change, and the proof of that is the large number of established goals that are part of national plans, budget programs and on-going projects, including those with international cooperation. 
 
@@ -303,7 +250,7 @@ However, the country still needs international support in terms of funding, rese
 The  proposed  iNDC  distinguishes  goals  that  have  funding  from  those  conditioned  to international funding. 
 
  
-## IV. CROSSCUTTING APPROACHES 
+### IV. CROSSCUTTING APPROACHES 
 
  
  
@@ -312,29 +259,26 @@ Mitigation and adaptation national policies and instruments incorporate a gender
 The implementation phase of the iNDC will maintain the intercultural and intergenerational foundation considered in the formulation phase. 
 
  
-## V. COMMITMENT TOWARDS A NEW INTERNACIONAL CLIMATE AGREEMENT 
+### V. COMMITMENT TOWARDS A NEW INTERNACIONAL CLIMATE AGREEMENT 
 
  
  
  
-### 5.1. Consensus Position: 
+#### 5.1. Consensus Position: 
 
 With respect to the negotiation towards a new climate agreement for the post 2020 period, Peru supports a global agreement that is a short and concise document by which a long-term system is established with legally binding obligations for all countries. Our country considers that the agreement should contain a global vision to be subscribed by all Parties and that is aimed to be achieved through individual and collective efforts in accordance with the principles of the Convention. It should also ensure that Parties progressively increase their level of ambition. At the same time, the agreement should be accompanied by decisions adopted during COP21 related to the implementation of commitments under the new agreement. 
 
-To ensure that the agreement will serve as an instrument that incentivizes and facilitates the ambition of countries, it should clarify and establish the necessary processes to renew in a successive and periodic basis the nationally determined contributions in mitigation, adaptation and means of implementation components. Each one of the components has specific characteristics but the agreement must establish a link between them. Adaptation is key to respond to the impacts of climate change and the political balance between adaptation and mitigation is a priority in Peru. In addition, Peru has defined its mitigation commitment in order to participate in the collective effort to keep global warming below the 1.5 Co - 2 Co. At the same time, means of implementation are crucial to facilitate mitigation and adaptation activities in developing countries. 
+To ensure that the agreement will serve as an instrument that incentivizes and facilitates the ambition of countries, it should clarify and establish the necessary processes to renew in a successive and periodic basis the nationally determined contributions in mitigation, adaptation and means of implementation components. Each one of the components has specific characteristics but the agreement must establish a link between them. Adaptation is key to respond to the impacts of climate change and the political balance between adaptation and mitigation is a priority in Peru. In addition, Peru has defined its mitigation commitment in order to participate in the collective effort to keep global warming below the 1.5 C° - 2 C°. At the same time, means of implementation are crucial to facilitate mitigation and adaptation activities in developing countries. 
 
 
 
-### 5.2. Details about the positions in adaptation and mitigation: 
+#### 5.2. Details about the positions in adaptation and mitigation: 
  
 a.  Adaptation: 
-•  The new agreement should strengthen the political parity between adaptation and mitigation. 
-
-• In order to encourage ambition in adaptation, a qualitative global goal will be required, as well as collective and individual efforts that allow closing the gap in adaptation. 
-
-•  Funding for adaptation must be strengthened and increased, including the Green Climate Fund. 
-
-•  The  exchange  on  experiences  and  best  practices  in  adaptation  must  be strengthened between the Parties. 
+*  The new agreement should strengthen the political parity between adaptation and mitigation. 
+* In order to encourage ambition in adaptation, a qualitative global goal will be required, as well as collective and individual efforts that allow closing the gap in adaptation. 
+*  Funding for adaptation must be strengthened and increased, including the Green Climate Fund. 
+*  The  exchange  on  experiences  and  best  practices  in  adaptation  must  be strengthened between the Parties. 
  
  
 
@@ -344,25 +288,15 @@ a.  Adaptation:
  
 
 b.  Mitigation:  
-
-
-
-•  A global goal for mitigation should be included. This goal will be met through the efforts of all countries in accordance to science and the principles of differentiated equity. 
-
-•  Mechanisms that allow countries to increase their ambition and fulfill their commitments shall be established, such as market mechanisms. 
-
-•  The mitigation component should include a system of rules, for example, to avoid double counting of emission reductions and to  monitor the implementation of commitments allowing for the full aggregation of mitigation commitments. This is important to ensure the environmental integrity of the agreement. 
-
-
-
-•  REDD+, as defined in the Warsaw framework and the related decisions, will be an important tool for the country to achieve its mitigation commitments, and there is the need to reinforce support for this mechanism under the new agreement. 
+*  A global goal for mitigation should be included. This goal will be met through the efforts of all countries in accordance to science and the principles of differentiated equity. 
+*  Mechanisms that allow countries to increase their ambition and fulfill their commitments shall be established, such as market mechanisms. 
+*  The mitigation component should include a system of rules, for example, to avoid double counting of emission reductions and to  monitor the implementation of commitments allowing for the full aggregation of mitigation commitments. This is important to ensure the environmental integrity of the agreement. 
+*  REDD+, as defined in the Warsaw framework and the related decisions, will be an important tool for the country to achieve its mitigation commitments, and there is the need to reinforce support for this mechanism under the new agreement. 
  
 
 In the negotiations, Peru is an active member of the Independent Alliance of Latin America and the Caribbean (AILAC, in Spanish). The other members of this negotiating group are Colombia, Costa Rica, Chile, Guatemala, Panama and Paraguay. 
 
- 
 
--------- 
 
 [^1]: It should be noted that Peru will not assume conditional commitments that might result in public debt. 
 [^2]: Interventions started with the PROCLIM Program in 2003, which allowed the analysis of the current and future vulnerability in the basins of Piura and Mantaro; and later with the "Second National Communication on Climate Change (CNCC2 in Spanish)", the "Regional Project of Adaptation to Climate Change (PRAA in Spanish)", the "Program for Adaptation to Climate Change (PACC in Spanish)"; the projects "Public Investment and Climate Change Adaptation (IPACC in Spanish)", "Glaciers 513", the Adaptation project based on Mountain Ecosystems "EbA Mountains" and others. 
@@ -371,7 +305,7 @@ In the negotiations, Peru is an active member of the Independent Alliance of Lat
 [^5]: Second National Communication on Climate Change. Ministry of Environment, 2010 
 [^6]:Baraer et al. Glaciers recession and Water Resources in the "Cordillera Blanca" (Mountain Range) in Peru. 2012 
 [^7]:Multiannual Macroeconomic Framework, 2015-2017 (Ministry of Economy and Finance, 2015) 
-[^8]: "El Niño" Lessons. Peru (CAF, 2000) 
+[^8]: "El Niño" Lessons. Peru (CAF, 2000)
 [^9]: National Institute of Statistics and Informatics, 2007 
 [^10]: Climate change and its effects in Peru (Vargas, 2009) 
 [^11]: Risk and Adaptation to Climate Change Management Plan, in the Agrarian Sector (Ministry of Agriculture and Irrigation, 2012) 

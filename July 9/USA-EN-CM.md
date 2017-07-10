@@ -12,11 +12,11 @@ The target reflects a planning process that examined opportunities under existin
 
 ## **Party:** United States of America
 
-## **Intended nationally determined contribution**
+### **Intended nationally determined contribution**
 
 The United States intends to achieve an economy-wide target of reducing its greenhouse gas emissions by 26%-28% below its 2005 level in 2025 and to make best efforts to reduce its emissions by 28%.
 
-## **Information provided in order to facilitate clarity, transparency, and understanding**
+### **Information provided in order to facilitate clarity, transparency, and understanding**
 
 **Scope and coverage:** 
 *Gases:* 
@@ -34,7 +34,9 @@ The United States intends to account for 100 percent of U.S. greenhouse gas emis
 The U.S. target is for a single year: 2025. The base year against which the target is measured is 2005.
 
 *Accounting approach for land sector:*
-The United States intends to include all categories of emissions by sources and removals by sinks, and all pools and gases, as reported in the Inventory of United States Greenhouse Gas Emissions and Sinks; to account for the land sector using a net-net approach; and to use a "production approach" to account for harvested wood products consistent with IPCC guidance. The United States may also exclude emissions from natural disturbances, consistent with available IPCC guidance. There are material data collection and methodological challenges to estimating emissions and removals in the land sector. Consistent with IPCC Good Practice, the United States has continued to improve its land sector greenhouse gas reporting, which involves updating its methodologies. The base year and target for the U.S. INDC were established on the basis of the methodologies used for the land sector in the 2014 Inventory of United States Greenhouse Gas Emissions and Sinks and the United States 2014 Biennial Report.
+The United States intends to include all categories of emissions by sources and removals by sinks, and all pools and gases, as reported in the Inventory of United States Greenhouse Gas Emissions and Sinks; to account for the land sector using a net-net approach; and to use a "production approach" to account for harvested wood products consistent with IPCC guidance. The United States may also exclude emissions from natural disturbances, consistent with available IPCC guidance. 
+
+There are material data collection and methodological challenges to estimating emissions and removals in the land sector. Consistent with IPCC Good Practice, the United States has continued to improve its land sector greenhouse gas reporting, which involves updating its methodologies. The base year and target for the U.S. INDC were established on the basis of the methodologies used for the land sector in the 2014 Inventory of United States Greenhouse Gas Emissions and Sinks and the United States 2014 Biennial Report.
 
 *Metric:* 
 The United States intends to use 100-year global warming potential (GWP) values to calculate CO2 equivalent totals. The United States intends to report emissions totals using Fourth Assessment Report values, and will consider future updates to GWP values from the IPCC.
@@ -44,9 +46,9 @@ At this time, the United States does not intend to utilize international market 
 
 *Domestic laws, regulations, and measures relevant to implementation:*
 Several U.S. laws, as well as existing and proposed regulations thereunder, are relevant to the implementation of the U.S. target, including the Clean Air Act (42 U.S.C. §7401 et seq.), the Energy Policy Act (42 U.S.C. §13201 et seq.), and the Energy Independence and Security Act (42 U.S.C. § 17001 et seq.).
+
 Since 2009, the United States has completed the following regulatory actions:
-* Under the Clean Air Act, the United States Department of Transportation and the
-* United States Environmental Protection Agency adopted fuel economy standards for light-duty vehicles for model years 2012-2025 and for heavy-duty vehicles for model years 2014-2018.
+* Under the Clean Air Act, the United States Department of Transportation and the United States Environmental Protection Agency adopted fuel economy standards for light-duty vehicles for model years 2012-2025 and for heavy-duty vehicles for model years 2014-2018.
 * Under the Energy Policy Act and the Energy Independence and Security Act, the United States Department of Energy has finalized multiple measures addressing buildings sector emissions including energy conservation standards for 29 categories of appliances and equipment as well as a building code determination for commercial buildings.
 * Under the Clean Air Act, the United States Environmental Protection Agency has approved the use of specific alternatives to high-GWP HFCs in certain applications through the Significant New Alternatives Policy program.
 

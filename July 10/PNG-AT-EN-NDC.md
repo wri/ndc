@@ -1,6 +1,6 @@
 # PAPUA NEW GUINEA 
 
-# Intended Nationally Determined Contribution (INDC) Under the United Nations Framework Convention on Climate Change 
+## Intended Nationally Determined Contribution (INDC) Under the United Nations Framework Convention on Climate Change 
 
 ### Summary 
 
@@ -23,8 +23,7 @@ In summary PNG is committed to assist in global mitigation efforts but the count
  
 ### National development goals and context 
  
-In October 2009, the Government launched a 40 year development strategy: PNG Vision 2050. The intention is to transform the nation's mind-set and attitude and align the people, institutions and systems into educated, healthy and prosperous society. The vision stresses the importance of engaging the community into the process of building a strategy for sustainable development for all. 
-Vision 2050 is underpinned by seven Strategic Focus Areas:  
+In October 2009, the Government launched a 40 year development strategy: PNG Vision 2050. The intention is to transform the nation's mind-set and attitude and align the people, institutions and systems into educated, healthy and prosperous society. The vision stresses the importance of engaging the community into the process of building a strategy for sustainable development for all. Vision 2050 is underpinned by seven Strategic Focus Areas:  
  
 1.  Human Capital Development, Gender, Youth and People Empowerment; 
 2.  Wealth Creation; 
@@ -45,9 +44,7 @@ In May 2015 the PNG Government passed the Climate Change Bill to become the firs
 
 #### Existing National GHG Emissions and BAU projections of GHG emissions 
 
-The mitigation options for PNG are based on previous reports including the draft Second National Communication to the UNFCCC (SNC), third party reports and various national development plans. The APEC energy supply and demand outlook 2009 gave the total primary energy supply in 2005 as a little under 2 MTOE which would give a CO2 emission level of around 6 Mt CO2 as of that year 2010 
-
-CO2eq emissions were estimated from earlier reports including the draft SNC to be around 5 Mt tonnes (from a primary energy supply of 1.8MTOE) which would give a per capita emission level of around 0.7 tonnes compared to the world average of just under 6 tonnes. It is likely, however, that the previous PNG figures do not include emissions from the indigenous oil and gas production sector. The growth of this sector in recent years has produced additional emissions which are likely to be around 5 Mt per annum (0.8 Mt Oil Search, 3.2 Mt Exxon Mobil, and 1 Mt other, including mining) as of 2014. The total would give around 10 Mt CO2eq. This would give per capita emissions (2014) of around 1.4 tonnes per person per year which is still low by world standards. As noted there is considerable uncertainty in these estimates as the figures given in the draft SNC are under revision for the final document. 
+The mitigation options for PNG are based on previous reports including the draft Second National Communication to the UNFCCC (SNC), third party reports and various national development plans. The APEC energy supply and demand outlook 2009 gave the total primary energy supply in 2005 as a little under 2 MTOE which would give a CO2 emission level of around 6 Mt CO2 as of that year. 2010 CO2eq emissions were estimated from earlier reports including the draft SNC to be around 5 Mt tonnes (from a primary energy supply of 1.8MTOE) which would give a per capita emission level of around 0.7 tonnes compared to the world average of just under 6 tonnes. It is likely, however, that the previous PNG figures do not include emissions from the indigenous oil and gas production sector. The growth of this sector in recent years has produced additional emissions which are likely to be around 5 Mt per annum (0.8 Mt Oil Search, 3.2 Mt Exxon Mobil, and 1 Mt other, including mining) as of 2014. The total would give around 10 Mt CO2eq. This would give per capita emissions (2014) of around 1.4 tonnes per person per year which is still low by world standards. As noted there is considerable uncertainty in these estimates as the figures given in the draft SNC are under revision for the final document. 
 
 In addition, the draft SNC report reports the PNG forestry CO2 emissions (FOLU) as 413 Gg for 1994 and 2199 Gg for 2010 or around 2 Mt for 2010. It was noted in the draft SNC that forestry removals are estimated to vary considerably from year to year. Due to the uncertainty in forestry emissions, waste emission and agricultural emissions the numbers reported in this INDC document do not include these sectors. Emissions from the forestry and agriculture sectors are expected to rise concurrently to national economic growth, as demand increases for forest and agricultural commodities - fuelled by both domestic and international markets, and demands of the rural populace put increasing demands on the forest for food, fodder, fuel and building materials.
  
@@ -61,7 +58,9 @@ The  paucity  of  reliable  data  at  the  present  time  regarding  emissions  
 
  Projections of emission levels are difficult to make as they are likely to be dominated by changes in the mining, oil and gas sectors. Estimates are optimistic in terms of the gas sector exporting LNG with predictions of a doubling of capacity in the near future. LNG production is very energy intensive and will incur a concurrent increase in emissions. According to the Asian Development Bank (ADB), "New gas exports (LNG) are forecast to drive a growth surge to 15.0% in 2015 that will subside to 5.0% in 2016. In contrast with mining and petroleum, the rest of the Papua New Guinea economy is projected to grow by a more modest 4.0% in both years." 
 
-Longer term national economic projections suggest emission increases at around the 3-4% level per annum, meaning that the 2014 emission level of 5 Mt per year could increase to around 8 Mt per year by 2030. A doubling of oil and gas sector emissions would produce some 10 Mt of additional CO2 eq. emissions by the same date but the actual figure would depend on the extent of economically extractable oil and gas reserves, which are not well documented. Thus with BAU CO2 emissions in 2030 could reach 18 Mt CO2 per year (including CO2 eq in the oil and gas sector only). 
+Longer term national economic projections suggest emission increases at around the 3-4% level per annum, meaning that the 2014 emission level of 5 Mt per year could increase to around 8 Mt per year by 2030. A doubling of oil and gas sector emissions would produce some 10 Mt of additional CO2 eq. emissions by the same date but the actual figure would depend on the extent of economically extractable oil and gas reserves, which are not well documented. 
+
+Thus with BAU CO2 emissions in 2030 could reach 18 Mt CO2 per year (including CO2 eq in the oil and gas sector only). 
  
 #### Assumptions and methods for establishing BAU emissions 
 
@@ -102,6 +101,7 @@ The main mitigation contribution for PNG would be in terms of an indicative repl
 **Energy Efficiency options**: Energy efficiency and conservation is always a good mitigation opportunity but would require external funding and assistance. Even though energy conservation and the use of renewable energy may save money in the long term, higher up-front costs have often prevented their use in the past. 
  
 **Improve data gathering and human resource capability**. PNG would like to vigorously pursue mitigation options in the future; however, considerable assistance will be needed in terms of capacity building and technology transfer for emissions data collection and tracking mitigation progress. Without improving national capacities in this area there is a high likelihood that regulation of the government and the private sector in terms of emissions will not be effective. 
+
 **Oil and Gas sector**: This sector is a generator of jobs and national economic growth and consequently considerable capital is being spent on developing this sector. Unfortunately the sector is responsible for considerable emissions and if the world does mitigate climate change seriously the production situation may change dramatically and the capital expended in the sector may become a stranded asset. While this change is unlikely to happen before 2030, if the world does follow mitigation strategies that reduce all fossil fuel use to zero, as required by IPCC AR5 RCP 2.6, there will of course be no market for hydrocarbons after 2050. 
 
 **Transport**: Transport will continue to be a significant emitter of CO2 and mitigation needs to be seriously addressed. Options include improving public transport by introducing energy efficient busses in the main urban centres, and the future introduction of infrastructure for more sophisticated modes of public transport, such as trains and trams. 

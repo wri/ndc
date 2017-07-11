@@ -1,6 +1,6 @@
-# **Intended Nationally Determined Contribution - Submission of the Republic of Kazakhstan**
+# Intended Nationally Determined Contribution - Submission of the Republic of Kazakhstan
 
-The Republic of Kazakhstan is fully committed to the UNFCCC negotiation process with a view to adopting a global legally binding agreement applicable to all parties at the Paris Conference in December 2015, with the ultimate aim of ensuring that global temperature rise does not exceed 2C.
+The Republic of Kazakhstan is fully committed to the UNFCCC negotiation process with a view to adopting a global legally binding agreement applicable to all parties at the Paris Conference in December 2015, with the ultimate aim of ensuring that global temperature rise does not exceed 2°C.
 
 The Republic of Kazakhstan wishes to communicate the following Intended Nationally Determined Contributions (INDC), and intends to achieve an economy-wide **target of 15%-25% reduction in greenhouse gas emissions by 2030 compared to 1990.** In line with the Lima Call for Climate Action, the following quantifiable information is hereby submitted: 
 | Intended Nationally Determined Contribution |  |
@@ -10,7 +10,7 @@ The Republic of Kazakhstan wishes to communicate the following Intended National
 | Conditional Target | A 25% reduction in GHG emissions by 31 December 2030 compared to the base year, subject to additional international investments, access to low carbon technologies transfer mechanism, green climate funds and flexible mechanism for country with economy in transition |
 | Type | Economy-wide absolute reduction from base year emissions |
 | Base year | 1990 |
-| Gases Covered | Carbon Dioxide (CO2) • Methane (CH4) • Nitrous Oxide (N2O) • Hydrofluorocarbons (HFCs) • Perfluorocarbons (PFCs) • Sulphur hexafluoride (SF6) |
+| Gases Covered |• Carbon Dioxide (CO2) • Methane (CH4) • Nitrous Oxide (N2O) • Hydrofluorocarbons (HFCs) • Perfluorocarbons (PFCs) • Sulphur hexafluoride (SF6) |
 | Period  | 1 January 2021 - 31 December 2030 |
 | % of emission covered | 100% |
 | Net contribution of international market based mechanisms | Kazakhstan supports inclusion of market based mechanisms in the 2015 agreement, and the opportunity to use carbon units recognised by the UNFCCC. Kazakhstan retains the option of using market based mechanisms under the UNFCCC. Kazakhstan will consider adequately discounting international units for compliance to ensure a contribution to net global emission reductions. |

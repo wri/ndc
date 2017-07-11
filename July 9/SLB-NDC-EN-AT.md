@@ -10,20 +10,20 @@ Solomon Islands comprises a scattered archipelago of 994 islands combining mount
 
  
 
-![Figure 1:  Map of Solomon Islands](SLB.PNG)
-
+![Figure 1:  Map of Solomon Islands](SLB-1.PNG)
+**Figure 1**:  Map of Solomon Islands
  
 
  The islands are grouped into three different major "geological provinces‟; the Pacific Geological Province (including Malaita, Ulawa and North Eastern part of Santa Isabel island); Central Geological Province (Makira, Guadalcanal and the Florida Islands, South- Western part of Isabel and Choiseul) and; the Volcanic Geological Province (New Georgia, Russell Islands, Shortland Islands and North Western tip of Guadalcanal and Savo). Guadalcanal is the largest island and the only one with a significant area of grassland and rich alluvium soils. Most of the islands have highly weathered soils of low fertility with pockets of fertile areas mainly on volcanic islands and river valleys. 
 
- The country is situated within the earthquake belt or "Ring of Fire‟ which makes it extremely vulnerable to the effects and impacts of earthquakes. A major earthquake measuring 8.1 on the Richter scale occurred in the Western Province in 2007 causing a major tsunami that affected the Western and Choiseul provinces and causing 52 deaths and scores missing. About 40,000 people were affected. Many islands have subsided whilst a few have been uplifted a few metres. Extensive damage was experienced throughout the two provinces costing hundreds of millions of dollars. The country and many communities and individuals are still recovering from this double disaster event.
+The country is situated within the earthquake belt or "Ring of Fire‟ which makes it extremely vulnerable to the effects and impacts of earthquakes. A major earthquake measuring 8.1 on the Richter scale occurred in the Western Province in 2007 causing a major tsunami that affected the Western and Choiseul provinces and causing 52 deaths and scores missing. About 40,000 people were affected. Many islands have subsided whilst a few have been uplifted a few metres. Extensive damage was experienced throughout the two provinces costing hundreds of millions of dollars. The country and many communities and individuals are still recovering from this double disaster event.
  
 
-### Climate  
+#### Climate  
 
-Solomon Islands climate is tropical, though temperatures are rarely extreme due to cooling winds blowing off the surrounding seas. Temperature is the least varied of climate parameters with daytime temperatures fluctuating between 25oC to 32oC. The rainy season occurs between November to April and the dry season from June to October during the year. Most islands have a mean annual rainfall of 3,000 to 5,500 mm with two-peak rainfalls during the year. The highest rainfall recorded in Solomon Islands is an annual average of 8,304 mm at 430 m above sea level at Koloula on Guadalcanal (Hansell and Wall 1970). Daily rainfall of over 250 mm is normal. High rainfall intensity events occur during tropical storms and often result in flooding of most river systems. The highest recorded rainfall of 281mm over a 12 hour period was recorded in 2009 resulting in destructive flooding and loss of lives. More recently the highest recorded daily rainfall of 318mm was recorded in April 2014 causing widespread flooding and damage to property, infrastructure and loss of 23 lives along the Mataniko River, Central Honiara. Rainfall trends vary across the country and are influenced by geographic differences. 
+Solomon Islands climate is tropical, though temperatures are rarely extreme due to cooling winds blowing off the surrounding seas. Temperature is the least varied of climate parameters with daytime temperatures fluctuating between 25°C to 32°C. The rainy season occurs between November to April and the dry season from June to October during the year. Most islands have a mean annual rainfall of 3,000 to 5,500 mm with two-peak rainfalls during the year. The highest rainfall recorded in Solomon Islands is an annual average of 8,304 mm at 430 m above sea level at Koloula on Guadalcanal (Hansell and Wall 1970). Daily rainfall of over 250 mm is normal. High rainfall intensity events occur during tropical storms and often result in flooding of most river systems. The highest recorded rainfall of 281mm over a 12 hour period was recorded in 2009 resulting in destructive flooding and loss of lives. More recently the highest recorded daily rainfall of 318mm was recorded in April 2014 causing widespread flooding and damage to property, infrastructure and loss of 23 lives along the Mataniko River, Central Honiara. Rainfall trends vary across the country and are influenced by geographic differences. 
  
-### Demographic characteristics 
+#### Demographic characteristics 
 
 Solomon Islands has 28,400 square kilometers of land, with a population of 598,860 (September 2015 estimate). Solomon Islands has a population density of 21 people per square kilometre. The capital and largest city is Honiara, with a population estimated at 67,000. There are no other cities with a population of more than 10,000 in the country. 
 
@@ -35,7 +35,7 @@ Around 80% of the national population live on low lying coastal areas. The capit
  
 The Solomon Island's Human Development Index (HDI) was 0.510 in 2011, and is one of the lowest in the Pacific, and it ranked 142 out of 187 countries (UNDP, 2011). On the achievement of Millennium Development Goals (MDGs) a range of social indicators show that the country is likely to meet Goal 2 (Achieve universal primary education) and Goal 5 (Improve maternal health). Females still have less access than males to secondary and tertiary education while women have poor access to health and family planning services in the rural areas. According to the ADB (2010) much of the improvement in the HDI was the result of significant overseas financial and technical assistance, with aid levels increasing from 22% of GDP in 1990 to 66% of GDP in 2005. An analysis of household income and expenditure data collected in 2005/06 shows that situations of hardship and poverty is rising with 11% of the population experiencing difficulties in acquiring basic needs. 
  
-### Economy  
+#### Economy  
 
 The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closing of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts to restore law and order and economic stability have led to modest growth as the economy rebuilds. 
  
@@ -61,46 +61,38 @@ The domestic economy is expected to be more buoyant in 2015 than the previous ye
 
 
 ### MITIGATION 
-
+**INFORMATION ON INTENDED NATIONALLY DETERMINED CONTRIBUTION**
 | PARTY: Solomon Islands 	|  	| DATE: September 2015 	|
 |----------------------------------------	|-------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Parameter 	|  	| Information 	|
+| **Parameter** 	|  	| **Information** 	|
 | Period for defining  actions 	|  	| Five year periods.Starting 2020, with reference to 2025 and ending in 2030 	|
-| Type and level of Commitment 	|  	| All commitments are premised on:(a) A fair and ambitious agreement being reached, reflecting Common but Differentiated Responsibilities and Respective Capabilities; and(b) Timely access to international climate change financing, capacity building and technology.Solomon Islands is a LDC SIDS, that will nonetheless commit to reduce emissions by:12% below 2015 level by 2025 and 30% below 2015 level by 2030compared to a BaU projection.On the understanding that a global agreement addresses international assistance to access financial and technical resources, Solomon Islands can with international assistance, contribute a further:27% reduction in GHG emissions by 2025; and45% reduction in GHG emissions by 2030, compared to a BaU projection.With appropriate international assistance, Solomon Islands can reduce its emissions by more than 50% by 2050. 	|
+| Type and level of Commitment 	|  	| All commitments are premised on:(a) A fair and ambitious agreement being reached, reflecting Common but Differentiated Responsibilities and Respective Capabilities; and(b) Timely access to international climate change financing, capacity building and technology.Solomon Islands is a LDC SIDS, that will nonetheless commit to reduce emissions by:**12% below 2015 level by 2025** and **30% below 2015 level by 2030** compared to a BaU projection.On the understanding that a global agreement addresses international assistance to access financial and technical resources, Solomon Islands can with international assistance, contribute a further:**27%** reduction in GHG emissions by 2025; and **45%** reduction in GHG emissions by 2030, compared to a BaU projection. **With appropriate international assistance, Solomon Islands can reduce its emissions by more than 50% by 2050.** 	|
 | Reference year or period 	|  	| 2015. The BaU projection is based on an extrapolation of historic data covering the period 1994-2010. 	|
-| Estimated, quantified emissions impact 	|  	| In addition to the carbon storage in the forest and ocean ecosystem, Solomon Islands unconditional contribution will reduce 8,300 tCO2e annuallySolomon Islands’ conditional contribution (with international assistance) will reduce emissions by 18,800 tCO2e annually by 2025, and by 31,125 tCO2e annually by 2030 	|
+| Estimated, quantified emissions impact 	|  	| In addition to the carbon storage in the forest and ocean ecosystem, Solomon Islands unconditional contribution will reduce 8,300 tCO2e annually Solomon Islands’ conditional contribution (with international assistance) will reduce emissions by 18,800 tCO2e annually by 2025, and by 31,125 tCO2e annually by 2030 	|
 | Coverage 	| % of National emissions 	| INDC covers fossil fuels and forest sequestration. Fossil-fuel use covers more than 95% of the reported national inventory 	|
 |  	| Sectors 	| Energy sector: Power (39%)Transport (61%)Renewable and EELand use, Land Use Change and Forestry 	|
 |  	| Gases 	| Carbon dioxide only (estimated > 95% of inventory) 	|
-
-| INFORMATION ON INTENDED NATIONALLY DETERMINED CONTRIBUTION 	|  	|  	|  	|
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------	|
-| PARTY: Solomon Islands 	|  	|  	| DATE: September 2015 	|
-| Parameter 	| Geographical 	| boundaries 	|  	|
-|  	|  	| Whole of country 	|  	|
+| 	| Geographical boundaries 	|  Whole of country 	|  	|
 | Further information, relevant to commitment type 	|  	| Commitments are in the form of Outcomes and Actions. These are referenced as deviation from Business as Usual projections. BaU projections are based on fossil fuel consumption data for the period 1994-2010, with line of best fit extrapolation to 2030. The projection will be revised to include more accurate information with the Third National Communication and Biennial Update Report. 	|  	|
 | Intention to use market based mechanisms to meet  commitments 	|  	| Solomon Islands will consider other avenues as well as market based mechanisms to support establishment and operation of a National Climate Change Trust Fund 	|  	|
 | Land sector accounting approach 	|  	| Appropriate methodologies drawn from international best practice to quantify sequestration from above 400m contour and forest plantations. 	|  	|
 | Estimated macro-economic impact and marginal cost of abatement 	|  	| NE 	|  	|
-| Narrative supporting the fair-share assessment of the contribution 	|  	| "Solomon Islands is a double chain archipelago of small islands with more than  900  volcanic  and  coral  islands and atolls  with  a  600,000 inhabitants, small land mass, limited technological, technical, financial and human resources and a small economy. 	|  	|
-| Solomon Islands is a LDC SIDS that is in no way responsible for the unfolding  climate  change  catastrophe,  yet  it  is  highly  vulnerable  to adverse impacts of climate change. 	|  	|  	|  	|
-| Current (2015) greenhouse gas emissions from Solomon Islands are approximately 20 MtCO2e/year. This is extremely small: representing approximately just 0.01 % of global emissions. 	|  	|  	|  	|
-| Solomon Islands has very low per capita emissions, at just: 1.2 tCO2 per  person  in  2015  based  on  projected  emissions  for  2015.  This  is fourteen times less than the average per capita emissions of Australia (16.5tCO2/capita), and less than the estimated level required to stay below   1.5   oC   (as   compared   to   2oC)   of   warming,   of   around 1.5tCO2e/capita [^1] .  Thus,  any  contribution  from  Solomon  Islands  is more  than  fair,  and  must  be  considered  ambitious,  given  Solomon Islands national circumstances. 	|  	|  	|  	|
-| With  high  vulnerability  to  climate  change  impacts  Solomon  Islands has  placed  equal  importance  on  mitigation  of  and  adaptation  to climate  change  and  recognises  the  need  for  developing  low  carbon economy to achieve its sustainable development objectives." 	|  	|  	|  	|
+| Narrative supporting the fair-share assessment of the contribution 	|  	| Solomon Islands is a double chain archipelago of small islands with more than  900  volcanic  and  coral  islands and atolls  with  a  600,000 inhabitants, small land mass, limited technological, technical, financial and human resources and a small economy. Solomon Islands is a LDC SIDS that is in no way responsible for the unfolding  climate  change  catastrophe,  yet  it  is  highly  vulnerable  to adverse impacts of climate change.  Current (2015) greenhouse gas emissions from Solomon Islands are approximately 20 MtCO2e/year. This is extremely small: representing approximately just 0.01 % of global emissions.Solomon Islands has very low per capita emissions, at just: 1.2 tCO2 per  person  in  2015  based  on  projected  emissions  for  2015.  This  is fourteen times less than the average per capita emissions of Australia (16.5tCO2/capita), and less than the estimated level required to stay below   1.5   °C   (as   compared   to   2°C)   of   warming,   of   around 1.5tCO2e/capita [^1] .  Thus,  any  contribution  from  Solomon  Islands  is more  than  fair,  and  must  be  considered  ambitious,  given  Solomon Islands national circumstances. With  high  vulnerability  to  climate  change  impacts  Solomon  Islands has  placed  equal  importance  on  mitigation  of  and  adaptation  to climate  change  and  recognises  the  need  for  developing  low  carbon economy to achieve its sustainable development objectives.	| 
 
 [^1]: Using 2011 ddata from World Bank, http://databank.worldbank.org/data/home.aspx.
-### Mitigation Status and Context 
+
+#### Mitigation Status and Context 
  
 Greenhouse gas emissions are the result of combustion of imported fossil fuels in the energy sector for: 
 *  Electricity generation; 
 *  Sea transport;  
 *  Land transport;  
 
-### Actions 
+#### Actions 
  
 Solomon Islands has considered mitigation actions that were currently planned and funded (as the Solomon Islands Contribution), and those that have been identified as technically viable with current technology suitable to the Solomon Islands context (as the Contribution conditional on adequate and timely international assistance), are included in the Table below. 
 
- | Sector 	| Mitigation option 	| INDC type 	| Mitigation in 2025 (tCO2e) 	| % of 2025projected inventory 	| Mitigation in 2030 (tCO2e) 	| % of 2030projected inventory 	|
+ | Sector 	| Mitigation option 	| INDC type 	| Mitigation in 2025 (tCO2e) 	| % of 2025 projected inventory 	| Mitigation in 2030 (tCO2e) 	| % of 2030 projected inventory 	|
 |--------	|-------------------	|-----------	|----------------------------	|------------------------------	|----------------------------	|------------------------------	|
 | Energy 	| Fiu Hydropower 	| RE 	| 12,220.2 	| 14.7% 	| 24,440.40 	| 11.52% 	|
 |  	| Solar Farm 	| RE 	| 2,036.7 	| 2.5 % 	| 4,073.40 	| 1.92% 	|
@@ -111,34 +103,34 @@ Solomon Islands has considered mitigation actions that were currently planned an
 Keys: RE - Renewable Energy
 EE – Energy Efficiency
 
- The conditional Mitigation Actions will require a timely combination of capacity building, technology transfer, and financial support, primarily in the form of grants. Additional mitigation actions may be identified in the future. Below is a brief summary of the activities proposed for off-grid electricity production, with estimates of financial resources required (in USD).
+The conditional Mitigation Actions will require a timely combination of capacity building, technology transfer, and financial support, primarily in the form of grants. Additional mitigation actions may be identified in the future. Below is a brief summary of the activities proposed for off-grid electricity production, with estimates of financial resources required (in USD).
  
 
 
 |  	| Renewable 	| Capacity 	| Mitigation potentials in tCO2e [Annually] 	| Cost Estimate USD 	| Status 	|
 |----	|------------------------	|--------------	|-------------------------------------------	|-------------------	|-----------------------------------------------	|
-|  	| Hydropower 	|  	|  	|  	|  	|
+|  	| **Hydropower** 	|  	|  	|  	|  	|
 | 1 	| Luembalele River 	| 190KW 	| 1,065.22 	| 750,000.00 	| Feasibility Studies completed 	|
 | 2 	| Huro River 	| 120KW 	| 672.77 	| 550,000.00 	| Feasibility Studies completed 	|
 | 3 	| Mase River 	| 1.750 MW 	| 9,811.20 	| 4,000,000.00 	| Feasibility Studies completed Needs reviewing 	|
 | 4 	| Sorave River 	| 200 kW 	| 1,121.28 	| 600,000.00 	| Prefeasibility Studies completed 	|
 | 5 	| Rori 	| 300 kW 	| 1,681.92 	| 750,000.00 	| Feasibility Studies completed 	|
 | 6 	| Vila River 	| 1.210 MW 	| 6,783.74 	| 4,000.000.00 	| Prefeasibility Studies needed 	|
-| 7 	| Solar 	|  	|  	|  	|  	|
-| 8 	| Taro 	| 100 to 200kW 	| 280.32 	| 300,000.00 	| diesel/solar pv hybrid system 	|
-| 9 	| Seghe 	| 100 to 200kW 	| 280.32 	| 300,000.00 	| diesel/solar pv hybrid system 	|
-| 10 	| Afio 	| 100 to 200KW 	| 280.32 	| 300,000.00 	| diesel/solar pv hybrid system 	|
-| 11 	| Selwyn College 	| 100KW 	| 140.16 	| 150,000.00 	| diesel/solar pv hybrid system 	|
-| 12 	| Kakabona Solar Farm 	| 1 MW 	| 1,401.60 	| 4,000,000.00 	| solar PV grid- connected plant 	|
-| 13 	| Solar     Farm Honiara 	| 1.5 MW 	| 2,102.40 	| 5,000,000.00 	| solar PV/grid connected system 	|
-|  	| Savo Geothermal 	| 20 – 40MW 	| 224,256.00 	| 150,000,000.00 	| Preliminary assessment done 	|
+|  	| **Solar** 	|  	|  	|  	|  	|
+| 7 	| Taro 	| 100 to 200kW 	| 280.32 	| 300,000.00 	| diesel/solar pv hybrid system 	|
+| 8 	| Seghe 	| 100 to 200kW 	| 280.32 	| 300,000.00 	| diesel/solar pv hybrid system 	|
+| 9 	| Afio 	| 100 to 200KW 	| 280.32 	| 300,000.00 	| diesel/solar pv hybrid system 	|
+| 10 	| Selwyn College 	| 100KW 	| 140.16 	| 150,000.00 	| diesel/solar pv hybrid system 	|
+| 11 	| Kakabona Solar Farm 	| 1 MW 	| 1,401.60 	| 4,000,000.00 	| solar PV grid- connected plant 	|
+| 12 	| Solar     Farm Honiara 	| 1.5 MW 	| 2,102.40 	| 5,000,000.00 	| solar PV/grid connected system 	|
+| 13 	| Savo Geothermal 	| 20 – 40MW 	| 224,256.00 	| 150,000,000.00 	| Preliminary assessment done 	|
 
 ### ADAPTATION 
 
 Solomon Islands has been working actively on climate change adaptation for 20 years, and with the development of pioneering tools and methodologies that are regarded as best practices regionally and internationally, has made and continues to make a considerable contribution to the global and regional adaptation planning and management process and pool of knowledge on building climate resilience. This contribution is made in the face of severe constraints and challenges confronted by Solomon Islands as a small island developing States (SIDS) and Least Developed Country (LDC). For Solomon Islands, as with other small islands developing States and Least Developed Countries, where climate change threatens the very existence of the people and the nation, adaptation is not an option - but rather a matter of survival. 
 
 
-### Current climate, projected climate change and related assumptions 
+#### Current climate, projected climate change and related assumptions 
  
 The interannual climate of Solomon Islands is basically driven by natural drivers such as the Inter-Tropical Convergence Zone (ITCZ), the South Pacific Convergence Zone (SPCZ), the West Monsoon and the El Nino Southern Oscillation (ENSO). The wet season is generally driven by the ITCZ and the West Monsoon resulting in strong north-westerly winds and seas affecting mostly the northern part of the country. Associated heavy and long rainfall periods usually influence agriculture activities in the northern parts of the country during this time. The SPCZ typically drives the weather and the climate of the southern part of Solomon Islands during the dry season where strong southeast trades brings onshore heavy rainfall that disturbs agricultural activities as well. 
  
@@ -146,19 +138,15 @@ During an El Nino ocean surface waters over the western Pacific (including Solom
  
 During a La Nina event the opposite seems to happen, where waters over the western Pacific (including Solomon Islands) are warmer than normal hence causing more cloud formation resulting in prolonged and high rainfall periods. Cyclones and high rainfall events are associated with the La Nina periods in the western Pacific. The future of ENSO events is still not clear but it is expected that it will continue to be an important driver of Pacific Islands climate into the future. 
 
-Observed temperature data by the Solomon Islands Meteorological Services show that annual surface temperature for the western, central and eastern regions of Solomon Islands have increased during the last 30 to 50 years. The range of increase in mean air temperature for most provinces is between 0.14oC and 0.17oC/decade. 
+Observed temperature data by the Solomon Islands Meteorological Services show that annual surface temperature for the western, central and eastern regions of Solomon Islands have increased during the last 30 to 50 years. The range of increase in mean air temperature for most provinces is between 0.14°C and 0.17°C/decade. 
 
- A study carried out by the Pacific Climate Change Scientific Programme (PCCSP, 2011) under Australian Government showed that for three emission scenarios (low, medium and high) using 18 Global Circulation Models the temperature in the Solomon islands will increase by 0.2oC (low) in 2030 to 3.3 oC (high) in 2090. The sea surface temperature (SST) is projected to increase in the next 30 -70 years in Solomon Islands. 
+ A study carried out by the Pacific Climate Change Scientific Programme (PCCSP, 2011) under Australian Government showed that for three emission scenarios (low, medium and high) using 18 Global Circulation Models the temperature in the Solomon islands will increase by 0.2°C (low) in 2030 to 3.3 °C (high) in 2090. The sea surface temperature (SST) is projected to increase in the next 30 -70 years in Solomon Islands. 
 
-Rainfall data analysed to date show that annual rainfall in the three regions (western, eastern and western Solomon Islands) is mostly varied due to the geography of the different islands, their relative position with each other, the direction and duration of prevailing winds and drivers of climate in the Pacific. However, it can be clearly seen that there were sharp declines around mid-1990s for all the three regions. These declines correlated with the severe El Nino event between 1997 and 1998 that affected most parts of the country.
- 
-The general trends however show that in the central region there was a decrease in rainfall and a slight increase for the western and eastern regions in the past 30-50 years. The rainfall trends show that: 
+Rainfall data analysed to date show that annual rainfall in the three regions (western, eastern and western Solomon Islands) is mostly varied due to the geography of the different islands, their relative position with each other, the direction and duration of prevailing winds and drivers of climate in the Pacific. However, it can be clearly seen that there were sharp declines around mid-1990s for all the three regions. These declines correlated with the severe El Nino event between 1997 and 1998 that affected most parts of the country. The general trends however show that in the central region there was a decrease in rainfall and a slight increase for the western and eastern regions in the past 30-50 years. The rainfall trends show that: 
 
 
 * In the area around the capital city of Honiara a general decline per decade is occurring while the population is growing at a rate of approximately 6% per annum. To ensure adequate water supply for the growing population of the city a robust and well enforced Integrated Water Resource Management strategy and programme needs to be put in place. Conservation and effective management of the forests surrounding Honiara is essential and increasing numbers of bore holes will need to be established over the coming years to supplement the Kongulae water source in the longer term. The proportion of annual rainfall from extreme rainfall has increased significantly which could result in longer drought periods in the dry season and more severe flooding. 
-
 * In Auki town, Malaita Province, a decline in rainfall for both the dry and wet seasons is being experienced.  
-
 * In Taro Island, Choiseul Province, a similar trend as Auki is emerging. The plan to relocate the provincial headquarters and town from Taro Island to the mainland area of Choiseul Bay is also a good adaptation strategy that needs to be complemented with an Integrated Water Resource Management strategy and programme.  
  
 Tropical cyclones pose a serious threat to the people, economy and environment and result in flooding and wind damage in the Solomon Islands. There have been severe floods on Guadalcanal, Malaita, Makira and Santa Isabel in recent years with a number of lives lost, and severe damage to agriculture and Infrastructure. In 2002 the remote island of Tikopia was hit by a Category 5 cyclone Zoe. 
@@ -168,21 +156,21 @@ Tropical cyclones pose a serious threat to the people, economy and environment a
  Solomon Islands is highly vulnerable to droughts, extreme rainfall, floods, king tides and sea level rise. Droughts are usually associated with the El Nino phenomenon. The 1997/98 El Nino caused severe drought conditions in many parts of the country and one of the major prolonged droughts occurred in the eastern part of the country in the Temotu province in 2004 causing food and water shortages. Another major problem associated with extremely high rainfall or prolonged rainfall is the big decline in the yields of sweet potato, the main staple crop in rural areas, due to increased vegetative growth and decline in the growth of tuber. Flooding can also occur as a result of a combination of factors, including king tides, areas associated with low atmospheric pressure, and rising sea levels. In 2008 king tides struck northern Choiseul, Ontong Java and other parts of the country. These came in the form of high swells never before experienced in the islands. The tides caused more coastal erosion, considerable damage to coral reefs, coastal inundation, pollution of water sources and damage to coastal infrastructures.
 
 
-### Statement of current and near-term adaptation planning and action 
+#### Statement of current and near-term adaptation planning and action 
 
 The Climate Change Policy (2012-2017) which is linked to National Development Strategy (2011-2020) provides a policy framework for developing and describing ongoing and planned actions (changes in institutions, modified policies and measures, major projects/programs, planning processes, and financial investments) using international and country resources . 
   
-### Statement of adaptation gaps, barriers and needs 
+#### Statement of adaptation gaps, barriers and needs 
  
 Institutional challenges relating to high staff turnover rates in senior executive positions, limited sector specific training, and a lack of clarity on internal roles and responsibilities in some sectors hampers national efforts on adaptation. Adaptation knowledge sharing, coordination and collaboration among ministries as well as with non-governmental organisations (NGOs), the private sector, faith-based organisations and development partners is less than adequate in the Solomon Islands. There needs to be a focus on development of knowledge, skill levels to address capacity gaps with regards to climate change adaptation and disaster risk reduction throughout Solomon Islands society, particularly in the outer islands and among marginalised populations. 
  
 There is need to translate the climate science and predicted impacts into messages that support action by Solomon Islanders. "Kastom" barriers also hamper awareness and action as with very limited capacity at the community level to undertake local level vulnerability mapping, adaptation planning and the implementation of priority adaptation interventions. 
 
-### Financing needs for priority adaptation interventions 
+#### Financing needs for priority adaptation interventions 
  
 Some adaptation projects have been grouped into thematic areas linked to the priority sectors established in the National Adaptation Programme of Action (NAPA) as well as some recently identified priorities. The total adaptation cost would be US$126,650,000; NAPA would cost US$17,250,000 covering agriculture and food security, water and sanitation, human settlements and human health, education awareness and information; low-lying and artificially built-up islands; waste management; coastal protection; fisheries and marine resources, infrastructure development and tourism. However the total cost of NAPA will have changed considerably upward and therefore will require further evaluation and costing. Other priorities identified through the national communication process would cost additional US$109,400,000. It is expected that a considerable portion of the necessary financing will be provided in the forms of grants from the Green Climate Fund, Global Environment Facility (GEF), Adaptation Fund, and from various bi-lateral climate change programs. 
  
-### Addressing  gaps  in  national,  sector  and  community-level  adaptation  and  climate resilience programs 
+#### Addressing  gaps  in  national,  sector  and  community-level  adaptation  and  climate resilience programs 
  
 It is the intention of the Solomon Islands Government that a community-based vulnerability mapping, adaptation planning and management approach (tied to direct access to financing for community-based resilience-building projects) be employed on a whole of island basis that will build capacity in vulnerable villages for localised adaptation actions which represents a critical contribution to the implementation of adaptation. 
  
@@ -191,11 +179,11 @@ The Solomon Islands Government will establish the institutional structures and s
 
  
 
-### Innovative financing approaches and operations 
+#### Innovative financing approaches and operations 
  
 Based on lessons learned and best practices from Small Island Developing Sates (SIDS), the Government will investigate the viability of, amongst other measures: (i) setting aside the valued added tax charged for fuel; (ii) charging carbon levies; and (iii) charging fees for climate change research undertaken in the country. Such fees and charges will be used to establish and finance a national climate change trust fund for priority climate change measures. 
  
-The Solomon Islands Government intends to build national capacity to facilitate direct access to international climate change financing including the Green Climate Fund so as to ensure that financing for climate resilience is country-owned and directed towards priority national needs and community-based adaptation plans and mitigation measures. 
+The Solomon Islands Government intends to build national capacity to facilitate *direct access* to international climate change financing including the Green Climate Fund so as to ensure that financing for climate resilience is country-owned and directed towards priority national needs and community-based adaptation plans and mitigation measures. 
   
 Based  upon  lessons  learned from  other  SIDS,  Solomon Islands  will  seek  assistance  under the "Readiness" program operated by the Green Climate Fund to establish the necessary legal, institutional  and  fiduciary  management  framework  and  accredit the National Implementing Entity (NIE) needed to facilitate direct access, thereby reducing dependence upon intermediary agencies for the design and implementation of priority adaptation and mitigation interventions.  
  

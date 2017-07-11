@@ -1,12 +1,11 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
+## INFORMATION 
+## To the United Nations Framework Convention on Climate Change (UNFCCC) on the Intended Nationally Determined Contribution (INDC) of the Republic of Azerbaijan 
 
-### INFORMATION 
-### To the United Nations Framework Convention on Climate Change (UNFCCC) on the Intended Nationally Determined Contribution (INDC) of the Republic of Azerbaijan 
-> As a developing country, Republic of Azerbaijan believes that the climate change is a potential threat for humanity and supports the adoption of a new Global Agreement on climate change to be applied to all Parties in the 21st Conference of Parties to the UNFCCC to be held in Paris late 2015. 
-> 
->**By 2030 the Republic of Azerbaijan targets 35% reduction in the level of greenhouse gas emissions compared to 1990/base year as its contribution to the global climate change efforts.** 
+ As a developing country, Republic of Azerbaijan believes that the climate change is a potential threat for humanity and supports the adoption of a new Global Agreement on climate change to be applied to all Parties in the 21st Conference of Parties to the UNFCCC to be held in Paris late 2015. 
+ 
+**By 2030 the Republic of Azerbaijan targets 35% reduction in the level of greenhouse gas emissions compared to 1990/base year as its contribution to the global climate change efforts.** 
 
-### **Approaches and principles applied for defining the contributions:** 
+### Approaches and principles applied for defining the contributions:
 **Compliance with national conditions and historical responsibility** 
 
 By communicating its INDC to the UNFCCC, Azerbaijan confirms the importance of a new agreement in the field of climate change and expresses its solidarity with the countries that are most vulnerable to climate change. 
@@ -33,15 +32,15 @@ In addition, constraints for the implementation of the present INDC and specific
 
 | Base year | 1990 |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Emissions per base year | Total emission 73.331 Gg CO2 equivalent (excluding LULUCF);  Net emission 69.641 Gg CO2 equivalent (including LULUCF |
+| Emissions per base year | Total emission 73.331 Gg CO2 equivalent (*excluding LULUCF*);  Net emission 69.641 Gg CO2 equivalent (*including LULUCF*) |
 | Time framework | 2030 |
 | Covered sectors | Energy, Agriculture, Waste, LULUCF |
 | Covered gases | CO2, CH4, N2O, HFC, CF4 |
-| Considered emissions reduction | 35% reduction at total emissions level compared to the base year.  Total emissions reduction for 2030 compared to the base year: 25.666 Gg CO2 equivalent (excluding LULUCF) 24.374 Gg CO2 equivalent (including LULUCF ) |
+| Considered emissions reduction | 35% reduction at total emissions level compared to the base year.  Total emissions reduction for 2030 compared to the base year: 25.666 Gg CO2 equivalent (*excluding LULUCF*) 24.374 Gg CO2 equivalent (*including LULUCF* ) |
 | Methodology used for GHG inventory | In the course of GHG inventory, the revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories were used |
 | Adaptation element | In order to reduce vulnerability of Azerbaijan towards climate change impacts, it is considered to develop relevant adaptation measures for decreasing or minimizing the losses that may occur at national, local and community levels per sector.  |
  
- ### **Mitigation**
+ ### Mitigation
  **Energy sector** 
  
  Development of legislative acts and regulatory documents on energy, the implementation of awareness activities on energy efficiency, the replacement of existing technologies in electricity and thermal energy production with modern technologies, the reconstruction of the distribution networks and transmission lines, the implementation of isolation works and application of modern lighting systems. 

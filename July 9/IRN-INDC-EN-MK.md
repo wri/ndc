@@ -1,9 +1,9 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
 # Department of Environment 
 # Islamic Republic of Iran 
-# Intended Nationally Determined Contribution 
-#### 19 November 2015 
-## 1. Introduction 
+## Intended Nationally Determined Contribution 
+19 November 2015 
+
+### 1. Introduction 
 The Islamic Republic of Iran, in recent decades, has always supported the international efforts to mitigate greenhouse gas emissions (GHGs) and to adapt to the impacts of climate change, on the basis of the principle of "Common But Differentiated Responsibilities" (CBDR). Despite various obstacles such as unjust sanctions, the eight year imposed war upon Iran (1980-1988) which put Iranian young and talented human resources at risk, as well as hosting millions of refugees from the neighboring countries, Iran has implemented comprehensive programs over the last three decades in the field of sustainable development. In the coming years, however, economic growth, social development, poverty eradication and environmental sustainability continue to be the main priorities of the national development agenda. 
 
 In spite of the desire to move towards low-carbon economy and to implement and achieve its objectives, young population and national development requirements on the one hand, and availability of hydrocarbon resources from the other hand, have made the national development to rely on the energy-intensive industries. These have made upward trend of GHGs emissions in the country inevitable. 

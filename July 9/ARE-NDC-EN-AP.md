@@ -52,21 +52,21 @@ The UAE is also developing the region's first commercial-scale network for carbo
  
 In addition to supply side targets, the UAE is undertaking comprehensive policies to reduce energy and water demand and promote the prudent use of resources, through the following actions: 
 
-•  **Tariff  reform:**  The UAE recognizes the value of energy and water tariff reform in reducing inefficiencies and promoting low-carbon development, as well as addressing energy security concerns. To this end, utility authorities in the UAE have introduced a number of initiatives and policies, and revised the country's tariffs over the years and gradually adjust the tariffs for commercial and industrial customers, so as to reflect the cost of generation by 2021. 
-•  **Building  and  efficiency  standards:**  the UAE is comprehensively targeting emissions from its building sector, which account for a significant percentage of the country's electricity and water consumption, through green building regulations, efficiency standards, retrofit programs and support structures for energy service companies across the UAE. 
-•  **Demand side management:** the UAE has launched a number of initiatives based on consumer awareness and demand management, including new for water and electricity bills, which give residents detailed formats consumption and subsidy information.  
-•  **District  cooling:**  air-conditioning accounts for a significant share of energy consumption, given the UAE's harsh climate. Comprehensive infrastructure investments are being undertaken to move towards district cooling and improve efficiency as compared to decentralized cooling.  
-•  **Appliance  efficiency  standards:**  the UAE introduced the region's first efficiency standards for  air-conditioning  units,  eliminating the  lowest- performing 20% of units on the market, and is introducing efficiency standards for refrigeration and other appliances. The UAE has also established an indoor lighting standard that introduces energy efficient lighting products and phases-out inefficient lighting products in the UAE market. 
+*  **Tariff  reform:**  The UAE recognizes the value of energy and water tariff reform in reducing inefficiencies and promoting low-carbon development, as well as addressing energy security concerns. To this end, utility authorities in the UAE have introduced a number of initiatives and policies, and revised the country's tariffs over the years and gradually adjust the tariffs for commercial and industrial customers, so as to reflect the cost of generation by 2021. 
+*  **Building  and  efficiency  standards:**  the UAE is comprehensively targeting emissions from its building sector, which account for a significant percentage of the country's electricity and water consumption, through green building regulations, efficiency standards, retrofit programs and support structures for energy service companies across the UAE. 
+*  **Demand side management:** the UAE has launched a number of initiatives based on consumer awareness and demand management, including new formats for water and electricity bills, which give residents detailed consumption and subsidy information. 
+*  **District  cooling:**  air-conditioning accounts for a significant share of energy consumption, given the UAE's harsh climate. Comprehensive infrastructure investments are being undertaken to move towards district cooling and improve efficiency as compared to decentralized cooling.  
+*  **Appliance  efficiency  standards:**  the UAE introduced the region's first efficiency standards for  air-conditioning  units,  eliminating the  lowest- performing 20% of units on the market, and is introducing efficiency standards for refrigeration and other appliances. The UAE has also established an indoor lighting standard that introduces energy efficient lighting products and phases-out inefficient lighting products in the UAE market. 
 
 *Transport and Infrastructure* 
  
 Infrastructure development is critical to the UAE's plans for economic diversification and the country has made infrastructure development a key priority area. The government is investing heavily in world-class traffic and transport systems. For example, the Emirate of Abu Dhabi has adopted a comprehensive urban structure framework plan, to optimize the city's development up to 2030. 
  
 The UAE is undertaking the following investments and initiatives, which will have significant mitigation co-benefits in addressing the transport sector's greenhouse gas emissions, including: 
-• the introduction of a new fuel pricing policy, which will put the UAE in line with global prices. This reform aims to support the national economy, lower fuel consumption, and protect the environment; 
-•  a federal freight rail network crossing the country and eventually integrated into the GCC network; 
-• the  Emirate  of  Abu  Dhabi  has  also  set  targets  to  shift  25%  of  government vehicle fleets to compressed natural gas; and 
-• the Emirate of Dubai has invested in a multi-billion dollar light-rail and metro system, which will continue to add new lines.  
+* the introduction of a new fuel pricing policy, which will put the UAE in line with global prices. This reform aims to support the national economy, lower fuel consumption, and protect the environment; 
+*  a federal freight rail network crossing the country and eventually integrated into the GCC network; 
+* the  Emirate  of  Abu  Dhabi  has  also  set  targets  to  shift  25%  of  government vehicle fleets to compressed natural gas; and 
+* the Emirate of Dubai has invested in a multi-billion dollar light-rail and metro system, which will continue to add new lines.  
  
 The UAE continues to improve the emission standards for new motor vehicles, in accordance with European emission standards, as well as through the introduction of standard labels. These initiatives target both improvements in fuel economy and reduction in local air pollution. 
  
@@ -75,9 +75,9 @@ The  UAE  will  also  introduce  comprehensive  regulations  for  electric  vehi
 *Waste Sector* 
  
 The  UAE  will  increase  the  amount  of  treated  waste,  and  waste  diverted  from  landfill, through a number of key initiatives, including:  
-•  developing a federal law to regulate and oversee waste management; 
-•  defining a federal roadmap for integrated waste; and, 
-•  developing  a  federal  database  to  gather  and  collect  information  regarding waste.  
+*  developing a federal law to regulate and oversee waste management; 
+*  defining a federal roadmap for integrated waste; and, 
+*  developing  a  federal  database  to  gather  and  collect  information  regarding waste.  
 
 #### Adaptation Actions with Mitigation Co-benefits 
  
@@ -91,8 +91,8 @@ Possibly the most threatening impact of climate change to the UAE will be stress
  
 The UAE is undertaking the following key initiatives in relation to water management: 
 
-•  **Water  Conservation:** the UAE is in the process of establishing a strategic federal framework for the sustainable management of all water resources in the country. The strategy is based on an integrated approach that aims to meet future water demand through a mix of new water infrastructure and improving the efficiency of existing water supplies.  
-•  **Desalination:**  the UAE is moving towards more efficient forms of desalination, and is investing in research and development of new technologies, including renewable energy to power desalination plants 
+*  **Water  Conservation:** the UAE is in the process of establishing a strategic federal framework for the sustainable management of all water resources in the country. The strategy is based on an integrated approach that aims to meet future water demand through a mix of new water infrastructure and improving the efficiency of existing water supplies.  
+*  **Desalination:**  the UAE is moving towards more efficient forms of desalination, and is investing in research and development of new technologies, including renewable energy to power desalination plants 
 
 *Wetlands, Coastal and Marine Environment Conservation (Blue Carbon)* 
  

@@ -12,7 +12,6 @@ A. Fuel combustion (sectoral approach)
 - Energy Industries    
 - Manufacturing industries and construction  
 - Transport  
- 
 - Other sectors  
 B. Fugitive emissions from fuels  
 - Solid fuels  
@@ -21,7 +20,6 @@ B. Fugitive emissions from fuels
 - Mineral products  
 - Chemical industry    
 - Metal production  
- 
 - Other production  
  
 3. Agriculture  
@@ -42,6 +40,7 @@ The INDC includes information on the following GHGs:
 *  Carbon dioxide (СО2);  
 *  Methane (СН4);  
 Nitrous oxide (N2O);  
+
 ### Base year 
 
 
@@ -61,9 +60,9 @@ In line with the trend of consumption and energy production growth, as a result 
 
 Methodological  approaches  are  based  on  using  the following methodology: 
 
-(IPCC)  defined  by 
 
-*  Methodology of the Intergovernmental Panel on Climate Change the Convention, on the basis of the reference manual The Revised IPCC Guidelines for National Greenhouse Gas Inventories of 1996, IPCC Good Practice Guidance for Land Use, Land-Use Change and Forestry of 2003, and Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Emission Inventories of 2000. INC, SNC, FBUR; 
+
+*  Methodology of the Intergovernmental Panel on Climate Change (IPCC)  defined  by the Convention, on the basis of the reference manual The Revised IPCC Guidelines for National Greenhouse Gas Inventories of 1996, IPCC Good Practice Guidance for Land Use, Land-Use Change and Forestry of 2003, and Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Emission Inventories of 2000. INC, SNC, FBUR; 
 *  National statistics; 
 *  Sectoral forecasts. 
 
@@ -82,6 +81,7 @@ INDC is based on the existing strategic documents, inter alia, the following:
 *  SNC 
 *  FBUR 
 *  Legislation etc.  
+
 ### International Market Based Mechanisms  
 Conditional  emission  reduction  is  only  possible  with international support. 
 
@@ -105,26 +105,18 @@ Given the state of affairs and facts on the ground, a number of activities and p
 
 
 *  to enact primary and secondary legislation aligning BiH legislation with EU acquis, including strategies, action plan, etc. for all sectors 
-
 *  to construct co-generation plants fuelled by wood chips and wood waste from wood processing industry, with the individual power generation capacity of several MW and the total power generation capacity of 70 MW, by 2030. 
-
 *  to replace the existing thermal power plants with 30% average efficiency with new plants with approximately 40% average efficiency .  
-
 *  to install the equipment for power generation from methane from two underground mines (five coal-pits)  
-
 *  to install mini hydro power plants with the power generation capacity of up to 10 MW and the total generation capacity of 120 MW, by 2030 
-
 *  to install wind farms of the power generation capacity of 175 MW by 2030. 
-
 *  to install photovoltaic modules of the total power generation capacity of 4 MW by 2030 
-
 *  to introduce renewable energy sources in the existing district heating systems and to construct new district heating systems fuelled by renewable energy sources 
-
 *  to reconstruct and modernize district heating grids, boilers and district heating substations 
-
 *  systemic energy rehabilitation of existing buildings (focus on public sector) 
 
-![Figure 1 : The BAU and considered mitigation scenario are shown below.]()
+The BAU and considered mitigation scenario are shown in the chart below.
+![Figure 1 : The BAU and considered mitigation scenario are shown below.](./BIH-1.png)
 
  
  

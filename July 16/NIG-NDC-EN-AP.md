@@ -3,9 +3,11 @@
 
 In 2014, Nigeria became the largest economy in sub-Sahara Africa. Nigeria is a lower middle income developing country, the GDP per capita in current US$ is about $2,950. The economy is diversifying and has grown over 6% per year for the past decade. Yet, significant challenges remain. Food insecurity, poor access to energy and high unemployment, amongst others, remain principal constraints on economic development and are of primary concern to the government. Those below the poverty line of US$1.25 PPP still make up 30% of the population. The recent sharp decline in world oil prices has put pressure on the federal government budget, which continues to depend significantly on export revenues. The Nigeria INDC, therefore, focuses on the delivery of direct development benefits and sustainable growth of the economy. 
 
-In addition to these challenges, the country is considerably impacted by climate change. The north of the country, for example, is highly vulnerable to drought. A recent Pew Research Center global attitudes surveyi found that 65% of Nigerians are very concerned about the threat climate change poses, ahead of global economic instability (48%). HE President Buhari has stated in his inaugural speech that Nigeria is committed to tackling climate change. Nigeria's INDC demonstrates its determination to contribute to the success of the Paris climate summit in December 2015 and to grow its economy sustainably while reducing carbon pollution. 
+In addition to these challenges, the country is considerably impacted by climate change. The north of the country, for example, is highly vulnerable to drought. A recent Pew Research Center global attitudes survey[^1] found that 65% of Nigerians are very concerned about the threat climate change poses, ahead of global economic instability (48%). HE President Buhari has stated in his inaugural speech that Nigeria is committed to tackling climate change. Nigeria's INDC demonstrates its determination to contribute to the success of the Paris climate summit in December 2015 and to grow its economy sustainably while reducing carbon pollution. 
 
 In addition to these challenges, the country is considerably impacted by climate change. The north of the country, for example, is highly vulnerable to drought. A recent Pew Research Center global attitudes surveyi found that 65% of Nigerians are very concerned about the threat climate change poses, ahead of global economic instability (48%). HE President Buhari has stated in his inaugural speech that Nigeria is committed to tackling climate change. Nigeria's INDC demonstrates its determination to contribute to the success of the Paris climate summit in December 2015 and to grow its economy sustainably while reducing carbon pollution. 
+
+The INDC promotes sustainable development and delivering on government priorities. The policies and measures included in the Nigeria INDC will deliver immediate development benefits and do not compromise sustainable growth, on the contrary. Ambitious mitigation action is economically efficient and socially desirable for Nigeria, even when leaving aside its climate benefits. The policies and measures alleviate poverty, increase social welfare and inclusion, as well as improving individual well-being, which includes a healthy environment. Furthermore, by not undertaking these measures Nigeria would incur significant adaptation costs from exacerbated climate change.
 
 Nigeria has been actively engaged in international climate policy negotiations since it became a Party to the UN Framework Convention on Climate Change (FCCC) in 1994 ratifying its Kyoto Protocol in 2004. Nigeria submitted its First National Communication (FNC) in 2003 and a Second National Communication in February 2014. Nigeria is host to a number of Clean Development Mechanism projects, as well as projects financed by the Adaptation Fund. In September 2012, the Federal Executive Council approved the Nigeria Climate Change Policy Response and Strategy. HE, President Muhammadu Buhari, The President of the Federal Republic of Nigeria on 26 November 2015, approved the Nigeria INDC.
 
@@ -30,7 +32,7 @@ Table 1: Summary of key aspects of Nigeria's INDC
 | Summary of objective | Economic and social development: grow economy 5% per year, improve standard of living, electricity access for all |
 | Unconditional and conditional mitigation objectives | 20% unconditional, 45% conditional |
 | Key measures | • Work towards ending gas flaring by 2030 • Work towards Off-grid solar PV of 13GW (13,000MW) • Efficient gas generators • 2% per year energy efficiency (30% by 2030) • Transport shift car to bus • Improve electricity grid • Climate smart agriculture and reforestation |
-| Trajectory [update figure once agreed] |  |
+| Trajectory [update figure once agreed] |![](./ NIG-1.png)  |
 | Emissions per US$ (real) GDP | 0.873 kg CO2e (2015) [0.491 kg CO2e (2030)] |
 | GDP per capita (US$) | 2,950 (2014) 3,964 (2030; real 2015 US$) |
 | Estimated emissions per capita | Current: around 2 tonnes CO2e 2030 BAU: around 3.4 tonnes CO2e 2030 Conditional: around 2 tonnes CO2e |
@@ -105,7 +107,8 @@ The impacts of climate change in Nigeria vary in extent, severity and intensity.
  
 The summary of impacts above shows Nigeria to be highly vulnerable to climate change. The 2014 World Climate Change Vulnerability Index, published by the global risk analytics company Verisk Maplecroft, classifies Nigeria as one of the ten most vulnerable countries in the world. A recent government study determined vulnerability across Nigeria's geographical regions, focusing on the three principal determinants of vulnerability: adaptive capacity, sensitivity and exposure. The relative vulnerability of the six geopolitical zones of Nigeria is shown below. There is a general south-north divide. The three northern zones show higher vulnerability than those in the south. This reflects the higher rainfall and socio-economic development of the south. The south-south shows highest relative variability among the three southern zones, reflecting the challenges of coastal flooding and erosion, as well as the impact of petroleum exploration and exploitation in that part of the country. 
 
-![Figure 1 : Spatial  variation  in  relative  climate  change  vulnerability  (Second  National  Communication, 2013) ](./NIG-1.PNG)
+Figure 1: Spatial variation in relative climate change vulnerability (Second National Communication, 2013)
+![Figure 1 : Spatial  variation  in  relative  climate  change  vulnerability  (Second  National  Communication, 2013) ](./NIG-2.PNG)
 
  
 The southwest is least vulnerable, the northeast, on the other hand, is most vulnerable. Understanding these spatial vulnerabilities is crucial to shaping climate-resilient development in Nigeria.  
@@ -121,43 +124,60 @@ To this end, a set of thirteen sector-specific strategies, policies, programmes 
 
  
 In  light  of  the  INDC  focus  on  mitigation  potential  in  key  sectors,  we  highlight  below adaptation strategies for some high-emitting sectors:  
-| "Strategies, policies, programmes and measures for key sectors " |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A. STRATEGIES FOR AGRICULTURE (CROPS AND LIVESTOCK) |
-| "1. Adopt improved agricultural systems for both crops and livestock (for example, diversify livestock and improve range management; increase access to drought resistant crops and livestock feeds; adopt better soil management practices; and provide early warning/meteorological forecasts and related information). 2. Implement strategies for improved resource management (for example, increase use of irrigation systems that use low amounts of water; increase rainwater & sustainable ground water harvesting for use in agriculture; increase planting of native vegetation cover & promotion of re-greening efforts; and intensify crop and livestock production in place of slash and burn). 3. Focus on agricultural impacts in the savanna zones, particularly the Sahel, the areas that are likely to be most affected by the impacts of climate change." |
-| "B. STRATEGIES FOR FORESTS " |
-| "1. Strengthen the implementation of the national Community-Based Forest Resources Management Programme. 2. Support review and implementation of the National Forest Policy. 3. Develop and maintain a frequent forest inventory system to facilitate monitoring of forest status; and initiate a research programme on a range of climate change-related topics, including long term impacts of climatic shifts on closed forests. 4. Provide extension services to CSOs, communities and the private sector to help establish and restore community and private natural forests, plantations and nurseries. 5. Improve management of forest reserves and enforce low impact logging practice." |
-| "C. STRATEGIES FOR ENERGY" |
-| "1. Include increased protective margins in construction and placement of energy infrastructure (i.e. higher standards and specifications). 2. Undertake risk assessment & risk reduction measures to increase resilience of the energy sector. 3. Strengthen existing energy infrastructure, in part through early efforts to identify and implement all possible ‘no regrets' actions. 4. Develop and diversify secure energy backup systems to ensure both civil society and security forces have access to emergency energy supply. 5. Expand sustainable energy sources and decentralize transmission in order to reduce vulnerability of energy infrastructure to climate impacts." |
-| "D. STRATEGIES FOR TRANSPORTATION AND COMMUNICATIONS" |
-| "1. Include increased protective margins in construction and placement of transportation and communications infrastructure (i.e. higher standards and specifications). 2. Undertake risk assessment and risk reduction measures to increase the resilience of the transportation and communication sectors. 3. Strengthen existing transportation and communications infrastructure, in part through early efforts to identify and implement all possible ‘no regrets' actions. 4. Develop and diversify secure communication backup systems to ensure both civil society and security forces have access to emergency communication methods." |
-| "E. STRATEGIES FOR INDUSTRY AND COMMERCE" |
-| "1. Increase knowledge and awareness of climate change risks and opportunities 2. Undertake and implement risk assessments and risk reduction measures 3. Incorporate climate change into ongoing business planning 4. Review and enforce land use plans in industrial areas in light of climate change 5. Encourage relocation of high risk industries, facilities and markets 6. Promote and market emerging opportunities from climate change 7. Encourage informal savings and insurance schemes, and arrange for the availability of medium term credit (especially for industries in crisis). " |
-| "F. STRATEGIES FOR VULNERABLE GROUPS " |
-| 1. Adapt to our national, the World Meteorological Organization- Global Framework for Climate Services (WMO-GFCS) to Nigeria's needs (National Framework for Application of Climate Services - NFACS) to reduce vulnerability of communities through enhanced advocacy and implementation of the five Pillars of the Framework. |
+**Strategies, policies, programmes and measures for key sectors**
+ A. STRATEGIES FOR AGRICULTURE (CROPS AND LIVESTOCK) 
+1. Adopt improved agricultural systems for both crops and livestock (for example, diversify livestock and improve range management; increase access to drought resistant crops and livestock feeds; adopt better soil management practices; and provide early warning/meteorological forecasts and related information). 
+2. Implement strategies for improved resource management (for example, increase use of irrigation systems that use low amounts of water; increase rainwater & sustainable ground water harvesting for use in agriculture; increase planting of native vegetation cover & promotion of re-greening efforts; and intensify crop and livestock production in place of slash and burn). 
+3. Focus on agricultural impacts in the savanna zones, particularly the Sahel, the areas that are likely to be most affected by the impacts of climate change."
+
+B. STRATEGIES FOR FORESTS 
+1. Strengthen the implementation of the national Community-Based Forest Resources Management Programme. 
+2. Support review and implementation of the National Forest Policy. 
+3. Develop and maintain a frequent forest inventory system to facilitate monitoring of forest status; and initiate a research programme on a range of climate change-related topics, including long term impacts of climatic shifts on closed forests. 
+4. Provide extension services to CSOs, communities and the private sector to help establish and restore community and private natural forests, plantations and nurseries. 
+5. Improve management of forest reserves and enforce low impact logging practice.
+
+C. STRATEGIES FOR ENERGY
+1. Include increased protective margins in construction and placement of energy infrastructure (i.e. higher standards and specifications). 
+2. Undertake risk assessment & risk reduction measures to increase resilience of the energy sector. 
+3. Strengthen existing energy infrastructure, in part through early efforts to identify and implement all possible ‘no regrets' actions.
+4. Develop and diversify secure energy backup systems to ensure both civil society and security forces have access to emergency energy supply. 
+5. Expand sustainable energy sources and decentralize transmission in order to reduce vulnerability of energy infrastructure to climate impacts.
+
+D. STRATEGIES FOR TRANSPORTATION AND COMMUNICATIONS
+1. Include increased protective margins in construction and placement of transportation and communications infrastructure (i.e. higher standards and specifications). 
+2. Undertake risk assessment and risk reduction measures to increase the resilience of the transportation and communication sectors. 
+3. Strengthen existing transportation and communications infrastructure, in part through early efforts to identify and implement all possible ‘no regrets' actions. 
+4. Develop and diversify secure communication backup systems to ensure both civil society and security forces have access to emergency communication methods." 
+
+E. STRATEGIES FOR INDUSTRY AND COMMERCE
+1. Increase knowledge and awareness of climate change risks and opportunities 
+2. Undertake and implement risk assessments and risk reduction measures 
+3. Incorporate climate change into ongoing business planning 
+4. Review and enforce land use plans in industrial areas in light of climate change 5. Encourage relocation of high risk industries, facilities and markets 
+6. Promote and market emerging opportunities from climate change 
+7. Encourage informal savings and insurance schemes, and arrange for the availability of medium term credit (especially for industries in crisis). 
+
+F. STRATEGIES FOR VULNERABLE GROUPS
+1. Adapt to our national, the World Meteorological Organization- Global Framework for Climate Services (WMO-GFCS) to Nigeria's needs (National Framework for Application of Climate Services - NFACS) to reduce vulnerability of communities through enhanced advocacy and implementation of the five Pillars of the Framework. 
 
  
 **The National Agricultural Resilience Framework (NARF 2014)** is based on principles of adaptive management and participatory engagement as the central tenets of the overall implementation strategy. The NARF articulates policy options, opportunities and required interventions to achieve the following strategic objectives:  
 
 -  Strengthening the overall policy/institutional framework for improved resilience and adaptation to climate variability and change in the agricultural sector, including planning and implementation, systems for resource mobilization, and effective project monitoring and evaluation. 
-
 -  Evaluation and introduction of risk transfer and risk management strategies (e.g., improved seasonal and real time weather forecasts, insurance based risk mitigation options etc.) into the agricultural sector and widespread deployment of same through communication technologies, including mobile phones. 
-
 - Improving productivity through training community and grass root farmers on land and water management strategies (e.g., irrigation farming, water harvesting, soil fertility enhancement and erosion control etc.) improved farming practices and using policy instruments such as economic incentives, regulations and communication. 
-
 -  Reinforcing existing social safety nets through support systems that reduce vulnerability and improve livelihood conditions for the vulnerable, especially women and children.
-
 - Improving farming systems research capacity within the National Agricultural Research System (NARS) to enable and support the implementation of climate friendly agriculture in Nigeria. 
-
 -  Revamping  extension  services,  including  building  new  capacity  for evidence-based assessment and management of climate risk for resilience in the agriculture sector. 
  
 
-In addition to the above-mentioned key climate change related policies, several other environmental and sectoral policies and plans implicitly address climate change issues. For example, the National Policy on Environment supports "the prevention and management of natural disasters such as floods, drought, and desertification" and one of the objectives of Nigeria's Agricultural Policy is to "protect agricultural land resources from drought, desert encroachment, soil erosion, and floods". Other examples include Nigeria's Drought Preparedness Plan, National Policy on Erosion and Flood Control, National Water Policy, National Forest Policy, and National Health Policy. The challenge facing the government is sustained and coordinated implementation of policies and measures across a whole range of sectors. This INDC will be instrumental in making progress in this regard. 
+In addition to the above-mentioned key climate change related policies, several other environmental and sectoral policies and plans implicitly address climate change issues. For example, the National Policy on Environment supports *"the prevention and management of natural disasters such as floods, drought, and desertification"* and one of the objectives of Nigeria's Agricultural Policy is to *"protect agricultural land resources from drought, desert encroachment, soil erosion, and floods"*. Other examples include Nigeria's *Drought Preparedness Plan, National Policy on Erosion and Flood Control, National Water Policy, National Forest Policy, and National Health Policy*. The challenge facing the government is sustained and coordinated implementation of policies and measures across a whole range of sectors. This INDC will be instrumental in making progress in this regard. 
 
 ### 3  Mitigation Contributions Summary  
 
 #### 3.1  Business as Usual emissions projections 
-Nigeria's economy and population are both growing rapidly, and the population is attaining a higher standard of living. This growth will have a strong impact on future emissions. Following careful review of the re-based GDP data for 2010-2014iv and official population projections the "business-as-usual scenario" was developed as part of the preparation of this INDC. This scenario assumes an economic growth at 5%, population growing at about 2.5% per year, all Nigerians to have access to electricity (both on-grid and off-grid) and demand is met, industry triples its size by 2030. Under this scenario, emissions are projected to grow 114% by 2030 to around 900 million tonnes - around 3.4 tonnes for every Nigerian. Under a high growth scenario, with economic growth at 7%, this climbs to over one billion tonnes. 
+Nigeria's economy and population are both growing rapidly, and the population is attaining a higher standard of living. This growth will have a strong impact on future emissions. Following careful review of the re-based GDP data for 2010-2014[^4] and official population projections the "business-as-usual scenario" was developed as part of the preparation of this INDC. This scenario assumes an economic growth at 5%, population growing at about 2.5% per year, all Nigerians to have access to electricity (both on-grid and off-grid) and demand is met, industry triples its size by 2030. Under this scenario, emissions are projected to grow 114% by 2030 to around 900 million tonnes - around 3.4 tonnes for every Nigerian. Under a high growth scenario, with economic growth at 7%, this climbs to over one billion tonnes. 
 
 #### 3.2  Mitigation potential assessment 
 The mitigation actions, which could be undertaken, were assessed in a bottom up manner, building on expert assessments of both the challenges facing individual sectors, as well as a review of policies and measures already in place. The measures included in Nigeria's INDC are expected to deliver significant development benefits. The mitigation actions that bring the largest development benefit are reducing air pollution, indoors and outdoors, with enormous immediate health and social benefits. Secondly, innovation in "clean" technologies brings resource efficiency and produces more knowledge and jobs than those in "dirty" technologies. Thirdly, fiscal reform is proving an efficient mitigation action. This releases significant resources in the budget that can fund investments in efficient infrastructure and other fiscal policies, thus creating jobs and fuelling growth. Beyond mitigation actions that could be quantified, several qualitative policies and measures have been identified. 
@@ -167,16 +187,14 @@ In the event an ambitious, comprehensive legally binding global agreement is rea
 
 #### 3.4  Contribution conditional on international support 
 Nigeria can make a significant additional contribution with international support, in the form of finance and investment, technology and capacity building. The combined policies and measures described below can deliver in a cost-effective manner direct development benefits to the country and reduce emissions 45 per cent below BAU. The key measures are an increased level of energy efficiency and a significant reduction in the use of generators, while providing access to energy for all Nigerians. 
- 
-![Figure 2 : Mitigation contributions  ](./NIG-1.PNG)
+
+Figure 2 : Mitigation contributions
+![Figure 2 : Mitigation contributions](./NIG-1.PNG)
  
 ### 4  Mitigation contributions 
 
- 
- 
-
 #### 4.1  Background  
-For the purpose of developing the INDC, a LEAP model of the Nigerian economy and its emissions was constructed.v By using a bottom-up approach to modelling, an economy-wide emissions contribution for 2030 could be prepared that is grounded in sector-based analysis. The Nigeria 2030 LEAP model contains references to all relevant data sources and key assumptions  [^4].  
+For the purpose of developing the INDC, a LEAP model of the Nigerian economy and its emissions was constructed.[^5] By using a bottom-up approach to modelling, an economy-wide emissions contribution for 2030 could be prepared that is grounded in sector-based analysis. The Nigeria 2030 LEAP model contains references to all relevant data sources and key assumptions[^6].  
  
 The resulting package of policies and measures included in the Nigeria INDC prioritizes those actions that were quantifiable and cost-effective. The criteria against which potential mitigation actions were assessed were: 
 
@@ -193,29 +211,29 @@ The mitigation actions included in the INDC to a large extent implement or enfor
 
 The measures identified are as follows: 
 1.  Energy 
-o  Renewable energy, particularly decentralized 
-o  Multi-cycle power stations 
-o  Scalable power stations of 20-50MW 
-o  Enforced energy efficiency 
-o  Use of natural gas rather than liquid fuels 
+* Renewable energy, particularly decentralized 
+*  Multi-cycle power stations 
+* Scalable power stations of 20-50MW 
+* Enforced energy efficiency 
+* Use of natural gas rather than liquid fuels 
 2.  Oil and Gas 
-o Improved enforcement of gas flaring restrictions 
-o  Development of Gas-to-Power Plants at Gas Flare Sites (micro grid) 
-o  Blending  10%  by  volume  of  Fuel-Ethanol  with  Gasoline  (E10)  and  20% by volume of Biodiesel with Petroleum Diesel (B20) for Transportation Fuels. 
+* Improved enforcement of gas flaring restrictions 
+* Development of Gas-to-Power Plants at Gas Flare Sites (micro grid) 
+* Blending  10%  by  volume  of  Fuel-Ethanol  with  Gasoline  (E10)  and  20% by volume of Biodiesel with Petroleum Diesel (B20) for Transportation Fuels. 
 3.  Agriculture and Land Use 
-o  Climate Smart Agriculture 
-o  Stop using charcoal 
+* Climate Smart Agriculture 
+* Stop using charcoal 
 4.  Industry 
-o  Benchmarking against international best practice for industrial energy usage 
-o  Adoption of green technology in industry 
+* Benchmarking against international best practice for industrial energy usage 
+* Adoption of green technology in industry 
 5.  Transport 
-o  Modal shift from air to high speed rail 
-o  Moving freight to rail 
-o  Upgrading roads 
-o  Urban transit 
-o  Toll roads/ road pricing 
-o Increasing use of CNG 
-o  Reform petrol/ diesel subsidies 
+* Modal shift from air to high speed rail 
+* Moving freight to rail 
+* Upgrading roads 
+* Urban transit 
+* Toll roads/ road pricing 
+* Increasing use of CNG 
+* Reform petrol/ diesel subsidies 
 
  
  
@@ -239,10 +257,10 @@ Halting deforestation and the conservation of remaining natural forests, as well
 
 The overall cost per tonne of mitigation achieved in the sector is assumed to be negligible because the non-carbon benefits of the measures justify the costs. However, farmers may need assistance, because there may, for example, be upfront costs which low-income farmers will need help to meet. 
 
-###### 4.2.2  Gas Flaring 
+##### 4.2.2  Gas Flaring 
 The flaring of associated gas is illegal, the reality is a different one. There is a lack of gas infrastructure, until recently a relative lack of domestic demand for natural gas, and no transparent gas market. It has also been suggested that the subsidization of other fuels makes gas less attractive than it should be. Penalties are low and enforcement weak, the benefits of utilization accrue elsewhere. As a result of the foregoing, the companies responsible for ending the flaring have at present little incentive to do so. Gas flaring was responsible for around 48 million tonnes of emissions in 2010  [^7]. Yet it is possible and cost-effective to Nigeria to reduce and ultimately end the practice.  
 
-There are many potential productive uses for this gas such as feeding industrial clusters with a centralized gas supply. This would combine well with other options, such as increased use of natural gas (e.g. CNG) in transport and in power generation. The key difficulty may be enforcement, but the benefits are large. Eliminating flaring by 2030 could save around 64 million tonnes of CO2 per year.viii The World Bank estimates that this would have a net benefit of $61 per tonne. It could combine well with other mitigation measures such as substitution of natural gas-fired electricity generation for diesel generators. 
+There are many potential productive uses for this gas such as feeding industrial clusters with a centralized gas supply. This would combine well with other options, such as increased use of natural gas (e.g. CNG) in transport and in power generation. The key difficulty may be enforcement, but the benefits are large. Eliminating flaring by 2030 could save around 64 million tonnes of CO2 per year.[^8] The World Bank estimates that this would have a net benefit of $61 per tonne. It could combine well with other mitigation measures such as substitution of natural gas-fired electricity generation for diesel generators. 
 
 ##### 4.2.3  Energy 
 The government has made addressing the need to provide access to energy for all Nigerians a priority. At present, a significant share of demand for energy, and electricity in particular, remains unmet. The current grid is unable to reliably serve the existing industrial and urban customer base. A shortfall in generation capacity has led to the proliferation of small generators, which are inefficient and polluting. Most rural communities remain off the grid, about 60% of the population lack access to electricity. At the current rate of grid expansion they will largely remain under-served. The potential to both provide energy access and to reduce emissions is enormous. The mitigation options for energy address both energy demand and energy supply.
@@ -298,11 +316,9 @@ The degree to which people are affected by climate change impacts is influenced 
 #### 5.1  Transparency 
 The Lima Call to Climate Action suggested a list of information that countries can include in INDCs to ensure transparency and understanding. Nigeria is fully committed to increasing transparency. This INDC contains key data that may enable independent assessment of ambition and compatibility through full transparency. At present, Nigeria does not have a full GHG inventory and accompanying MRV system. We are committed to developing one with support from international partners. The LEAP model and government data that have informed the INDC will be made publicly available. Key aspects of the approach are: 
 
-• timeframe: base period data 2010-2014, projections 2015 - 2030
- 
-•  scope of gases: CO2, CH4 & N2O (other gases assumed to be negligible) 
- 
-•  sectors: IPCC guidelines and definitions were used for all sectors 
+* timeframe: base period data 2010-2014, projections 2015 - 2030
+*  scope of gases: CO2, CH4 & N2O (other gases assumed to be negligible) 
+*  sectors: IPCC guidelines and definitions were used for all sectors 
 
 ### 6  Fairness and ambition 
 
@@ -329,7 +345,7 @@ The Nigerian INDC does its fair share towards achieving this long-term goal. The
 
 ### 7 INDC Implementation  
 
-INDC implementation will fall under the remit of the Nigeria Climate Change Policy Response and Strategy (NCCPRS) adopted in 2012, in line with the strategic goal to foster low-carbon, high growth economic development and build a climate resilient society. Implementation will be taken forward by existing governance arrangements under the NCCPRS, with coordination being managed by the Department of Climate Change. The appropriate line ministries and agencies will carry out specific implementation activities.
+INDC implementation will fall under the remit of the *Nigeria Climate Change Policy Response and Strategy (NCCPRS)* adopted in 2012, in line with the strategic goal to foster low-carbon, high growth economic development and build a climate resilient society. Implementation will be taken forward by existing governance arrangements under the NCCPRS, with coordination being managed by the Department of Climate Change. The appropriate line ministries and agencies will carry out specific implementation activities.
 
 The implementation of the full contribution is conditional on the availability of adequate financing for investment in the mitigation actions contained therein. The INDC can provide public and private sector investors with a road map for Nigeria's development. Nigeria welcomes support for mitigation policies and measures in the form of direct investments and loans. Finance and investment can come from both public and private sources, including the Green Climate Fund and international financial institutions, such as the World Bank, IFC and AfDB. The international bilateral sources should include reliable, new and additional ODA. Contingent on agreement in Paris, it may also include financing through carbon market mechanisms. 
 
@@ -337,10 +353,10 @@ International finance and investment, technology and capacity-building will be n
 
 Specific activities to be carried out in the INDC implementation will include: 
 
-•  Review of mitigation potential identified in INDC preparation against the Strategic Framework for Voluntary Nationally Appropriate Mitigation Action). This framework was intended to enable Nigeria to develop strategic, long-term, participatory, transformational measures and comprehensive programs in driving towards a low carbon climate resilient and pro-growth and gender sensitive and sustainable development path. Implementation of the INDC crucially depends on international support for policies and measures through the NAMA framework.  
-•  Review of Nigeria's current climate finance landscape, support needs and the international funding landscape, along with an assessment of climate finance readiness and gaps. This will include possible use of funding through carbon market mechanisms subject to the detailed provisions of the Paris agreement. Gap analysis of existing data sharing and reporting structures and processes and make initial recommendations on the appropriate form and structure of a national MRV system, including completing and maintaining the national GHG inventory and assuring data quality. 
-•  Promoting public awareness and education on climate-compatible development. 
-•  Training and capacity building, including simplified user-friendly tools for analysis and further development of the LEAP model.  
+*  Review of mitigation potential identified in INDC preparation against the Strategic Framework for Voluntary Nationally Appropriate Mitigation Action). This framework was intended to enable Nigeria to develop strategic, long-term, participatory, transformational measures and comprehensive programs in driving towards a low carbon climate resilient and pro-growth and gender sensitive and sustainable development path. Implementation of the INDC crucially depends on international support for policies and measures through the NAMA framework.  
+*  Review of Nigeria's current climate finance landscape, support needs and the international funding landscape, along with an assessment of climate finance readiness and gaps. This will include possible use of funding through carbon market mechanisms subject to the detailed provisions of the Paris agreement. Gap analysis of existing data sharing and reporting structures and processes and make initial recommendations on the appropriate form and structure of a national MRV system, including completing and maintaining the national GHG inventory and assuring data quality. 
+*  Promoting public awareness and education on climate-compatible development. 
+*  Training and capacity building, including simplified user-friendly tools for analysis and further development of the LEAP model.  
 
 ### Annex 1 NASPA Sectoral strategies 
  
@@ -348,23 +364,16 @@ Specific activities to be carried out in the INDC implementation will include:
 #### A. STRATEGIES FOR AGRICULTURE (CROPS AND LIVESTOCK) 
 
 1. Adopt improved agricultural systems for both crops and livestock (for example, diversify livestock and improve range management; increase access to drought resistant crops and livestock feeds; adopt better soil management practices; and provide early warning/meteorological forecasts and related information). 
-
-2. Implement strategies for improved resource management (for example, increase 
-
-use of irrigation systems that use low amounts of water; increase rainwater & sustainable ground water harvesting for use in agriculture; increase planting of native vegetation cover & promotion of re-greening efforts; and intensify crop and livestock production in place of slash and burn). 
-
+2. Implement strategies for improved resource management (for example, increase use of irrigation systems that use low amounts of water; increase rainwater & sustainable ground water harvesting for use in agriculture; increase planting of native vegetation cover & promotion of re-greening efforts; and intensify crop and livestock production in place of slash and burn). 
 3. Focus on agricultural impacts in the savanna zones, particularly the Sahel, the areas that are likely to be most affected by the impacts of climate change. 
 
 #### B. STRATEGIES FOR FRESHWATER RESOURCES, COASTAL WATER RESOURCES AND FISHERIES 
 1.  Initiate a national programme for integrated water resource management at the 
-
 2.  Intensify programmes to survey water quality and quantity for both ground and surface 
-
 3.  Implement programmes to sustainably extend and improve water supply and water 
-
 4.  Explore water efficiency and management of water demand, particularly in Sahel and 
-
 5.  Enhance artisanal fisheries and encourage sustainable aquaculture as adaptation watershed level water management infrastructure Sudan savanna areas options for fishing communities. 
+
 #### C. STRATEGIES FOR FORESTS 
 1. Strengthen the implementation of the national Community-Based Forest Resources Management Programme. 
 2. Support review and implementation of the National Forest Policy. 
@@ -381,10 +390,6 @@ use of irrigation systems that use low amounts of water; increase rainwater & su
  
  
 #### E. STRATEGIES FOR HEALTH AND SANITATION 
-
- 
- 
- 
 
 1.  Undertake research to better understand the health impacts of climate change in Nigeria. facilities.  
 2.  Strengthen disease prevention and treatment for those diseases expected to increase as a result of climate change. 
@@ -464,7 +469,6 @@ use of irrigation systems that use low amounts of water; increase rainwater & su
 [^2]: See e.g. HBS, 2010; Abiodun, et al., 2011; Cervigni et al., 2013, Hassan et al., 2013; Oladipo 2013 a&b 
 [^3]: Cervigni et al. 2013 
 [^4]: In 2014, the Nigeria GDP was "rebased" to include a greater number of economic activities (46 compared to 33 previously). This improved coverage (including of the informal sector), the inclusion of new industries. Methodological improvements led to significant increases in the contribution of the services sector, manufacturing, construction, and water & electricity. On the other hand, value added by the agricultural and the oil & gas sectors declined notably relative to GDP. 
-
 [^5]: LEAP, the Long-range Energy Alternatives Planning System, is a widely-used software tool for energy policy analysis and climate change mitigation assessment. 
 [^6]: The emissions reference values were derived from the relevant IPCC guidelines. Cost estimates were mainly drawn from the detailed World Bank study on Low Carbon opportunities in Nigeria, with additional input from the United Nations Environment Program (UNEP) Greenhouse gas Abatement Cost Model (GACMO of 14 August 2015). 
 [^7]: Source: World Bank 

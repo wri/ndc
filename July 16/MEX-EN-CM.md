@@ -1,7 +1,7 @@
 # MÉXICO
 ## INTENDED NATIONALLY DETERMINED CONTRIBUTION
 
-Mexico is a country committed to address climate change, as demonstrated by the mitigation and adaptation actions undertaken over the last few years in a systematic way and supported mainly with national resources. In the international arena, Mexico has expressed its willingness to achieve a legally binding agreement with the participation of all Parties in order to keep the global average atmospheric temperature below 2C.
+Mexico is a country committed to address climate change, as demonstrated by the mitigation and adaptation actions undertaken over the last few years in a systematic way and supported mainly with national resources. In the international arena, Mexico has expressed its willingness to achieve a legally binding agreement with the participation of all Parties in order to keep the global average atmospheric temperature below 2°C.
 
 Since the year 2000, Mexico has published three National Strategies on Climate Change and in 2009 adopted its first Special Program on Climate Change. In addition, Mexico has presented five National Communications with their respective greenhouse gas inventories to the United Nations Framework Convention on Climate Change.
 
@@ -44,13 +44,13 @@ Emissions reduction relative to a Business As Usual baseline
 
 **Coverage:** Nation -wide
 **Scope:**
-Carbon Dioxide (CO2)
-Methane (CH4)
-Nitrous Oxide (N2O)
-Hydrofluorocarbons (HFCs)
-Perfluorocarbons (PFCs)
-Sulphur hexafluoride (SF6)
-Black Carbon
+* Carbon Dioxide (CO2)
+* Methane (CH4)
+* Nitrous Oxide (N2O)
+* Hydrofluorocarbons (HFCs)
+* Perfluorocarbons (PFCs)
+* Sulphur hexafluoride (SF6)
+* Black Carbon
 
 **Baseline:**
 Business As Usual scenario of emission projections based on economic growth in the absence of climate change policies, starting from 2013 (first year of applicability of Mexico´s General Climate Change Law)
@@ -59,7 +59,7 @@ Business As Usual scenario of emission projections based on economic growth in t
 Mexico includes an Adaptation component with commitments by 2030 described in the Annex I of this document. The priority of these actions are: the protection of communities from adverse impacts of climate change, such as extreme hydro meteorological events related to global changes in temperature; as well as the increment in the resilience of strategic infrastructure and of the ecosystems that host national biodiversity. In order to reach those priorities Mexico will, inter alia, strengthen the adaptive capacity of at least by 50% the number of municipalities in the category of "most vulnerable", establish early warning systems and risk management at every level of government and reach a rate of 0% deforestation by the year 2030. Some of the adaptation actions presented foster positive synergies with mitigation actions.
 
 **Planning Process:**
-Mexico supports its INDC in a robust national climate change policy that includes, inter alia, the following instruments:
+Mexico supports its INDC in a robust national climate change policy that includes, *inter alia*, the following instruments:
 * General Climate Change Law. 2012
 * National Strategy on Climate Change, 10-20-40 years. 2013
 * Carbon tax.2014
@@ -83,7 +83,7 @@ Further ambition is reflected in the efforts of the Government of Mexico to esta
 In summary, Mexico's INDC is highly ambitious as it entails unconditional and transformational investments to change our patterns of production and consumption and achieve peak net emissions within the commitment period.
 
 **Gender perspective:**
-These policies and actions include a cross-cutting human rights and gender perspective to be implemented to take into account women as important decision makers regarding energy consumption. They also emphasize the importance of implementing them such that they do not exacerbate the impacts of climate change that already have disproportionate adverse effects based solely on gender.
+These policies and actions include a cross-cutting human rights and gender perspective in order for the measures to be implemented to take into account women as important decision makers regarding energy consumption. They also emphasize the importance of implementing them such that they do not exacerbate the impacts of climate change that already have disproportionate adverse effects based solely on gender.
 
 ## Key Assumptions on Mitigation 
 **Metric Applied:**
@@ -91,7 +91,7 @@ GWP 100y values published in IPCC AR5 (CO2e):
 * CH4 = 28
 * N2O = 265
 
-GWP 100y for Black Carbon (CO2e) described in Bond et al. 2013, J. Geophys. Res. Atmos., 118, no. 11, 5380-5552:
+GWP 100y for Black Carbon (CO2e) described in Bond *et al*. 2013, J. Geophys. Res. Atmos., 118, no. 11, 5380-5552:
 * BC = 900
 
 **Methodologies for Estimating Emissions:**
@@ -114,7 +114,6 @@ IPCC guidelines; national statistics: sector activity and economic forecasts.
         *    Solid fuels
         *    Oil and natural gas and other emissions from energy production
         *    CO2 transport and storage
-
 * Industrial processes and product use
     * Mineral industry
     * Chemical and Iron&Steel industry
@@ -136,7 +135,6 @@ IPCC guidelines; national statistics: sector activity and economic forecasts.
     * Incineration and open burning of waste
     * Wastewater treatment and discharge
     * Other
-
  * Land Use, Land-Use Change and Forestry
      * Afforestation, reforestation
      * Deforestation
@@ -180,7 +178,6 @@ Poverty is a determining factor of social vulnerability in Mexico. Some estimate
 
 Actions to be taken in order to reduce vulnerability in this sector for the period 2020 - 2030 are the following:
 1.  Guarantee food security and water access in light of growing climate threats through integral watershed management, biodiversity and land conservation.
-                
 2. Ensure capacity building and participation of the society, local communities, indigenous peoples, women, men, youth, civil organizations and private sector in national and subnational climate change planning.
 3. Reduce the population´s vulnerability and increase its adaptive capacity through early warning systems, risk management, as well as hydrometeorological monitoring, at every level of government. 
 4. Strengthen the adaptive capacity of the population through transparent and inclusive mechanisms of social participation, designed with a gender and human rights approach. 
@@ -232,12 +229,8 @@ For Mexico, the increase of investment in disaster prevention is of utmost relev
 
 The Mexican Government has identified a series of areas where technology transfer could be of benefit of the country for adaptation, including through:
 
-* Access to information systems in order to monitor hydrometeorological events in real time and
-thus consolidate and enhance early warning systems.
-* Availability of methods and tools to assess climate impacts, vulnerability and adaptation in
-specific sectors and regions.
-* Water technologies for savings, recycling, capture, irrigation and sustainable management for
-agriculture purposes.
-* Transportation technologies that are resilient to the adverse effects of climate change in particular
-for roads and massive transportation
+* Access to information systems in order to monitor hydrometeorological events in real time and thus consolidate and enhance early warning systems.
+* Availability of methods and tools to assess climate impacts, vulnerability and adaptation in specific sectors and regions.
+* Water technologies for savings, recycling, capture, irrigation and sustainable management for agriculture purposes.
+* Transportation technologies that are resilient to the adverse effects of climate change in particular for roads and massive transportation
 * Technologies for the protection of coastal and river infrastructure.

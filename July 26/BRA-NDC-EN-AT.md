@@ -16,8 +16,7 @@ Brazil's iNDC has a broad scope including mitigation, adaptation and means of im
  
 **Contribution**:  Brazil  intends  to  commit  to  reduce  greenhouse  gas  emissions  by  37% below 2005 levels in 2025. 
 
-**Subsequent indicative contribution**: reduce  greenhouse  gas emissions by  43% below 
-2005 levels in 2030. 
+**Subsequent indicative contribution**: reduce  greenhouse  gas emissions by  43% below 2005 levels in 2030. 
  
 **Type**: absolute target in relation to a base year. 
  
@@ -25,16 +24,13 @@ Brazil's iNDC has a broad scope including mitigation, adaptation and means of im
  
 **Reference point**: 2005. 
  
-**Timeframe**:  single-year  target  for  2025;  indicative  values  for  2030  for  reference 
-purposes only. 
+**Timeframe**:  single-year  target  for  2025;  indicative  values  for  2030  for  reference purposes only. 
  
 **Metric**: 100 year Global Warming Potential (GWP-100), using IPCC AR5 values. 
 
-**Methodological  approaches,  including  those  for  estimating  and  accounting  for anthropogenic greenhouse gas emissions and, as appropriate, removals**:  inventory 
-based approach for estimating and accounting anthropogenic greenhouse gas emissions and, as appropriate, removals in accordance with the applicable IPCC guidelines.  
+**Methodological  approaches,  including  those  for  estimating  and  accounting  for anthropogenic greenhouse gas emissions and, as appropriate, removals**:  inventory based approach for estimating and accounting anthropogenic greenhouse gas emissions and, as appropriate, removals in accordance with the applicable IPCC guidelines.  
  
-This  iNDC  takes  into  account  the  role  of  conservation  units  and  indigenous  lands[^1] as 
-forest  managed  areas,  in  accordance  with  the  applicable  IPCC  guidelines  on  the estimation of emission removals.[^2] 
+This  iNDC  takes  into  account  the  role  of  conservation  units  and  indigenous  lands[^1] as forest  managed  areas,  in  accordance  with  the  applicable  IPCC  guidelines  on  the estimation of emission removals.[^2] 
  
 **Use of markets**: Brazil reserves its position in relation to the possible use of any market  mechanisms that may be established under the Paris agreement. 
  
@@ -45,7 +41,7 @@ Brazil will not recognize the use by other Parties of any units resulting from m
 ### ADAPTATION UNDERTAKINGS  
 
  Brazil considers adaptation to be a fundamental element of the global effort to tackle climate change and its effects. The implementation of policies and measures to adapt to climate change contributes to building resilience of populations, ecosystems, infrastructure and production systems, by reducing vulnerability and through the provision of ecosystem services. 
-                                                        
+
 [^1]: "Conservation units" refers here only to federal and state level protected areas; "indigenous lands" refers to areas at the minimum in the "delimited" stage in the demarcation processes. Even without the role of these managed areas, Brazil's contribution would still represent a reduction of 31% in 2025 and 37% in 2030 in relation to 2005 levels (GWP-100; IPCC AR5). 
 [^2]: Brazil's Initial National Communication, prior to the applicability of current guidelines, did not consider removals from conservation units and indigenous lands. Such an approach, however, would not be compatible with current guidelines, nor comparable to other Parties' contributions. Disregarding these removals compromised the comparability of the Brazilian initial inventory with other Parties' inventories. Brazil's Second National Communication revised this approach. 
  
@@ -78,14 +74,13 @@ Recognizing the complementary role of South-South cooperation, on the basis of s
 Brazil invites developed country Parties and relevant international organizations to further support such initiatives. 
  
 
-                                                        
+
 [^3]:  Recalling that the submission of forest reference emission levels and their corresponding REDD+ results are in the context of results-based payments, in accordance with decisions 13/CP.19 and 14/CP.19. See also documents FCCC/TAR/2014/BRA and FCCC/SBI/ICA/2015/TATR.1/BRA. 
  
 
 # FEDERATIVE REPUBLIC OF BRAZIL 
 
 ### ADDITIONAL INFORMATION ON THE INDC  
-
 ### FOR CLARIFICATION PURPOSES ONLY 
 
  Brazil's iNDC is economy wide and therefore is based on flexible pathways to achieve the 2025 and the 2030 objectives. In that sense, this additional information is meant to be for clarification purposes only. 
@@ -102,59 +97,59 @@ Brazil is nevertheless willing to further enhance its contribution towards achie
  
 By adopting an economy-wide, absolute mitigation target, Brazil will follow a more stringent modality of contribution, compared to its voluntary actions pre-2020. This contribution is consistent with emission levels of 1.3 GtCO2e (GWP-100; IPCC AR5) in 2025 and 1.2 GtCO2e (GWP-100; IPCC AR5) in 2030, corresponding, respectively, to a reduction of 37% and 43%, based on estimated emission levels of 2.1 GtCO2e (GWP- 100; IPCC AR5) in 2005. 
 
-                                                        
+
 [^4]: Brazil has 15.5 million people living below the poverty line, of which 6.2 million live in extreme poverty (2013). Source: MDS. Data Social 2.0. Available at http://aplicacoes.mds.gov.br/sagi-data/METRO/metro.php?p_id=4, accessed on 24 September 2015. 
 
 [^5]: Source: MCTI. Estimativas anuais de emissões de gases de efeito estufa no Brasil. Second edition (2014). Available at http://www.mct.gov.br/upd_blob/0235/235580.pdf, accessed on 2 September 2015.  
  
 In relation to Brazil's existing national voluntary commitment, which aims to achieve gross emissions[^6] of approximately 2 GtCO2e [^7] in 2020, this iNDC represents an additional gross reduction of approximately 19% in 2025. Furthermore, this contribution is consistent with reductions of 6% in 2025 and 16% in 2030 below 1990 levels (1.4 GtCO2e GWP-100; IPCC AR5). 
 
- Brazil's iNDC corresponds to an estimated reduction of 66% in terms of greenhouse gas emissions per unit of GDP (emissions intensity5) in 2025 and of 75% in terms of emissions intensity in 2030, both in relation to 2005.[^8] 
+ Brazil's iNDC corresponds to an estimated reduction of 66% in terms of greenhouse gas emissions per unit of GDP (emissions intensity[^8]) in 2025 and of 75% in terms of emissions intensity in 2030, both in relation to 2005.[^9] 
 
- In the period 2004-2012, Brazil's GDP increased by 32%, while emissions dropped 52% (GWP-100; IPCC AR5), delinking economic growth from emission increase over the period, while at the same time Brazil lifted more than 23 million people out of poverty.[^9] 
+ In the period 2004-2012, Brazil's GDP increased by 32%, while emissions dropped 52% (GWP-100; IPCC AR5), delinking economic growth from emission increase over the period, while at the same time Brazil lifted more than 23 million people out of poverty.[^10] 
 
  Per capita emissions decreased from 14.4 tCO2e (GWP-100; IPCC AR5) in 2004 to an estimated 6.5 tCO2e (GWP-100; IPCC AR5) in 2012. At this 2012 level, Brazil's per capita emissions are already equivalent to what some developed countries have considered fair and ambitious for their average per capita emissions by 2030. Brazil's per capita emissions will decline further to an estimated 6.2 tCO2e (GWP-100; IPCC AR5) in 2025 and 5.4 tCO2e (GWP-100; IPCC AR5) in 2030 under this contribution. 
 
-Brazil will reduce greenhouse gas emissions in the context of continued population [^10] and GDP growth, as well as income per capita increase, making therefore this contribution unequivocally very ambitious. 
+Brazil will reduce greenhouse gas emissions in the context of continued population [^11] and GDP growth, as well as income per capita increase, making therefore this contribution unequivocally very ambitious. 
  
 Brazil's mitigation actions to implement this contribution, including its current undertakings, are consistent with the 2°C temperature goal, in light of IPCC scenarios and national circumstances. 
  
-According to the IPCC [^11], global scenarios consistent with a likely chance to keep temperature change below 2°C relative to pre-industrial levels are characterized, inter alia, by: 
+According to the IPCC [^12], global scenarios consistent with a likely chance to keep temperature change below 2°C relative to pre-industrial levels are characterized, inter alia, by: 
 
 i) sustainable use of bioenergy;  
 ii) large-scale measures relating to land use change and forests; 
-
+iii) tripling  to  nearly  quadrupling  the  share  of  zero-  and  low-carbon  energy supply globally by the year 2050.  
 [^6]: Not considering removals. 
 
-[^7]: Value between 1.977 GtCO2e and 2.068 GtCO2e, which represents a reduction between 36.1% and 38.9% below the projected business as usual emissions in 2020, as established by the Decree 7,390/2010 - assuming GWP-100 (IPCC SAR) tCO2e (GWP-100; IPCC AR5)/GDP (1000 US$2005). 
+[^7]: Value between 1.977 GtCO2e and 2.068 GtCO2e, which represents a reduction between 36.1% and 38.9% below the projected business as usual emissions in 2020, as established by the Decree 7,390/2010 - assuming GWP-100 (IPCC SAR) 
 
-[^8]: Source of GDP 2005: Ipeadata. Available at http://www.ipeadata.gov.br, accessed on 2 September 2015. Source of estimated GDP 2025 and 2030: Empresa de Pesquisa Energética (EPE). Nota Técnica DEA 12/14: Cenário econômico 2050. August 2014. 
+[^8]:tCO2e (GWP-100; IPCC AR5)/GDP (1000 US$2005). 
 
-[^9]: Sources for emission reductions: MCTI (op.cit.). Source for GDP: Ipeadata (op.cit.). Source for data on poverty: MDS (op.cit.). 
+[^9]: Source of GDP 2005: Ipeadata. Available at http://www.ipeadata.gov.br, accessed on 2 September 2015. Source of estimated GDP 2025 and 2030: Empresa de Pesquisa Energética (EPE). *Nota Técnica DEA 12/14: Cenário econômico 2050*. August 2014. 
 
-[^10]: Brazil's population is projected to continue to grow until the 2040's, to approximately 230 million inhabitants. Source: IBGE. Projeção da População do Brasil por sexo e idade: 2000-2060. August 2013. Available at http://www.ibge.gov.br/home/estatistica/populacao/projecao_da_populacao/2013/default.shtm, accessed on 2 September 2015. 
+[^10]:Sources for emission reductions: MCTI (op.cit.). Source for GDP: Ipeadata (op.cit.). Source for data on poverty: MDS (op.cit.). 
 
- [^11]: IPCC, 2014: Summary for Policymakers. In: Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Edenhofer, O., R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel and J.C. Minx (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. SPM 4.1, pp. 10-12. 
+[^11]: Brazil's population is projected to continue to grow until the 2040's, to approximately 230 million inhabitants. Source: IBGE. *Projeção da População do Brasil por sexo e idade: 2000-2060*. August 2013. Available at http://www.ibge.gov.br/home/estatistica/populacao/projecao_da_populacao/2013/default.shtm, accessed on 2 September 2015. 
 
-iii) tripling  to  nearly  quadrupling  the  share  of  zero-  and  low-carbon  energy supply globally by the year 2050.  
+[^12]: IPCC, 2014: Summary for Policymakers. In: *Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change* [Edenhofer, O., R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel and J.C. Minx (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. SPM 4.1, pp. 10-12. 
 
- In this context, Brazil already has one of the largest and most successful biofuel programs to date, including cogeneration of electricity using biomass. Brazil has achieved the most impressive results of any country in reducing emissions from deforestation, mainly by reducing the deforestation rate in the Brazilian Amazonia by 82% between 2004 and 2014. Brazil's energy mix today consists of 40% of renewables (75% of renewables in its electricity supply), which amounts to three times the world average in renewables, and more than four times the OECD average. [^12] This already qualifies Brazil as a low carbon economy. 
+
+
+ In this context, Brazil already has one of the largest and most successful biofuel programs to date, including cogeneration of electricity using biomass. Brazil has achieved the most impressive results of any country in reducing emissions from deforestation, mainly by reducing the deforestation rate in the Brazilian Amazonia by 82% between 2004 and 2014. Brazil's energy mix today consists of 40% of renewables (75% of renewables in its electricity supply), which amounts to three times the world average in renewables, and more than four times the OECD average. [^13] This already qualifies Brazil as a low carbon economy. 
 
 Brazil intends to adopt further measures that are consistent with the 2°C temperature goal, in particular: 
 
 i) increasing the share of sustainable biofuels in the Brazilian energy mix to approximately 18% by 2030, by expanding biofuel consumption, increasing ethanol supply, including by increasing the share of advanced biofuels (second generation), and increasing the share of biodiesel in the diesel mix; 
 
-ii) in land use change and forests:   restoring and reforesting 12 million hectares of forests by 2030, for multiple  purposes;  
+ii) in land use change and forests:   
 
 - strengthening  and  enforcing  the  implementation  of  the Forest  Code,  at federal, state and municipal levels; 
-
 - strengthening policies and measures with a view to achieve, in the Brazilian Amazonia,  zero illegal  deforestation  by  2030  and  compensating  for greenhouse gas emissions from legal suppression of vegetation by 2030;
-
+- restoring and reforesting 12 million hectares of forests by 2030, for multiple  purposes;  
 -  enhancing sustainable native forest management systems, through georeferencing and tracking systems applicable to native forest management, with a view to curbing illegal and unsustainable practices; 
 
 
-iii) in the energy sector, achieving 45% of renewables in the energy mix by 2030, 
-including: 
+iii) in the energy sector, achieving 45% of renewables in the energy mix by 2030, including: 
 
 -  expanding the use of renewable energy sources other than hydropower in the total energy mix to between 28% and 33% by 2030; 
 -  expanding  the  use of non-fossil fuel energy sources domestically, increasing the share of renewables (other than hydropower) in the power supply to at least 23% by 2030, including by raising the share of wind, biomass and solar; 
@@ -165,8 +160,8 @@ In addition, Brazil also intends to:
  
 iv) in the agriculture sector, strengthen the Low Carbon Emission Agriculture Program (ABC) as the main strategy for sustainable agriculture development, including by restoring an additional 15 million hectares of degraded pasturelands by 2030 and enhancing 5 million hectares of integrated cropland-livestock-forestry systems (ICLFS) by 2030; 
 
-                                                        
-[^12]: Sources: EPE. Balanço Energético Nacional. Available at https://ben.epe.gov.br/, accessed on 2 September 2015. OECD (2015), Renewable energy (indicator). doi: 10.1787/aac7c3f1-en. Available at https://data.oecd.org/energy/renewable-energy.htm, accessed on 2 September 2015.  
+
+[^13]: Sources: EPE. Balanço Energético Nacional. Available at https://ben.epe.gov.br/, accessed on 2 September 2015. OECD (2015), Renewable energy (indicator). doi: 10.1787/aac7c3f1-en. Available at https://data.oecd.org/energy/renewable-energy.htm, accessed on 2 September 2015.  
  
 
 
@@ -181,17 +176,17 @@ Brazil recognizes  the  importance  of the  engagement  of local governments and
  
 ### GLOBAL TEMPERATURE POTENTIAL (GTP) METRIC 
  
-Brazil notes that, according to the IPCC, "the most appropriate metric and time horizon will depend on which aspects of climate change are considered most important to a particular application. No single metric can accurately compare all consequences of different emissions, and all have limitations and uncertainties".[^13] The IPCC also states that the Global Temperature Potential (GTP) metric is better suited to target-based policies, while the GWP metric is not directly related to a temperature limit such as the 2°C target [^14]. Taking this into account, the GTP metric is the most consistent with contributions to hold the increase in global average temperature below 2°C above pre- industrial levels. 
+Brazil notes that, according to the IPCC, "the most appropriate metric and time horizon will depend on which aspects of climate change are considered most important to a particular application. No single metric can accurately compare all consequences of different emissions, and all have limitations and uncertainties".[^14] The IPCC also states that the *Global Temperature Potential* (GTP) metric is better suited to target-based policies, while the GWP metric is not directly related to a temperature limit such as the 2°C target [^15]. Taking this into account, the GTP metric is the most consistent with contributions to hold the increase in global average temperature below 2°C above pre- industrial levels. 
  
 With a view to assuring full transparency, clarity and understanding, Brazil decided to communicate this iNDC using GWP-100 (IPCC AR5), prior to COP-21. Consistent with the 2°C temperature goal and in light of science, Brazil is providing estimates to correspond to GTP-100, with IPCC AR5 values. 
  
 Brazil's iNDC is consistent with emission levels of 1.0 GtCO2e (GTP-100; IPCC AR5) in 2025 and 0.8 GtCO2e (GTP-100; IPCC AR5) in 2030. This represents reductions of 43% and 52%, respectively, compared to estimated emission levels of 1.7 GtCO2e (GTP-100; IPCC AR5) in 2005. These reductions translate to reductions of 37% and 43% when expressed in GWP-100 (IPCC AR5). 
  
-[^13]: IPCC, 2013: Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. SPM D.2 p.15. 
+[^14]: IPCC, 2013: Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. SPM D.2 p.15. 
 
-[^14]: See Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: Anthropogenic and Natural Radiative Forcing. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. pp. 710-720. See also Stocker, T.F., D. Qin, G.-K. Plattner, L.V. Alexander, S.K. Allen, N.L. Bindoff, F.-M. Bréon, J.A. Church, U. Cubasch, S. Emori, P. Forster, P. Friedlingstein, N. Gillett, J.M. Gregory, D.L. Hartmann, E. Jansen, B. Kirtman, R. Knutti, K. Krishna Kumar, P. Lemke, J. Marotzke, V. Masson-Delmotte, G.A. Meehl, I.I. Mokhov, S. Piao, V. Ramaswamy, D. Randall, M. Rhein, M. Rojas, C. Sabine, D. Shindell, L.D. Talley, D.G. Vaughan and S.-P. Xie, 2013: Technical Summary. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. pp. 58-59. 
+[^15]: See Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: Anthropogenic and Natural Radiative Forcing. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. pp. 710-720. See also Stocker, T.F., D. Qin, G.-K. Plattner, L.V. Alexander, S.K. Allen, N.L. Bindoff, F.-M. Bréon, J.A. Church, U. Cubasch, S. Emori, P. Forster, P. Friedlingstein, N. Gillett, J.M. Gregory, D.L. Hartmann, E. Jansen, B. Kirtman, R. Knutti, K. Krishna Kumar, P. Lemke, J. Marotzke, V. Masson-Delmotte, G.A. Meehl, I.I. Mokhov, S. Piao, V. Ramaswamy, D. Randall, M. Rhein, M. Rojas, C. Sabine, D. Shindell, L.D. Talley, D.G. Vaughan and S.-P. Xie, 2013: Technical Summary. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. pp. 58-59. 
  
- The corresponding estimates on greenhouse gas emissions per unit of GDP (emissions intensity [^15]) contained in this iNDC, using GTP-100 (IPCC AR5), are as follows: 
+ The corresponding estimates on greenhouse gas emissions per unit of GDP (emissions intensity [^16]) contained in this iNDC, using GTP-100 (IPCC AR5), are as follows: 
  
 Compared to 2005, the estimated reduction in terms of emissions intensity in 2025 is 70% and in 2030 is 79%. This iNDC represents a substantial reduction of 48% in terms of emissions intensity in 2030, compared to 2012 estimates. In the period 2004-2012, Brazil's GDP increased by 32%, while emission levels dropped 61% (GTP-100; IPCC AR5). 
 
@@ -214,5 +209,5 @@ The specific and relative role of each actor's emissions to global climate chang
 Establishing the series, in all sectors, of anthropogenic greenhouse gas emissions by sources and removals by sinks allows the estimation of the relative share of total temperature increase attributable to an individual country. The relative responsibility of a given country in relation to the global mean surface temperature increase can be estimated with a high level of confidence. Hence, the marginal relative contribution to the global average surface temperature increase is a relevant measure to evaluate responsibility in the global effort to limit temperature increase to 2°C compared to pre- industrial levels. 
  
 Brazil´s mitigation efforts are of a type, scope and scale at least equivalent to the iNDCs of those developed countries most responsible for climate change. In view of the above, and based on available tools, it is evident that Brazil's iNDC, while consistent with its national circumstances and capabilities, is far more ambitious than what would correspond to Brazil´s marginal relative responsibility for the global average temperature increase. 
-[^15]: tCO2e (GTP-100; IPCC AR5)/GDP (1000 US$2005)
+[^16]: tCO2e (GTP-100; IPCC AR5)/GDP (1000 US$2005)
  

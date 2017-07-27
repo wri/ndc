@@ -1,9 +1,7 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
-
 # Federated States of Micronesia 
 # Intended Nationally Determined Contribution 
 
->**Type of INDC:** The Federated States of Micronesia (FSM) commits to reduce GHGs emission in percentage terms on a base year target. 
+**Type of INDC:** The Federated States of Micronesia (FSM) commits to reduce GHGs emission in percentage terms on a base year target. 
 
 ### The INDC
 **Unconditional:** The FSM commits to unconditionally reduce by 2025 a 28% its GHGs emissions below emissions in year 2000.
@@ -23,7 +21,7 @@
 **Target year:** 2025
 
 **Scope and coverage:**
-* Gases: Carbon Dioxide (CO2)
+* Gases: Carbon dioxide (CO2)
 * Sectors: Energy sector: electricity generation and transport subsectors 
 * Percentage of total greenhouse gas emissions covered: Relative to the year 2000 inventory, electricity generation accounts for 42% of the total CO2e emissions, accounting for 64,000 tCO2e; meanwhile transport accounts for 38% of total CO2e emissions, accounting for 57,000 tCO2e, as it is shown in the figure below: 
 ![Figure 3: Relative Emissions](./FSM-3.PNG) 
@@ -35,13 +33,13 @@ This INDC was developed through a stakeholder consultation process involving rep
 
 *Assumptions and methodological approaches* 
 
-| GWPs used | Global Warming Potential on a 100 year timescale in accordance with the IPCCs 4th Assessment Report |
+| GWPs used | Global Warming Potential on a 100 year timescale in accordance with the IPCCs 4th Assessment Report. |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Inventory methodology | The FSM GHG inventory for year 2000 contained in the Second National Communication utilized the revised 1996 IPCC Guidelines |
+| Inventory methodology | The FSM GHG inventory for year 2000 contained in the Second National Communication utilized the revised 1996 IPCC Guidelines. |
 | Land sector emissions | N/A |
 | International market mechanisms | FSM does not intend to use international market mechanisms. |
 | Baseline |  BAU scenarios for the electricity generation and transport sub-sectors were developed using the tool ‘Long-range Energy Alternative Planning System’ (LEAP). The following data was used in the LEAP model:  Current electricity rate: International Renewable Energy Agency (IRENA) Report (2011)  Historical electricity use: - 1998 data from the 1999 National Energy Policy of FSM -2011 kWh sectoral data from Pacific Power Association 2012 -2010-2013 kWh sectoral sales data calculated from Yap 2012 and 2013 YSPC Annual Report -2009 kWh sectoral sales data calculated from the 2009 KUA Annual Report |
-| Mitigation Effects | Individual assumptions were made for the mitigation scenarios. These can be found in the technical report ‘Electricity Sector Analysis for Federated States of Micronesia’s Intended Nationally Determined Contribution’ prepared by NREL. |
+| Mitigation effects | Individual assumptions were made for the mitigation scenarios. These can be found in the technical report ‘Electricity Sector Analysis for Federated States of Micronesia’s Intended Nationally Determined Contribution’ prepared by NREL. |
 
 #### Fairness and Ambition 
 

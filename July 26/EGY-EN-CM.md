@@ -18,7 +18,7 @@ Measures determined and intended to be applied by the country to face climate ch
 
 *Summary of Intended Nationally Determined Contributions are presented in the following sections.*
 
-### NATIONAL CIRCUMSTANCES
+### 2. NATIONAL CIRCUMSTANCES
 The Egyptian environment is influenced by many national, regional, and global factors. National factors include, but are not limited to, the following:
 
 #### 2.1 Population Growth
@@ -44,7 +44,7 @@ The Economic and Social Development Plan for FY 2015/2016 aims at increasing the
 In light of the current global trend towards the adoption of post-2015 sustainable development goals, Egypt has developed the "Sustainable Development Strategy; Egypt's Vision 2030" which serves as a roadmap for the country to achieve its desired sustainable development goals during the next 15 years. This strategy promotes the optimum use of available resources, enhancement of Egypt's competitiveness and revival of its historic leading role in the region. Moreover, such strategy aims at fulfilling the aspirations of the Egyptian people regarding their right to a decent standard of living. The goals outlined in the strategy are in line with the global sustainable development goals (SDGs).
 
 #### 2.3 National Objectives and Priorities
-* Create an enabling and favorable environment for local and foreign private investment, redistribute in a manner, which ensures geographical balance, develop the State's administrative apparatus and fight corruption.
+* Create an enabling and favorable environment for local and foreign private investment, redistribute investments in a manner, which ensures geographical balance, develop the State's administrative apparatus and fight corruption.
 * Improve the living standards of citizens, empower the youth through the provision of decent and productive job opportunities and build their skills in order to keep up with the demands of the competitive labor market.
 * Create an enabling infrastructure for the development of Micro, Small and Medium Enterprises (MSME) and provide substantial support to vocational education and training.
 * Focus efforts on controlling population growth. 
@@ -82,11 +82,11 @@ In light of the current global trend towards the adoption of post-2015 sustainab
 * Upon assuming office, President Abdel Fattah El-Sisi announced a wide range of projects and reform plans. During Egypt Economic Development Conference (EEDC) that was held 13-15 March 2015, the Government launched its economic reform program designed to restore fiscal stability, drive growth rates, and attract domestic and international investors in key sectors.
 * Egypt has witnessed significant improvement in a number of social indicators over the past two decades. However, Egypt still seeks to increase human development rates. Children death rates and malnutrition cases have been reduced by 50%.In the meantime, life expectancy has risen from 64 to 71 years during the same period.
 
-### NATIONAL EFFORTS in ADAPTATION AND MITIGATION
+### 3. NATIONAL EFFORTS in ADAPTATION AND MITIGATION
 
 #### 3.1 Egypt's Adaptation Efforts
 
-#### 3.1.1 Adaptation Challenges (Climate Change Risks)
+##### 3.1.1 Adaptation Challenges (Climate Change Risks)
 
 The vulnerability of Egypt's water resources to climate change depends on Nile flows, rainfall, and ground water.
 
@@ -94,7 +94,7 @@ The vulnerability of Egypt's water resources to climate change depends on Nile f
 
 In terms of livestock production, current evidence shows that temperature rise leads to harmful heat stress, which negatively impacts livestock productivity. New animal diseases have emerged in Egypt, which have strong negative impacts on livestock production. These include bluetongue disease and rift valley fever, which are both attributed to significant changes in the Egyptian climate.
 
-Climate change increase seawater temperature, shifting fish distributions northwards to live in deeper waters. In addition, increased water salinity in the coastal lakes in Egypt is expected to negatively affect fish species.
+Climate change is expected to increase seawater temperature, shifting fish distributions northwards to live in deeper waters. In addition, increased water salinity in the coastal lakes in Egypt is expected to negatively affect fish species.
 
 ***Coastal zones*** are expected to suffer from climate change direct impacts. These include sea level rise and the overflow of low-level land. Estimations indicate that sea level rise by 50 cm leads to serious impacts on low-level lands in Delta and adjacent highly populated cities such as Alexandria and Port Said. Consequently, this will result in a more significant challenge, which is the migration of people from the affected areas to other areas, thus affecting the efficiency of different services and increasing the financial cost required for their development.
 
@@ -108,9 +108,9 @@ In addition, one of the most significant potential negative impacts of climate c
 
 ***In the energy sector***, the increase in temperature negatively affects the efficiency of conventional power plants and photovoltaic cells. Moreover, the sea level rise threatens the electric power plants and networks located along the coasts. Also, the negative impact of climate change on rainfall rates and rain distribution across different regions negatively affects power generation from hydropower plants. This, of course, is in addition to the increased electricity consumption rates as a result of the use of air conditioners.
 
-#### 3.1.2 Egypt's Intended Actions to Promote Resilience
+##### 3.1.2 Egypt's Intended Actions to Promote Resilience
 
-#### a. Water Resources
+**a. Water Resources**
 
 Several measures are currently being considered to adapt to decreasing water resources or increasing Nile flows. These primarily include:
 * Maintaining water level in Lake Nasser
@@ -126,21 +126,21 @@ Several measures are currently being considered to adapt to decreasing water res
 
 In addition, public awareness is being raised on the need for rationalizing water use, enhancing precipitation measurement networks in upstream countries of the Nile Basin, encouraging data exchange between Nile Basin countries, and developing Circulation Models to predict the impact of climate change on local and regional water resources.
 
-#### b. Agricultural Security
+**b. Agricultural Security**
 
 Changing sowing dates and good management practices are among the important adaptation measures oriented to mitigate climate change. Changing cultivars to those that are more tolerant to heat, salinity and pests, and changing crop pattern are the most promising adaptation measures at the national level. Moreover, using different multi-level combinations of improved surface irrigation systems and applying deficit irrigation are successful means of increasing surface irrigation system capacity in traditional lands to overcome the negative impacts of climate change.
 
 Concerning livestock, improving the current low productivity of cattle in addition to improving feeding programs are being considered. No clear adaptation options are defined for fishery wealth.
 
 There is a dire need for further studies on the impacts and adaptation to climate change in the agricultural sector in order to develop an adaptation strategy, which overcomes the barriers to implementing adaptation measures. These barriers include limited scientific information and strategic visions, and lack of financial support. 
-#### c. Coastal Zones
+**c. Coastal Zones**
 
 Adaptation options for coastal zones are highly site-dependent. However, changes in land use, integrated coastal zone management, and proactive planning for protecting coastal zones are necessary adaptation policies. Providing job opportunities in safe areas (in locations that are not impacted by climate change) is an important priority to successfully absorb affected population.
 
-#### d. Additional Adaptation Policies and Measures
+**d. Additional Adaptation Policies and Measures**
 
 Egyptian authorities are currently focusing on the following additional policies and procedures:
-* Build institutional capacities of comprehensive collection and analysis of monitoring and observations and geographic data;
+* Building institutional capacities of comprehensive collection and analysis of monitoring and observations and geographic data;
 * Identifying indicators and conducting full assessment of vulnerable sectors and stakeholders;
 * Enforcing environmental regulations;
 * Identifying and applying protection measures of vulnerable touristic and archaeological sites and roads against extreme natural phenomena such as floods, dust storms and extreme weather conditions;
@@ -149,7 +149,7 @@ Egyptian authorities are currently focusing on the following additional policies
 * Risk reduction; and
 * Increasing awareness of stakeholders for energy and water utilization
 
-#### 3.1.3 Adaptation Action Packages
+##### 3.1.3 Adaptation Action Packages
 
 ***Coastal Zones:***
 
@@ -168,18 +168,15 @@ Egyptian authorities are currently focusing on the following additional policies
 2. Activate genetic diversity of plant species with maximum productivity.
 3. Achieve biological diversity of all livestock, fishery, and poultry elements to protect them and ensure food security.
 4. Develop agro-economic systems and new structures to manage crops, fisheries and animal production, which are resilient to climate changes.
-5. Increase the efficiency of irrigation water use, while maintaining crop productivity and
+5. Increase the efficiency of irrigation water use, while maintaining crop productivity and protecting land from degradation.
 6. Review of new and existing land use policies and agricultural expansion programs to take into account possibilities of land degradation in Delta and other affected areas resulting from Mediterranean Sea level rise.
 7. Develop systems, programs and policies to protect rural community and support its adaptive capacity to the expected trend in land use change, plant and animal production, and internal migration due to climate change.
 
 ***Health Sector:***
 
 1. Identify potential health risks as a result of climate change.
-
 2. Raise community awareness about climate change risks and means of adaptation.
-
 3. Increase the efficiency of healthcare sector and improve the quality of health services in dealing with climate change.
-
 4. Support Ministry of Health efforts to improve the social and economic status and population characteristics. 
 
 ***Rural Areas, Population, and Roads***
@@ -189,17 +186,11 @@ Egyptian authorities are currently focusing on the following additional policies
 ***Tourism Sector***
 
 1. Reduce climate change risks in touristic areas.
-
 2. Engage users in supporting the proposed strategy.
-
 3. Support periodical monitoring and observations systems and follow-up bodies.
-
 4. Raise environmental awareness.
-
 5. Cooperate with international bodies.
-
 6. Incorporate disaster risks within the plans to promote sustainable tourism in Egypt.
-
 7. Capacity building of local communities in touristic areas.
 
 ***Energy Sector***
@@ -210,9 +201,9 @@ Egyptian authorities are currently focusing on the following additional policies
 
 3. Support research and technological development to enable the electricity sector to deal properly with climate change.
 
-### 3.2 Mitigation Policies and Measures
+#### 3.2 Mitigation Policies and Measures
 
-#### 3.2.1 Mitigation Policies
+##### 3.2.1 Mitigation Policies
 
 The key for Egypt to mitigate GHGs emissions is to provide appropriate foundations for the development of low carbon energy systems.
 
@@ -254,39 +245,39 @@ The two following tables present the most important mitigation actions across di
 | Sector                     | Mitigation Measure                            |
 |----------------------------|-----------------------------------------------|
 | Industry                   | Energy Efficiency Improvements                |
-| Industry                   | Utilization of solar energy for water heating |
+|          | Utilization of solar energy for water heating |
 | Transportation             | Energy efficiency improvements                |
 | Transportation /Passengers | Increase Share of Railways Pass. Transport    |
-| Transportation /Passengers | Increase Share of Buses Pass. Transport       |
-| Transportation /Passengers | Increase Share of Microbuses Pass. Transport  |
-| Transportation /Passengers | Increase Share of River Pass. Transport       |
-| Transportation /Passengers | Cairo metro (Line 3 phase 3& 4 + Line 4)      |
+|  | Increase Share of Buses Pass. Transport       |
+|  | Increase Share of Microbuses Pass. Transport  |
+|  | Increase Share of River Pass. Transport       |
+|  | Cairo metro (Line 3 phase 3& 4 + Line 4)      |
 | Transportation/Freight     | Improve road transport efficiency             |
-| Transportation/Freight     | Switch from road to river transport           |
-| Transportation/Freight     | Switch from road to rail transport            |
+| | Switch from road to river transport           |
+|   | Switch from road to rail transport            |
 | Agriculture                | Energy efficiency improvements                |
 | Res. & Comm.               | Energy efficiency improvements                |
-| Res. & Comm.               | Utilization of solar energy for water heating |
+|   | Utilization of solar energy for water heating |
 | Electricity                | Energy efficiency improvements                |
-| Electricity                | Nuclear energy use for power generation       |
-| Electricity                | Renewable energy use for power generation     |
+|   | Nuclear energy use for power generation       |
+|   | Renewable energy use for power generation     |
 | Petroleum                  | Energy Efficiency improvements                |
 
 ***Table 3. GHGs Emissions Reduction Actions in Non-Energy Sectors*** 
 | Sector               | Mitigation Measure                                                                                                          |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Agriculture          | Enteric fermentation                                                                                                        |
-| Agriculture          | Manure management                                                                                                           |
-| Agriculture          | Rice cultivation                                                                                                            |
-| Agriculture          | Agricultural Soils                                                                                                          |
-| Agriculture          | Field burning of agricultural residues                                                                                      |
+|   | Manure management                                                                                                           |
+|   | Rice cultivation                                                                                                            |
+|  | Agricultural Soils                                                                                                          |
+|    | Field burning of agricultural residues                                                                                      |
 | Waste                | Solid waste                                                                                                                 |
-| Waste                | Wastewater                                                                                                                  |
-| Waste                | Incineration                                                                                                                |
+| | Wastewater                                                                                                                  |
+|  | Incineration                                                                                                                |
 | Industrial Processes | Encourage waste management and recycling                                                                                    |
-| Industrial Processes | Optimize the production of cement, lime, iron and steel, ammonia not used in urea, nitrogenous fertilizers and nitric acid. |
-| Oil and Natural Gas  | Production and processing                                                                                                   |
-| Oil and Natural Gas  | Venting and flaring (waste heat)                                                                                            |
+| | Optimize the production of cement, lime, iron and steel, ammonia not used in urea, nitrogenous fertilizers and nitric acid. |
+| Oil and Natural Gas  | Production and processing        |
+|   | Venting and flaring (waste heat)                                                                                            |
 ### 4. NEW MARKET MECHANISMS
 A national market for carbon trading may be established. This national market may further be developed into a regional market, which can attracting foreign direct investment in national carbon credit transactions, especially in the Arab and African region.
 

@@ -30,9 +30,9 @@ The selection of sectors prioritized in the INDC was premised not only on the se
 
 As per 2006 IPCC Guidelines for the preparation of National GHG Inventories, the main sectors contributing to GHG emissions in Malawi are energy, industrial processes and product use (IPPU), agriculture, forestry and other land use (AFOLU), and waste. 
  
-![Figure 1 : Sectoral emissions in 2015](./AAA-1.PNG)
+![Figure 1 : Sectoral emissions in 2015](./MWI-1.PNG)
  
-![Figure 2 : Sectoral emissions in 2040 ](./AAA-1.PNG)
+![Figure 2 : Sectoral emissions in 2040 ](./MWI-1.PNG)
 
 
 Between 2015 and 2040, total annual GHG emissions are expected to increase from the current level of approximately 29,000 Gg CO2 equivalents to in the range of 42,000 Gg CO2 equivalents, an approximately 38% rise. However, there is at present significant uncertainty about future emissions, particularly beyond the year 2020. While some of these uncertainties pertain mainly to endogenous economic and political factors, as a least-developed country the pace and scope of future emissions growth and the nation's overall pursuit of low-emissions development will also hinge on the provision of international capacity building, technology transfer and financial assistance. The Government of Malawi is working with development partners to improve climate change related data management systems. Estimates suggest that between 14,000 and 16,000 Gg of CO2 equivalent will be saved per year by 2030 if a robust low emission development path is adopted. 
@@ -156,8 +156,9 @@ Droughts pose a major threat to wildlife in terms of availability of forage and 
 Table 2: Adaptation actions 
 Key:  Unconditional (UC) Capacity Requirements (CR), Technology Requirements (TR) and Finance Requirements (FR) 
 
-| Sectors | Intended policy based action | Provision of implementation means UC | CR | TR | FR |
+| Sectors | Intended policy based action | Provision of implementation means|  |  |  |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|----|----|----|
+|  |  | UC | CR | TR | FR |
 | Agriculture | Increase irrigation at smallholder level | x |  |  |  |
 |  | Increase land under irrigation through Greenbelt initiative from 20000 to 40000 ha | x |  |  |  |
 |  | Expanded programmes of Greenbelt intiative from 40000 ha to 10000 ha by 2030 |  | x | x | x |
@@ -226,7 +227,7 @@ The preparation of Malawi's INDC was conducted with government's full commitment
 ### 6 Other implementation considerations  
  
 #### 6.1 Assumptions 
-The implementation of mitigation and adaptation actions indicated as "with requirements" will require availability of financial resources, technology development and transfer, and capacity building from the inernational community. The Government of Malawi is willing to implement some of the adaptation and mitigation actions indicated as ̔unconditional' by pulling resources from domestic sources. Development partners and other stakeholders at the national level are invited and requested to provide the required support to ensure that the recommended projects are implemented. For this to happen, the outcome of the United Nations Climate Change Conference in December 2015 in Paris, France is expected to be in full conformity with equity and common but differentiated responsibilities; and the contributions forthcoming from developed country Parties relating to mitigation and adaptation will be in a balanced manner, in the context of a global and comprehensive agreement for the period beyond 2020. The economic development landscape in the country will also be key in determining the implementaion of the mitigation and adaptation actions proposed. 
+The implementation of mitigation and adaptation actions indicated as "with *requirements*" will require availability of financial resources, technology development and transfer, and capacity building from the inernational community. The Government of Malawi is willing to implement some of the adaptation and mitigation actions indicated as ̔unconditional' by pulling resources from domestic sources. Development partners and other stakeholders at the national level are invited and requested to provide the required support to ensure that the recommended projects are implemented. For this to happen, the outcome of the United Nations Climate Change Conference in December 2015 in Paris, France is expected to be in full conformity with equity and common but differentiated responsibilities; and the contributions forthcoming from developed country Parties relating to mitigation and adaptation will be in a balanced manner, in the context of a global and comprehensive agreement for the period beyond 2020. The economic development landscape in the country will also be key in determining the implementaion of the mitigation and adaptation actions proposed. 
  
 #### 6.2 Human rights and Gender 
 

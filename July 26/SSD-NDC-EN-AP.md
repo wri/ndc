@@ -57,21 +57,18 @@
  14. South Sudan aims to undertake the policies and actions in following sectors: energy generation and use; Land Use and Land use Change; and Transport, to address its future emissions that are likely to result from growth strategies. These efforts are contingent on availability of technical assistance to develop the necessary regulations, policies, and standards as well as financial support for investing in low carbon options. 
 
 15. Energy generation and Energy Use: 
-
 i. Increase the use of clean and carbon-neutral energy: 
 ii. Construction of a hydroelectricity plant at the Fulla rapids.  
 iii. Increase the use country's high potential for solar and wind energy to meet energy demand. 
-iv. Increase  the  efficiency  of  biomass  use  (particularly  fuel  wood  and charcoal) in the traditional energy sector.  
+iv. Increase  the  efficiency  of  biomass  use  (particularly  fuel  wood  and charcoal) in the traditional energy sector.
 v. Increase  efficiency  of  electricity  usage  in  the  formal  energy  sector and ensuring the best use of hydropower by careful management of the water resources.  
 
  
 16. Reforestation and Deforestation: 
-
 i. With its abundant natural forests, South Sudan aims to declare approximately 20% of its natural forests as reserve forests to protect it from deforestation. 
 ii. It also aims on an ambitious reforestation and afforestation project to plant 20 million trees over a period of ten years (2 million trees in each of its 10 states) as outlined in the National Environmental Policy. This will contribute towards restoring watershed and water catchment areas during the post-2020 period as well as sequestering carbon and reducing emissions from deforestation and forest degradation. 
 
 17. Transport Sector: 
-
 i. Establish emissions standards for vehicles 
 ii. Establish exhaust testing centers and cars that fail the tests by emitting fumes above allowable emissions levels will be subjected to mandatory repairs or scrapped. 
 iii. Consider measures to restrict importation of vehicles that do not adhere to allowable emissions levels. 
@@ -114,9 +111,6 @@ iii. Consider measures to restrict importation of vehicles that do not adhere to
 
  
 26. Actions to reduce vulnerability of the population to climate induced hazards are the following: 
-
-
-
 i. Enhance access to water in light of growing climate threats through integrated watershed management, wetland management and improved waste management. 
 ii. Enhance food security under a changing climate through the introduction of climate-smart agricultural techniques and irrigated agriculture. 
 iii. Ensure capacity building and participation of the society, local communities, indigenous peoples, women, men, youth, civil organizations and private sector in national and subnational climate change planning. 
@@ -139,7 +133,6 @@ ix. Create buffer zones and relocate vulnerable communities away from flood-pron
 30. Given the reliance of the majority of the population on forest resources, adaptation priorities in this sector include supporting forest governance, reducing over reliance on forest products by providing alternative income- generating activities and encouraging planting of climate-resilient tree species. This will be further supported by the development of mechanisms to ensure equitable sharing of benefits accrued from the forest resources. 
 
 31. Actions for the sector: 
-
 i. Promote agro-forestry practices as a way of diversifying land production systems and promoting alternative livelihood options. 
 ii. Promote afforestation of degraded landscapes/watersheds using multi- use forest species to increase community safety-nets and diversify livelihoods. 
 iii. Develop forest reserves and management plans to protect watersheds and improve future water availability. 
@@ -158,7 +151,6 @@ x. Introduce an integrated natural resource management approach.
 33. To address potential impacts related to damages to infrastructure, South Sudan will invest in making existing and new buildings more climate resilient. This will be achieved through inter alia ensuring that land-­‐use plans and building codes reflect the expected impacts of climate change and the need to make public and private buildings more climate-­‐resilient. 
  
 34. Actions for infrastructure: 
-
 i. Improve urban and industrial waste water treatment, ensuring quantity and good quality of water in human settlements. 
 ii. Incorporate adaptation criteria investment projects, for public particularly those to be carried out under the Comprehensive Agriculture Development Plan and the Irrigation Development Master Plan. 
 iii. Ensure  that  land-use  plans  and  building  codes  reflect  the  expected impacts of climate change. 
@@ -185,9 +177,7 @@ v. Transportation technologies that are resilient to the adverse effects of clim
  
 39. Capacity building of this nature would require cooperation between developed countries and developing countries as well as south-south cooperation. This international support would facilitate the development of South Sudan's own technologies as well as enable technology transfer and innovation to increase adaptive capacity within the country. 
 
- 40. Capacity-building priorities relate largely to planning and implementation of climate change actions at all levels, i.e. national, state and local/community. This needs to involve inter alia government officials, private sector agents, civil society, NGOs and local communities. Capacity needs across all levels include: 
-
-
+ 40. Capacity-building priorities relate largely to planning and implementation of climate change actions at all levels, i.e. national, state and local/community. This needs to involve *inter alia* government officials, private sector agents, civil society, NGOs and local communities. Capacity needs across all levels include: 
 i.  Conducting  vulnerability  assessments  and  identifying  climate  risks and adaptation options. 
 ii.  Mainstreaming  climate  change  into  policies,  strategies  and  action plans. 
 iii.  Developing and implementing community-based adaptation plans. 
@@ -208,7 +198,7 @@ vii.  Collecting, analyzing and applying hydro-meteorological and climate data f
 
 ### Implementation  arrangements,  including  monitoring  and  reporting progress 
  
-44. Planning Processes: The INDC was developed through a consultative process. line ministries, NGOs, Stakeholders from various institutions, including academia and civil society, attended a series of national workshops in Juba to discuss and develop the INDC. The process was led by the Ministry of Environment. 
+44. Planning Processes: The INDC was developed through a consultative process. Stakeholders from various institutions, including line ministries, NGOs, academia and civil society, attended a series of national workshops in Juba to discuss and develop the INDC. The process was led by the Ministry of Environment. 
 
 
 

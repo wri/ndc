@@ -40,26 +40,23 @@ Nitrogen trifluoride (NF3)
 30% emission reduction by 2030 compared to the 1990 
 **Sectors covered** 
 Sectors included are:  
-Energy 
-- Fuel Combustion 
-- Fugitive emissions from fuels 
-- CO2 transport and storage 
-
-Industrial processes 
-- Mineral industry 
-- Chemical industry 
-- Metal industry 
-- Non-energy products from fuels and solvent use 
-- Electronic industry 
-- Product uses as substitutes for ODS 
-- Other Product Manufacture and Use 
-- Other 
-
-Agriculture 
-- Livestock 
-- Aggregate sources and non-CO2 emissions sources on  land 
-
-Waste 
+- Energy 
+    - Fuel Combustion 
+    - Fugitive emissions from fuels 
+    - CO2 transport and storage 
+- Industrial processes 
+    - Mineral industry 
+    - Chemical industry 
+    - Metal industry 
+    - Non-energy products from fuels and solvent use 
+    - Electronic industry 
+    - Product uses as substitutes for ODS 
+    - Other Product Manufacture and Use 
+    - Other 
+- Agriculture 
+    - Livestock 
+    - Aggregate sources and non-CO2 emissions sources on  land 
+- Waste 
 
 **Planning process**
 
@@ -82,7 +79,7 @@ Montenegro is a non-Annex I country, highly vulnerable to the effects of the cli
 
 **Means of implementation**
 
-The National Climate Change Strategy will be the main planning tool along with its action plans implementation of Montenegro's intended nationally determined contribution until 2030. The Energy Development Strategy of Montenegro by 2030 also takes into consideration climate change as one of its six objectives and the INDC is developed in line with the trends foreseen for the energy sector development of Montenegro. Montenegro is in the process of accession to the European Union which involves the gradual transposition and implementation of the European Union's climate and energy legislation. 
+The National Climate Change Strategy will be the main planning tool along with its action plans for the implementation of Montenegro's intended nationally determined contribution until 2030. The Energy Development Strategy of Montenegro by 2030 also takes into consideration climate change as one of its six objectives and the INDC is developed in line with the trends foreseen for the energy sector development of Montenegro. Montenegro is in the process of accession to the European Union which involves the gradual transposition and implementation of the European Union's climate and energy legislation. 
 
 #### Key Assumptions
 **Metric Applied** 

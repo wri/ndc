@@ -18,7 +18,7 @@ The indicator of growth stabilization or beginning of reducing emissions by 2030
 
 Turkmenistan is taking significant measures to address climate change. Primarily, this is carried out in the context of implementation of the National Strategy for socio-economic development up to 2030 and in conjunction with accelerated formation of resource-saving and environmentally friendly society and innovation-oriented economy and the National Strategy of Turkmenistan on Climate Change representing the national doctrine of transition to the low- carbon development. 
 
-Turkmenistan is one of the most vulnerable countries to climate change in Central Asia. Since the beginning of the 1950s, the average growth of the temperature in Turkmenistan was about 0.2оС for a decade. According to the forecast data, under unfavorable climate change the country may experience shortage of water resources, increased desertification and land degradation, drought and increase in number of hazards leading to instability of agricultural production and threatening food security and social well-being of the population. Considering the above, the section "Adaptation" has been included in INDC Turkmenistan coupled with the section "Mitigation". 
+Turkmenistan is one of the most vulnerable countries to climate change in Central Asia. Since the beginning of the 1950s, the average growth of the temperature in Turkmenistan was about 0.2°С for a decade. According to the forecast data, under unfavorable climate change the country may experience shortage of water resources, increased desertification and land degradation, drought and increase in number of hazards leading to instability of agricultural production and threatening food security and social well-being of the population. Considering the above, the section "Adaptation" has been included in INDC Turkmenistan coupled with the section "Mitigation". 
  
 
  
@@ -52,13 +52,9 @@ Turkmenistan has adopted the National Strategy on Climate Change. National Plans
 Methodological approaches are based on using the following techniques: 
 
 1. Revised Guidelines for National Greenhouse Gas Inventories. // IPCC Workbook. V.2. 1996 
-
 2. Revised Guidelines for National Greenhouse Gas Inventories. // The IPCC Reference Manual. V.3. 1996 
-
 3. Guide to  Good Practice  and accounting factors of uncertainty in national  greenhouse gas inventories. IPCC, 2000 
-
 4. Good Practice Guidance for Land Use, Land-Use Change and Forestry. IPCC 2003 
-
 5. The IPCC Guidelines for National Greenhouse Gas Inventories, 2006 Global warming potentials (GWP) adopted by the UNFCCC will be applied. 
 
  
@@ -88,8 +84,10 @@ According to forecasts, by 2030 greenhouse gas emissions will increase 4 times c
 Thus, according to preliminary assessments, a significant increase in the rate of emissions particularly in 2020 are not observed and the faster growth of energy efficiency contributes to lower GHG emissions and improving quality indicators, such as the emission intensity and carbon intensity. 
 
  
-![Figure 1 : Dynamics of actual (2000-2012) and forecast (2014-2030) economic indicators and greenhouse gas emissions ](./AAA-1.PNG)
- 
+![Figure 1 : Dynamics of actual (2000-2012) and forecast (2014-2030) economic indicators and greenhouse gas emissions ](./TKM-1.PNG)
+Fig.1. Dynamics of actual (2000-2012) and forecast (2014-2030) economic indicators and greenhouse gas emissions
+
+
 The baseline scenario of economic development ensures sustainable average annual growth of the economy for the period of 2015 - 2030. During this period, the growth rate of GHG emissions will be far behind on the rate of GDP growth. Thereupon the energy intensity and carbon intensity of the economy, as well as the intensity of the GHG emissions will be reduced. So it can be noted that the growth rate of GHG emissions will significantly lag behind the GDP growth. Such a result would be achieved by the country at the expense of its own financial resources and require limited support from the developed countries to carry out preparatory work for developing legislative and regulatory documents and plans, as well as for implementation of actions to improve institutional, administrative and expertise potential on problems for reducing emissions. If financial and technological support is provided by developed countries, Turkmenistan could achieve zero growth in emissions and even reduce them up to 2030. 
 
  

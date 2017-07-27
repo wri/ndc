@@ -1,0 +1,72 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
+
+# Federated States of Micronesia 
+# Intended Nationally Determined Contribution 
+
+>**Type of INDC:** The Federated States of Micronesia (FSM) commits to reduce GHGs emission in percentage terms on a base year target. 
+
+### The INDC
+**Unconditional:** The FSM commits to unconditionally reduce by 2025 a 28% its GHGs emissions below emissions in year 2000.
+**Conditional:** Similarly, subject to the availability of additional financial, technical and capacity building support from the international community, the FSM could do by 2025 an additional reduction up to 35% below emissions in the 2000 base year. 
+
+### Information to facilitate clarity, transparency and understanding 
+
+**Type:** Sectoral Targets
+
+**Reference year or period:** 
+* Total GHG emissions for year 2000 in FSM were 150,000 tCO2e. 
+* Emission reductions expected from the unconditional INDC are expected to be 28% below emissions in year 2000, at a level of 108,000 tCO2e approximately, as it is shown in the graph below: 
+![Figure 1: Unconditional INDC](./FSM-1.PNG)
+* Emission reductions expected from the conditional INDC are expected to be 35% below emissions in year 2000 projections, at a level of 94,000 tCO2e approximately. 
+![Figure 2: Conditional INDC](./FSM-2.PNG)
+
+**Target year:** 2025
+
+**Scope and coverage:**
+* Gases: Carbon Dioxide (CO2)
+* Sectors: Energy sector: electricity generation and transport subsectors 
+* Percentage of total greenhouse gas emissions covered: Relative to the year 2000 inventory, electricity generation accounts for 42% of the total CO2e emissions, accounting for 64,000 tCO2e; meanwhile transport accounts for 38% of total CO2e emissions, accounting for 57,000 tCO2e, as it is shown in the figure below: 
+![Figure 3: Relative Emissions](./FSM-3.PNG) 
+Thus, the INDC covers 80% of FSM's GHGs emissions. 
+
+### General information 
+*Planning processes*
+This INDC was developed through a stakeholder consultation process involving representatives of the National Government, the four FSM State Governments, Agencies and representatives from the private sector, civil society and non- government organizations. It builds upon existing renewable energy and transport targets and policies. 
+
+*Assumptions and methodological approaches* 
+
+| GWPs used | Global Warming Potential on a 100 year timescale in accordance with the IPCCs 4th Assessment Report |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inventory methodology | The FSM GHG inventory for year 2000 contained in the Second National Communication utilized the revised 1996 IPCC Guidelines |
+| Land sector emissions | N/A |
+| International market mechanisms | FSM does not intend to use international market mechanisms. |
+| Baseline |  BAU scenarios for the electricity generation and transport sub-sectors were developed using the tool ‘Long-range Energy Alternative Planning System’ (LEAP). The following data was used in the LEAP model:  Current electricity rate: International Renewable Energy Agency (IRENA) Report (2011)  Historical electricity use: - 1998 data from the 1999 National Energy Policy of FSM -2011 kWh sectoral data from Pacific Power Association 2012 -2010-2013 kWh sectoral sales data calculated from Yap 2012 and 2013 YSPC Annual Report -2009 kWh sectoral sales data calculated from the 2009 KUA Annual Report |
+| Mitigation Effects | Individual assumptions were made for the mitigation scenarios. These can be found in the technical report ‘Electricity Sector Analysis for Federated States of Micronesia’s Intended Nationally Determined Contribution’ prepared by NREL. |
+
+#### Fairness and Ambition 
+
+FSM's contribution to climate change has always been marginal. Decision 1/CP.20 paragraph 11 provides the flexibility to SIDS to communicate information on strategies, plans and actions for low greenhouse gas emission development reflecting their special circumstances in the context of intended nationally determined contributions. In this context, the present INDC by FSM is ambitious due to the percentage type considered. 
+
+Moreover, national efforts to implement INDC in FSM imply that resources to be allocated for development priorities will be arbitrated to take into account the requirements of the implementation of the Paris Agreement. 
+
+By presenting an ambitious INDC in the context of the Paris' agreement, FSM would like to stress that the very survival of many SIDS is at stake without ambitious global emissions reductions that will ensure the stabilisation of the greenhouse gas emission, ensuring we are on track toward limitation of global temperature rise below 1.5 degree Celsius by 2100. 
+
+#### Priority and needs related to adaptation 
+
+As for all SIDS, adaptation constitutes a priority for FSM. It is therefore important that the Paris Agreement deals effectively with the adaptation needs in a post 2020 world. 
+
+FSM does not see this INDC as the vehicle to address its adaptation needs in the post 2020 context, even if these need careful consideration and assessment. Such assessments are being made in the context of the Nation Wide Integrated Disaster Risk Management and Climate Change Policy 2013 and the FSM Climate Change Act 2014, as well as the joint state action plans for disaster risk management and climate change adaptation. All necessary efforts are being made to engage the country in the formulation and implementation of transformational adaptation investment plans to protect the country against climate change, through various sources of funding including from the UNFCCC financial mechanisms, the Green Climate Fund in particular. 
+
+#### Assumptions and conditions for implementation 
+
+**Financial needs:** 
+Much will be needed for the implementation of FSM's INDC. An assessment of the implementation options is needed as soon as possible to ensure implementation no later than 2018. Potential sources will include the financial mechanisms of the Convention, other non-Convention financial and investments sources, as well as international, national and other financial sources. All these will be facilitated and enabled by public policy and regulatory frameworks. 
+**Technical requirements:** 
+There is a need to design a national inventory system and to develop a framework for domestic Monitoring Reporting and Verification (MRV) of GHG emissions. There is a further need to access expertise and develop capacities to conduct such a process at the national and state levels. 
+**Capacity building needs:** 
+There is a need to enhance the local capacity to plan, design, implement, manage, operate and maintain installed energy technologies. Similarly, human, technical and institutional capacity development is required in the following areas: GHG inventory, baseline scenario development, emissions projection, vulnerability assessment, adaptation needs evaluation and prioritisation, climate finance access, mobilisation and disbursement. 
+**Technology needs:** 
+Specifically to implement the INDC in the energy sector, locally appropriate technology and equipment (resilient to the elements and extreme events) needs to be assessed and procured. 
+
+#### Any relevant additional information 
+FSM's INDC has been developed with the joint collaboration of the National Renewable Energy Laboratory (NREL) of the United States Department of Energy and Climate Analytics as implementing agency of the INDC Global Support Project by Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, financed by the Government of Germany Ministry for the Environment, Nature Conservation, Building and Nuclear Safety. 

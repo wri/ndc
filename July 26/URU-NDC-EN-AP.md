@@ -10,16 +10,16 @@ Based on the assumption that there will be no structural transformations of the 
 
 | Gas | Sector/Activity |  | 2030 Targets Percentage emission reduction targets from base year 1990 |  |
 |-----|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------|
-|  |  |  | With domestic resources | With additional means of implementation |
-| CO2 | Net CO2 removal by 2030 with domestic resources by means of the targets listed to the right | LULUCF | Remove 13200 Gg annually | Remove 19200 Gg annually |
-|  |  | Energy(Accounts for 94% of CO2emissions in 2010) | Reduce emission intensity per unit of GDP by 25% | Reduce emission intensity per unit of GDP by 40% |
+|  |  |  | **With domestic resources** | **With additional means of implementation** |
+| **CO2** | **Net CO2 removal by 2030 with domestic resources** by means of the targets listed to the right | **LULUCF** | Remove 13200 Gg annually | Remove 19200 Gg annually |
+|  |  | **Energy**(Accounts for 94% of CO2emissions in 2010) | Reduce emission intensity per unit of GDP by 25% | Reduce emission intensity per unit of GDP by 40% |
 |  |  |  | Keep power generation emissions below 40 gCO2/kWh | Keep powergeneration emissions below 20 gCO2/kWh |
-|  |  | Industrial Processes (Accounts for 6% of CO2 emissions in 2010) | Keep the intensity of emissions per unit of GDP at the reference value | Reduce emission intensity per unit of GDP by 40% |
-| CH4 | Beef Production(Accounts for 78% of CH4 emissions by 2010 |  | Reduce emission intensity per kilogram of beef by 33% | Reduce emission intensity per kilogram of beef by 46% |
-|  | Waste(Accounts for 7% of CH4 emissions by 2010) |  | Reduce emission intensity per unit of GDP by 44% | Reduce emission intensity per unit of GDP by 68% |
-|  | Other sectors and activities (Accounts for 15% of CH4 emissions by 2010) |  | Reduce emission intensity per unit of GDP by 45% | Reduce emission intensity per unit of GDP by 60% |
-| N2O | Beef Production(Accounts for 61% of N2O emissions by 2010) |  | Reduce emission intensity per kilogram of beef by 31% | Reduce emission intensity per kilogram of beef by 41% |
-|  | Other sectors and activities(Accounts for 39% of N2O emissions by 2010) |  | Reduce emission intensity per unit of GDP by 40% | Reduce emission intensity per unit of GDP by 55% |
+|  |  | **Industrial Processes** (Accounts for 6% of CO2 emissions in 2010) | Keep the intensity of emissions per unit of GDP at the reference value | Reduce emission intensity per unit of GDP by 40% |
+| **CH4** | **Beef Production** (Accounts for 78% of CH4 emissions by 2010 |  | Reduce emission intensity per kilogram of beef by 33% | Reduce emission intensity per kilogram of beef by 46% |
+|  | **Waste**(Accounts for 7% of CH4 emissions by 2010) |  | Reduce emission intensity per unit of GDP by 44% | Reduce emission intensity per unit of GDP by 68% |
+|  | **Other sectors and activities** (Accounts for 15% of CH4 emissions by 2010) |  | Reduce emission intensity per unit of GDP by 45% | Reduce emission intensity per unit of GDP by 60% |
+| **N2O** | **Beef Production**(Accounts for 61% of N2O emissions by 2010) |  | Reduce emission intensity per kilogram of beef by 31% | Reduce emission intensity per kilogram of beef by 41% |
+|  | **Other sectors and activities**(Accounts for 39% of N2O emissions by 2010) |  | Reduce emission intensity per unit of GDP by 40% | Reduce emission intensity per unit of GDP by 55% |
  
 
  
@@ -76,20 +76,16 @@ Below the iNDC provides a brief description of the recent evolution of the GHG e
 
 #### CO2 Removal - LULUCF 
 > Uruguay is a country with no net deforestation; this is quite a unique attribute among developing countries. The total coverage of native forests has, actually, increased in the past 30 years, and it is now 752000 hectares. Carbon stocks in these forests have increased due to the expansion of the area and due to secondary growth, in about one third of the surface. This responds to legal regulations that ban native forest logging and to tax exemption incentives provided to registered areas with native forests, which amounts to approximately USD 5 million a year. By 2030 annual CO2 removals from native forests by means of domestic resources are expected to be around 1300 Gg and up to 2500 Gg with additional means of implementation. Furthermore, between 1990 and 2010 Uruguay afforested 689000 effective hectares with tree plantations, which accounts for a 430% increase of the total surface planted in the period. Carbon sequestration levels in tree plantations and in growing native forests have determined that Uruguay, at the beginning of this century, behaved as a net CO2 sink. Uruguay expects to contribute, from 2010 to 2030, by means of domestic resources, with an additional expansion of the total tree plantation area of about 300000 hectares, which will account for total annual removals of 11200 Gg of CO2 in 2030. 
-
-> In addition, within the REDD+ framework, Uruguay will be able to contribute by removing carbon and preventing emissions that could primarily be estimated in a further 2100 Gg of CO2 in 2030. 
-
-> The aggregate result for **forestry removals supported by domestic resources amounts to 12500 Gg of CO2 in 2030**, which could, **reach 15800 Gg if provided with additional means of implementation**. 
-
-> Additionally, Uruguay has a great carbon sequestration potential through soils under degraded grasslands and eroded croplands. With regard to degraded grasslands, removals by 2030 are estimated to be 600 Gg by means of domestic resources and a total of 3300 Gg with additional means of implementation. With regard to carbon in cropland soils, Uruguay has broadly introduced no till agriculture, and has recently implemented mandatory conservation policies that reduce erosion and will promote an increase in biomass supply to the soil. Moreover, it is fostering the use of irrigation. The net impact of these measures can initially be estimated at about 100 Gg CO2 captured by 2030. Uruguay would then remove, through carbon sequestration in soils, **700 Gg CO2 annually in 2030 by means of domestic resources and a total of 3400 Gg CO2 with additional means of implementation**. 
+In addition, within the REDD+ framework, Uruguay will be able to contribute by removing carbon and preventing emissions that could primarily be estimated in a further 2100 Gg of CO2 in 2030. 
+The aggregate result for **forestry removals supported by domestic resources amounts to 12500 Gg of CO2 in 2030**, which could, **reach 15800 Gg if provided with additional means of implementation**. 
+Additionally, Uruguay has a great carbon sequestration potential through soils under degraded grasslands and eroded croplands. With regard to degraded grasslands, removals by 2030 are estimated to be 600 Gg by means of domestic resources and a total of 3300 Gg with additional means of implementation. With regard to carbon in cropland soils, Uruguay has broadly introduced no till agriculture, and has recently implemented mandatory conservation policies that reduce erosion and will promote an increase in biomass supply to the soil. Moreover, it is fostering the use of irrigation. The net impact of these measures can initially be estimated at about 100 Gg CO2 captured by 2030. Uruguay would then remove, through carbon sequestration in soils, **700 Gg CO2 annually in 2030 by means of domestic resources and a total of 3400 Gg CO2 with additional means of implementation**. 
 
 #### CO2 Emissions - Energy 
 > (94% of CO2 emissions in 2010) 
 Uruguay has made great efforts within the framework of the "National Energy Policy 2005- 2030", to achieve a clean energy mix: 59% of the global primary energy mix is currently renewable, which amounts to 83% for the total energy consumption of the industrial sector and 93% for power generation (2014). With regard to transport, the use of biodiesel accounts for 7% and bioethanol 10% of the total vehicle fleet, both with entire domestic production. Even though a lot of progress has been made in the past years, there are still many opportunities for action in this sector. 
-
-> As a result, the total emissions of the country's energy sector per GDP are very low: the emission intensity of Uruguay's energy sector in 2014 was 111 g CO2/USD, **one third of total global intensity** (global CO2 emissions of the energy sector vs. aggregate global GDP) and significantly lower than the average for OECD countries. Moreover, there is still an important reduction potential, especially in the transport sector (see below for list of additional mitigation measures), that the country is willing to implement if means of implementation were to be made available. Uruguay **will continue to develop maintaining the currently low emission intensity level in the energy sector, and even achieving an intensity reduction of 25% from 1990 values by 2030, by means of domestic resources, and a potential 40% total reduction with additional means of implementation**.  
-#### Power Generation 
-> Thanks to the ongoing structural transformation of the power generation mix, **by 2017 Uruguay will achieve an absolute emissions reduction of 88%** within this subsector compared to the annual average for the period 2005-2009, with a higher consumption. By 2017, emissions from the domestic power generation system will be 17 g CO2/kWh, **which accounts for 3% of the global average**. This will be achieved with 40% of non-conventional renewable energy sources (mainly wind, but also photovoltaic and biomass waste), in addition to 55% hydropower (estimating an average annual rainfall). Although this figure would increase in the following decades after reaching the hydro-wind complementation threshold, **it could remain close to 2017 value**, if storage systems were to be incorporated **through additional means of implementation** (see below for list of additional mitigation measures). 
+As a result, the total emissions of the country's energy sector per GDP are very low: the emission intensity of Uruguay's energy sector in 2014 was 111 g CO2/USD, **one third of total global intensity** (global CO2 emissions of the energy sector vs. aggregate global GDP) and significantly lower than the average for OECD countries. Moreover, there is still an important reduction potential, especially in the transport sector (see below for list of additional mitigation measures), that the country is willing to implement if means of implementation were to be made available. Uruguay **will continue to develop maintaining the currently low emission intensity level in the energy sector, and even achieving an intensity reduction of 25% from 1990 values by 2030, by means of domestic resources, and a potential 40% total reduction with additional means of implementation**. 
+**Power Generation** 
+Thanks to the ongoing structural transformation of the power generation mix, **by 2017 Uruguay will achieve an absolute emissions reduction of 88%** within this subsector compared to the annual average for the period 2005-2009, with a higher consumption. By 2017, emissions from the domestic power generation system will be 17 g CO2/kWh, **which accounts for 3% of the global average**. This will be achieved with 40% of non-conventional renewable energy sources (mainly wind, but also photovoltaic and biomass waste), in addition to 55% hydropower (estimating an average annual rainfall). Although this figure would increase in the following decades after reaching the hydro-wind complementation threshold, **it could remain close to 2017 value**, if storage systems were to be incorporated **through additional means of implementation** (see below for list of additional mitigation measures). 
 
  
 #### CO2 Emissions - Industrial Processes 
@@ -98,12 +94,10 @@ Uruguay produces CO2 in industrial processes, mainly related to cement productio
  
 #### Net CO2 Emissions 
 > Thanks  to  the  removal  increase  by  LULUCF  and  to  low  emissions  by  the  energy  sector  in **2030 Uruguay will be a net CO2 remover**. (See Annex) 
- 
 #### CH4 Emissions - Beef production
 > (78% of CH4 emissions in 2010) 
 The singular biological origin of these emissions, in addition to the fact that the country cannot mitigate climate change at the expense of food production, poses a challenge to focus on emissions intensity reduction per product unit of food produced. For the past 20 years Uruguay has significantly reduced such emission intensity. In particular, as a result of the 2010 Climate-Smart Agriculture Policy, Uruguay has made, and will continue to make, efforts to build a more efficient, resilient and low-carbon cattle farming sector, by introducing new technologies and incorporating successful experiences undertaken by other countries with similar characteristics. 
-
-> As a result of these policies, by **2030 Uruguay expects** to continue reducing emission intensity in beef production, **expecting to reduce CH4 emissions intensity per kilogram of beef (liveweight) by 33% from 1990 values, by means of domestic resources and a potential total reduction of 46% if adequate additional means of implementation were to be made available (see below for list of additional mitigation measures).** 
+As a result of these policies, by **2030 Uruguay expects** to continue reducing emission intensity in beef production, **expecting to reduce CH4 emissions intensity per kilogram of beef (liveweight) by 33% from 1990 values, by means of domestic resources and a potential total reduction of 46% if adequate additional means of implementation were to be made available (see below for list of additional mitigation measures).** 
  
 #### CH4 Emissions - Waste 
 > (7% of CH4 emissions in 2010) 
@@ -111,7 +105,7 @@ With regard to the waste sector, even though different methane capture and flari
  
 #### CH4 Emissions - Other sectors and activities 
 > (15% of CH4 emissions in 2010) 
-Even though the vast majority of CH4 emissions from the agriculture sector in Uruguay respond to beef production, about 9% of domestic CH4 emissions respond to other livestock and diary productions, 5% to rice production and less than 1% are originated in the energy sector. It is possible to **reduce aggregate emissions intensity in these sectors per unit of GDP by 45%, from 1990 levels, by means of domestic resources, and a total 60% with additional means of ** (see below for list of additional mitigation measures).
+Even though the vast majority of CH4 emissions from the agriculture sector in Uruguay respond to beef production, about 9% of domestic CH4 emissions respond to other livestock and diary productions, 5% to rice production and less than 1% are originated in the energy sector. It is possible to **reduce aggregate emissions intensity in these sectors per unit of GDP by 45%, from 1990 levels, by means of domestic resources, and a total 60% with additional means of implementation** (see below for list of additional mitigation measures).
  
 
  
@@ -156,7 +150,7 @@ Additional mitigation actions the country would like to undertake:
 - Increase the total coverage of native forests and reduce degradation. 
 - Increase carbon stocks in soils under natural grasslands. 
 - Increase land surface under irrigation. 
--  Reduce  methane  emission  in  rice  production  through  flood  management  and  other practices.  
+-  Reduce  methane  emission  in  rice  production  through  flood  management  and  other practices.
 - Efficient use of nitrogen fertilizers.  
 - Incorporate energy storage systems to manage the wind power surplus. 
 - Implement BRT corridors for metropolitan public transport. 
@@ -174,7 +168,7 @@ Additional mitigation actions the country would like to undertake:
  
 
  
-#### Adaptation actions required 
+### Adaptation actions required 
 
  
 
@@ -212,7 +206,7 @@ The main adaptation actions undertaken were:
 
  - Strengthening of weather, climate and water services. 
 
-- Design and implementation of the National Climate Change Response Plan; the - Design and Metropolitan Climate Plan; Climate Change Adaptation and Development Project for the agriculture sector; Integrated Water Resources Management National Plan within the climate change and variability framework, Land-use Planning programs for vulnerable regions and Stormwater Management Plans; Emergency and Sudden-impact Disasters Response Protocol; identification of adaptation measures in the tourism sector and development of a National Adaptation Plan for the coastal sector. 
+- Design and implementation of the National Climate Change Response Plan; the Metropolitan Climate Plan; Climate Change Adaptation and Development Project for the agriculture sector; Integrated Water Resources Management National Plan within the climate change and variability framework, Land-use Planning programs for vulnerable regions and Stormwater Management Plans; Emergency and Sudden-impact Disasters Response Protocol; identification of adaptation measures in the tourism sector and development of a National Adaptation Plan for the coastal sector. 
 
  
  Building on the experience and results of these undertakings, and incorporating new elements, by 2030 Uruguay expects to have accomplished the following adaptation actions, with the support of external means of implementation, which are necessary to ensure the fulfillment of mitigation targets: 
@@ -236,7 +230,7 @@ The main adaptation actions undertaken were:
 
 - Implement education, training and awareness programs that address climate change response needs. 
 
-#### Information to facilitate clarity, transparency and understanding 
+### Information to facilitate clarity, transparency and understanding 
 
 **Scope and coverage:** The contributions target all emitting sectors as acknowledged by IPCC inventory guidelines and are nationwide. They cover CO2, CH4 and N2O gases, which collectively account for 99.7% of Uruguay's current CO2eq emissions, calculated as per GWP100 metric. 
 
@@ -254,8 +248,8 @@ The main adaptation actions undertaken were:
  
 
  
-# Annex for the UNFCCC Secretariat: 
-# Total estimated emissions and removals per gas by 2030 
+### Annex for the UNFCCC Secretariat: 
+### Total estimated emissions and removals per gas by 2030 
 
 To facilitate the work of the Secretariat we communicate that, based on the assumptions considered for the development of this Intended Nationally Determined Contribution, it may be estimated that Uruguay's maximum emission levels in 2030, including **only mitigation actions to be developed by means of domestic resources**, would be: 
 
@@ -268,7 +262,7 @@ To facilitate the work of the Secretariat we communicate that, based on the assu
 | CH4 Emissions | 840 |
 | N2O Emissions | 39 |
 
-As can be observed, Uruguay expects to be a net CO2 sink by 2030. In addition, based on these estimates, we expect to maintain relatively stable levels of non-CO2 gases emissions by 2030 compared to current values, despite an expected growth in the economy for the period of 60%. 
+As can be observed, Uruguay expects to be **a net CO2 sink by 2030**. In addition, based on these estimates, we expect to maintain relatively stable levels of non-CO2 gases emissions by 2030 compared to current values, despite an expected growth in the economy for the period of 60%. 
 
 The figures in this Annex are presented as non-binding estimates, therefore, they shall not be construed as part of Uruguay's iNDC. These are only presented to facilitate the work of the UNFCCC Secretariat in the preparation of the synthesis report on the aggregate effect of Intended Nationally Determined Contributions.   
 

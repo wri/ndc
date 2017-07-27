@@ -99,7 +99,7 @@ Recalling the decisions 26/CP.7, 1/CP.16, 2/CP.17, 1/CP.18 and 21/CP.20, in view
 ### Plans and policies to be implemented for this INDC 
 #### Energy 
 - Increasing capacity of production of electricity from solar power to 10 GW until 2030 
-- Increasing capacity of production of electricity from wind power to 16 GW until 2030 
+- Increasing capacity of production of electricity from wind power to 16 GW until 2030
 -  Tapping the full hydroelectric potential 
 -  Commissioning of a nuclear power plant until 2030 
 -  Reducing electricity transmission and distribution losses to 15 percent at 2030 
@@ -158,4 +158,6 @@ Recalling the decisions 26/CP.7, 1/CP.16, 2/CP.17, 1/CP.18 and 21/CP.20, in view
 - Implementing  Action  Plan  on  Forestry  Rehabilitation  and  National  Afforestation Campaign
  
 The emission reductions to be achieved by these policies and plans compared to the business-as-usual scenario are presented in the figure below. 
+
+![](./TUR-1.png)
  

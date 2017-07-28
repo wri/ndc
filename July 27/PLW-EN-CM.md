@@ -6,37 +6,36 @@
 
 # November	 2015	 
 
-## 1. Introduction	 
+### 1. Introduction	 
 
-The	 Republic	 of	 Palau	 is	 committed	 to	 the	 successful	 conclusion	 of	 negotiations	 under	 the	 Ad‐Hoc	  Working	 Group	 on	 the	 Durban	 Platform	 for	 Enhanced  Action	 (ADP)	 in	 order	 to	 adopt,	 at	 COP21,	 a	 new	  legally‐binding	 agreement	 under	 the	 United	 Nations	 Framework	 Convention	 on	 Climate	 Change	  (UNFCCC)	 applicable	 to	 all	 Parties,	 to	 come	 into	 effect	 in	 2020.	 	 
+The Republic of Palau is committed to the successful conclusion of negotiations under the Ad‐Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in order to adopt, at COP21, a new legally‐binding agreement under the United Nations Framework Convention on Climate Change (UNFCCC) applicable to all Parties, to come into effect in 2020.	 	 
 
-In	 accordance	 with	 decisions	 1/CP.19	 and	 1/CP.20,	 the	 Republic	 of	 Palau	 is	 pleased	 to	 communicate	 its	  Intended	 Nationally	 Determined	 Contribution	 (INDC)  towards	 achieving	 the	 objective	 of	 the	 UNFCCC,	 as	  well	 as	 accompanying	 information	 to	 facilitate	 clarity,	 transparency,	 and	 understanding	 of	 its	 INDC.	 	 
+In accordance with decisions 1/CP.19 and 1/CP.20, the Republic of Palau is pleased to communicate its Intended Nationally Determined Contribution (INDC) towards achieving the objective of the UNFCCC, as well as accompanying information to facilitate clarity, transparency, and understanding of its INDC.	 	 
 
-The	 Republic	 of	 Palau	 is	 also	 pleased	 to	 provide	 additional	 accompanying	 information	 on	 our	 mitigation	  effort	 and	 support	 for	 implementation.	 
+The Republic of Palau is also pleased to provide additional accompanying information on our mitigation effort and support for implementation.	 
 
-## 2. Intended	 Nationally	 Determined	 Contribution	 -	 Mitigation	 [Contribution]	 
+### 2. Intended Nationally Determined Contribution - Mitigation [Contribution] 
 **Timeframe**: 
-* **Start	 year**:	 2020 
-* **End	 year**:2025
+* **Start year**: 2020 
+* **End year**:2025
 
- **Type	 of	 commitment:**
- * Absolute	 energy	 sector	 emissions	 reduction	 target,	 with	 additional	  reductions	 coming	 from	 the	 waste	 and	 transport	 sectors.
+ **Type of commitment:**
+* Absolute energy sector emissions reduction target, with additional reductions coming from the waste and transport sectors.
 
-**Reference/base	 year:**
-*   Reference/base	 year	 is	 2005	 -	 emissions	 were	 approximated	 at	 88	  thousand	 tCO2e	
+**Reference/base year:**
+* Reference/base year is 2005 - emissions were approximated at 88 thousand tCO2e 
 
-**Estimated	 quantified	 emissions	  reductions:**	 
+**Estimated quantified emissions reductions:**  
 
-  * Indicative	 targets:
-    * 22%	 energy	 sector	 emissions	 reductions	 below	 2005	 levels	 by	  2025
-    * 45%	 Renewable	 Energy	 target	 by	 2025	  
-    * 35%	 Energy	 Efficiency	 target	 by	 2025	 
-    * 
+  * Indicative targets:
+    * 22% energy sector emissions reductions below 2005 levels by 2025
+    * 45% Renewable Energy target by 2025	  
+    * 35% Energy Efficiency target by 2025	 
 **Coverage:**	 
-* Energy	 (electricity	 generation),	 transport	 	 and	 waste	 sectors
-* Gases:	 Carbon	 dioxide	 (CO2	 )	 and	 methane	 (CH4
+* Energy (electricity generation), transport and waste sectors
+* Gases: Carbon dioxide (CO2 ) and methane (CH4)
  
-**Baseline	 assumption	:**	 
+**Baseline assumption:**	 
 
   Business	 as	 Usual	 (BAU)	 emissions	 scenario	 projections	 are	 based	 on	  economic	 growth	 in	 the	 absence	 of	 new	 climate	 change	 policies	 and	  measures	 in  addition	 to	 those	 in	 place	 in	 2015,	 and	 greater	 coverage	  and	 implementation	 of	 existing	 measures.	 	 	 
 
@@ -67,13 +66,11 @@ The	 Republic	 of	 Palau	 is	 also	 pleased	 to	 provide	 additional	 accompanyi
 
  ![](./PLW-1.PNG)
 
-## 3. Accompanying	 Information	 on	 Palau's	 INDC	 	 
+### 3. Accompanying	 Information	 on	 Palau's	 INDC	 	 
  
 #### **a. General	 information	 on	 Palau**	 
 
-Palau is joining the community of nations, both industrialised and developing, in taking action to address the causes and impacts of climate change. Palau is particularly vulnerable to the impacts of climate
-
-change, principally from sea level rise and the increase in extreme events (drought, flooding, Category 4 and 5 typhoons). Sea-level rise threatens vital infrastructure, settlements, and facilities that support the livelihood of island communities. Moreover, under most climate change scenarios, water resources in small islands are likely to be seriously compromised. Subsistence and commercial agriculture will be adversely affected by climate change, and ocean warming and acidification will heavily impact coral reefs, fisheries, and other marine-based resources crucial to our livelihoods, economy and culture.
+Palau is joining the community of nations, both industrialised and developing, in taking action to address the causes and impacts of climate change. Palau is particularly vulnerable to the impacts of climate change, principally from sea level rise and the increase in extreme events (drought, flooding, Category 4 and 5 typhoons). Sea-level rise threatens vital infrastructure, settlements, and facilities that support the livelihood of island communities. Moreover, under most climate change scenarios, water resources in small islands are likely to be seriously compromised. Subsistence and commercial agriculture will be adversely affected by climate change, and ocean warming and acidification will heavily impact coral reefs, fisheries, and other marine-based resources crucial to our livelihoods, economy and culture.
 
 #### **b. Mitigation:	 Current	 and	 Future	 Policies	 and	 Measures	 to	 achieve	 INDC	 targets**	 	 
 
@@ -88,8 +85,8 @@ change, principally from sea level rise and the increase in extreme events (drou
   To	 achieve	 the	 renewable	 energy	 target	 Palau	 will	 need	 considerable	 additional	 installed	  capacity,	 including	 the	 5MW	 of	 solar	 already	 planned	 (two	 or	 more  solar	 projects	 plus	  additional	 roof-top	 solar)	 plus	 an	 additional	 10	 MW	 to	 power	 the	 water	 sector.	 	 Palau	 will	  also	 have	 to	 work	 to	 reduce	 transmission  and	 distribution	 losses.	 	 (Solar	 Capacity	 Factor	 is	  assumed	 to	 be	 15.3%.)	 
 
   To	 implement	 the	 Energy	 Efficiency	 target,	 Palau	 will:	 	 
-* Increase	 the	 Energy	 Retrofit	 Program;	  I
-* nstitute	 a	 Tropical	 EE	 Building	 Code;	 
+* Increase	 the	 Energy	 Retrofit	 Program;
+* Institute	 a	 Tropical	 EE	 Building	 Code;	 
 * Adopt	 the	 Energy	 Star	 Appliance	 Standard;	  
 * Implement	 an	 Energy	 Labeling	 Scheme;	  
 * Significantly	 expand	 our	 Cool	 Roof	 Program;	  

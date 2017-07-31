@@ -53,12 +53,12 @@ Kenya will continue to implement the NCCAP (2013-2017), and subsequent action pl
 |---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Scope of gases included in the contribution Sectors covered by the contribution | Carbon dioxide (CO2), Methane (CH4), and Nitrous Oxide (N2O) are prioritised. |
 | Sectors covered by the contribution | The IPCC Guidelines for all sectors: Energy, Transportation, Industrial Processes, Agriculture, Forestry and Other Land Use (AFOLU) and waste sector. |
-| Assumptions and methodological approaches |  |
-| Methodology for emissions accounting | The IPCC Revised 1996 Guidelines for National Greenhouse Gas Inventories and the Good Practise Guidance and Uncertainty Management in National Greenhouse Gas Inventories were used to calculate the GHG emissions and removals as described in the Second National Communication. Emissions of carbon dioxide from the combustion of biomass are assessed but not counted towards the contribution. |
+| **Assumptions and methodological approaches** |  |
+| Methodology for emissions accounting | The IPCC Revised 1996 Guidelines for National Greenhouse Gas Inventories and the Good Practise Guidance and Uncertainty Management in National Greenhouse Gas Inventories were used to calculate the GHG emissions and removals as described in the Second National Communication. Emissions of carbon dioxide from the combustion of biomass are assessed but not counted towards the contribution. Future contribution from the extractive sector has not been included in the accounting.|
 | Global warming potentials | The carbon dioxide equivalent was calculated using the 100 year global warming potentials in accordance with the IPCC 2nd Assessment Report. |
-| Approaches to land sector emissions | This includes emissions from the land use, land-use change and forestry (LULUCF) sector. Relevant national policy documents and the FAO's Global Forest Resource Assessment 2010 for Kenya were used. A global land-use data approach was used, as described in the 2003 IPCC Good Practice Guidance for LULUCF. A state and transition model consistent with the 1996 Revised IPCC Guidelines was used to calculate fluxes of CO2 to (or from) the atmosphere and biomass carbon pools is the same as outlined in is significant uncertainty in the BAU emission and mitigation potential estimates for this sector and work is underway to update and improve these estimates. |
+| Approaches to land sector emissions | This includes emissions from the land use, land-use change and forestry (LULUCF) sector. Relevant national policy documents and the FAO's Global Forest Resource Assessment 2010 for Kenya were used. A global land-use data approach was used, as described in the 2003 IPCC Good Practice Guidance for LULUCF. A state and transition model consistent with the 1996 Revised IPCC Guidelines was used to calculate fluxes of CO2 to (or from) the atmosphere and biomass carbon pools is the same as outlined in the 1996 Revised IPCC Guidelines. There is significant uncertainty in the BAU emission and mitigation potential estimates for this sector and work is underway to update and improve these estimates. |
 | Contribution of International Market Based Mechanism | Kenya does not rule out the use of international market-based mechanisms in line with agreed accounting rules. |
-| Reference Point |  |
+| **Reference Point** |  |
 | BAU emissions in the target year | Business-as-usual (BAU) emissions are estimated to be 143 MtCO2eq) by 2030. This excludes future exploitation in the extractive sector. |
 | BAU projection methodology | The BAU projection methodology is detailed within the NCCAP and the Second National Communication (SNC), including key assumptions, drivers and methodologies for each sector. The base year is 2010. For geothermal energy, note that the BAU projection contained in the NCCAP and SNC has been revised to be consistent with the current level of geothermal deployment since the NCCAP was published. |  
 
@@ -92,7 +92,7 @@ The priority adaptation actions are presented in the NCCAP and further elaborate
 | Agriculture, livestock development and fisheries | Enhance the resilience of the agriculture, livestock and fisheries value chains by promoting climate smart agriculture and livestock development. |
 | Private Sector/  Trade; Manufacturing; Business Process Outsourcing, Financial services | Create enabling environment for the resilience of private sector investment, demonstrate an operational business case. |
 | Oil and mineral resources | Integrate climate change adaptation into the extractive sector. |
-| Devolution | Mainstream climate change adaptation integrated development plans and implement the Ending Drought Emergencies Strategy. |
+| Devolution | Mainstream climate change adaptation into county integrated development plans and implement the Ending Drought Emergencies Strategy. |
 
 ### 3.  Fairness and ambition  
 
@@ -102,9 +102,7 @@ Kenya's historical contribution is low, at 0.1% of the total global emissions, w
 
 The country's capability to implement this contribution is also subject to limitations; with poverty alleviation and sustainable economic development being the key national objectives. Increasing the per-capita GDP growth equitably above the current levels of 4.1% is therefore a priority. 
 
-Nevertheless, Kenya places a high priority on response to climate change. In order to meet 
-
-the below 2°C objective, all countries will need to undertake mitigation based on the common but differentiated responsibilities and respective capabilities in accordance with the Convention. In addition, Kenya particularly notes that the Lima Call to Action agrees that each Party's contribution will "represent a progression beyond the current undertaking of that Party". 
+Nevertheless, Kenya places a high priority on response to climate change. In order to meet the below 2°C objective, all countries will need to undertake mitigation based on the common but differentiated responsibilities and respective capabilities in accordance with the Convention. In addition, Kenya particularly notes that the Lima Call to Action agrees that each Party's contribution will "represent a progression beyond the current undertaking of that Party". 
 
 Kenya is determined to continue playing a leadership role in addressing climate change by communicating a fair and ambitious contribution. This intended contribution targets a high proportion of its mitigation potential, dependent on the level of support available. This will involve implementing the priority mitigation and adaptation actions in the NCCAP to achieve a low carbon climate resilient development in line with Vision 2030. 
 
@@ -112,7 +110,7 @@ This is the first time that Kenya has stated an intended contribution to global 
 
  
 
-4.  Planning process 
+### 4.  Planning process 
 
 Kenya's planning process on mitigation and adaptation hinges on the NCCAP and the NAP. The two shall be reviewed every five years to inform the MTP. The adaptation actions are further amplified in the NAP. Mitigation and adaptation actions are implemented across the various sectors at both the national and county government levels. The Ministry of Environment and Natural Resources coordinates the country's climate change affairs through the National Climate Change Secretariat (NCCS). 
 
@@ -122,15 +120,13 @@ The planning process also takes cognisance of the Climate Change Bill (2014) tha
 
 * A Climate Change Directorate as the lead agency of the government on national climate change plans and actions to deliver operational coordination; and provide technical assistance on climate change actions and responses to County governments. 
 
-* Kenya Climate Fund to be a financing mechanism for priority climate change 
-
-actions and interventions approved by the Council. 
+* Kenya Climate Fund to be a financing mechanism for priority climate change actions and interventions approved by the Council. 
 
 In addressing climate change issues, public entities are required to undertake public awareness and consultations, and ensure gender mainstreaming, in line with the Constitution and the Climate Change Bill (2014). 
 
  
 
-5.  Means of implementation 
+### 5.  Means of implementation 
 
 Kenya's contribution will be implemented with both domestic and international support. It is estimated that over USD 40 billion is required for mitigation and adaptation actions across sectors up to 2030. Kenya will require international support in form of finance, investment, technology development and transfer, and capacity-building to fully realize her intended contribution. Further analysis will be necessary to refine the required investment cost and determine the domestic support. 
 

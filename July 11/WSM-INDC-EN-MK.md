@@ -1,7 +1,6 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>	
 
 # Samoa's Intended Nationally Determined Contribution 
-## SEPTEMBER 2015 
+ SEPTEMBER 2015 
 
 ### EXECUTIVE SUMMARY 
 The Independent State of Samoa is committed to combating climate change, and to the success of the negotiations for a new legally binding agreement under the United Nations Framework Convention on Climate Change at COP 21 in Paris. 
@@ -20,7 +19,7 @@ Samoa recognizes that achieving this highly ambitious target will require signif
 
 
 
- ### 1. INTRODUCTION: CONTEXT AND NATIONAL PRIORITIES 
+### 1. INTRODUCTION: CONTEXT AND NATIONAL PRIORITIES 
 Samoa, a small island developing state in the South Pacific is at the forefront of efforts to address issues associated with the impacts of climate change. Like other islands in the region, the impacts of climate change on the environment are already quite evident and will continue to pose significant threats in the future. 
  
 On a global scale, Samoa's contribution to Greenhouse Gas (GHG) emissions are negligible as highlighted in its Second National Communication (SNC) and second GHG Inventory, 2007. [^1] Total emissions for the year 2007 was estimated at 352,034 tCO2‐e or about 0.0006% of 2004 global GHG emissions (IPCC, 2007). However, despite the low contribution to global emissions, Samoa is ramping up its efforts to reduce its GHG emissions and demonstrate to the global community the actions being undertaken by a small and vulnerable country to address climate change. 
@@ -28,7 +27,7 @@ On a global scale, Samoa's contribution to Greenhouse Gas (GHG) emissions are ne
 
 Samoa has demonstrated significant commitment to addressing climate change by establishing a target of generating 100% of its electricity from renewable energy sources. This commitment is proposed to be implemented over two time periods. The first target is to reach 100% renewable electricity generation by the year 2017. The second target is to maintain this 100% contribution through to 2025 in anticipation of the increasing electricity demand. 
 
-The Strategy for Development of Samoa (SDS) highlights the key strategies for development across the priority sectors. The overarching theme for the SDS 2012 - 2016 is *boosting productivity for sustainable development*.[^2] The SDS highlights the importance of the environment as a priority area and has identified the mainstreaming of climate change across all sectors and increased investment in renewable energy as some of the main strategic outcomes. This political commitment to mainstream climate change issues is driving a number of actions that are aimed at not only adapting to the impacts of climate change but also accelerating efforts to reduce GHG emissions. The focus of Samoa's INDC is on mitigation given the short timeframe to prepare the report and carry out comprehensive stakeholder consultations. It is intended that this document will be a living document to be revised and updated when necessary. 
+The Strategy for Development of Samoa (SDS) highlights the key strategies for development across the priority sectors. The overarching theme for the SDS 2012 - 2016 is *Boosting productivity for sustainable development*[^2]. The SDS highlights the importance of the environment as a priority area and has identified the mainstreaming of climate change across all sectors and increased investment in renewable energy as some of the main strategic outcomes. This political commitment to mainstream climate change issues is driving a number of actions that are aimed at not only adapting to the impacts of climate change but also accelerating efforts to reduce GHG emissions. The focus of Samoa's INDC is on mitigation given the short timeframe to prepare the report and carry out comprehensive stakeholder consultations. It is intended that this document will be a living document to be revised and updated when necessary. 
 [^2]: Strategy for the Development of Samoa 2012-2016
 
 Samoa is one of the most vulnerable countries to the impacts of climate change and some of these effects are already being felt across the country. Ongoing and planned activities are targeted at building resilience, disaster risk reduction and adapting to the adverse effects of climate change. Some of these adaptation measures are also expected to have mitigation potential. 
@@ -57,7 +56,8 @@ The Energy sector which accounted for 50% of total GHG emissions in 2007 is targ
 
 In 2007 total emissions from the electricity subsector were 44,214 tCO2‐e and represents emissions from diesel‐fuelled thermal plants. Renewable energy contributed 48% of total electricity requirements in 2007. However, by 2014, renewable energy sources including solar photovoltaic, wind and hydropower contributed only 26% of total electricity generation. This drop in renewable energy contribution was due to the reduction in hydropower contribution when 3 of the hydropower plants were destroyed by Cyclone Evan. This highlights the vulnerability of Samoa to extreme climatic events which are expected to be more frequent as a result of climate change. 
 
-![Figure 1: Samoa's sectoral GHG emissions (GHG Inventory, 2007)](./WSN-1.PNG) 
+![Figure 1: Samoa's sectoral GHG emissions (GHG Inventory, 2007)](./WSM-1.PNG) 
+Figure 1: Samoa’s sectoral GHG emissions (GHG Inventory, 2007)
 
 The energy sector in Samoa is heavily reliant on imported fossil fuels to meet its needs. As the population grows GHG emissions are also expected to increase. Transportation and electricity generation are the two main contributors to emissions in the sector with the electricity sector contributing around 13% in GHG emissions in 2007. 
 
@@ -74,6 +74,7 @@ Other key policy drivers include the Greenhouse Gas Abatement Strategy, Climate 
 
 CAPITAL PROJECTS 
 Samoa has already undertaken and implemented a range of mitigation projects in the energy sector. These projects include various renewable energy projects for electricity generation as well as energy efficiency projects aimed at both supply and demand management. A combination of both renewable energy projects and energy efficiency measures is necessary to achieve the target as set out in the INDC. Significant donor assistance through grant financing has enabled the implementation of many of these projects. Future projects will need similar financing support. 
+
 Some of these projects include: 
 * Grid connected solar photovoltaic projects with a total installed capacity of 6MWp as of September 2015. This is a combination of both utility owned projects and IPPs and total capacity is expected to increase over the next couple of years; 
 * Wind Power ‐ 550kW of installed capacity; 

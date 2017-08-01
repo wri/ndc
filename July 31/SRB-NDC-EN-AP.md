@@ -17,41 +17,42 @@ Impacts of climate change on health are becoming more pronounced in recent years
 Since 2000 the Republic of Serbia has faced several signincant extreme climate and weather episodes that have caused signincant material and financial losses as well as losses of human lives. The two most prominent events are the drought in 2012 and the floods in 2014. The drought in 2012 was particularly strong, and contributed to a decrease in yields of some crops by 50%. Estimates show that the droughts in 2000, 2003, 2007 and 2012 caused over 3.5 billion Euros worth of damage and the floods in 2014 over 1.5 billion Euros. Estimates show that the material damage incurred by forest fires in the period 2000—2009 is worth more than 300 million Euros.
 
 Taking into account the impacts of climate change and the need to reduce the risk thereof, and recognizing the importance of its contribution to global GHG emission reduction, the Republic of Serbia has identined GHG emissions pledges at the national level.
-### Type:
+#### Type:
 Overall emissions reductions compared to GHG base-year emissions
-### Scope
+#### Scope
 GHGs which are not controlled by the Montreal Protocol:
-* C02
+* CO2
 * CH4
-* N20
+* N2O
 * HFCs
 * PFCs
 * SF6
-### Base year
+#### Base year
 1990
-### Period
+#### Period
 1 January 2021 —31 December 2030
-### Level of GHG emission reduction
+#### Level of GHG emission reduction
 GHG emission reduction by 9,8% until 2030 compared to base-year (1990) emissions
-### Percentage of GHG emissions covered
+#### Percentage of GHG emissions covered
 100%
-### planning process
+#### planning process
 Climate change strategy with an action plan, that should be finalized in 2017, will define the precise activities, methods and implementation deadlines
-### Fair and ambitious
+#### Fair and ambitious
 In 2010, the Republic of Serbia, as a developing country, associated with the Copenhagen Accord and in the letter of support expressed readiness for voluntary GHG emission limitation until 2020 by 18% compared to emissions in 1990. 
+
 The Republic of Serbia, as an EU candidate country, harmonizes national with the EU legislation, contribution on that way additionally to national emissions reduction.
-## Key assumptions
-### Calculation method
+### Key assumptions
+#### Calculation method
 Global warming potential on a 100 time scale in accordance with the IPCC's 4th AssessmentReport
-### Methodologies for assessing GHG emissions
+#### Methodologies for assessing GHG emissions
 IPCC Guidelines 2006 and IPCC 2013 KP Supplement
-## Scope
-### Sectors/Source categories
+### Scope
+#### Sectors/Source categories
 In accordancewith IPCC Guidelines 2006 and IPCC 2013 KP Supplement
-## Needs for adaptation measures
-### Sector vulnerability and impacts of climate Change
+### Needs for adaptation measures
+#### Sector vulnerability and impacts of climate Change
 The greatest impacts of climate change have been observed and reflected in agriculture, hydrology, forestry, human health and biodiversity sectors.
-### Loss and damage associated with extreme events in the period 2000-2015
+#### Loss and damage associated with extreme events in the period 2000-2015
 The total damage caused by extreme climate and weather conditions, since 2000, exceeds 5 billion euros, and more than 70% of the losses are associated with drought and high temperatures. Another major cause of significant losses was noods. Currently there is no analysis of the damage resulting from long-term slow changes in the climate system that has been observed in the past decades. 
 
 The total estimated investment in implementation of projects that can be consideredas adaptation measures in the period 2000-2015 amounts to approximately $68 million. There are no estimates for long-term investments in the area of adaptation to climate change in the Republic of Serbia. 

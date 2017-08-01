@@ -1,7 +1,7 @@
 # ISRAEL'S INTENDED NATIONALLY DETERMINED CONTRIBUTION (INDC) 
 
-# Submission to the ADP 
-# 29 September 2015 
+ Submission to the ADP 
+ 29 September 2015 
 
  
 In accordance with Decisions 1/CP.19 and 1/CP.20, Israel hereby communicates its Intended Nationally Determined Contribution (INDC) to contribute to the global effort for achieving the objective of the United Nations Framework Convention on Climate Change.  
@@ -27,7 +27,7 @@ Sectors: Electricity generation, other energy sources, transportation, industria
 
 *Metric applied*  
 The revised 1996 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories and the Global Warming Potential (GWP) values from the IPCC Second Assessment Report (1995) 
-            
+ 
 *Methodology* 
 The scenarios (BAU and abatement) were developed using the Long range Energy Alternatives Planning System (LEAP model). A cost benefit analysis was carried out on a range of abatement measures and technologies in various sectors. Mitigation potential was assessed in those sectors and combined for the whole economy. 
  
@@ -39,9 +39,7 @@ An inter-ministerial committee, chaired by the Director General of the Ministry 
 Based on the comprehensive work and findings of the committee, a national emissions reduction target for Israel was formulated and is expected to yield significant benefits to the economy. Submitted jointly to the government by the Ministers of Environmental Protection, Finance and National Infrastructures, Energy and Water Resources the target was approved and includes sector specific targets: 
 
 *  Energy efficiency - 17% reduction in electricity consumption relative to BAU scenario in 2030 
-
 *  Renewable energy - 17% of the electricity generated in 2030 will be from renewable sources 
-
 *  Public transport - 20% shift from private to public transportation.   
 
  
@@ -51,12 +49,9 @@ Based on the comprehensive work and findings of the committee, a national emissi
 The government decision for the national target stipulates that within 45 days of approval, the relevant ministries are to submit to the government an outline of economy wide measures to be taken. It is anticipated that the implementation plan will consist of, inter alia, the following: 
 
 *  The establishment of mechanisms leveraging large scale private funding together with public funding of energy efficiency projects; 
-
 *  A program of tenders for renewable energy. The 17% renewable energy target is substantially more ambitious than Israel's current 10% target for 2020; 
-
 *  Removal of barriers for the uptake of renewable energy; 
 *  Measures to increase the use of natural gas. The recent discovery of additional natural gas reserves off the coast of Israel has and  will continue to contribute to a partial switch from coal to natural gas in Israel's fuel mix and which contributed to GHG emissions reduction between 2012 and 2015. The government is now working on the further development of gas fields, expected to have significant mitigation potential; 
-
 *  Further development of public transport systems in major metropolitan areas such as the construction of the Tel Aviv metropolitan light rail; the extension of the intercity rail system and of the Jerusalem light rail. 
  
 Initial steps have begun for the establishment of a national system for managing and monitoring greenhouse gas emissions. Quantitative and qualitative data collection and analysis will be carried out in order to track and record headway on implementation of the abatement measures. The inter-ministerial committee will perform a regular review process of the national strategy and recommend new policy instruments where necessary. 

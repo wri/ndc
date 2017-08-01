@@ -1,40 +1,12 @@
-# CONTRIBUTION FROM THE REPUBLIC OF SURINAME 
-
-## Republic of Suriname 
-
- 
- 
- 
-
- 
- 
- 
-
- 
-
+# Republic of Suriname 
 ## Intended Nationally Determined Contribution Under UNFCCC 
+ 30 September 2015 
 
- 
- 
- 
- 
-
-## 30 September 2015 
- 
-    
-
- 
-
- 
-
-## INTENDED NATIONALLY DETERMINED CONTRIBUTION FROM THE REPUBLIC OF SURINAME 
-
- 
 ### 1.  INTRODUCTION 
 
 The Republic of Suriname is committed to addressing the issues associated with climate change both nationally and globally. As such, and in accordance with the Conference of the Parties (COP) Decisions 1/CP19 (Warsaw) and 1/CP20 (Lima), Suriname hereby submits its Intended Nationally Determined Contributions (INDCs) prior to COP21 scheduled for Paris, to be organized in December 2015. 
  
-## 2.  NATIONAL CONTEXT 
+### 2.  NATIONAL CONTEXT 
 
 The Republic of Suriname is committed to playing its part in the global fight against climate change. As a developing country with a total population of 541,638 and abundant natural resources, Suriname has remained carbon negative. Suriname's contribution to the global fight against climate change commenced long before countries of the world came together in 1972 at the United National Conference on the Human Environment in Stockholm to agree on a common outlook for environmental protection and poverty alleviation and where climate change was given recognition for the first time. 
  
@@ -71,13 +43,10 @@ The following is an outline of the steps taken in the preparation of the INDC.
 1.  **Planning process:** key stakeholders were engaged on September 10th 2015. A National Team was the driver. This team consisted of representatives of the Office of the President of the Republic of Suriname, the National Institute for Environment and Development in Suriname (NIMOS), Anton de Kom University of Suriname, the Foundation for Forest Management and Forest Control in Suriname, and the ministry of Foreign Affairs. The forum sought to sensitize participants on the background, nature and need for an INDC, the preparation and information required, and key issues to consider. The forum also elicited stakeholders' perspectives on issues and priorities for inclusion. 
  
 
-2.  **Stocktaking:** the National Team undertook a stocktaking 
-
-such as the Development Plan 2012-2016 of the Republic of Suriname, the National Plan for Forest Cover Monitoring, Suriname's Readiness Preparation Proposal, the NCCPSAP as well as Suriname's National Reports to the UNFCCC. In addition, use was made of the reports from the Intergovernmental Panel on Climate change (IPCC), Suriname's Energy Policy Plan 2013-2033, data from the ministry of Natural Resources, reports from the Suriname Statistics Bureau, and the guide by WRI and UNDP on ‘How to write an INDC'. exercise to collect required information to prepare the INDC. This exercise identified and assembled relevant national information, data and analysis, including official information from the Government sources. 
+2.  **Stocktaking:** the National Team undertook a stocktaking exercise to collect required information to prepare the INDC. This exercise identified and assembled relevant national information, data and analysis, including official information from the Government sources. 
  
 
-3.  **Desktop Review:** an analysis was made of documents 
-
+3.  **Desktop Review:** an analysis was made of documents such as the Development Plan 2012-2016 of the Republic of Suriname, the National Plan for Forest Cover Monitoring, Suriname's Readiness Preparation Proposal, the NCCPSAP as well as Suriname's National Reports to the UNFCCC. In addition, use was made of the reports from the Intergovernmental Panel on Climate change (IPCC), Suriname's Energy Policy Plan 2013-2033, data from the ministry of Natural Resources, reports from the Suriname Statistics Bureau, and the guide by WRI and UNDP on ‘How to write an INDC'. 
  
 
 
@@ -110,16 +79,17 @@ As part of this INDC Suriname has not given consideration to the use of markets 
 
 ##### A.  FORESTS 
 The sectors covered in this INDC are ‘Forests' and ‘Renewable Energy'. 
+
 Approximately 94% of the Republic of Suriname consists of forests covering approximately 15 million ha of the land surface. Suriname has one of the world's lowest rate of deforestation which is estimated at 0.02% annually. 
  
 
-###### Unconditional Contributions 
+###### *Unconditional Contributions* 
 Suriname has taken a comprehensive approach to the management of its forests through the Forest Management Act (1992), National Forest Policy (2003) and Interim Strategic Action Plan for the Forest Sector (2008) and has been able to maintain its high forest cover and low deforestation rate through stringent management of forests by adopting and implementing sustainable forest management practices. Enhanced efforts at forest monitoring to address illegal logging as well as the adoption of tools such as Reduced Impact logging (RIL) in the logging sector has helped to maintain a low environmental and carbon footprint. However, much more detailed information on forest resources is needed and in this regard Suriname is currently piloting a national forest inventory. Suriname intends to increase efforts at sustainable forest and ecosystem management and stabilizing and minimizing deforestation and forest degradation unconditionally. 
  
 Additionally, to support its efforts at maintaining the integrity of forest ecosystems and keeping with its obligations regarding the United Nations Convention on Biological Diversity, Suriname has established 13% of its total land area under a national protection system and will continue to pursue the expansion of this system by increasing the percentage of forests and wetlands under preservation. 
 
 
-###### Conditional Contribution 
+###### *Conditional Contribution* 
 
 Suriname intends to continue to practice sustainable forestry management in an effort to promote multiple use of its forest resources while at the same time exploring options for the payment of forest climate services that its forest provide. Through this approach, and with adequate financial incentives and support, Suriname intends to maintain its high forest cover and low deforestation rate. As part of this approach, Suriname is keen to strengthen forest governance institutions and collaboration with the private sector and other stakeholders and to expand its program of awareness, monitoring and enforcement while also promoting research and a comprehensive forest inventory to provide detailed information on forests. 
  
@@ -134,27 +104,13 @@ Considering that the tropical rainforests of the Republic of Suriname stores app
 According to the statistics 85% of Suriname's population has access to energy. The energy demand of Suriname's population is between 150MW and 250MW and is met from diesel generation (51.6MW), hydropower (115MW), and small diesel generators with capacity in the range of 10-60kW servicing rural villages. The projected energy demand by 2022 is estimated to be 500MW. 
 
 
+###### *Unconditional Contribution* 
 
 
 
- 
+Suriname has drafted a *National Energy Plan* 2013-2033 outlining a long-term vision and strategy to establish a modern, efficient, affordable energy sector that offers long-term energy security and at the same time advances international competitiveness. An Electricity Bill has been prepared which outlines the formulation of an energy sector plan and the establishment of an energy authority. Several initiatives are already in an advanced stage such as solar energy for communities in the hinterland, a study on waste-to-energy at the national landfill, and micro-hydro power projects in the Interior. Other forms of renewable energy to be explored are wind energy as well as biomass-to-energy. A nation-wide energy efficiency program has commenced aimed at consumer awareness and usage of energy-saving light bulbs as well as promoting energy efficient designs for buildings. In addition, there has been the removal of tariffs on renewable energy products. 
 
- 
- 
-
-
-
-
-
-
-
-###### Unconditional Contribution 
-
-
-
-Suriname has drafted a National Energy Plan 2013-2033 outlining a long-term vision and strategy to establish a modern, efficient, affordable energy sector that offers long-term energy security and at the same time advances international competitiveness. An Electricity Bill has been prepared which outlines the formulation of an energy sector plan and the establishment of an energy authority. Several initiatives are already in an advanced stage such as solar energy for communities in the hinterland, a study on waste-to-energy at the national landfill, and micro-hydro power projects in the Interior. Other forms of renewable energy to be explored are wind energy as well as biomass-to-energy. A nation-wide energy efficiency program has commenced aimed at consumer awareness and usage of energy-saving light bulbs as well as promoting energy efficient designs for buildings. In addition, there has been the removal of tariffs on renewable energy products. 
-
-###### Conditional Contribution 
+###### *Conditional Contribution* 
 Several renewable energy resources are technically feasible. Further studies are required to also explore the potentials of biofuels with rice husk, various grass species, and micro algae as the biological source. In consideration are a hydropower project with a potential output of 168MW; a biofuel project that could realize the introduction of ethanol in gasoline with 60% of vehicles utilizing the blend and at the same time produce 25MW of power; and 62MW from thermal energy. While Suriname has not yet been able to attribute costs to these major renewable energy initiatives, utilizing costs estimations from the International Renewable Energy Agency (IRENA), a 168MW hydropower project could cost between US$189Million and US$1.377Million. In addition, to aggressively pursue renewable energy, Suriname has already considered measures over short, medium and long-term, to upgrade efficiency. This would require financing estimated at approximately US$485 Million. 
 
 
@@ -167,12 +123,12 @@ Implementation of these conditional contributions to energy, is conservatively e
 
 #### ADAPTATION 
 The Republic of Suriname is most vulnerable to the effects of climate change due to its low-lying coastal nature and threats of increased sea level rise and the frequency of extreme weather events. Adaptation therefore  occupies  prominence in Suriname's approach to climate change. Suriname has outlined climate resilience measures as part of the 2012-2016 National Development Plan and is currently undertaking projects and actions as a direct response to climate change. 
-###### Unconditional Contribution 
+###### *Unconditional Contribution* 
 At the strategic level, Suriname has outlined in the 2012-2016 National Development Plan, several critical mitigation measures to be implemented  which include the rehabilitation and enhancement of infrastructure such as dikes to protect the coastal zone; drainage for urban and non-urban areas; improvements to water resources management; protection of freshwater resources in ground aquifers and rivers; promotion of sustainable land management; applying innovative technologies in the use of land; and instituting measures towards increasing ecosystem resilience to ensure these naturally adapt to the changing climate. Within the limitations of its own domestic financial resources, work has already commenced in integrating climate resilience in infrastructure programs as well as in the social and productive sectors such as in agriculture, coastal zone, education, health, and tourism. 
 
 Furthermore, adaptation measures to building climate resilience include improving natural and mechanical infrastructure such as dikes and river defenses; mangrove protection, restoration and expansion, and water management. These efforts have been guided by preliminary vulnerability assessments for key sectors including agriculture, the coastal zone, health, socio-economy and tourism. These assessments also supported the identification of critical adaptation measures of which some are under implementation such as the drafted law for protecting the unprotected parts of the mangrove forests along the coast. The reasons for this measure are to increase natural protection of the vulnerable coastline; protect the mangrove ecosystems on the coast; sequester carbon and reduce GHG emissions caused by uprooting of plants during coastal erosion; to promote natural mangrove regeneration leading to increased fish production and reduced poverty levels. 
 
-###### Conditional Contribution
+###### *Conditional Contribution*
 
 Further research and vulnerability assessments, infrastructure programs, and mainstreaming climate change in the social and productive sectors are critical actions to be taken in increasing resilience to climate change in the coastal zone as well as in the Interior. In addition, the introduction and implementation of various types of renewable energy requires, for instance, the installation of solar panel parks as well as micro-hydro power units river systems; application of biomass-to-energy technology; installation of wind mills; and implementation of waste-to-energy technology. These, in turn, require human and institutional capacity building and financing. Financing is a key requirement to support these actions and determining in a comprehensive way the future costs of adaptation. Building climate resiliency is  viewed  as  an immediate priority. Notwithstanding this, to be able to make minimum level adaptation interventions the Republic of Suriname requires an estimated US$1 Billion to support its climate resilience program of activities in the period up to 2025. 
 

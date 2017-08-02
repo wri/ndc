@@ -1,5 +1,3 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
-
 # Brunei Darussalam's 
 # Intended Nationally Determined Contribution (INDC) 
 
@@ -102,7 +100,7 @@ One of the principal goals of Wawasan Brunei 2035 is to protect its people and t
 Flooding is one of the major climate related risks and causes the most significant climate impacts in Brunei Darussalam. In January 2015, as an example, heavy rainfall coinciding with a high tide caused widespread disruption and damage to transport links such as bridges, river navigation as well as on residential assets. 
 
 The available climate projections suggest that the country needs to prepare for significant changes in the future. The mean surface temperature is expected to increase by 2-3 °C between 2031 and 2060 and by 3- 4°C between 2071 and 2100[^5]. Increased heat stress could result in extreme drought events and a higher risk of water scarcity, along with adversely affecting the health of workers and increasing the occurrence of forest fires. Regarding precipitation, the uncertainty is larger and some long-term projections show a drier February-March season and a wetter April-May-June season. Therefore flooding and increased heat stress are expected to be the major hazards that require integrated adaptation planning and implementation of actions to ensure that the development vision of the country will be achieved. 
-[^5]: Meteorological Service Singapore and Met Office Hadley Centre (2014). A Regional Climate Modelling Experiment for South East Asia. Available at: http://ccrs.weather.gov.sg/wp-content/uploads/2015/03/Regional-Climate-Modelling- Experiment-for-Southeast-Asia.pdf 
+[^5]: Meteorological Service Singapore and Met Office Hadley Centre (2014). A Regional Climate Modelling Experiment for South East Asia. Available at: http://ccrs.weather.gov.sg/wp-content/uploads/2015/03/Regional-Climate-Modelling-Experiment-for-Southeast-Asia.pdf 
 
 #### 3.2 Priority sectors 
 Brunei Darussalam has identified the following sectors for priorities for further climate change adaptation actions: 
@@ -166,14 +164,14 @@ iv. and establishing and promoting the appropriate legislative framework.
 
 For example the Department of Drainage and Sewerage will implement the flood monitoring information system and the Department of Forestry is planning to undertake an updated forest inventory. 
 
-#### 4 Fairness and ambition of the contribution 
+### 4 Fairness and ambition of the contribution 
 Although Brunei Darussalam's total GHG emissions share of global emissions is very small (0.016%), it is highly vulnerable to the adverse impacts of climate change. It recognises the importance for all countries to present fair and ambitious INDCs, and acknowledges the objectives laid out in the Lima Call for Action. 
 
 This document marks Brunei Darussalam's first presentation of mitigation contributions to limit growth in GHG emissions, to the UNFCCC. In developing the INDC, consideration has been given to Article 4.8 and 4.10 of the Convention; recognising Brunei Darussalam's economy is heavily dependent on income generated from the production, processing and export of fossil fuels. Nevertheless, the contributions that have been identified in this INDC are ambitious and highlight significant progression beyond historic and current undertakings. Delivery of the contributions will require major investments in new technologies, such as the promotion of renewable energy technologies that are not currently cost-competitive with fossil plant in Brunei Darussalam's, as well as changes in consumption behaviours of end-users. The main focus of the mitigation actions are currently on the energy sector, the largest sector in the country's economy; however equally ambitious targets have also been presented for the forestry - including increasing the already large areas of protected forest cover - highlighting the Government of Brunei Darussalam's clear objective to limit its net GHG emissions. 
 
 As Brunei Darussalam's first National Communication and GHG emissions inventory are currently under development, quantified GHG reduction targets (or contributions) have not been provided in this version of the INDC. Brunei Darussalam therefore reserves the right to update its INDC as more data becomes available. 
 
-#### 5 Planning for Implementation 
+### 5 Planning for Implementation 
 The production of Brunei Darussalam's INDC is a nationally led process, co-ordinated by the Ministry of Development. In order to successfully deliver on the contributions outlined in this INDC a number of steps have already been taken: 
 
 i. Brunei Darussalam's Initial National Communication and GHG inventory is being drafted. This is the country's first GHG inventory which will give the first accurate estimation of sectoral GHG emissions and will assist with policy development, along with international reporting requirements (e.g. BURs);

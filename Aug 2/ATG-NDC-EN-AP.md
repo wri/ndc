@@ -2,10 +2,12 @@
 # INTENDED NATIONALLY DETERMINED CONTRIBUTION (INDC)   
 ## Communicated to the UNFCCC on 15th October, 2015   
 ### Introduction	 
-The Government of Antigua and Barbuda is committed to the successful conclusion of negotiations under the Ad‐Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in order to adopt, at COP21 in Paris, a new legally binding agreement under the United Nations Framework Convention on Climate Change (UNFCCC) appropriate to all Parties, which will come into effect and be implemented from 2020 onwards.   A
+The Government of Antigua and Barbuda is committed to the successful conclusion of negotiations under the Ad‐Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in order to adopt, at COP21 in Paris, a new legally binding agreement under the United Nations Framework Convention on Climate Change (UNFCCC) appropriate to all Parties, which will come into effect and be implemented from 2020 onwards.  
 
-ntigua and Barbuda hereby communicates its Intended Nationally Determined Contribution (INDC), in accordance with the relevant paragraphs of Decisions 1/CP.19 and 1/CP.20, towards achieving the objective of the Convention to stabilize greenhouse gas (GHG) concentrations to "prevent dangerous anthropogenic interference with the climate system" (Article 2), and towards the Convention's commitment for all Parties to take "measures to facilitate adequate adaptation to climate change" (Article 4).  	 
-As agreed in Decision 1 CP/20 para 11, "Small island developing states may communicate information on strategies, plans and actions for low greenhouse gas emission development reflecting their special circumstances in the context of intended nationally determined contributions." Mitigation and adaptation targets in this INDC are presented in an up‐front format to facilitate clarity and transparency, and are a mix of conditional and unconditional contributions, contingent upon receiving international support for technology transfer, capacity‐building and financial resources.	  Antigua and Barbuda reserves the right to revise this INDC prior to finalization and/or ratification under a new global climate agreement.   
+Antigua and Barbuda hereby communicates its Intended Nationally Determined Contribution (INDC), in accordance with the relevant paragraphs of Decisions 1/CP.19 and 1/CP.20, towards achieving the objective of the Convention to stabilize greenhouse gas (GHG) concentrations to "prevent dangerous anthropogenic interference with the climate system" (Article 2), and towards the Convention's commitment for all Parties to take "measures to facilitate adequate adaptation to climate change" (Article 4).  	 
+
+As agreed in Decision 1 CP/20 para 11, "Small island developing states may communicate information on strategies, plans and actions for low greenhouse gas emission development reflecting their special circumstances in the context of intended nationally determined contributions." Mitigation and adaptation targets in this INDC are presented in an up‐front format to facilitate clarity and transparency, and are a mix of conditional and unconditional contributions, contingent upon receiving international support for technology transfer, capacity‐building and financial resources.	
+Antigua and Barbuda reserves the right to revise this INDC prior to finalization and/or ratification under a new global climate agreement.   
 
 ### Intended Nationally Determined Contribution (INDC)	  
 #### Conditional Adaptation Targets   
@@ -26,6 +28,7 @@ As agreed in Decision 1 CP/20 para 11, "Small island developing states may commu
 
 #### Support for Implementation  	 
 The conditional adaptation and mitigation targets presented in this INDC are contingent upon Antigua and Barbuda receiving international support for capacity building, technology transfer and financial resources, including through the Green Climate Fund (GCF), the Global Environment Facility (GEF), the Adaptation Fund and multilateral agencies and bilateral agreements. The cost of implementing the adaptation targets is estimated at approximately $20M USD per year for the next ten years, and the cost of implementing the mitigation targets is estimated at approximately $220M USD, however these figures require further analysis. 
+
 National contributions include establishing an enabling legal, policy and  institutional environment to facilitate an efficient and effective transfer of resources to support implementation and achievement of the INDC targets. This enabling environment includes enactment of the Renewable Energy Act of 2015 and the Environmental Protection and Management Act (EPMA) of 2015, in addition to policies in energy and the environment such as the National Energy Policy and the Sustainable Energy Action Plan. National efforts have contributed to an enabling financing environment through the Sustainable Island Resource Framework Fund (SIRF Fund), which was established under national environmental law. The Fund's executing agency, the Department of Environment, has achieved accreditation to the Adaptation Fund as a National Implementing Entity, and the Department is seeking direct access to the GCF.   
 ### INFORMATION TO FACILITATE CLARITY AND TRANSPARENCY   	 
 
@@ -34,17 +37,11 @@ National contributions include establishing an enabling legal, policy and  insti
 | Period of implementation | Pre 2020 and 2020 – 2030 |
 | Type of commitment | We recognize that contributions from developed countries may be absolute economy-wide emission reduction targets relative to a base year, and that contributions from developing countries may be policies, measures and actions departing from business as usual. As a developing country, a small island developing state, and one of the lowest emitters in the world, Antigua and Barbuda presents conditional and unconditional policies, measures and actions (non-GHG target). |
 | Reference point | Greenhouse Gas Emissions and Removals (Gg) for 2006 | 
-
-#### Scope and	coverage 
-
+| **Scope and	coverage** ||
 | Emissions impact | Contributions will reduce GHG emissions in the energy sector, reduce dependence on fossil fuels, reduce the cost of energy and help alleviate poverty through increasing access to affordable and sustainable energy. |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sectors | Sectors addressed in the adaptation and mitigation targets include: Energy, Health, Tourism, Agriculture, Waste, Water, Transportation, Forestry and Land Use Change. |
 | Greenhouse Gases (GHGs) | The national GHG inventory covers Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), and Hydrofluorocarbons (HFC). |
 | Geographical boundaries | Entire country |
-
-| Parameter | Information |
-|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Intention to use market-based mechanisms to meet target | Antigua and Barbuda considers the establishment of an international market mechanism as an important complementary option to reduce total costs associated with limiting GHG emissions and to assist global efforts limiting temperature to 1.5 degrees Celsius above pre-industrial levels. Antigua and Barbuda acknowledges the potential for a renewed and reformed Clean Development Mechanism to fulfill this roll through its existing structure. The final mechanism should be a robust system that guarantees transparency and environmental integrity, and delivers real, permanent and verified emissions reductions and ensures that double counting is avoided. |
 
 
@@ -99,6 +96,7 @@ Physical adaptation measures will not always be enough to prevent significant lo
 Without any known fossil fuel resources, Antigua and Barbuda relies almost exclusively on imported fossil fuels for energy: heavy fuel oil in electricity generation; gasoline and diesel in transport; and liquefied petroleum gas (LPG) for cooking. This has resulted in relatively high emissions and extremely high fuel costs. In 2006, Antigua and Barbuda’s national emissions totaled 945.5 Gg CO2, of which 92% were derived from fuel combustion in the energy sector.[^14] In addition, the cost of fossil fuel imports, valued at US $165.4 million in 2013, or equivalent to 13.7% of the country’s GDP, is a financial burden on the country’s economy. The cost of electricity has risen to over US $0.40 per kWh,[^15] and consumers in Antigua and Barbuda pay among the highest electricity prices in the world. High electricity rates inhibit adaptation strategies, such as energy intensive seawater desalination; the provision of essential services; small businesses and low- and middle-income households; and economic growth.
 
 However, in recent years, Antigua and Barbuda has made important strides in its sustainable energy policy. A National Energy Policy (NEP) was approved in November 2011, serving as the main policy for renewable energy (RE) and energy efficiency (EE) development. The NEP sets out the national approach to achieving its vision that, “By 2030 Antigua and Barbuda will meet the needs of the present generation while safeguarding the environment and enabling future generations to meet their own energy needs. All citizens and residents will have access to affordable, efficient, socially responsible and reliable forms of energy”. This strategic plan proposes to exploit local energy resources and reduce fossil fuel dependence. 
+
 In March 2013, Antigua and Barbuda released a Sustainable Energy Action Plan (SEAP), to foster energy conservation and efficiency, diversification of energy sources, sustainable energy consumption and generation as well as the utilization of renewable energy sources. In 2015, Parliament enacted the Renewable Energy Act of 2015, to establish a legal, economic and institutional basis to promote the use of renewable energy resources. Towards this end, Antigua and Barbuda will, **by 2030, achieve an energy matrix with 50 MW of electricity from renewable sources both on and off-grid in the public and private sectors.**
 
 Domestic and industrial waste is a growing environmental concern in Antigua and Barbuda, whereas technological assistance could reverse this trend and create new opportunities. A preliminary review of annual waste streams to the sanitary landfill suggests that some 80,000 tonnes annually of feedstock could be available for conversion to energy if an appropriate facility were available, mitigating CO2, N2O and CH4 emissions. Antigua and Barbuda’s goal is to, **by 2020, finalize technical studies with the intention to construct and operationalize a waste to energy (WTE) plant by 2025.**
@@ -112,14 +110,14 @@ National circumstances highlight the country’s exposure and vulnerability to c
 
 #### Additional	Information	on	Support	for	Implementation
 Antigua and Barbuda requires international support from multilateral and bilateral sources, including through the Green Climate Fund (GCF), the GEF and the Adaptation Fund, for capacity building, climate finance and technology transfer to be able to strengthen its current programs, policies and regulations, to develop and implement new initiatives, and to fully assess and address the impacts of climate change, as defined in the adaptation and mitigation targets. Additional activities requiring support for implementation include, inter alia:
-• Technology, human resources and financial capacity assessment; 
-• Support for the development of a Technology Strategy and Road Map that includes repurposing, decommissioning, and disposing of stranded assets; 
-• Comprehensive assessment of the national costs of adaptation and mitigation; 
-• Elaboration of a National Adaptation Plan; 
-• Enhancing Measurement, Reporting and Verification (MRV) processes; 
-• Development of standardized baselines to assess and monitor the impacts of implementing INDC adaptation and mitigation initiatives; 
-• Support for data collection, storage and management; and 
-• Support for education, training, public awareness, public participation, public access to information, and international cooperation throughout implementation of the INDC targets.
+* Technology, human resources and financial capacity assessment; 
+* Support for the development of a Technology Strategy and Road Map that includes repurposing, decommissioning, and disposing of stranded assets; 
+* Comprehensive assessment of the national costs of adaptation and mitigation; 
+* Elaboration of a National Adaptation Plan; 
+* Enhancing Measurement, Reporting and Verification (MRV) processes; 
+* Development of standardized baselines to assess and monitor the impacts of implementing INDC adaptation and mitigation initiatives; 
+* Support for data collection, storage and management; and 
+* Support for education, training, public awareness, public participation, public access to information, and international cooperation throughout implementation of the INDC targets.
 
 Antigua and Barbuda expresses that this INDC is provisional and an updated version will be submitted upon the completion of the Technology Strategy and Road Map and following ratification of the Paris Agreement in December 2015.
 

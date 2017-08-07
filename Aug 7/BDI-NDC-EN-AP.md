@@ -1,7 +1,7 @@
 # REPUBLIC OF BURUNDI 
 
 ## INTENDED NATIONALLY DETERMINED CONTRIBUTION (INDC) / BURUNDI 
-## September 2015 
+September 2015 
 
 ### 1. NATIONAL CONTEXT 
 
@@ -16,7 +16,7 @@ In Burundi, activities relating to climate change were marked in particular by t
 
 The prospects for sustainable ecological growth were defined through Burundi Vision 2025 and translated into a short term action plan as part of the Growth and Poverty Reduction Strategic Framework covering the period of 2012-2015. In the medium to long term, the Government plans to engage in a transition toward a green economy. Burundi Vision 2025 makes a firm commitment to prioritizing the country's protection and rational management of the environment such that Burundians can live in a protected, properly managed setting. 
 
-The Government has stated itsvision of the fight against climate change as follows: "A State that promotes development that is resilient to the harmful effects of climate change". 
+The Government has stated its**vision** of the fight against climate change as follows: "***A State that promotes development that is resilient to the harmful effects of climate change***". 
 
 At the institutional level, the Ministry of Water, the Environment, Land Management and Urban Planning, with its departments and personalized institutionssuch asIGEBU and OBPE, handles matters relating to climate change. For the fulfilment of its mission, the Ministry enjoys the support of frameworks for dialogue such as the National Environment Commission, the Sectoral Group on Water, Sanitation and the Environment (GSEAE), the National Water Partnership (PNE-Bu), and the National Platform for Risk Prevention and Disaster Management. 
 
@@ -203,11 +203,8 @@ The Government of Burundi will implement the INDC through the Ministry of the En
 Despite the non-negligible step already taken to create and build capacities, national experts are still insufficient and have not yet acquired significant proficiency in the tools and methodologies available to produce GHG emissions inventories, climate change vulnerability and adaptation studies, and GHG emissions mitigation studies, as well as solid proficiency in the procedures used to compile financing applications for the available funding mechanisms. As a result, capacity-building will be needed to offset the following: 
 
 - Insufficient climate data due to outdated facilities;  
-
 - Insufficient  scientific  personnel  able  to  satisfactorily  run  programmes  and research topics linked to climate change;
-
 -  Difficulty  training  technical  and  scientific  personnel  on-site  or  abroad  due  to the non-existence of training institutions specializing in climate in Burundi and limited cooperation with the outside world;  
-
 - Insufficient quality and quantity of domestic technical expertise.  
 
 #### 4.3. Technology transfer needs 
@@ -215,9 +212,7 @@ Despite the non-negligible step already taken to create and build capacities, na
 Burundi does not have the technical resources to do research and development in the field of climate change and has no national programme on the subject. As part of the INDC's implementation, Burundi's technology transfer actions will pertain to: 
 
 -  Promoting  research  and  development,  adopting  new  technologies,  and harnessing them for the national context;  
-
 -  Reinforcing the operations of certain organizations and institutions involved in climate change; 
-
 -  Skills training, education and international cooperation. 
 
 #### 4.4. Consideration of gender, youth and vulnerable groups 
@@ -238,9 +233,9 @@ Table 6: Programmes and costs associated with implementation of the INDC (Source
 | Mitigation of greenhouse gas emissions and low carbon  developments |  Development of hydroelectricity  Decentralized rural electrification through the use of photovoltaic systems  Energy efficiency in production, transport, distribution and consumption (reduction of losses, low energy light bulbs and energy saving equipment)  Peat carbonization, and densification and carbonization of coffee husks, rice hulls and sawdust  Distribution and dissemination of improved ovens  Intermittent drainage in rice cultivation  Composting of waste from the defoliation of sugar cane plantations  Recovery of the fermentable fraction of urban waste that can produce compost and biogas  REDD pilot programme | 1,446,118 |
 | Promotion of research & development and technology transfers |  Development of small scale hydro-power (Pico hydro, water wheels, etc.)  Resumption of research and development, distribution and extension of renewable energies (biogas, wind power and gasification)  Urban waste recovery techniques  Urban transit with low GHG emissions  Adaptation of agriculture to climate change  Waste recovery techniques for agriculture, forestry and livestock farming | 25,787 |
 | Capacity-building, knowledge management and communication |  Improvement of sustainable forest and reforestation management methods and techniques  Enhancement of data and information management and distribution mechanisms  Reinforcement of climate change impact tracking systems  Improvement of scientific and technological research on mitigating and adapting to climate change  Design and set-up of a national REDD monitoring, reporting and verification mechanism, plus other actions relating to climate change  Improvement of the legislative and regulatory framework for handling climate change as part of investment programmes and the promotion of public-private partnerships  Strengthening of the information and data communication and exchange system | 3,465 |
-| Reforestation and agroforestry1 |  Reforestation of terrains on steep slopes  Colonization of terrains on mild slopes through agroforestry | 10,000 |
-| Extension of improved kilns1 |  Training of charcoal producerson building and using improved kilns | 1,500 |
-| Extension of improved domestic and artisanal ovens1 |  Training of craftsmen on producing improved ovens (metal and pottery)  Awareness raising and promotion of improved ovens for the home and crafts industries (brickworks, tile factories, restaurants, etc.) | 3,000 |
+| Reforestation and agroforestry[^1] |  Reforestation of terrains on steep slopes  Colonization of terrains on mild slopes through agroforestry | 10,000 |
+| Extension of improved kilns[^1] |  Training of charcoal producerson building and using improved kilns | 1,500 |
+| Extension of improved domestic and artisanal ovens[^1]|  Training of craftsmen on producing improved ovens (metal and pottery)  Awareness raising and promotion of improved ovens for the home and crafts industries (brickworks, tile factories, restaurants, etc.) | 3,000 |
 
 ### ANNEX: List of Acronyms and Abbreviations 
 ACCES:  Climate Change Adaptation for Soil and Water Resources Conservation Project 
@@ -264,22 +259,4 @@ SFPR:  Strategy Framework for Poverty Reduction
 UNFCCC:   United Nations Framework Convention on Climate Change 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
-1: Communal forest management plan (MEEATU/PPCDR, 2013). 
+[^1]: Communal forest management plan (MEEATU/PPCDR, 2013). 

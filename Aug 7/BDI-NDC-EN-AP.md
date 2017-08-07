@@ -148,7 +148,7 @@ Table 3: Emissions by mitigation objective
 | Unconditional objective (2020) % | 1% | 653 |
 | Conditional objective (2020) % | 11% | 4,897 |
 
-![Figure 1 : Mitigation objectives for 2030](./AAA-1.PNG)
+![Figure 1 : Mitigation objectives for 2030](./BDI-1.PNG)
 
  
 

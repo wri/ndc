@@ -1,6 +1,6 @@
 # Republic of Argentina
+## First Revision of its Nationally Determined Contribution
 
-### First Revision of its Nationally Determined Contribution
 ### 1. Background
 In accordance with the Decisions 1/CP.19 and 1/CP.20, and taking into account the principles, dispositions and structure of the UNFCCC (United Nations Framework Convention for Climate Change), the Republic of Argentina has presented on October 1st, 2015 its Intended Nationally Determined Contribution (INDC). As from the achievements reached during the twenty first session of the Conference of the Parties (COP 21), in particular the Paris Agreement, the country decided to make a first effort of revision of its INDC, effort that shall continue for the next years. Argentina has signed and ratified the Paris Agreement, submitting the ratification document on September 21st, 2016; therefore this present reviewed contribution shall replace the first version of its NDC (National Determined Contribution) according to paragraph 22nd of the Decision 1/CP.21.
 The efforts of Argentina together with all those of the Parties to the UNFCCC are oriented to achieving the objective of the Convention as set out in its article 2, as well as the purpose of the Paris Agreement. Argentina understands that, while it moves forward in the resolution of technical aspects related to the communication of the contributions pursuant to the mandate given by the Decision 1/CP.21, paragraph 28, and in view of the rapid come into force of the Paris Agreement, this is an opportunity to review its contributions to the global efforts on the fight against climate change. Such review is based on what is set out on article 4, paragraph 11 of the Paris Agreement focused on increasing the level of ambition and providing more clarity, transparency and understanding to the contribution, according to decision 1/CP.21, paragraph 27. The efforts of the Parties that were communicated through the NDCs involve both elements of mitigation and adaptation and means of implementation according to article 3 of the Paris Agreement. In this sense, Argentina submits its reviewed NDC, composed of mitigation and adaptation elements, which as well involve implementation means that are needed to increase the proposed ambition.
@@ -11,12 +11,10 @@ The reviewed NDC is presented in two different parts. Section 2 presents a new g
 Argentina presents an adaptation communication according to articles 7.10 and 7.11 of the Paris Agreement, which includes **national circumstances, vulnerability and climate change impact, efforts done and in process, as well as concrete needs** that come up from the national process within the framework of the Climate Change National Cabinet. Likewise, within the framework of article 7.9 of Paris Agreement, Argentina is preparing the design and implementation of a National Adaptation Plan (PNA) before 2019.
 
 ### 3. NDC additional information
-### 3.1 Mitigation goal characteristics
+#### 3.1 Mitigation goal characteristics
 The following information is included in order to optimize the understanding of consistency, comparability, technical viability and policy of the mitigation goal. 
 **Scope and Coverage**: The whole national territory [^1] including the following sectors: energy[^2] , industrial processes, agriculture, cattle, land use change, silviculture and waste. Moreover, it includes all the Greenhouse Gases regarded under the Convention: Carbon dioxide (CO2), Methane (СН4); Nitrous oxide (N2O); Hydrofluorocarbons (HFCs); Perfluorocarbons (PFCs); and sulfur hexafluoride (SF6).
-**Methodological approach**: An inventory-based approach for the estimation and accounting of
-anthropogenic emissions of greenhouse gases and the removal of carbon dioxide pursuant to the
-methodological guidelines of the Intergovernmental Panel on Climate Change (IPCC) of 2006.
+**Methodological approach**: An inventory-based approach for the estimation and accounting of anthropogenic emissions of greenhouse gases and the removal of carbon dioxide pursuant to the methodological guidelines of the Intergovernmental Panel on Climate Change (IPCC) of 2006.
 **Metric**: The Global Warming Potential (GWP-100) is used as metric using the values of the IPCC SAR, notwithstanding the possibility of using other metrics in the future.
 **Uncertainty**: The monitoring of reductions in the agriculture, livestock, land use change and silviculture sectors is more uncertain than the other sectors and therefore the projected emissions, reductions, and absorptions by such sectors shall be monitored and eventually reviewed with more frequently. In addition it is planned to enforce the forest monitoring system. Another source of uncertainty is given by the projections of economic growth to the year 2030 and its associated emissions, through which planned emissions reduction are estimated.
 **Improvements to the contribution submitted in 2015**: As result of the INDC revision submitted in 2015, Argentina improved its contribution by planning unconditional mitigation measures that manage to lower their target to 2030 from 570 to 483 million tCO2eq. The difference of 87 million tCO2eq- between the original contribution and the reviewed one derives from two principal aspects. Firstly, the change to IPCC 2006 methodology allows the improvement of the inventory quality by avoiding therefore the overestimation of the agricultural emissions, giving a difference of 79 million tCO2eq. Secondly, the revision of more than 50 unconditional measures and the incorporation of new ambitious measures to the national contribution imply 8 million tCO2eq of additional reduction.
@@ -25,23 +23,22 @@ methodological guidelines of the Intergovernmental Panel on Climate Change (IPCC
 [^1]: The Argentine Republic expresses that information regarding Malvinas Islands, South Georgia and SouthSandwich Islands and surrounding maritime areas, is not included as that said part of its national territory issubject to illegal occupation from The United Kingdom of Great Britain and North Ireland and is subject ofdispute of sovereignty recognized by successive resolutions of the United Nations and declarations by otherinternational forums and organizations, thus Argentina is in fact prevented from to access that part of theterritory.
 [^2]:  Emissions related to aviation and international maritime transport activities are not included
 
-![Image 1. Emissions trajectories on the BAU, unconditional and conditional measures scenarios.
-Argentina 2016](ARG1) 
+Image 1. Emissions trajectories on the BAU, unconditional and conditional measures scenarios. Argentina 2016
+![Image 1. Emissions trajectories on the BAU, unconditional and conditional measures scenarios. Argentina 2016](./ARG-1.png) 
 
-Source: Based on the Second Biennial Update Report of the Greenhouse Gases Inventory (GHGs)
-of Argentina (2016) and projections of emissions to 2030.
+Source: Based on the Second Biennial Update Report of the Greenhouse Gases Inventory (GHGs) of Argentina (2016) and projections of emissions to 2030.
 
-### 3.2 Fair and ambitious contribution
+#### 3.2 Fair and ambitious contribution
 In order to do an objective evaluation of the justice and ambition of Argentina’s reviewed contribution, the following data sources were taken into account: (i) The update of the GHGs inventory recently finished by the Argentine Republic for the year 2014 and (ii) the Emissions Gap Report of the United Nations Environmental Program (UNEP) for 2016. Based on such studies the following indexes were taken into account in order to measure, in relative terms, the values of the following reviewed NDC:
 (a) **The participation of Argentina in global emissions compared to its participation in the efforts offered for global reduction at present**: The participation[^3] of the Argentine Republic in the globalemissions of GHGs in 2014 was of 0.7% of the total global emissions[^4] . Argentina’s reviewed mitigation contribution represents a participation of 2.8% of the country over the total amount of unconditional reductions informed by the Parties of UNFCCC (sum of submitted contributions)[^5] Insuch sense, Argentina`s reviewed contribution, compared to the unconditional contributions of the rest of the countries, is four times its current participation in the global emissions, thus showing its ambitious level.
 (b) **Argentina’s participation in the global emissions compared to its participation in the needed efforts to achieve the goal of 2ºC in the future**: If all the unconditional measures accounted in the present NDC were implemented, the contribution of the Argentina to the needed global effort for the year 2030 in order to achieve the goal of maintaining the temperature increase below 2ºC regarding preindustrial levels[^6] would be very close to the proportion of its current emissions(0,6%[^7] of the reductions compared to 0,7% of the emissions). This indicator shows the justice ofthe presented goal, and the reasonability of the decision of continuing with the revision process ofthe mitigation measures that compose the NDC, in order to adequately contribute to the global effort needed to achieve the climate goals of the Agreement, identifying new actions which shall be duly informed as part of the national contribution presented before the UNFCCC.
-(c) **Argentina’s participation in global emissions, compared to its participation in the needed efforts to achieve the goal of 2ºC in the future if it were to implement all conditional planned measures**: If all conditional measures included in the NDC were implemented, the contribution of Argentina to the needed global effort for 2030 of achieving the goal of keeping the temperature below 2ºC regarding preindustrial levels[^8] will almost duplicate its proportion of current emissions (1,3% of the reductions compared to the 0,7% of the emissions). That would demonstrate its capacity of contributing with the necessary global ambition through the implementation of the identified conditional measures[^9]
+(c\) **Argentina’s participation in global emissions, compared to its participation in the needed efforts to achieve the goal of 2ºC in the future if it were to implement all conditional planned measures**: If all conditional measures included in the NDC were implemented, the contribution of Argentina to the needed global effort for 2030 of achieving the goal of keeping the temperature below 2ºC regarding preindustrial levels[^8] will almost duplicate its proportion of current emissions (1,3% of the reductions compared to the 0,7% of the emissions). That would demonstrate its capacity of contributing with the necessary global ambition through the implementation of the identified conditional measures[^9]
 
 [^3]:  Second Biennial Report Update of the GHGs Inventory of the Argentine Republic, corresponding to the year2014, pursuant to the methodologic guides of the IPCC 2006.
 
 [^4]: Global emissions: 52700 MtCO2eq. (2014). Source: The Emissions Gap Report (UNEP, 2016).
 
-### 3.3 Adaptation component
+#### 3.3 Adaptation component
 Argentina is including in its contribution aspects linked to adaptation, pursuant to section 7.10 and 7.11 of Paris Agreement. It’s worth mentioning that, pursuant to section 7.9 of the Paris Agreement, Argentina shall develop and implement a PNA for the year 2019. The PNA, which will have subnational and sectorial chapters, shall serve to prioritize adaptation actions at national level, and to generate a conceptual and institutional framework that shall allow the design and implementation of the local adaptation plans by other actors.
 
 [^5]: The 2,8% is calculated based on the relation between the reduction informed by Argentina in this reviewed
@@ -54,7 +51,7 @@ reductions (17600 MtCO2eq.) estimated by UNEP in order to achieve the temperatur
 Agreement. Source: The Emissions Gap Report (UNEP2016).
 [^8]: 17600 MtCO eq. Source: The Emissions Gap Report (UNEP, 2016).
 [^9]: The average of 1.3% rises from the relation between the reviewed conditional mitigation contributionproposed by Argentina (223 MtCO2eq.) which includes every conditional and unconditional measures, and the necessary reductions (17600 MtCO2eq.) estimated by UNEP in order to achieve the temperature goal of the Paris Agreement.
-### 3.3.1 Climate Change national circumstances, vulnerability and impacts
+##### 3.3.1 Climate Change national circumstances, vulnerability and impacts
 With a total estimated of 43,590,000 population to the year 2016, spread over 23 provinces and the Autonomous City of Buenos Aires, Argentina has a 92%[^10] population that lives in urban zones, figure that is over the regional and global average. At the same time, the country has a huge biodiversity, with different geomorphological, climatic and edaphic characteristics, situation that brings 18 ecoregions, from which 8 have been classified as high priority for conservation. Recent studies showed that during the period 1960-2010 the average temperature in most of Argentina increased around 0.5ºC, reaching almost 1ºC in some areas of the Patagonia, and registering an increase of the days with heat waves and a reduction in the days with frost[^11] . Regarding rainfall, the largest increases occurred in the East of the country, causing floods of a large socio-economic impact. In semiarid areas, it was registered a reduction on the rainfalls in the mountain areas and a reduction in the flow of the rivers in the Cuyo region.[^12]
 
 Regarding the potential impacts of climate change for the rest of the XXI century, it is important to note that a rise on the average temperature between 0.5 and 1°C in almost all the country around the middle of the century is forecasted. That would imply an acceleration of the warming observed on the last 50 years. Regarding the average rainfall, large variations aren’t expected for the upcoming decades. Nevertheless, consistent with what has been recently observed, an increase on the frequency of intense rainfall events is forecasted. [^13]
@@ -69,12 +66,10 @@ The vulnerability regarding climate change becomes highly relevant regarding the
 
 When looking at the energy system, the electricity and natural gas demand may be affected significantly because of climate change as there may be changes on the extreme thermic conditions. The high electric demand may cause severe problems to the distribution network on highly-populated urban centers. The hydroelectric generation could also face significant impacts because of the river streams, as well as the infrastructure of the transport network because of severe winds. [^18]
 
-The risk of the transmission of dengue fever and other diseases caused by the same vector is
-elevated all year long in the north and northeast of Argentina, while in the center of the country the risk is focused on summer. Because of global warming, intensification on the transmission ofdiseases on the current endemo-epidemic areas is expected. [^19] For the tourism sector, it is expected that the general demand won’t be affected by climate change on the near future. Nevertheless, it is likely that some destinations will be affected, with
-tourists travelling to other areas according to their seasonality. [^20]
+The risk of the transmission of dengue fever and other diseases caused by the same vector is elevated all year long in the north and northeast of Argentina, while in the center of the country the risk is focused on summer. Because of global warming, intensification on the transmission ofdiseases on the current endemo-epidemic areas is expected. [^19]
+For the tourism sector, it is expected that the general demand won’t be affected by climate change on the near future. Nevertheless, it is likely that some destinations will be affected, with tourists travelling to other areas according to their seasonality. [^20]
 
-[^10]: World Bank. World Development Indicators. Urban population in Argentina. Available at
-http://datos.bancomundial.org/indicador/SP.URB.TOTL.IN.ZS.
+[^10]: World Bank. World Development Indicators. Urban population in Argentina. Available at http://datos.bancomundial.org/indicador/SP.URB.TOTL.IN.ZS.
 [^11]: Third National Communication, p.99. (http://unfccc.int/resource/docs/natc/argnc3s.pdf).
 [^12]: Ibid, p.101
 [^13]: Ibid, p.105
@@ -83,45 +78,36 @@ http://datos.bancomundial.org/indicador/SP.URB.TOTL.IN.ZS.
 [^16]: Ibid, p.125
 [^17]: Ibid, p.127
 
-### 3.3.2 Current efforts and adaptation needs
+##### 3.3.2 Current efforts and adaptation needs
 The process of creating a PNA has started within the National Climate Change Cabinet. The plan will be based on the priorities identified by all sectors, jurisdictions (represented by the FederalCouncil of the Environment –COFEMA- and the participation of municipal representatives) andrelevant actors of the civil society, academia and the private sector.
 During 2016, adaptation meetings with representatives from the national government were carried out (with the participation of the Ministries of Agro-Industry, Energy, Health, Science, Technology and Productive Innovation, Defense, Security, Finance and Public Finance, Interior andTransportation). A process to review the current policies and programs of public and private investment on adaptation has started, with meetings on the Extended Cabinet with the participation of all relevant actors.
 On this first phase of the review process that will continue in the future, a set of initial needs regarding adaptation were identified:
 -Investigation and development area
-* Widening of the monitoring networks, strengthening of the early alert systems and the
-health climate services, food security, water, energy and reduction of the disaster risks
-* Boosting the investigation and development (I+D) and technologies projects as well as the
-good productive practices.
-* Mapping the vulnerabilities and climate risks as a diagnosis tool of the state of play and
-support of the management of adaptation to climate change.
-* Economic quantification of the climate change impacts and the implementation of
-adaptation measures.
+* Widening of the monitoring networks, strengthening of the early alert systems and the health climate services, food security, water, energy and reduction of the disaster risks
+* Boosting the investigation and development (I+D) and technologies projects as well as the good productive practices.
+* Mapping the vulnerabilities and climate risks as a diagnosis tool of the state of play and support of the management of adaptation to climate change.
+* Economic quantification of the climate change impacts and the implementation of adaptation measures.
 
 -Institutional strengthening area
-* Capacity building on human resources and improvement on the inter-institutional
-coordination for planning and management on adaptation to the climate change.
-* reation of multidisciplinary teams to support the diverse ongoing or planned initiatives,
-with the objective of supporting the processes of land management.
+* Capacity building on human resources and improvement on the inter-institutional coordination for planning and management on adaptation to the climate change.
+* reation of multidisciplinary teams to support the diverse ongoing or planned initiatives, with the objective of supporting the processes of land management.
 
 -Priority activities to reduce vulnerability
 * Using finance instruments or market risk transfer and production of the agricultural sector
-* Development of structural and non-structural works to prevent floods, droughts and heat
-waves.
-* trengthening of initiatives that support the recovery and rehabilitation of lands, including
-the adaptation based in ecosystems.
+* Development of structural and non-structural works to prevent floods, droughts and heat waves.
+* trengthening of initiatives that support the recovery and rehabilitation of lands, including the adaptation based in ecosystems.
 
 -Awareness and education
-* Creation of citizen awareness and move forward on the communication strategy such as
-broadcast channels, quality of messages and adaptation to the new technologies
-* Development of formal and non-formal education programs on impacts, vulnerability and
-adaptation to the climate change.
+* Creation of citizen awareness and move forward on the communication strategy such as broadcast channels, quality of messages and adaptation to the new technologies
+* Development of formal and non-formal education programs on impacts, vulnerability and adaptation to the climate change.
 [^18]: Ibid, p.131
 [^19]: Third National Communication, p.137. (http://unfccc.int/resource/docs/natc/argnc3s.pdf).
 [^20]:  Ibid, p.140. 
+
 After the creation of the Direction of Adaptation in December 2015, Argentina has started to workon some of these needs such as the development of a virtual platform to visualize climate risks, a step between the diagnosis and the decision making process. With the objective of strengthening the information and knowledge systems, sectorial studies are being carried out on impact, vulnerability and adaptation that will contribute to the planning and implementation of measures and policies of adaptation on a local, provincial and national level. In that regard, it’s important to highlight that the country is currently implementing two adaptation projects on the agricultural sector (for a total US$9.936.817) with funds provided by the Adaptation Fund. Those projects allow funding concrete measures on adaptation for highly-vulnerable communities. In that regard, the projects are linked: in the Northeast of Argentina, with the adaptation and resilience of family agriculture to climate change impacts and its variability, and in the Southwest of Buenos Aires province, with climate resilience and sustainable land management.
 The upcoming table summarizes the initiatives and actors identified in 2016 by the National Climate Change Cabinet. It can be considered the ground work for the development of the National Adaptation Plan.
 
-Figure 2: Measures and proposing institutions[^21]
+**Figure 2: Measures and proposing institutions[^21]**
 
 | Adaptation 	|  	|
 |-------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -133,19 +119,18 @@ Figure 2: Measures and proposing institutions[^21]
 | Vulnerability reduction 	| ·     National public   agencies: Agroindustry, Transport, Energy, MAyDS,   SMN, MINCYT     ·     Provinces: Salta, Tierra del Fuego, Buenos Aires, Santiago del Estero, San   Juan, Mendoza, Misiones, Córdoba, Jujuy, Entre Ríos     ·     Private sector: UpGrid     ·     NGOs/associations:   Fundación C40 	|
 | Identification and promotion of good   practices and tools for adaptation 	| ·     National public   agencies: Agro- industry, MAyDS     ·     Provinces: Río Negro, Jujuy     ·     NGOs/associations: AVINA+ACDI+ProAdapt, CTA-A, Fundación C40 	|
 | Institutional strengthening and capacity   building 	| ·     National public   agencies: MinCyT, SMN, MAyDS     ·     Provinces: Jujuy, Misiones, Chaco, Córdoba, CABA, Tierra del Fuego,   Buenos Aires, Entre Ríos, Tucumán, San Juan     ·     Municipalities/communes:   Daireaux, Totoras     ·     Universities: USAL     ·     NGOs/associations:     AVINA+ACDI+ProAdapt 	|
-| Education and communication 	| ·     National public agencies: SMN 	|
-|   	| ·     Provinces: CABA, Santiago del Estero, Tucumán     ·     Universities: UNGS – UMET     ·     NGOs/associations:   AVINA+ACDI+ProAdapt, ONG Proyectar- Fundación   Nehuen – Bioproyectual, CIPPEC 	|
+| Education and communication 	| ·     National public agencies: SMN ·     Provinces: CABA, Santiago del Estero, Tucumán     ·     Universities: UNGS – UMET     ·     NGOs/associations:   AVINA+ACDI+ProAdapt, ONG Proyectar- Fundación   Nehuen – Bioproyectual, CIPPEC 	|
 
 [^21]:  Acronyms. MinCyT: Science, Technology and Productive Innovation Ministry. MAyDS: Environment andSustainable Development Ministry. ACDI: Cultural Association for the Integral Development. UNGS: GeneralSarmiento National University. UMET: Metropolitan University for the Education and Work. CIPPEC: Centerfor Implementation of Public Policies for Equity and Growth. CISP: Comitato Internazionale per lo Sviluppodei Popoli. CEADS: Argentine Business Council for the Sustainable Development. SMN: National WeatherService. USAL: Salvador University. 
 
 
-### 3.4 Improvements on the institutionalism of climate change
+#### 3.4 Improvements on the institutionalism of climate change
 After the change of administration at the end of 2015, climate change has taken a new dimension through a strategic approach, with a strong political support and a new commitment, considering the global needs to tackle one of the largest challenges the humanity now faces.
 The Environment and Sustainable Development Ministry was created in December 2015, strengthening the institutional structure for climate change governance, with a Secretary, an Under-Secretary and a National Direction with specific competence on the issue. Starting on March 2016, the National Cabinet of Climate Change became fully functional (Decree 891/2016), grouping 12 ministries. This decision allowed having an instance of participation, review and high level political validation to agree on measures over which the reviewed NDC was built upon. The cabinet coordinates its work in thematic sectorial meetings (energy, agriculture and forests, waste, transport and industry) as well as in transversal meetings (awareness and education, adaptation and finance). It also includes a formal instance of participation for the provinces through COFEMA and non-governmental organisms (NGOs), work associations, private, academic and scientific sectors and municipalities through the Extended Table of the National Cabinet of Climate Change.
 The Cabinet agreed to present the result of the work carried out throughout the year as a revised contribution, without interrupting the pending tasks to continue increasing the ambition and improving the inventory and monitoring systems, to be presented in the future under the form of a new NDC.
 The current revision of the contribution incorporates the results of the review of the measures of the national contribution, as well as the results of the 2014 second Biennial Update Report (BUR), done with the IPCC 2006 methodology. That allowed improving the methodological consistency of the NDC by showing, among other things, the particularities of the agricultural practices used in Argentina.
 At the same time, the government worked alongside the National Congress for the fast approval of the Paris Agreement, accomplishing a wide support by the majority of the lawmakers of all the political parties (Law 27.270 passed on September 1st 2016). By depositing the ratification instrument on September 21, 2016, Argentina contributed to the rapid entry into force of the Agreement.
-### 3.5 Use of markets
+#### 3.5 Use of markets
 On its article 6 paragraphs 2 and 4, the Paris Agreement makes a reference to a cooperative focus that involves the use of mitigation results transferred internationally, as well as mentioning the establishment of a mechanism to contribute to the mitigation of greenhouse gasses among the parties of the Agreement. In this regard, any transfer of units of emissions reductions reached in the Argentine territory must have the authorization of the national government. All emissions reductions in the national territory will be accounted for the accomplishment of the goal of the NDC, except a disposition that specifically says otherwise. 
 
 ### Acronyms

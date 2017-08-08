@@ -19,41 +19,43 @@ The intended nationally determined contribution is prepared in accordance with d
 #### 1. The need to include adaptation in contribution 
 For the Kyrgyz Republic, a mountainous country that has a high vulnerability to the impacts of climate change, the implementation of adaptation actions is vital [^1]. 
 
-#### 2. The most vulnerable sectors and expected economic losses in absence of adaptation actions  [^2]  
-| Sector | Losses2,  mln $2005 |
+#### 2. The most vulnerable sectors and expected economic losses in absence of adaptation actions   
+| Sector | Losses[^2],  mln $2005 |
 |-------------------------|---------------------|
 | Water resources | 718 |
 | Agriculture | 70 |
 | Energy | 200 |
 | Emergencies | 38 |
 | Healthcare | 110 |
-| Forest and Biodiversity | 94.8 |
-| Total: | 1230.8 |
+| Forest and Biodiversity | 94.80 |
+| Total: | 1230.80 |
  
 The current assessment of economic losses is the lower bound, as a result of the specific national assessment methods. The revision of the methods is envisioned. Reduction of economic losses in the hydro energy sector will be reached through mitigation actions. 
 #### 3. Adaptation target
 To prevent the climate change related damage and losses in the country. 
 
 ### 4. Resources required to reduce calculated losses, mln. $ 2005  
+
+##### 4.1. Domestic costs  [^3] 
 213.40 
-#### 4.1. Domestic costs  [^3] 
+##### 4.2. International support 
 1592.10
-#### 4.2. International support 
+##### 4.3. Total 
 1937.50 
-#### 4.3. Total 
-### 5. Reduced economic losses, mln. $ 2005 
-#### 5.1. Through domestic activities 
+#### 5. Reduced economic losses, mln. $ 2005 
+##### 5.1. Through domestic activities 
 135.60 
-#### 5.2. Through international support 
+##### 5.2. Through international support 
 1011.40 
-#### 5.3. Total 
+##### 5.3. Total 
 1230.80 
 #### 6. Monitoring and reporting 
 The monitoring over implementation of the adaptation contribution will be combined with a process of regular updating of the national priorities and sectorial adaptation programs and action plans. Preparation of the updated programs and plans will be based on assessments of the earlier adaptation plans' outcomes. 
 
 ### Contribution to mitigation 
 #### 1. Long term GHG emissions target 
-Limiting the per capita GHG emissions to maximum of 1.23 t/CO2, or 1.58 t/CO2 in 2050 to achieve the below 2°C objective, with a probability of 66% and 50% respectively. Based on the IPCC and IEA developments in the context of the below 2°C objective, the target is communicated in CO2. For INDC monitoring, emission of other GHGs was accounted in CO2-eq (shown in Section 12). 
+Limiting the per capita GHG emissions to maximum of 1.23 t/CO2, or 1.58 t/CO2 in 2050 to achieve the below 2°C objective, with a probability of 66% and 50% respectively.
+Based on the IPCC and IEA developments in the context of the below 2°C objective, the target is communicated in CO2. For INDC monitoring, emission of other GHGs was accounted in CO2-eq (shown in Section 12). 
 #### 2. Time frame 
 January 1, 2020 - December 31, 2030,  and 2050 
 #### 3. Contribution 
@@ -64,13 +66,14 @@ Kyrgyz Republic will reduce GHG emissions in the range of 12.67 - 15.69% below B
 #### 4. Base year 
 Not used to determine the targets as they are indicated in  per capita GHG emission. 2010 is taken for the emissions modeling.  
 #### 5. Scope 
-•  Energy 
-•  Industrial processes, solvents and other product use 
-•  Agriculture 
-•  Land use, land use change and forestry 
-•  Waste 
+*  Energy 
+* Industrial processes, solvents and other product use 
+*  Agriculture 
+* Land use, land use change and forestry 
+* Waste 
 
-#### 6. Greenhouse gases  Carbon dioxide (CO2 )      
+#### 6. Greenhouse gases  
+Carbon dioxide (CO2 )      
 Methane (CH4)     
 Nitrous oxide (N2O)    
 Hydrofluorocarbons (HFCs) 
@@ -91,8 +94,13 @@ To  assess  the  potential  mitigation  actions  to  achieve  the  long  term  G
 *  Scenario 1: Low population growth - high economic growth; 
 *  Scenario 2: Average population growth - average economic growth; 
 *  Scenario 3: High population growth - low economic growth. 
-The following estimates of population for 2050 (in Scenario 1 - 6872; Scenario 2 - 7975; Scenario 3 - 9170. Figure below provides a graphical illustration of per capita emissions for the three scenarios. 
-![Figure 1 ](./AAA-1.PNG)
+
+The following estimates of population for 2050 (in thousands): Scenario 1 - 6872; Scenario 2 - 7975; Scenario 3 - 9170. 
+Figure below provides a graphical illustration of per capita emissions for the three scenarios. 
+
+![](./KGZ-1.png)
+
+
 #### 10. Expected GHG emissions reduction and resources required for mitigation to 2100, mln. $2005 
 |  | Total |  | Domestic efforts |  | International Support |  |
 |------------|--------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------|
@@ -114,23 +122,25 @@ The following estimates of population for 2050 (in Scenario 1 - 6872; Scenario 2
 |  | International support | 12,76 | 17,51 | 21,98 | 20,78 |
 |  | Total | 23,86 | 29,00 | 35,06 | 41,66 |
 
-### 12. GHG emissions reduction 
-#### 12.1. GHG emissions reduction through domestic efforts and international support for Scenario 1 
-![Figure 2 ](./AAA-1.PNG)
-#### 12.2. GHG emissions reduction through domestic efforts and international support for Scenario 2 
-![Figure 3 ](./AAA-1.PNG)
-#### 12.3. GHG emissions reduction through domestic efforts and international support for Scenario 3 
-
-### 13. Monitoring and reporting 
-Monitoring over implementation of the mitigation contribution will be combined with a process of regular updating of the national mitigation priorities, programs and action plans. Preparation of the updated programs and plans will be based on assessments of the earlier mitigation measures' implementation. The domestic MRV system will be developed and established as a basis for monitoring and reporting of the mitigation actions. Reporting will also be carried out in the frames of the national communications on climate change and biennial update reports. 
+#### 12. GHG emissions reduction 
+##### 12.1. GHG emissions reduction through domestic efforts and international support for Scenario 1 
+![](./KGZ-2.PNG)
+##### 12.2. GHG emissions reduction through domestic efforts and international support for Scenario 2 
+![](./KGZ-3.PNG)
+##### 12.3. GHG emissions reduction through domestic efforts and international support for Scenario 3 
+![](./KGZ-4.PNG)
+#### 13. Monitoring and reporting 
+Monitoring over implementation of the mitigation contribution will be combined with a process of regular updating of the national mitigation priorities, programs and action plans. Preparation of the updated programs and plans will be based on assessments of the earlier mitigation measures' implementation. 
+The domestic MRV system will be developed and established as a basis for monitoring and reporting of the mitigation actions. 
+Reporting will also be carried out in the frames of the national communications on climate change and biennial update reports. 
  
-### 14. Fairness and ambition 
+#### 14. Fairness and ambition 
 GHG emissions of the Kyrgyz Republic are small. In 2010, the share of the Republic in global GHG emissions from fossil fuel combustion was 0.023%. Per capita GHG emissions of the Kyrgyz Republic are less than one-third of the world average. 
 
  The low emissions of Kyrgyz Republic are largely because 90% of the total electricity generation is supplied by the hydroelectric power plants. However, the expected climate change impacts will decrease the water flow after the 30s and, consequently, reduce the hydropower resources potential. As a result, even with an annual GDP growth of 4%, the electricity demand for Kyrgyzstan's economy would be much more that can be met through the hydropower capacities. 
  
-The Kyrgyz Republic is a lower middle income country with 637.3 pc income, compared to global average per capita income of 8054.6 (2014, $2005). To meet its development needs the economy is expected to grow and so will do the GHG emissions. The increase in GHG emissions is expected to be much faster than in the developed countries. Despite this, the long term vision of the Kyrgyz Republic is to limit the per capita GHG emissions to a very low level of 1.58 t CO2 in line with 20C objective. Hence, the ambition and fairness of the national efforts, submitted in the INDC, is evident and equitable in the face of a sharp growth of the country's economic level. 
+The Kyrgyz Republic is a lower middle income country with 637.3 pc income, compared to global average per capita income of 8054.6 (2014, $2005). To meet its development needs the economy is expected to grow and so will do the GHG emissions. The increase in GHG emissions is expected to be much faster than in the developed countries. Despite this, the long term vision of the Kyrgyz Republic is to limit the per capita GHG emissions to a very low level of 1.58 t CO2 in line with 2°C objective. Hence, the ambition and fairness of the national efforts, submitted in the INDC, is evident and equitable in the face of a sharp growth of the country's economic level. 
  
 [^1]: Priority Directions for Adaptation to Climate Change in the Kyrgyz Republic till 2017, sectorial Action Plans  on adaptation to climate change in the  Kyrgyz  Republic,  www.nature.gov.kg, www.climatechange.kg 
-[^2]: Annual losses under the temperature increase by 50C relatively 1961-1990 level. 
+[^2]: Annual losses under the temperature increase by 5°C relatively 1961-1990 level. 
 [^3]: Domestic costs hereinafter refer to resources within the funds allocated to ministries and institutions for the relevant year. 

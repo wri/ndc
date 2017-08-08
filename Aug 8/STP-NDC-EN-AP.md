@@ -1,22 +1,19 @@
 # SAO TOME AND PRINCIPE
 ## INTENDED NATIONALLY DETERMINED CONTRIBUTION
 (SEPTEMBER 2015) 
-Supported by 
 
-### National background: Development : Development Benchmarks and National Priorities and Climate Change Context 
+### National background: Development Benchmarks and National Priorities and Climate Change Context 
 Sao Tome and Principe (STP) is a small island state consisting of two islands and several islets located in the Gulf of Guinea, with an area of 1001 km2. With a total population of of about 187,356 inhabitants, of which over 65% are below the poverty line, and less than 50% have access to electricity services. GDP growth is around 4% which is not sufficient to meet STP's major development needs. Furthermore, over 90% of the State Budget (OGE) come from foreign aid and the debt rate is high (70% of GDP). The country is an absolute sink of greenhouse gases, i.e. it contributes to the sequestration of CO2 but on the other hand it is one of the countries most affected by climate change (CC). 
 
-Climate  change  adaptation  and  risk  reduction  from  climate  change  impacts  is  a  priority  for  the  national authorities, although, STP has taken steps to identify additional mitigation measures that can contribute  to  the  reduction    of  national national  GHG  emissions.  The  implementation  of measures,  both  for adaptation  and financial  resources,  access  to  technology  and  capacity  building, through external assistance. 
+Climate  change  adaptation  and  risk  reduction  from  climate  change  impacts  is  a  priority  for  the  national authorities, although, STP has taken steps to identify additional mitigation measures that can contribute  to  the  reduction    of  national national  GHG  emissions.  The  implementation  of measures,  both  for adaptation  and mitigation requires financial  resources,  access  to  technology  and  capacity  building, through external assistance. 
 
-The state of has a legal and institutional framework to manage and respond to challenges  on  environmental  issues:  The  Ministry  of  Infrastructure,  Natural  Resources  and Environment,  through  the  General  Directorate  of  Environment  (DGE)  established,  in  2007,  by Presidential  Decree  No.  2/2007,  involved  in  the  implementation  of  the  United  Nations  Framework Convention  on  Climate  Change,  in  collaboration  with  the  National  Institute  of  Meteorology (NIM); the Law No.10/99 - Basic Law on Environment of 15 April 1999 establishing the legal framework of the environment in Sao Tome and Principe.
+The state of Sao Tome and Principe has a legal and institutional framework to manage and respond to challenges  on  environmental  issues:  The  Ministry  of  Infrastructure,  Natural  Resources  and Environment,  through  the  General  Directorate  of  Environment  (DGE)  established,  in  2007,  by Presidential  Decree  No.  2/2007,  involved  in  the  implementation  of  the  United  Nations  Framework Convention  on  Climate  Change,  in  collaboration  with  the  National  Institute  of  Meteorology (NIM); the Law No.10/99 - Basic Law on Environment of 15 April 1999 establishing the legal framework of the environment in Sao Tome and Principe.
 
 The  Decree  No.13/2012,  published  in  the  Daily  Gazette  of  the  Republic  No.  81,  of  July  11,  2012, created the National Committee for Climate Change for the implementation, coordination, monitoring and evaluation of the United Nations Framework Convention on Climate Change.
 
 ### CONTRIBUTION IN TERMS OF ADAPTATION
 
-#### 1.  Rationale  and  process  for  developing 
-
-##### Rationale  and  process  for  developing INDCs on adaptation 
+#### 1.  Rationale  and  process  for developing INDCs on adaptation 
 
 STP  adaptation  measures  are  aim  at  improving  the country's ability to adapt to the adverse consequences of CC, thus contributing to the country's development. 
 
@@ -26,7 +23,9 @@ Being a LDC, STP requires external support to implement a CC resilient developme
 
 #### 2.  Summary  of  Climate  Change  trends, impacts and vulnerabilities. 
 STP is already suffering the impacts of CC. Several tyrends have been observed: increasing temperature, decreasing rainfall, longer dry season "gravana", decreasing river flow level, which causes the risk of decreasing groundwater reservoirs , floods, raising sea level and increasing coastal erosion. 
+
 These trends have negative economic impacts on energy production, fishing activities, forestry and agro forestry, agriculture and livestock. 
+
 All these trends and impacts have already been identified and documented (in the Second National Communication) and they represent a major concern for the country. 
 
 #### 3.  Reporting on long-term and near-term adaptation visions, goals and targets 
@@ -123,9 +122,7 @@ In 2030, it is expected that national emissions will be about 240 ktCO2eq, accor
 To implement the above listed mitigation activities, it is estimated that a total investment of not less than US$ 59 million in the form of external aid will be required between 2020 and 2030. 
 
 According  to  the  mitigation  measures  identified,  the necessary technologies are: 
-
 I. Hydropower Electricity Generation Systems; 
-
 II. Photovoltaic Electricity Generation Systems. 
 
 Thus,  STP  requests    the  technologies  support  and capacity building  

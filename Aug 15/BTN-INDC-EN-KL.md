@@ -40,11 +40,11 @@ Bhutan intends to remain carbon neutral where emission of greenhouse gases will 
 
 Hydropower from run‐of‐the‐river schemes account for almost 100% of electricity generation in Bhutan with almost 100% access to electricity in urban areas and 94% in rural areas. Presently, Bhutan offsets 4.4 million tons of CO2e through exports of hydroelectricity. In addition, Bhutan can offset up to 22.4 million tons of CO2e per year by 2025 in the region through the export of electricity from our clean hydropower projects. 
 
-Various other policies and initiatives are also already in place that contribute to mitigation such as sustainable livestock management, promotion of organic agriculture and promotion of zero emission vehicles. The Economic Development Policy of 2010 and draft of 2015 also provide several measures to promote "green growth" for industrial development. The present five year development plan (2013‐ 18) has also integrated carbon neutral development as part of the national key result areas to guide planning and implementation of development activities within all sectors.  
+Various other policies and initiatives are also already in place that contribute to mitigation such as sustainable land management practices, improved livestock management, promotion of organic agriculture and promotion of zero emission vehicles. The Economic Development Policy of 2010 and draft of 2015 also provide several measures to promote "green growth" for industrial development. The present five year development plan (2013‐ 18) has also integrated carbon neutral development as part of the national key result areas to guide planning and implementation of development activities within all sectors.  
 
 As a least‐developed country, Bhutan has a development imperative and will pursue ecologically balanced sustainable development in line with our development philosophy of Gross National Happiness. To remain carbon neutral, growing emissions from economic development will need to be mitigated by pursuing low emission development pathways across all sectors. However international support will be essential to ensure success in implementing the strategies, plans and actions for low GHG development. 
 
-### Strategies, plans and actions for low GHG emission development 
+#### *Strategies, plans and actions for low GHG emission development*
 
 While the basis of our mitigation efforts rests on conserving our forests as carbon sinks, managing the growing emissions as a result of economic development will be through priority strategies, plans and actions for mitigation to support a low emission development pathway. These plans and priority actions, listed below, are based on the National Environment Protection Act, National Strategy and Action Plan for Low Carbon Development (2012), Economic Development Policy (2010 and draft 2015), Bhutan Transport 2040: Integrated Strategic Vision, National Forest Policy, and other sectoral plans and strategies. 
 
@@ -93,7 +93,7 @@ Bhutan prepared its National Adaptation Program of Action (NAPA) in 2006 and als
 
 Based on the information presently available through the NAPA, the vulnerability and adaptation assessment in the Second National Communication and other plans and programs in sectors, priority adaptation actions are foreseen in key sectors and areas as follows: 
 
-#### Priority adaptation needs 
+#### *Priority adaptation needs* 
 1. Increase resilience to the impacts of climate change on water security through Integrated Water Resource Management (IWRM) approaches including: 
 * Water resources monitoring, assessment, and mapping
 * Adoption and diffusion of appropriate technologies for water harvesting and efficient use
@@ -103,16 +103,16 @@ Based on the information presently available through the NAPA, the vulnerability
 * Developing and introducing climate resilient crop varieties and conservation of plant genetic resources
 * Developing and institutionalising surveillance of crop pests and diseases
 * Enhancement of national capacity to develop and implement emergency response to agricultural pest and disease outbreaks/epidemics 
+* Establishment of cold storage facilities at sub‐national regions
 * Improving and increasing investment in irrigation systems and management
 * Initiating crop insurance programs against climate induced extremes 
-* Establishment of cold storage facilities at sub‐national regions
 * Promotion of sustainable soil and land management technologies and approaches 
 3. Sustainable forest management and conservation of biodiversity to ensure sustained environmental services through:
 * Sustainable management of forest management units (FMUs), protected areas, community forests, forest areas outside FMUs, and private forests 
 4. Strengthen resilience to climate change induced hazards through: 
 * Improved monitoring and detection of hydromet extremes using remote sensing and satellite‐based technologies and approaches
 * Continual assessment of potentially dangerous glacial lakes and improvement of early warning system for GLOFs
-* Develop a monitoring, assessment, and warning systems for flash flood and landslide early warning system for GLOFs hazards and risks
+* Develop a monitoring, assessment, and warning systems for flash flood and landslide hazards and risks
 * Forest fire risk assessment and management
 * Assessment and management of risk and damage from windstorms on agricultural crops and human settlements.
 * Enhancement of emergency medical services and public health management to respond to climate change induced disasters
@@ -130,7 +130,7 @@ Based on the information presently available through the NAPA, the vulnerability
 9. Promote clean renewable and climate resilient energy generation by: 
 * Diversifying energy supply mix through promotion of renewable energy (solar, wind, small hydro, biomass) other than large hydro and creating investment opportunities
 * Ensuring energy security during the lean dry season through water storage and reservoirs
-* Protecting catchment areas for hydropower through watershed and sustainable land reservoirs management approaches 
+* Protecting catchment areas for hydropower through watershed and sustainable land management approaches 
 10. Integrate climate resilient and low emission strategies in urban and rural settlements through:
 * Promotion of climate smart cities
 * Improvement of storm water management and sewer systems

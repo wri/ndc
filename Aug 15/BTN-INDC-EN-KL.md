@@ -51,38 +51,38 @@ While the basis of our mitigation efforts rests on conserving our forests as car
 The gases covered include carbon dioxide, methane and nitrous oxide as they were shown to be the priority gases in our second national communication. 
 
 1. Sustainable forest management and conservation of biodiversity to ensure sustained environmental services through: 
-*  Sustainable management of forest management units (FMUs), protected areas, community forests, forest areas outside FMUs, and private forests
-* Enhancing forest information and monitoring infrastructure through national forest inventories and carbon stock assessments
-* Forest fire management and rehabilitation of degraded and barren forest lands 
+    *  Sustainable management of forest management units (FMUs), protected areas, community forests, forest areas outside FMUs, and private forests
+    * Enhancing forest information and monitoring infrastructure through national forest inventories and carbon stock assessments
+    * Forest fire management and rehabilitation of degraded and barren forest lands 
 2. Promotion of low carbon transport system by: 
-* Improving mass transit and demand side management of personal modes of transport 
-* Exploring alternative modes of transport to road transport such as rail, water and gravity ropeways 
-* Improving efficiency in freight transport
-* Promoting non‐motorized transport and non‐fossil fuel powered transport such as electric and fuel cell vehicles 
-* Improving efficiency and emissions from existing vehicles through standards and capacity building
-* Promoting use of appropriate intelligent transport systems 
+    * Improving mass transit and demand side management of personal modes of transport 
+    * Exploring alternative modes of transport to road transport such as rail, water and gravity ropeways 
+    * Improving efficiency in freight transport
+    * Promoting non‐motorized transport and non‐fossil fuel powered transport such as electric and fuel cell vehicles 
+    * Improving efficiency and emissions from existing vehicles through standards and capacity building
+    * Promoting use of appropriate intelligent transport systems 
 3. Minimize GHG emission through application of zero waste concept and sustainable waste management practices:
-* Enhancement of the three R principles including the conversion of waste to resources 
-* Improving the current system and infrastructure for waste management
+    * Enhancement of the three R principles including the conversion of waste to resources 
+    * Improving the current system and infrastructure for waste management
 4. Promote a green and self reliant economy towards carbon neutral and sustainable development through:
-* Improvement of manufacturing processes in existing industries through investments and adoption of cleaner technology, energy efficiency and environmental management
-* Enhance and strengthen environmental compliance monitoring system
-* Promote investment in new industries that are at higher levels in the value chain, and green industries and services.
-* Promote industrial estate development and management in line with efficient, clean and green industry development objectives 
+    * Improvement of manufacturing processes in existing industries through investments and adoption of cleaner technology, energy efficiency and environmental management
+    * Enhance and strengthen environmental compliance monitoring system
+    * Promote investment in new industries that are at higher levels in the value chain, and green industries and services.
+    * Promote industrial estate development and management in line with efficient, clean and green industry development objectives 
 5. Promote clean renewable energy generation:
-* Pursue sustainable and clean hydropower development with support from CDM or other climate market mechanisms to reduce emissions within Bhutan and the region by exporting surplus electricity 
+    * Pursue sustainable and clean hydropower development with support from CDM or other climate market mechanisms to reduce emissions within Bhutan and the region by exporting surplus electricity 
 6. Promote climate smart livestock farming practices to contribute towards poverty alleviation and self sufficiency through:
-* Organic livestock farming and eco‐friendly farm designs 
-* Improvement of livestock breeds, including conservation of native genetic gene pool/diversity
-* Expansion of biogas production with stall feeding
-* Agro‐forestry or agro‐silvo pastoral systems for fodder production
+    * Organic livestock farming and eco‐friendly farm designs 
+    * Improvement of livestock breeds, including conservation of native genetic gene pool/diversity
+    * Expansion of biogas production with stall feeding
+    * Agro‐forestry or agro‐silvo pastoral systems for fodder production
 7. Promote climate smart agriculture to contribute towards achieving food and nutrition security through:
-* Organic farming and conservation agriculture
-* Development and promotion of sustainable agricultural practices
-* Integration of sustainable soil and land management technologies and approaches 
+    * Organic farming and conservation agriculture
+    * Development and promotion of sustainable agricultural practices
+    * Integration of sustainable soil and land management technologies and approaches 
 8. Energy demand side management by promoting energy efficiency in appliances, buildings and industrial processes and technologies. 
-
 9. Integration of low emission strategies in urban and rural settlements through green buildings, sustainable construction methods and climate smart cities.
+
 ### Adaptation 
 
 Adaptation to the adverse impacts of climate change is a priority for Bhutan. In addition to being a land locked and least developed country with a fragile mountainous environment, Bhutan is further threatened by climate change due to the high dependence of the population on agriculture and the significant role of hydropower for economic development. Bhutan also faces increasing threats from climate hazards and extreme events such as flash floods, glacial lake outburst floods (GLOF), windstorms, forest fires and landslides. 
@@ -95,46 +95,47 @@ Based on the information presently available through the NAPA, the vulnerability
 
 #### *Priority adaptation needs* 
 1. Increase resilience to the impacts of climate change on water security through Integrated Water Resource Management (IWRM) approaches including: 
-* Water resources monitoring, assessment, and mapping
-* Adoption and diffusion of appropriate technologies for water harvesting and efficient use
-* Climate proofing water distribution systems
-* Integrated watershed and wetland management 
+    * Water resources monitoring, assessment, and mapping
+    * Adoption and diffusion of appropriate technologies for water harvesting and efficient use
+    * Climate proofing water distribution systems
+    * Integrated watershed and wetland management 
 2. Promote climate resilient agriculture to contribute towards achieving food and nutrition security through:
-* Developing and introducing climate resilient crop varieties and conservation of plant genetic resources
-* Developing and institutionalising surveillance of crop pests and diseases
-* Enhancement of national capacity to develop and implement emergency response to agricultural pest and disease outbreaks/epidemics 
-* Establishment of cold storage facilities at sub‐national regions
-* Improving and increasing investment in irrigation systems and management
-* Initiating crop insurance programs against climate induced extremes 
-* Promotion of sustainable soil and land management technologies and approaches 
+    * Developing and introducing climate resilient crop varieties and conservation of plant genetic resources
+    * Developing and institutionalising surveillance of crop pests and diseases
+    * Enhancement of national capacity to develop and implement emergency response to agricultural pest and disease outbreaks/epidemics 
+    * Establishment of cold storage facilities at sub‐national regions
+    * Improving and increasing investment in irrigation systems and management
+    * Initiating crop insurance programs against climate induced extremes 
+    * Promotion of sustainable soil and land management technologies and approaches 
 3. Sustainable forest management and conservation of biodiversity to ensure sustained environmental services through:
-* Sustainable management of forest management units (FMUs), protected areas, community forests, forest areas outside FMUs, and private forests 
+    * Sustainable management of forest management units (FMUs), protected areas, community forests, forest areas outside FMUs, and private forests 
 4. Strengthen resilience to climate change induced hazards through: 
-* Improved monitoring and detection of hydromet extremes using remote sensing and satellite‐based technologies and approaches
-* Continual assessment of potentially dangerous glacial lakes and improvement of early warning system for GLOFs
-* Develop a monitoring, assessment, and warning systems for flash flood and landslide hazards and risks
-* Forest fire risk assessment and management
-* Assessment and management of risk and damage from windstorms on agricultural crops and human settlements.
-* Enhancement of emergency medical services and public health management to respond to climate change induced disasters
-* Enhancing preparedness and response to climate change induced disasters at the national and local levels
+    * Improved monitoring and detection of hydromet extremes using remote sensing and satellite‐based technologies and approaches
+    * Continual assessment of potentially dangerous glacial lakes and improvement of early warning system for GLOFs
+    * Develop a monitoring, assessment, and warning systems for flash flood and landslide hazards and risks
+    * Forest fire risk assessment and management
+    * Assessment and management of risk and damage from windstorms on agricultural crops and human settlements.
+    * Enhancement of emergency medical services and public health management to respond to climate change induced disasters
+    * Enhancing preparedness and response to climate change induced disasters at the national and local levels
 5. Minimize climate‐related health risks through:
-* Strengthening integrated risk monitoring and early warning systems and response for climate sensitive diseases
-* Promotion of climate resilient household water supply and sanitation 
+    * Strengthening integrated risk monitoring and early warning systems and response for climate sensitive diseases
+    * Promotion of climate resilient household water supply and sanitation 
 6. Climate proof transport infrastructure against landslides and flash floods, particularly for critical roads, bridges, tunnel and trail
 7. Promote climate resilient livestock farming practices to contribute towards poverty alleviation and self sufficiency through:
-* Climate change resilient farm designs and practices
-* Livestock insurance against climate induced extremes
+    * Climate change resilient farm designs and practices
+    * Livestock insurance against climate induced extremes
 8. Enhancing climate information services for vulnerability and adaptation assessment and planning through:
-* Improvement of hydro meteorological network and weather and flood forecasting to adequate levels of temporal and spatial scales
-* Development of climate change scenarios for Bhutan with appropriate resolution for mountainous situation 
+    * Improvement of hydro meteorological network and weather and flood forecasting to adequate levels of temporal and spatial scales
+    * Development of climate change scenarios for Bhutan with appropriate resolution for mountainous situation 
 9. Promote clean renewable and climate resilient energy generation by: 
-* Diversifying energy supply mix through promotion of renewable energy (solar, wind, small hydro, biomass) other than large hydro and creating investment opportunities
-* Ensuring energy security during the lean dry season through water storage and reservoirs
-* Protecting catchment areas for hydropower through watershed and sustainable land management approaches 
+    * Diversifying energy supply mix through promotion of renewable energy (solar, wind, small hydro, biomass) other than large hydro and creating investment opportunities
+    * Ensuring energy security during the lean dry season through water storage and reservoirs
+    * Protecting catchment areas for hydropower through watershed and sustainable land management approaches 
 10. Integrate climate resilient and low emission strategies in urban and rural settlements through:
-* Promotion of climate smart cities
-* Improvement of storm water management and sewer systems
-* Environmental management and safeguards of development activities  
+    * Promotion of climate smart cities
+    * Improvement of storm water management and sewer systems
+    * Environmental management and safeguards of development activities  
+
 ### Means of Implementation 
 As the vast forest sink of Bhutan will form the cornerstone of our commitment to remain carbon neutral, measures to manage and conserve the forests will need to be supported by a robust forest monitoring system. The first comprehensive national forest inventory presently underway will provide an updated state of the forests in Bhutan by end of 2016. The forest monitoring and inventory system being developed in conjunction with a national forest monitoring system for REDD+ will enable monitoring and assessment of forest cover over time. 
 

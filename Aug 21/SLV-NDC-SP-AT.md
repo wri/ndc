@@ -1,12 +1,12 @@
-Gobierno de El Salvador 
+# Gobierno de El Salvador 
 Ministerio de Medio Ambiente y Recursos Naturales (MARN)
 
-CONTRIBUCION PREVISTA Y DETERMINADA A NIVEL NACIONAL DE  EL SALVADOR 
+## CONTRIBUCION PREVISTA Y DETERMINADA A NIVEL NACIONAL DE  EL SALVADOR 
 
 San Salvador 
 Noviembre 2015 
 
-**Marco General** 
+### **Marco General** 
 
 El Salvador presenta esta Contribución Prevista Nacionalmente Determinada (CPND), en base a la premisa de que la negociación del acuerdo de 2015, se realiza y concreta bajo la Convención Marco de Naciones Unidas para el Cambio Climático (CMNUCC) y se guía y rige legalmente por sus principios y disposiciones, con miras a mejorar la aplicación plena, eficaz y sostenida de la Convención y lograr su objetivo. El país está comprometido en la adopción de un nuevo acuerdo vinculante aplicable a todas las Partes, y aspira a que bajo este nuevo instrumento jurídico se limite el aumento de la temperatura media global a 1.5 º. La implementación de la CPND de El Salvador depende del logro de un ambicioso acuerdo, con el que la sociedad en su conjunto se encuentre comprometida, y que cuente con el apoyo internacional necesario que facilite los recursos y promueva y estimule las inversiones para fortalecer la resiliencia y la construcción de un desarrollo bajo en carbono. La CPND se actualizará periódicamente y según corresponda. 
  
@@ -18,7 +18,7 @@ Es importante también resaltar que la implementación de las acciones identific
 
  
 
-**1.  Contexto e impactos socio económicos del cambio climático en El Salvador y niveles de emisiones de gases de efecto invernadero.**
+### **1.  Contexto e impactos socio económicos del cambio climático en El Salvador y niveles de emisiones de gases de efecto invernadero.**
 
 De acuerdo al Quinto Informe de Evaluación del IPCC, "Centroamérica ha sido tradicionalmente caracterizada como región con alta exposición a amenazas geo-climáticas derivadas de su localización y topografía y con una alta vulnerabilidad de sus asentamientos humanos (CEPAL, 2010c). También ha sido identificada como la región tropical más sensible al cambio climático". (Giorgi, 2006)." (Cuadro 27-1, página 1508. Report of Working Group ll). 
 
@@ -51,9 +51,9 @@ El país debe entonces realizar importantes esfuerzos para enfrentar el históri
  
 Considerando lo anteriormente expuesto, la agenda climática del país respecto a la mitigación y la emisión de GEI refleja que El Salvador en cuanto a sus niveles de emisiones, tanto en términos porcentuales (0.04% de las emisiones globales) como per-cápita (1.1 ton), tiene una contribución no significativa. En ese sentido, los compromisos que el país asuma deben estar equilibrados acorde a su nivel de responsabilidad. No obstante ello, el país está comprometido con el esfuerzo internacional para abatir los niveles de emisiones de gases de efecto invernadero (GEI) y se encamina a implementar un modelo de desarrollo bajo en emisiones, tal como se ha establecido dentro de su Plan Nacional de Cambio Climático. La promoción de la eficiencia energética y el impulso a las energías renovables, y la preparación de condiciones para ello, serán dos elementos esenciales de esta Contribución Prevista en materia de mitigación, tal como ha sido establecido en el Plan Quinquenal de Desarrollo 2014-2019. 
 
-**2.  Desarrollo Sostenible, prioridades nacionales ante el cambio climático.**  
+### **2.  Desarrollo Sostenible, prioridades nacionales ante el cambio climático.**  
 
-**2.1.  Marco de prioridades Nacionales** 
+#### **2.1.  Marco de prioridades Nacionales** 
 La vulnerabilidad e impactos sobre el desarrollo socioeconómico descritos requieren de acciones claves y urgentes. En ese sentido, El Salvador en su objetivo 7 del Plan Quinquenal de Desarrollo 2014-2019, establece que el país debe "Transitar hacia una economía y una sociedad ambientalmente sustentables y resilientes al cambio climático". 
 
 En esa misma línea, el Plan Nacional de Cambio Climático, elaborado y aprobado en el 2015, ratifica y define la orientación de las políticas, acciones y prioridades de cambio climático en materia de las contribuciones pretendidas nacionalmente determinadas. Consecuentemente, el país ha iniciado el proceso de elaboración del Plan Nacional de Adaptación (NAP, por sus siglas en inglés) de la Convención, que es un instrumento fundamental como extensión del Plan Nacional de Cambio Climático y ya se cuenta con un borrador para el diseño de una hoja de ruta para ello de aquí al 2017. 
@@ -69,17 +69,17 @@ En el contexto de esta CPND y como prioridades dentro de esta contribución se d
 Por la propia naturaleza de las contribuciones nacionales, muchas de las acciones descritas trascienden la esfera de actuación del Gobierno y requieren del involucramiento y compromiso pleno de la sociedad y de todos los actores clave, que incluyen municipalidades, empresa privada, pequeños productores, ONGs, instituciones autónomas, comunidades, academia, etc.  
 
  
-**2.2.  Adaptación**
+#### **2.2.  Adaptación**
 La variabilidad en la precipitación tiene un fuerte impacto en la disponibilidad y calidad del agua, tanto superficial como subterránea, afectando directamente los diferentes usos del recurso especialmente el consumo humano y los ecosistemas, la producción agrícola, la generación de electricidad, y la economía en general, con implicaciones para la productividad y competitividad del país. Asimismo, impacta severamente y de diversos modos al sector salud, relacionándose con diferentes tipos de enfermedades, entre ellas morbi-mortalidad por estrés térmico, enfermedades diarreicas agudas (EDAs) por contaminación de aguas agravada por efecto de inundaciones, infecciones respiratorias agudas (IRAs) y enfermedades por vectores, agravadas también por las altas temperaturas. Las altas temperaturas incrementan además las plagas en las cosechas (incluyendo la Roya), las aguas cálidas frente a las costas generan reducción en la pesca, y los pastos secos impactan la ganadería. Por otra parte, las lluvias intensas y súbitas y tormentas eléctricas violentas acompañadas de vientos rafagosos, ocasionan también daños en la agricultura e infraestructura de las ciudades, ocasionando incluso pérdidas de vidas humanas. 
 
  El Salvador ha recurrido a estrategias sectoriales de adaptación con énfasis en agricultura, recursos hídricos, infraestructura y salud, contenidas en la Estrategia Nacional de Cambio Climático y en el Plan Nacional de Cambio Climático. Los recursos hídricos, la agricultura, infraestructura vial, la generación de energía, la salud y el turismo, entre otros; se están viendo crecientemente afectados por el cambio climático, por lo que resulta fundamental poner en marcha acciones prioritarias, bajo un enfoque holístico que integre la necesidad de ordenamiento y transformación en otras actividades y funciones que impactan, adversamente en estos sectores e incrementen su resiliencia. El Plan Nacional de Cambio Climático, es la base para esta articulación de acciones intersectoriales y para la formulación de esta CPND. Su elaboración ha contado con un importante proceso de consulta iniciado en julio de 2015. 
  
-**2.3.  Daños y Perdidas**
+#### **2.3.  Daños y Perdidas**
 Los impactos y afectación generados por fenómenos asociados al cambio climático en el país son tan severos que comprometen la viabilidad inmediata y futura del desarrollo del país, el Fondo Monetario Internacional, en el informe de su Misión de Consulta al país, marzo de 2013, concluyó que "Tras la crisis de 2008 - 2009, la economía salvadoreña ha crecido lentamente como resultado de la baja inversión doméstica y, el impacto de choques climáticos". 
 
 En este sentido, la CPND prioriza el apoyo a las políticas fiscales, de protección social, sectoriales y territoriales. El Salvador, por tanto, considera necesario el desarrollo de mecanismos para enfrentar pérdidas y daños recurrentes por el cambio climático, de acuerdo a lo previsto para esta materia dentro del Plan Nacional de Cambio Climático y adoptando el marco de trabajo que en esta materia se establezca en los acuerdos bajo la Convención. 
  
-**2.4. Mitigación** 
+#### **2.4. Mitigación** 
 El Plan Quinquenal de Desarrollo 2015-2019 (PQD) ha establecido entre sus objetivos y líneas de acción promover la eficiencia energética, impulsar las energías renovables, controlar las emisiones del sector transporte y las asociadas a desechos y vertidos. Las contribuciones previstas en estas áreas reportan simultáneamente beneficios económicos y sociales que robustecen las condiciones nacionales para el desarrollo sostenible resiliente y bajo en carbono.  
 
 En ese sentido, un desarrollo urbano bajo en carbono para El Salvador no solo desaceleraría las emisiones de GEI sino que mejoraría las condiciones de competitividad económica de los núcleos urbanos y reduciría la incidencia de enfermedades asociadas con la contaminación y el fenómeno de islas de calor en las ciudades, mejorando la calidad de vida y el confort urbano. 
@@ -88,12 +88,12 @@ Como ampliación de las directrices establecidas en el PQD, el Plan Nacional de 
 
 Es fundamental que estos esfuerzos para implementar las contribuciones nacionales en materia de mitigación para el cumplimiento de los compromisos del país ante el acuerdo 2015, cuenten con el concurso de los actores económicos y del conjunto de la sociedad. Es imprescindible consensuar metas y compromisos y será necesario contar con el apoyo técnico y financiero proveniente de recursos internacionales públicos y privados, nuevos y adicionales a la ayuda oficial al desarrollo y que se correspondan con el principio de responsabilidades comunes pero diferenciadas establecido por la Convención. 
 
-**3.  Contribuciones  Previstas  Nacionalmente  Determinadas  prioritarias  para  enfrentar  los  impactos observados y mitigar el cambio climático.**
+### **3.  Contribuciones  Previstas  Nacionalmente  Determinadas  prioritarias  para  enfrentar  los  impactos observados y mitigar el cambio climático.**
 
 Las contribuciones nacionalmente determinadas podrán ser incondicionales o condicionadas a la disponibilidad apropiada de medios de implementación suministrados a través de los mecanismos existentes dentro de la Convención Marco de Naciones Unidas sobre Cambio Climático o por medio de apoyos recibidos de otras fuentes bilaterales o multilaterales. 
  
 En ese sentido, las contribuciones nacionales planteadas serán posibles siempre y cuando se cuente con el siguiente conjunto de condiciones para su implementación tales como: 
-a) El país mantiene una estabilidad macroeconómica y una tendencia positiva de crecimiento Existan los recursos financieros internacionales disponibles para apoyar los compromisos económico y de reducción de la pobreza.
+a) El país mantiene una estabilidad macroeconómica y una tendencia positiva de crecimiento económico y de reducción de la pobreza.
 b) Existan los recursos financieros internacionales disponibles para apoyar los compromisos mencionados, los cuales deberán ser nuevos y adicionales a la ayuda oficial al desarrollo; asegurando no solo el fortalecimiento de las capacidades nacionales sino también el acceso adecuado a tecnologías, entre otro tipo de cooperación 
 c) No se presente en el país en los próximos años un evento climático extremo asociado al cambio climático que provoque perdidas y daños y obligue a orientar recursos financieros para la atención del mismo y que a la vez, limiten la disponibilidad de recursos propios para apoyar las CPND.
 d) No enfrentemos un suceso de impacto nacional que afecte directamente la asignación de recursos financieros públicos, restando financiamiento a temas priorizados para el país como educación, salud y seguridad. 
@@ -191,9 +191,7 @@ La legislación y marcos regulatorias serán revisados y actualizados con el fin
 
 La Política Energética Nacional 2010-2024, y toda futura política energética nacional promoverán la diversificación de la matriz energética del país, priorizando y disponiendo todos los medios al alcance para impulsar el desarrollo y uso generalizado, a todas las escalas, de las energías renovables. Con el objetivo de alcanzar esa diversificación, sin generar estímulos al uso o empleo de fuentes de energía que sean más contaminantes que las que el país ha utilizado hasta el año 2015. 
 
-3.6.1. Antes de la COP 22, el sector de generación de energía definirá una meta de reducción de 
-emisiones de GEI con respecto a un crecimiento sin acciones concretas de mitigación o "business 
-as usual" (BAU) para el año 2025. 
+3.6.1. Antes de la COP 22, el sector de generación de energía definirá una meta de reducción de emisiones de GEI con respecto a un crecimiento sin acciones concretas de mitigación o "business as usual" (BAU) para el año 2025. 
 
  3.6.2. Antes de la COP 22, el sector de generación de energía definirá y alcanzará una meta de reducción de emisiones de GEI para el año 2025, a través de implementación de procesos y medidas de eficiencia energética; o bien, definirá porcentajes de mejora de la eficiencia energética a nivel sectorial con respecto a una línea de base establecida para el año 2010, con relación a un escenario sin acciones concretas de aumento de eficiencia para el año 2025. La propuesta presentará necesidades de recursos de implementación fuera del alcance de las finanzas nacionales. 
 
@@ -213,7 +211,7 @@ as usual" (BAU) para el año 2025.
 
 3.7.4. El Salvador presentará antes de la COP 23 una propuesta para mejorar y mantener, de manera sostenida, la calidad del parque vehicular privado, del transporte público y de carga, con metas definidas para 2025. La propuesta presentará las necesidades de recursos de implementación fuera del alcance de las finanzas nacionales. 
  
-**3.  Medios de implementación**
+### **3.  Medios de implementación**
 
 Los medios de implementación se refieren a los instrumentos y mecanismos de apoyo necesarios para  alcanzar la aspiración del país y contribuir a las prioridades de adaptación y de mitigación acorde a los  compromisos que establezca el acuerdo  global 2015.  
  

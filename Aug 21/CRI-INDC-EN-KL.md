@@ -12,9 +12,9 @@ The changes in the world's climate are a reality happening today. It becomes cle
 
 Costa Rica will center its climate change actions on increasing society's resilience to the impact of climate change and strengthening the country's capacity for a low emission development on the long term. Costa Rica will strengthen its climate action with efforts in reduction of emission of greenhouse effect gases, following scientific suggestions of what would be necessary to avoid the worst effect of climate change. Climate action will be based on balanced efforts of adaptation to ensure that communities, especially vulnerable communities, become resilient to the unavoidable impacts of climate change. 
 
-Costa Rica is looking into becoming a laboratory for the world's economy deep de-carbonization process, working with civil society, the private sector, academia, and the international community in order to accomplish it. Costa Rica has a long standing tradition of innovation on hydroelectric generation, in conservation and specially, on matters of climate change. This tradition is well evidenced in the country's commitment towards the United Nations' Framework Convention for Climate Change (CMNUCC), to avoid dangerous anthropogenic interference in the climate system and the goal of "keeping the average temperature increase leveled at 2o and consider reducing this limit to 1.5o". To accomplish it, global emissions of Greenhouse Gases (GHG) need to stay below a total of 1000 Giga-tons of CO2 from 2012. Intended Nationally Determined Contributions (INDC) represent the effort each country is willing to commit to build a new climate regime past 2020, based on their capacity and reality. To stay within the limits recommended by scientists to be able to accomplish this goal, such regime would have to be ambitious, be legally binding, set a fair price for carbon and have the necessary means of implementation to address climate change challenges. 
+Costa Rica is looking into becoming a laboratory for the world's economy deep de-carbonization process, working with civil society, the private sector, academia, and the international community in order to accomplish it. Costa Rica has a long standing tradition of innovation on hydroelectric generation, in conservation and specially, on matters of climate change. This tradition is well evidenced in the country's commitment towards the United Nations' Framework Convention for Climate Change (CMNUCC), to avoid dangerous anthropogenic interference in the climate system and the goal of "keeping the average temperature increase leveled at 2° and consider reducing this limit to 1.5°". To accomplish it, global emissions of Greenhouse Gases (GHG) need to stay below a total of 1000 Giga-tons of CO2 from 2012. Intended Nationally Determined Contributions (INDC) represent the effort each country is willing to commit to build a new climate regime past 2020, based on their capacity and reality. To stay within the limits recommended by scientists to be able to accomplish this goal, such regime would have to be ambitious, be legally binding, set a fair price for carbon and have the necessary means of implementation to address climate change challenges. 
 
-### MITIGATION CONTRIBUTIONS 
+#### MITIGATION CONTRIBUTIONS 
 
 First, Costa Rica would like to reaffirm its aspiration of becoming a Carbon Neutral economy starting year 2021, as a culmination of its voluntary, pre-2020 action. Under this early action, Costa Rica proposed since 2007 to compensate its emissions through the removal or offsetting by the forest sector. The goal proposed to achieve Carbon Neutrality by 2021 with total net emissions comparable to total emissions in 2005. Since then, the mitigation goals agreed by the Conference of the Parties have evolved, and the mitigation efforts must aspire to maintain the mean global temperature below 2°C. In this National Contribution, the date of 2021 will become the turning point Costa Rica's emissions, as a continuation of its voluntary action and a landmark in the path towards de-carbonizing the economy. 
  
@@ -36,7 +36,6 @@ Maximum Net Emissions Limit for Greenhouse Gases.
 100% of national emissions accounted for in the National Greenhouse Gas Inventory 
 
 **Gases Included** 
-
 * Carbon Dioxide (CO2)
 * Methane (CH4)
 * Nitrous Oxide (N2O)
@@ -63,11 +62,11 @@ Costa Rica has adopted an Open Government policy. It is looking into strengtheni
 **Using the International Market Mechanism** 
 Costa Rica reserves its sovereign right to use international compensation units to accomplish its goals within the National Contribution or, as well, within its Domestic Compensation Market. Any compensation units traded abroad will be registered in the National Emissions Inventory to avoid double accounting. 
 
-### CONTRIBUTION IN ADAPTATION 
+#### CONTRIBUTION IN ADAPTATION 
 
 Costa Rica has included an Adaptation to Climate Change component in its National Contribution, with clear commitments for 2030. The country is currently designing a road map for its National Adaptation Plan, and is committed to develop it before 2018. The country will continue with its Green and Inclusive Development policy through local actions in adaptation, such as, *inter alia*, the strengthening of conservation programs and expanding the environmental services payments program to include Ecosystem based Adaptation. Also, Costa Rica will continue to promote renewable energies, integral environment management through agro-forestry systems and watershed management, as well as municipal land use planning as tools to lower long term vulnerabilities of its population, enhance its food security and the resilience of its infrastructure. Climate Change Adaptation will have as one of its components the National Disaster Risk Management Policy, through capacity building for resilience and technology transfer (refer to **Appendix 2** for more details on Contributions on Adaptation). 
  
-## NATIONAL SETTING 
+### NATIONAL SETTING 
  
 Costa Rica has a century old tradition of investment in public education, and it's one of the few countries in Latin America to invest 8% of GDP in public education. This becomes a unique opportunity to use that installed capacity to educate Costa Rican citizens of today and strengthen university research to develop science and technology needed to support the mitigation and adaptation goals proposed in the National Contribution. 
  
@@ -81,7 +80,7 @@ In 2007, Costa Rica´s National Climate Change Strategy was launched, supported 
 
 The National Forestry Financing Fund (FONAFIFO) which the MINAE has been developing, since 2010, is currently developing its Emissions Reduction Program under the Carbon Fund (FCPF), known as the National REDD+ Strategy since 2010. Therefore, if Costa Rica receives payments for emission reduction from the Carbon Fund, it is expected for these carbon credits to be accounted starting in 2010. The metrics to assess the potential for removals through forest sinks in Costa Rica is currently under review and in continuous improvement by the country's authorities, this data will be adjusted as part of the preparation of the Emissions Reduction Program (ERPA) of the Carbon Fund (FCPF). 
 
-## PLANNING PROCESS 
+### PLANNING PROCESS 
 
 As a pioneer country in the search for alternative ways for decarbonizing the economy, Costa Rica has a range of political instruments, both in mitigation and adaptation. In 2011, Costa Rica presented its Technological Needs Assessment (TNA) which posted a strategy for technological transfer and access to support greenhouse gas mitigation (GHG), and reduce vulnerability to adverse effects of climate change. In this evaluation, the following sectors and climate actions where prioritized: Public Transportation Integration and Decongestion, and Energy Conservation and Efficiency. In adaptation, two approaches were proposed, the adaptive co-management at the watershed level and detailed (sub-national) climate change scenarios. One of the approaches proposed with impacts both in mitigation and adaptation: Sustainable Agricultural Production. 
 
@@ -131,7 +130,7 @@ Costa Rica's size located between two oceans make it a highly vulnerable country
 
 Both climate policies and the actions that derive from them will base themselves in the country's historical commitment to universal human rights and gender equality principles. Costa Rica favors a transformational approach to gender in public climate change policy, and supports the participation of women in policy making and climate actions implementation. This will require a full compliance with Cancun's safeguards on REDD, as well as, securing the indigenous people's Prior, Free and Informed Consent. Also, it's expected to increase citizen forums through the pre-2020 period to define the best climate governance arrangements to deliver on the commitments acquired in this National Contribution. 
 
-## APPENDIX 1: MITIGATION OPTIONS 
+### APPENDIX 1: MITIGATION OPTIONS 
 
 Costa Rica's transition into a resilient and low emissions economy will require an integrated focus on energy and climate policy, based not only, on a cost-benefit analysis, but also on a broader assessment of the social and environmental costs of a sustainable development pathway. The mitigation options proposed by Costa Rica in its National Contribution can be categorized into four broad policy options: 
 
@@ -148,7 +147,7 @@ Costa Rica is currently pursuing a green and inclusive development policy. The a
 
 Solid waste is the third biggest emission source and is continuously growing. The publication of Official Urban Development Plan for the Metropolitan Area and the Land Use Planning National Policy, involve critical measures that have a bearing on GHG emissions. Costa Rica's has begun the design of a Low Emission Development Strategy for the urban sector, together with potential NAMAs in transportation and waste management, sustainable housing, all together represent important steps to reduce emissions from cities. The strategies main stakeholders would be the Ministry of Housing (MIVAH), as the director for urban development, the Ministry of Health (MINSA), as the director in waste management, the Ministry of Environment and Energy and the municipalities around the country, especially those located in the metropolitan area of San José. The measures related to sustainable construction and targeted to reduce its carbon footprint, such as, construction waste reduction, through increased use of lumber, adoption of technology, new material and operations that are climate smart, combined with sustainable urban development measure may generate significant emission reductions. Among some of the abatement measures discussed during the sectoral dialogues, Integrated Waste Management was one that can help to address the growth in emissions from solid waste, which include waste segregation at the source and broader recycling and organic composting programs. 
 
-## APPENDIX 2: ADAPTATION OPTIONS 
+### APPENDIX 2: ADAPTATION OPTIONS 
 
 Costa Rica defined in 2006, in its National Climate Change Strategy (ENCC), the strategic framework for climate change policies, setting six strategic pillars, Mitigation, Adaptation, Capacity Building, Financing, Public Awareness and Education, and Cultural Change, Metrics. 
  

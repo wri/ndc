@@ -1,5 +1,3 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'> 
-
 # Contributions prévues déterminées au niveau national (CPDN) de l'Andorre, concernant la décision 1/CP.19 et la décision 1/CP.20 
 
 ### Préambule 
@@ -22,7 +20,7 @@ Les engagements en termes de réduction des émissions non-absorbées découlent
 Réduction absolue par rapport aux émissions non absorbées du scénario Business as usual, définies sur la base du Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014). 
 
 #### Référence 
-Émissions non absorbées du scénario Business as usual (530,55 Gg CO2 éq., pour 2030), définies sur la base du Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014)8. 
+Émissions non absorbées du scénario Business as usual (530,55 Gg CO2 éq., pour 2030), définies sur la base du Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014)[^8]. 
 #### Couverture
 Secteurs de l'énergie et des déchets, selon les catégories d'inventaire du GIEC 2006. 
 
@@ -33,7 +31,8 @@ Les gaz suivants, non réglementés par le protocole de Montréal : dioxyde de c
 Du 1er janvier 2016 au 31 décembre 2030. 
 
 #### Niveau de réduction
-Réduction de 37% (193,73 Gg CO2 éq.) des émissions annuelles non absorbées par rapport au scénario Business as usual, d'ici 2030. Ce pourcentage de réduction devrait être revu dans les cas où une modification importante sur la méthodologie d'inventaire soit introduite, par rapport à celle considérée par l'inventaire des gaz à effet de serre (GES) présenté dans le Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014).[^8] 
+Réduction de 37% (193,73 Gg CO2 éq.) des émissions annuelles non absorbées par rapport au scénario Business as usual, d'ici 2030. Ce pourcentage de réduction devrait être revu dans les cas où une modification importante sur la méthodologie d'inventaire soit introduite, par rapport à celle considérée par l'inventaire des gaz à effet de serre (GES) présenté dans le Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014).
+
 [^8]: (Miquel C., Armengol J.-Ll., Dobarro J., Rovira N., 2014) Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques. Govern d'Andorra, Departament de Medi Ambient. Andorra la Vella, Principat d'Andorra, 134 pp. 
 
 #### Émissions couvertes 
@@ -64,7 +63,7 @@ Bien que non applicables aux Parties non visées par l'annexe I de la Convention
 
 **Méthode d'estimation des émissions et des absorptions**
 a) Lignes directrices du GIEC 2006
-b) Hypothèse adoptées dans l'inventaire présenté dans le premier rapport bisannuel de l'Andorre à la Convention cadre des Nations unies sur les changements climatiques (2014). 
+b) Hypothèse adoptées dans l'inventaire présenté dans le *premier rapport bisannuel de l'Andorre à la Convention cadre des Nations unies sur les changements climatiques (2014)*. 
 
 **Approche de comptabilisation pour l'agriculture, la foresterie et les autres utilisations des terres**
 Les perturbations naturelles ou les évènements extraordinaires concernant les puits de carbone ne seront pas considérés pour évaluer l'atteinte des engagements (contributions prévues déterminées au niveau national, CPDN). 
@@ -73,30 +72,33 @@ Les perturbations naturelles ou les évènements extraordinaires concernant les 
 L'engagement des Parties doit être conforme à leur responsabilité, à leurs capacités ainsi qu'au soutien reçu de la communauté internationale. Dans ce sens, 
 * L'Andorre est Partie prenante de la Convention cadre des Nations unies sur les changements climatiques en tant que Partie non visée par l'annexe I (non-annexe I). Au niveau international, l'Andorre est responsable en 2010 d'approximativement 0,00112% (547,43 Gg CO2 éq.) des émissions mondiales[^10], responsabilité qui tend à diminuer, avec une réduction entre 2000 et 2010 de 21%. 
 [^10]: Émissions (hors absorptions) de l'Andorre: Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014). Émissions mondiales: 5ème rapport d'évaluation du GIEC, groupe de travail III (2014) 
-* Le pays a connu un essor substantiel depuis 1990, avec une croissance démographique de +56% (entre 1990 et 2010) et une croissance économique de +50% en termes de PIB réel pour la même période (+73% si l'on se réfère à 1990-2005). Cette augmentation a eu des conséquences directes sur la consommation d'énergies, notamment dans les domaines du chauffage de bâtiments -pour rappel, la température moyenne de l'Andorre est de 4,9ºC (1950-2010)[^11], avec une altitude moyenne de 2.044 mètres sur le niveau de la mer- et du transport routier -la totalité des déplacements internes se réalisent moyennant le réseau routier national-.[^12] Par rapport aux émissions de 1990, l'Andorre a accru ses émissions de +28% (2011), valeur comparable à l'augmentation des émissions mondiales +29% (2010). 
+* Le pays a connu un essor substantiel depuis 1990, avec une croissance démographique de +56% (entre 1990 et 2010) et une croissance économique de +50% en termes de PIB réel pour la même période (+73% si l'on se réfère à 1990-2005). Cette augmentation a eu des conséquences directes sur la consommation d'énergies, notamment dans les domaines du chauffage de bâtiments -pour rappel, la température moyenne de l'Andorre est de 4,9ºC (1950-2010)[^11], avec une altitude moyenne de 2.044 mètres sur le niveau de la mer- et du transport routier -la totalité des déplacements internes se réalisent moyennant le réseau routier national[^12]-. Par rapport aux émissions de 1990, l'Andorre a accru ses émissions de +28% (2011), valeur comparable à l'augmentation des émissions mondiales +29% (2010). 
 
-* Malgré ces évolutions, les émissions de l'Andorre présentent une claire tendance à la diminution depuis 2005 (-9,6% entre 2005 et 2010), au contraire de ce qui est observé au niveau mondial avec une augmentation supérieure à 4,3% pour la même période (Cf. figure 1). Les émissions relatives annuelles se situent également au-dessous de la moyenne mondiale avec, pour 2010, 4,85[^13] tonnes de CO2 éq. par habitant, et 211,11 tonnes de CO2 éq. par M€ (PIB réel).[^14] 
+* Malgré ces évolutions, les émissions de l'Andorre présentent une claire tendance à la diminution depuis 2005 (-9,6% entre 2005 et 2010), au contraire de ce qui est observé au niveau mondial avec une augmentation supérieure à 4,3% pour la même période (Cf. figure 1). Les émissions relatives annuelles se situent également au-dessous de la moyenne mondiale avec, pour 2010, 4,85[^13] tonnes de CO2 éq. par habitant, et 211,11 tonnes de CO2 éq. par M€ (PIB réel)[^14]. 
 [^11]: Le mois de janvier est le mois le plus froid de l'année, avec une température moyenne négative de -2,1ºC. À l'autre extrême, la température moyenne du mois de juillet, mois le plus chaud, atteint les 13,8ºC. 
 [^12]: À l'exception des transports d'hélicoptères, utilisés surtout pour des transports sanitaires et des travaux en montagne.
 [^13]: La valeur deviendrait 5,86 tonnes de CO2 éq./an/habitant après la révision et la purge des statistiques de recensement démographique. 
 [^14]: PIB réel, base 1.521,42 M€ pour l'an 2000. 
 
 ![Figure 1. Contribution de l'Andorre (noir) et évolution de l'indice des émissions mondiales et du pays (bleu)](./AND-1.PNG)
+Figure 1. Contribution de l'Andorre (noir) et évolution de l'indice des émissions mondiales et du pays (bleu)
 
 * Bien que la responsabilité de l'Andorre concernant les émissions au niveau mondial soit extrêmement limitée, les effets du changement climatique se font déjà percevoir. Le climat a déjà évolué avec une tendance des températures à la hausse d'environ +0,20ºC/décennie pour les valeurs moyennes et des précipitations annuelles qui expérimentent une baisse d'au moins 45 mm/décennie (1950-2012). Ces variations vont sans doute se traduire par des impacts sur la ressource hydrique et sur l'enneigement, base fondamentale d'un des piliers de l'économie andorrane : le tourisme lié aux sports d'hiver. Les changements climatiques auront sans doute des impacts bien au-delà de ces domaines. La santé, les risques naturels, la production hydroélectrique, l'agriculture, la biodiversité, en sont des clairs exemples de par leur vulnérabilité face au phénomène. 
-* Selon le Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements climatiques (2014), le secteur du transport routier est celui qui représente la contribution la plus importante dans l'inventaire des gaz à effet de serre de l'Andorre avec, pour l'ensemble des années d'inventaire, 49,4% des émissions et des absorptions de GES (en valeurs absolues). Les secteurs « autres secteurs, fuels liquides » (chauffage des secteurs commercial/institutionnel et résidentiel) et « terres forestières qui continuent comme terres forestières », avec respectivement 21,6 et 19,2% suivent de loin le secteur du transport. Ces trois catégories expliquent à elles seules 90,3% de l'ensemble des inventaires des années 1990, 1995, 2000, 2005, 2010 et 2011. 
+* Selon le *Premier rapport bisannuel de l'Andorre à la Convention cadre de Nations unies sur les changements* climatiques (2014), le secteur du transport routier est celui qui représente la contribution la plus importante dans l'inventaire des gaz à effet de serre de l'Andorre avec, pour l'ensemble des années d'inventaire, 49,4% des émissions et des absorptions de GES (en valeurs absolues). Les secteurs « autres secteurs, fuels liquides » (chauffage des secteurs commercial/institutionnel et résidentiel) et « terres forestières qui continuent comme terres forestières », avec respectivement 21,6 et 19,2% suivent de loin le secteur du transport. Ces trois catégories expliquent à elles seules 90,3% de l'ensemble des inventaires des années 1990, 1995, 2000, 2005, 2010 et 2011. 
 * Les politiques de mitigation associées aux secteurs évoqués relèvent d'actions à long terme, avec des rentabilités et des résultats à court terme limités. 
 * Pour 2030, les contributions prévues déterminées au niveau national (CPDN) de l'Andorre sont en phase avec l'évolution de la voie représentative des concentrations RCP2.6 du scénario avec mesures d'atténuation strictes, et le maintien des concentrations mondiales de CO2 éq. dans la fourchette 430-480 ppm (Cf. tableau 1 et figure 2), condition nécessaire pour le maintien d'une température inférieure à 2ºC au XXIème siècle (par rapport à la période 1850-1900), avec un degré de certitude probable (likely, 66%-100%). 
-* Au niveau mondial, les conditions nécessaires pour assurer une augmentation des températures au-dessous de la barre des 2ºC au XXIème siècle (par rapport à la période 1850-1900), seront maintenues pour 2050 si les émissions rapportées à 2010 sont réduites d'entre 41 et 72%, et de 78 à 118% en 2100.[^15] 
+* Au niveau mondial, les conditions nécessaires pour assurer une augmentation des températures au-dessous de la barre des 2ºC au XXIème siècle (par rapport à la période 1850-1900), seront maintenues pour 2050 si les émissions rapportées à 2010 sont réduites d'entre 41 et 72%, et de 78 à 118% en 2100[^15].
+
 [^15]: IPCC, 2014: Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, R.K. Pachauri and L.A. Meyer (eds.)]. IPCC, Geneva, Switzerland, 151 pp.
 
-**Tableau 1.** Scénario objectif pour maintenir une température en-dessous des 2ºC. (*, estimé sur la base des valeurs de la médiane et des percentiles 10 et 90 du nuage des 450 ppm CO2 éq. de la figure SPM.11 de l’IPCC AR5, synthesis report, SPM 8) 
+**Tableau 1.** Scénario objectif pour maintenir une température en-dessous des 2ºC. (*, estimé sur la base des valeurs de la médiane et des percentiles 10 et 90 du nuage des 450 ppm CO2 éq. de la figure SPM.11 de l’IPCC AR5, synthesis report, SPM [^8]) 
 |  |  |  | Changement des émissions de CO2 éq. par rapport à 2010 (en %) |  |  |  |
 |---------------------------------------|-------------------|--------------------------|---------------------------------------------------------------|-------------------|----------------------|-------------------------------------------------------------------------------------------------------|
-| Concentrationsde CO2 éq. en2100 (ppm) | Souscatégories | Positionrelative desRCPs | 2030 | 2050 | 2100 | Probabilité de maintenir une température endessous des 2ºC au XXIème siècle (par rapport à 1850-1900) |
+| Concentrations de CO2 éq. en2100 (ppm) | Sous-catégories | Position relative des RCPs | 2030 | 2050 | 2100 | Probabilité de maintenir une température endessous des 2ºC au XXIème siècle (par rapport à 1850-1900) |
 | 450 (430-480) | Fourchette totale | RCP2.6 | -18 * (+4 à -43) * | -53 * (-41 à -72) | -104 * (-78 à - 118) | 66-100% (likely) |
 
 ![Figure 2: Ensemble des scenarios d’émissions de GES 2000-2100. En blanc et pointillés, estimation du scénario mondial, en transposant au niveau international l’historique et les objectifs des CPDN de l’Andorre (année de base, 2010) (modifié de l’IPCC AR5, synthesis report, SPM 8 )](./AND-2.PNG)
+Figure 2: Ensemble des scenarios d’émissions de GES 2000-2100. En blanc et pointillés, estimation du scénario mondial, en transposant au niveau international l’historique et les objectifs des CPDN de l’Andorre (année de base, 2010) (modifié de l’IPCC AR5, synthesis report, SPM [^8]) 
 
 #### Soutien reçu de la communauté internationale
 Aucun soutien international reçu à ce jour pour la mise en place d'actions d'atténuation ou d'adaptation. 

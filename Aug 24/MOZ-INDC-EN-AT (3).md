@@ -74,7 +74,7 @@ Table 2: Impact of climate change on yields from 2005 to 2014.
 
 Table 3: Saltwater intrusion in some rivers.
 
-| River 	| Distance in the interior (km) 	| affected area (km^2) 	|
+| River 	| Distance in the interior (km) 	| affected area (km^2^) 	|
 |---------	|-------------------------------	|----------------------	|
 | Zambeze 	| 28 	| 240 	|
 | Save 	| 16 	| 170 	|
@@ -147,7 +147,7 @@ The government has approved the National System to Monitor and Evaluate Climate 
 
 ###  Mitigation Contribution 
 #### 8. Timetable 	
-The INDC will be implemented between 2020 and 2030 
+The INDC will be implemented between 2020 and 2030. 
 #### 9. Type of contribution 	
 Implementation of Policies’ and Programmes’ actions:
 1. NCCAMS (2013 to 2030); 

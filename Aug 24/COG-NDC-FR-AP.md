@@ -56,7 +56,7 @@ La présente soumission est la concrétisation de l'engagement du Président de 
 #### Informations sur la contribution 
 La République du Congo est un pays en développement avec une croissance démographique de 3 % par an. Sa croissance économique (hors secteur pétrolier) est estimée à 6% par an à partir de 2010 dans certaines prévisions. Comme indiqué dans la Stratégie « Congo Vision 2025 », une croissance de 10% par an sera retenue pour le présent document. 
 
-La République du Congo est un pays en développement avec une croissance démographique de 3 % par an. Sa croissance économique (hors secteur pétrolier) est estimée à 6% par an à partir de 2010 dans certaines prévisions. Comme indiqué dans la Stratégie « Congo Vision 2025 », une croissance de 10% par an sera retenue pour le présent document. 
+Bien que le Congo concentre ses efforts dans le secteur de l’énergie, ses objectifs de réduction de gaz à effet de serre (GES) seront réalisés grâce à des mesures prises dans tous les secteurs de l’économie, s’appuyant sur des stratégies et des plans d’action sectoriels touchant notamment les domaines de l’agriculture,de  l’eau,  des  déchets,  des  forêts,  de  l’énergie,  de  l’industrie  et  de  l’habitat.  Les informations sont synthétisées dans le tableau ci-dessous.
 
 | Type d’engagement conditionné par les moyens internationaux | Réduction par rapport à un scénario de développement tendanciel |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -69,7 +69,7 @@ La République du Congo est un pays en développement avec une croissance démog
 | Développementtendanciel nonconditionnel | Projection des émissions de GES à l’horizon 2025 et 2035, partant de 2000, année de référence |
 | Développementbas-carboneconditionnel | Projection des émissions de GES à l’horizon 2025 et 2035, partant de 2000, année de référence sur la base de deux scenarii : Le scenario tendanciel et le scenario bascarbone conditionnel |
 | Potentiel deréchauffementGlobal (PRG) | Les valeurs de PRG utilisées sont celles utilisées par les experts du GIEC, selon la décision CP.8 de la CCNUCC pour la préparation des inventaires nationaux des d’émissions : PRG CO2 =1 (par convention), PRG CH4 = 21 et PRG N2O = 310 |
-| Méthodologies pourl’estimation desémissions | Les approches méthodologiques sont basées sur l’usage des méthodes suivantes : - Les lignes directrices de l’IPCC 2006 - Les méthodes supplémentaires révisées et le guide de bonne pratique développés à partir du Protocole de Kyoto de l'IPCC 2013 |
+| Méthodologies pour l’estimation desémissions | Les approches méthodologiques sont basées sur l’usage des méthodes suivantes : - Les lignes directrices de l’IPCC 2006 - Les méthodes supplémentaires révisées et le guide de bonne pratique développés à partir du Protocole de Kyoto de l'IPCC 2013 |
 
 Le présent document intègre les travaux de la seconde communication nationale à la Convention Cadre des Nations unies sur les Changements Climatiques, elle-même basée sur les inventaires des gaz à effet de serre de l'année 2000 ainsi que le suivi du système d'information énergétique du pays. 
 
@@ -86,9 +86,9 @@ Les engagements de réduction des émissions de GES pris par la République du C
 Deux scénarios d'émissions de GES ont donc été élaborés :  
  
 
- **Un scénario tendanciel**, qui correspond à un développement économique faiblement maîtrisé du point de vue des émissions. Il intègre néanmoins les décisions déjà prises par le pays (politiques publiques engagées après 2000 telles que le code forestier, le réseau des aires protégées, la directive nationale de réduction du torchage,…). L'engagement actuel du pays ne peut concerner que ce scénario, si les engagements financiers supplémentaires sollicités ici auprès de la communauté internationale ne sont pas obtenus. 
+* **Un scénario tendanciel**, qui correspond à un développement économique faiblement maîtrisé du point de vue des émissions. Il intègre néanmoins les décisions déjà prises par le pays (politiques publiques engagées après 2000 telles que le code forestier, le réseau des aires protégées, la directive nationale de réduction du torchage,…). L'engagement actuel du pays ne peut concerner que ce scénario, si les engagements financiers supplémentaires sollicités ici auprès de la communauté internationale ne sont pas obtenus. 
 
- **Un scénario « bas carbone conditionnel »**, conditionné précisément par de nouveaux engagements de la communauté internationale chiffrés ci-après. 
+* **Un scénario « bas carbone conditionnel »**, conditionné précisément par de nouveaux engagements de la communauté internationale chiffrés ci-après. 
 
 Ce document présente une synthèse de l'évaluation de ces scénarios, en termes d'émissions de gaz à effet de serre, mais également de coûts et de cobénéfices associés (développement économique, emplois, sécurité énergétique, adaptation aux changements climatiques, etc.). 
 
@@ -116,7 +116,7 @@ Les émissions (hors changement d'affectation des sols), qui ne sont actuellemen
 #### Activités de gestion forestière et reboisement, Conservation des forêts 
 La déforestation, dont l'une des premières causes est l'extension de l'agriculture, représente 81 % des émissions du pays. L'accroissement démographique va induire des besoins alimentaires croissants, occasionnant le développement de cultures vivrières et industrielles, dont une partie pourrait provoquer une amplification de la déforestation, qui reste faible jusqu'à présent (déforestation nette de 0,043% par an [BRLi, 2014]). 
 
-**  Scénario tendanciel**
+* **  Scénario tendanciel**
 
 Par rapport à cette évolution, le scénario de développement tendanciel repose sur : 
 
@@ -128,7 +128,7 @@ Par rapport à cette évolution, le scénario de développement tendanciel repos
 
 Il faut toutefois signaler, que grâce à un faible taux de déforestation, et à un fort potentiel de séquestration naturelle des forêts tropicales du pays, celle-ci est largement supérieure aux émissions, et pourra encore augmenter grâce aux plantations. 
 
-**  Scénario bas-carbone**
+* **  Scénario bas-carbone**
 
 Dans une perspective bas-carbone conditionnelle, il est proposé de : 
 
@@ -175,9 +175,9 @@ Il est proposé en scénario bas-carbone d'augmenter la part des énergies renou
 La République du Congo mise sur une croissance de 10% par an dans les prochaines années[^2], ce qui correspondrait à un investissement annuel d'environ 5 300 milliards de FCFA sur 2015-2025. 
 
 Le secteur privé participera aux investissements dans le pays dans les conditions suivantes : 
-• mise en place d'un ensemble d'infrastructures routières, électriques et portuaires permettant une production « verte » et une bonne circulation des produits notamment à l'export ; 
-• implication de l'État ainsi que des investisseurs congolais dans le secteur industriel, le secteur tertiaire ou encore dans le bâtiment ; 
-• coopération  d'investisseur  privés  et  de  banques  congolaises  avec  des  investisseurs  et  des financeurs internationaux pour le financement d'investissements industriels. 
+* mise en place d'un ensemble d'infrastructures routières, électriques et portuaires permettant une production « verte » et une bonne circulation des produits notamment à l'export ; 
+* implication de l'État ainsi que des investisseurs congolais dans le secteur industriel, le secteur tertiaire ou encore dans le bâtiment ; 
+* coopération  d'investisseur  privés  et  de  banques  congolaises  avec  des  investisseurs  et  des financeurs internationaux pour le financement d'investissements industriels. 
  
 Les investisseurs auraient l'obligation d'appliquer une éthique environnementale et sociale permettant d'une part de créer des investissements compatibles avec une économie verte et bas carbone, et d'autre part d'investir dans des actions sociales de proximité du type dispensaire, cantine, école... Les emplois générés seraient de plus de 400 000 pour le seul secteur industriel. 
 
@@ -259,24 +259,26 @@ Les fonds nécessaires à la mise en œuvre du scénario bas carbone concernent 
 #### Montants financiers des mesures d'atténuation et d'adaptation 
 Les investissements et coûts représenteraient annuellement 3710 Milliards de CFA de 2014 à 2025, ou 5,14 Milliards d'€. L'autofinancement du pays pourrait atteindre 20%, soit 1,03 milliard d'€, (ou 656 milliards de FCFA). La communauté internationale serait sollicitée à hauteur de 5,14 milliards d'euros pour la période 2015-2025. Le tableau suivant synthétise le coût des mesures d'atténuation et d'adaptation, ainsi que le mode de financement envisagé. 
 
-| ACTION/INVESTISSEMENTS | Montants Totaux annuels (Millions,de FCFA) | Montants Totaux annuels,(Millions d'€) | Autofinancement annuel Congo (Millions d'€) | Finacement international annuel total (Millions d'€) | dont dons annuels (Millions d'€) | dont Bonification de prêts (Millions d'€) |
+##### FINANCEMENTS de la STRATEGIE BAS-CARBONE 2015-2025 
+| ACTION/INVESTISSEMENTS | Montants Totaux annuels (Millions,de FCFA) | Montants Totaux annuels,(Millions d’€) | Autofinancement annuel Congo (Millions d’€) | Finacement international annuel total (Millions d’€) | dont dons annuels (Millions d’€) | dont Bonification de prêts (Millions d’€) |
 |-------------------------------------------------------|--------------------------------------------|----------------------------------------|---------------------------------------------|------------------------------------------------------|----------------------------------|-------------------------------------------|
 | Amélioration des meules | 28,5 | 0,04 | 0,009 | 0,035 | 0,03 | 0,0 |
 | Cacaoculture à faibles émissions | 196 | 0,30 | 0,06 | 0,2 | 0,2 | 0,0 |
-| Implantation agroforesterie | 35000 | 53,35 | 10,67 | 42,7 | 42,7 | 0,0 |
-| Formation agriculteurs | 30000 | 45,73 | 9,15 | 36,6 | 36,6 | 0,0 |
-| Agro industrie / biocarburant | 87,5 | 0,13 | 0,03 | 0,1 | 0,1 | 0,0 |
-| Ménages (Foyers et gaz, solaire, centrales à,bois) | 2130 | 3,25 | 0,65 | 2,6 |  | 2,6 |
-| Tramway | 100 | 0,15 | 0,03 | 0,1 | 0,1 | 0,0 |
-| Mines | 2498 | 3,81 | 0,76 | 3,0 | 3,0 | 0,0 |
-| Autres industries / Electrification | 19600 | 29,88 | 5,98 | 23,9 |  | 23,9 |
-| Etudes préalables | 12000 | 18,29 | 3,66 | 14,6 |  | 14,6 |
-| Adaptation | 2720 | 4,15 | 0,83 | 3,3 |  | 3,3 |
-| Renforcement de capacité,des décideurs | 126000 | 192,07 | 38,41 | 153,7 |  | 153,7 |
-| Comité des investissements et de la bonne gouvernance | 106000 | 161,59 | 32,32 | 129,3 |  | 129,3 |
-| Total | 30790 | 46,94 | 9,39 | 37,5 | 37,5 | 0,0 |
-
-##### FINANCEMENTS de la STRATEGIE BAS-CARBONE 2015-2025 
+| Plantations en plein en savane | 35000 | 53,35 | 10,67 | 42,7 | 42,7 | 0,0 |
+| Implantation agroforesterie | 30000 | 45,73 | 9,15 | 36,6 | 36,6 | 0,0 |
+| Formation agriculteurs | 87,5 | 0,13 | 0,03 | 0,1 | 0,1 | 0,0 |
+| Agro industrie / biocarburant | 2130 | 3,25 | 0,65 | 2,6 |  | 2,6 |
+| Ménages (Foyers et gaz, solaire, centrales à,bois) | 100 | 0,15 | 0,03 | 0,1 | 0,1 | 0,0 |
+|  | 2498 | 3,81 | 0,76 | 3,0 | 3,0 | 0,0 |
+|  | 19600 | 29,88 | 5,98 | 23,9 |  | 23,9 |
+| Tramway | 12000 | 18,29 | 3,66 | 14,6 |  | 14,6 |
+| Mines | 2720 | 4,15 | 0,83 | 3,3 |  | 3,3 |
+| Autres industries / Electrification | 126000 | 192,07 | 38,41 | 153,7 |  | 153,7 |
+| Etudes préalables | 106000 | 161,59 | 32,32 | 129,3 |  | 129,3 |
+| Adaptation | 30790 | 46,94 | 9,39 | 37,5 | 37,5 | 0,0 |
+| Renforcement de capacité,des décideurs | 3400 | 5,18 | 1,04 | 4,1 | 4,1 | 0,0 |
+| Comité des investissements et de la bonne gouvernance | 500 | 0,76 | 0,15 | 0,6 | 0,6 | 0,0 |
+| Total | 371050 | 566 | 113 | 453 | 125 | 327 |
 
 Pendant les 5 premières années, ces fonds seraient mis à disposition du pays, sous le contrôle du comité précité, sous forme « START », sans conditionnalités et autres procédures de sauvegarde, du fait que les investissements concernés sont précisément des investissements environnementaux et sociaux à la fois. 
 

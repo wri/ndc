@@ -12,6 +12,7 @@ United Nations Framework Convention on Climate Change(hereinafter referred to
 as UNFCCC) to achieve the major milestone of this century - keeping the average
 global
 temperature rise below two degrees Celsius as compared to the pre-
+industrial period. In order to contribute to the prevention of dangerous climate
 change, the Republic of Belarus submits its intended nationally determined
 contribution to these efforts and undertakes by 2030 to reduce greenhousegas
 emissions by at least 28 per cent of the 1990 level, excluding emissions and

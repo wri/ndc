@@ -4,4 +4,4 @@ title: NDC
 ---
 
 
-![test](BFA-NDC-EN-MG.html)
+![test](ndc/BFA-NDC-EN-MG.html)

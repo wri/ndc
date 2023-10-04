@@ -1,8 +1,8 @@
 ## Climate Watch NDC full text
-This repository accompanies the [Climate Watch NDC module](https://www.climatewatchdata.org/ndcs-explore). Climate Watch Explore NDCs module provides structured indicator and full text of (Intended) Nationally Determined Contributions. 
+This repository accompanies the [Climate Watch NDC module](https://www.climatewatchdata.org/ndcs-explore). Climate Watch Explore NDCs module provides structured indicator and full text of Nationally Determined Contributions. 
 
 - [Explore NDC](https://www.climatewatchdata.org/ndcs-explore)
-- [2020 NDC Tracker](https://www.climatewatchdata.org/2020-ndc-tracker)
+- [NDC Enhancement Tracker](https://www.climatewatchdata.org/2020-ndc-tracker)
 - [NDC full text search](https://www.climatewatchdata.org/ndc-search)
 
 ## File naming convention
@@ -39,7 +39,7 @@ This repository accompanies the [Climate Watch NDC module](https://www.climatewa
 ## Links to official submissions
 
 - INDCs: UNFCCC. 2017. [INDCs as communicated by Parties](https://www4.unfccc.int/sites/submissions/INDC/Submission%20Pages/submissions.aspx).
-- NDCs: UNFCCC. 2021. [NDC Registry (interim)](http://www4.unfccc.int/ndcregistry/Pages/All.aspx).
+- NDCs: UNFCCC. 2021. [NDC Registry](https://unfccc.int/NDCREG).
 
 ## Licensing
 Climate Watch has an open data commitment and provides information free of constraints and restrictions on use.
@@ -53,7 +53,7 @@ Some data displayed on Climate Watch was developed by other organizations and ma
 You must not imply that Climate Watch, World Resources Institute, NDC Partnership or any other partner organizations endorse your use of the data.
 
 ### Citation of the Climate Watch platform and data:
-> Climate Watch. 2021. Washington, DC: World Resources Institute. Available online at: https://www.climatewatchdata.org.
+> Climate Watch. 2023. Washington, DC: World Resources Institute. Available online at: https://www.climatewatchdata.org.
 
 In addition to Climate Watch, please also cite original data sources when used. Please refer to the metadata information by clicking on the "i" button for each module for original data sources.
 

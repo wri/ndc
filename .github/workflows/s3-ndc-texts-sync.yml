@@ -1,16 +1,20 @@
 # Daily check: is this repo consistent with the S3 folder that climatewatch.org serves NDC texts from?
 #   s3://wri-sites/climatewatch.org/www.climatewatch.org/climate-watch/ndc_texts/
 #
-# It only READS from S3. If any file on S3 is new or different, it opens (or updates) ONE pull
-# request on branch "s3-sync" so you can review the diff before anything reaches master.
-# It never deletes files: anything that exists only in the repo is just listed in the PR description.
+# v2 - fast version. Instead of downloading the whole folder every day, it:
+#   1. fetches the S3 file LISTING only (name, size, ETag = content fingerprint) - a few seconds
+#   2. compares it with .github/s3-manifest.tsv (the listing as of the last merged sync)
+#   3. downloads only files that are new or whose size/ETag changed
+# ETag is S3's checksum of the file content, so a change is caught even if the size stays the same.
+#
+# It only READS from S3, never deletes repo files, and never pushes to master: changes go to ONE
+# pull request on branch "s3-sync" for review. Files only in the repo are listed in the PR description.
+# Windows line endings (CRLF) in downloaded .html files are converted to LF to match the repo,
+# so line-ending-only differences don't show up as changes.
 #
 # Setup (once), repo Settings:
 #   - Secrets and variables -> Actions -> Secrets: AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY
-#     (Variable AWS_REGION is optional, default us-east-1)
-#   - Actions -> General -> Workflow permissions: tick
-#     "Allow GitHub Actions to create and approve pull requests"
-#     (if it is greyed out, the WRI org admins have disabled it at org level)
+#   - Actions -> General -> Workflow permissions: "Allow GitHub Actions to create and approve pull requests"
 
 name: Sync NDC texts from S3
 
@@ -20,18 +24,21 @@ on:
   workflow_dispatch:        # "Run workflow" button on the Actions tab
 
 permissions:
-  contents: write           # push the s3-sync branch
-  pull-requests: write      # open / update the pull request
+  contents: write
+  pull-requests: write
 
 concurrency: s3-ndc-texts-sync
 
 env:
-  S3_FOLDER: s3://wri-sites/climatewatch.org/www.climatewatch.org/climate-watch/ndc_texts/
+  BUCKET: wri-sites
+  PREFIX: climatewatch.org/www.climatewatch.org/climate-watch/ndc_texts/
   BRANCH: s3-sync
+  MANIFEST: .github/s3-manifest.tsv
   AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
   AWS_DEFAULT_REGION: ${{ vars.AWS_REGION || 'us-east-1' }}
   GH_TOKEN: ${{ github.token }}
+  LC_ALL: C                  # same sort order everywhere, needed by 'comm'
 
 jobs:
   sync:
@@ -40,20 +47,32 @@ jobs:
       - name: Get the repo (default branch)
         uses: actions/checkout@v4
 
-      - name: Download the S3 folder over the repo files
+      - name: Get the current S3 listing (names, sizes, ETags only - no downloads)
         run: |
-          # --exact-timestamps: re-download any file whose timestamp differs, so same-size edits are not missed.
-          # Git then decides what really changed. No --delete: nothing in the repo is removed.
-          aws s3 sync "$S3_FOLDER" . --exact-timestamps --only-show-errors \
-            --exclude ".git/*" --exclude ".github/*" --exclude "README.md"
+          # one line per file: <path inside ndc_texts>  <size>  <etag>
+          aws s3api list-objects-v2 --bucket "$BUCKET" --prefix "$PREFIX" \
+            --query 'Contents[].[Key,Size,ETag]' --output text \
+            | sed "s#^$PREFIX##" | awk -F'\t' '$1 != "" && $1 !~ /\/$/' | sort > /tmp/s3_now.tsv
+          echo "Files on S3: $(wc -l < /tmp/s3_now.tsv)"
+          touch "$MANIFEST"   # first run: empty manifest -> everything counts as new
+
+      - name: Download only new or changed files
+        run: |
+          # lines in today's listing that are not identical in the saved manifest = new or changed
+          comm -23 /tmp/s3_now.tsv <(sort "$MANIFEST") | cut -f1 > /tmp/to_get.txt
+          echo "New or changed on S3: $(wc -l < /tmp/to_get.txt)"
+          while IFS= read -r f; do
+            mkdir -p "$(dirname "$f")"
+            aws s3 cp "s3://$BUCKET/$PREFIX$f" "$f" --only-show-errors
+            case "$f" in *.html) sed -i 's/\r$//' "$f" ;; esac     # CRLF -> LF
+          done < /tmp/to_get.txt
+          cp /tmp/s3_now.tsv "$MANIFEST"    # remember today's listing (merged together with the files)
 
       - name: List files that are only in the repo (not on S3)
         run: |
-          aws s3 ls "$S3_FOLDER" --recursive | awk '{ $1=$2=$3=""; sub(/^ +/,""); print }' \
-            | sed "s#^www.climatewatch.org/climate-watch/ndc_texts/##; s#^climatewatch.org/www.climatewatch.org/climate-watch/ndc_texts/##" \
-            | sort > /tmp/s3_files.txt
-          git ls-files | grep -vE '^(\.github/|README\.md$)' | sort > /tmp/repo_files.txt
-          comm -13 /tmp/s3_files.txt /tmp/repo_files.txt > /tmp/repo_only.txt
+          cut -f1 /tmp/s3_now.tsv | sort > /tmp/s3_names.txt
+          git ls-files | grep -vE '^(\.github/|README\.md$)' | sort > /tmp/repo_names.txt
+          comm -13 /tmp/s3_names.txt /tmp/repo_names.txt > /tmp/repo_only.txt
           echo "Files only in the repo: $(wc -l < /tmp/repo_only.txt)"
 
       - name: Open or update the pull request if anything differs
@@ -61,24 +80,24 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           git add -A
-          if git diff --cached --quiet; then
-            echo "Repo already matches S3. Nothing to do."
+          # ignore a run where only the manifest moved (e.g. S3 re-upload with identical content)
+          if git diff --cached --quiet -- . ":(exclude)$MANIFEST"; then
+            echo "Repo content already matches S3. Nothing to do."
             exit 0
           fi
-          added=$(git diff --cached --name-only --diff-filter=A | wc -l)
-          changed=$(git diff --cached --name-only --diff-filter=M | wc -l)
+          added=$(git diff --cached --name-only --diff-filter=A -- . ":(exclude)$MANIFEST" | wc -l)
+          changed=$(git diff --cached --name-only --diff-filter=M -- . ":(exclude)$MANIFEST" | wc -l)
           git checkout -B "$BRANCH"
-          git commit -m "Sync from S3 ndc_texts $(date -u +%Y-%m-%d): $added new, $changed changed"
-          git push --force origin "$BRANCH"     # the s3-sync branch is always rebuilt fresh from master + S3
+          git commit -q -m "Sync from S3 ndc_texts $(date -u +%Y-%m-%d): $added new, $changed changed"
+          git push -q --force origin "$BRANCH"     # rebuilt fresh from master + S3 each run
 
-          # PR description: what changed, plus files that exist only in the repo
           {
-            echo "Automatic sync from \`$S3_FOLDER\` ($(date -u +%Y-%m-%d))."
+            echo "Automatic sync from \`s3://$BUCKET/$PREFIX\` ($(date -u +%Y-%m-%d))."
             echo
-            echo "**$added new / $changed changed files from S3.** Review the diff, then merge."
+            echo "**$added new / $changed changed files from S3** (line endings normalised). Review the diff, then merge."
             echo
             echo "<details><summary>New or changed files</summary>"
-            echo; git diff --name-status HEAD~1 HEAD | sed 's/^/- /'; echo
+            echo; git diff --name-status HEAD~1 HEAD -- . ":(exclude)$MANIFEST" | sed 's/^/- /'; echo
             echo "</details>"
             echo
             echo "<details><summary>Files only in the repo, not on S3 ($(wc -l < /tmp/repo_only.txt)) - not touched</summary>"
@@ -88,7 +107,6 @@ jobs:
 
           if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
             gh pr edit "$BRANCH" --body-file /tmp/pr_body.md
-            echo "Updated the open pull request."
           else
             gh pr create --head "$BRANCH" --base "${{ github.event.repository.default_branch }}" \
               --title "Sync NDC texts from S3" --body-file /tmp/pr_body.md

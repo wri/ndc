@@ -1,0 +1,35 @@
+# Files the S3 sync leaves out for now (waiting for a decision). One path per line.
+# Remove a line to let that file come in with the next sync.
+ALB-third_ndc-EN.html
+ARE-second_ndc-EN.html
+AUS-revised_first_ndc-EN.html
+BEN-third_ndc-EN_TR.html
+BEN-third_ndc-FR.html
+BRA-revised_first_ndc-EN.html
+CAF-revised_first_ndc-EN_TR.html
+CAF-third_ndc-EN_TR.html
+CAF-third_ndc-FR.html
+DMA-revised_first_ndc-EN.html
+GAB-second_ndc-EN_TR.html
+GBR-revised_first_ndc-EN.html
+HTI-revised_first_ndc-EN_TR.html
+IDN-revised_first_ndc-EN.html
+MCO-revised_first_ndc-EN_TR.html
+MEX-third_ndc-EN_TR.html
+MEX-third_ndc-ES.html
+MOZ-revised_first_ndc-EN.html
+NER-revised_first_ndc-EN_TR.html
+NOR-revised_first_ndc-EN.html
+SGP-revised_first_ndc-EN.html
+SSD-second_ndc-EN.html
+THA-revised_first_ndc-EN.html
+TLS-third_ndc-EN.html
+UGA-revised_first_ndc-EN.html
+VNM-revised_first_ndc-EN.html
+img/TLS-NDC3-1.png
+img/TLS-NDC3-2.png
+img/TLS-NDC3-3.png
+img/TLS-NDC3-4.png
+img/VNM-NDC1-1.png
+img/VNM-NDC1-2.png
+img/VNM-NDC1-3.png

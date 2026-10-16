@@ -9,6 +9,7 @@
 #
 # It only READS from S3, never deletes repo files, and never pushes to master: changes go to ONE
 # pull request on branch "s3-sync" for review. Files only in the repo are listed in the PR description.
+# Files listed in .github/s3-hold.txt (one per line) are skipped until you remove them.
 # Windows line endings (CRLF) in downloaded .html files are converted to LF to match the repo,
 # so line-ending-only differences don't show up as changes.
 #
@@ -59,14 +60,23 @@ jobs:
       - name: Download only new or changed files
         run: |
           # lines in today's listing that are not identical in the saved manifest = new or changed
-          comm -23 /tmp/s3_now.tsv <(sort "$MANIFEST") | cut -f1 > /tmp/to_get.txt
-          echo "New or changed on S3: $(wc -l < /tmp/to_get.txt)"
+          comm -23 /tmp/s3_now.tsv <(sort "$MANIFEST") | cut -f1 > /tmp/changed.txt
+          # files listed in .github/s3-hold.txt are left out for now (e.g. waiting for a decision)
+          touch .github/s3-hold.txt
+          grep -vE '^\s*(#|$)' .github/s3-hold.txt | sort -u > /tmp/hold.txt || true
+          comm -23 <(sort /tmp/changed.txt) /tmp/hold.txt > /tmp/to_get.txt
+          comm -12 <(sort /tmp/changed.txt) /tmp/hold.txt > /tmp/held.txt
+          echo "New or changed on S3: $(wc -l < /tmp/changed.txt)  (held back: $(wc -l < /tmp/held.txt))"
           while IFS= read -r f; do
             mkdir -p "$(dirname "$f")"
             aws s3 cp "s3://$BUCKET/$PREFIX$f" "$f" --only-show-errors
             case "$f" in *.html) sed -i 's/\r$//' "$f" ;; esac     # CRLF -> LF
           done < /tmp/to_get.txt
-          cp /tmp/s3_now.tsv "$MANIFEST"    # remember today's listing (merged together with the files)
+          # remember today's listing, except held files keep their old entry so they still show as
+          # "changed" once you remove them from the hold list
+          { awk -F'\t' 'NR==FNR{h[$1]=1; next} !($1 in h)' /tmp/held.txt /tmp/s3_now.tsv
+            awk -F'\t' 'NR==FNR{h[$1]=1; next} ($1 in h)' /tmp/held.txt "$MANIFEST"; } | sort > /tmp/new_manifest.tsv
+          cp /tmp/new_manifest.tsv "$MANIFEST"
 
       - name: List files that are only in the repo (not on S3)
         run: |
@@ -98,6 +108,10 @@ jobs:
             echo
             echo "<details><summary>New or changed files</summary>"
             echo; git diff --name-status HEAD~1 HEAD -- . ":(exclude)$MANIFEST" | sed 's/^/- /'; echo
+            echo "</details>"
+            echo
+            echo "<details><summary>Held back by .github/s3-hold.txt ($(wc -l < /tmp/held.txt))</summary>"
+            echo; sed 's/^/- /' /tmp/held.txt; echo
             echo "</details>"
             echo
             echo "<details><summary>Files only in the repo, not on S3 ($(wc -l < /tmp/repo_only.txt)) - not touched</summary>"

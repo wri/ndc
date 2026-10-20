@@ -1,27 +1,20 @@
 # Files the S3 sync leaves out for now. One path per line.
 # Remove a line to let that file come in from S3 with the next sync.
-# Updated 2026-10-20:
-#  - ALB/BEN/CAF/MEX third + DMA released (keep S3 version)
-#  - ARE/AUS/BRA/GBR/IDN/NOR/SGP/THA/UGA/VNM released: S3 has the newer document; the older
-#    GitHub version is already kept as *-archived_* (AUS 2021 version saved as AUS-archived2_...)
+# Updated 2026-10-20 (Mengpin):
+#  - Released (S3 version comes in): ALB/BEN/CAF/MEX third, DMA, and ARE/AUS/BRA/GBR/IDN/NOR/SGP/THA/UGA/VNM
+#    (S3 = newer document; older GitHub version already kept as *-archived_*)
+#  - Released: CAF/GAB/HTI/NER *-EN_TR.html (rule: English translation of a non-English NDC = -EN_TR;
+#    the identical GitHub -EN copies moved to archive/)
+#  - Released: img/VNM-NDC1-1..3.png (used by the S3 VNM revised first NDC)
 
-# --- Keep GitHub version (upload the GitHub file to S3, then remove these lines) ---
+# --- Keep GitHub version: delete these 3 lines once the GitHub files are uploaded to S3 ---
 MCO-revised_first_ndc-EN_TR.html
 MOZ-revised_first_ndc-EN.html
 SSD-second_ndc-EN.html
 
-# --- Waiting for Chris: TLS line breaks ---
+# --- Waiting for Chris: TLS third (S3 html uses images 1-5, GitHub html uses 1-4; images go with the html) ---
 TLS-third_ndc-EN.html
 img/TLS-NDC3-1.png
 img/TLS-NDC3-2.png
 img/TLS-NDC3-3.png
 img/TLS-NDC3-4.png
-
-# --- Waiting for Chris: same NDC under a different name ---
-CAF-revised_first_ndc-EN_TR.html
-GAB-second_ndc-EN_TR.html
-HTI-revised_first_ndc-EN_TR.html
-NER-revised_first_ndc-EN_TR.html
-img/VNM-NDC1-1.png
-img/VNM-NDC1-2.png
-img/VNM-NDC1-3.png
